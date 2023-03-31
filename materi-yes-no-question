@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Materi Yes No Question - BELAJAR</title>
+    <meta name="description" content="Materi Yes No Question, , , , , , , 0, , , , , , 0, materi-yes-no-question, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Materi Yes No Question - BELAJAR" />
+    <meta property="og:description" content="Materi Yes No Question, , , , , , , 0, , , , , , 0, materi-yes-no-question, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Materi Yes No Question - BELAJAR" />
+    <meta name="twitter:description" content="Materi Yes No Question, , , , , , , 0, , , , , , 0, materi-yes-no-question, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Materi Yes No Question</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Ninamaulina</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Materi+Yes+No+Question" alt="Materi Yes No Question">
+                    </div>
+                    <p></p>
+                    <p>materi bahasa inggris tentang yes or no question. Tolong bantu jawab segera. Terima kasih</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#materi-bahasa-inggris-tentang-yes-or-no-question-tolong-bantu-jawab-segera-terima-kasih">1.
+                                            materi bahasa inggris tentang yes or no question. Tolong bantu jawab segera. Terima kasih</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mata-pelajaran-bhs-inggris-kls-viii-pertemuan-ix-materi-pokok-present-continuous-tensea-tujuan-pembelajaran-1-peserta-didik-mampu-membuat-kalimat-bertanya-dalam-bentuk-yesno-questions-de">2.
+                                            Mata Pelajaran : Bhs Inggris  Kls : VIII Pertemuan : IX Materi Pokok : Present Continuous TenseA .Tujuan Pembelajaran :  1.Peserta didik mampu membuat kalimat bertanya dalam bentuk Yes/No questions dengan menggunakan Present Continuous Tense. 2.Peserta didik mampu menjawab pertanyaan Yes/No questions yang digunakan didalam Present Continuous Tense. 3. Peserta didik mampu membuat kalimat negative [-] [kalimat menidakkan]B. Materi : Form Yes/No Question.[Bentuk kalimat tanya Yes/No question]TOBE+SUBJECT+VERB-ING+OBJECT[?]TOBE [ IS,AM,ARE]Is he?, Is she? ,Is It.?+ Verb- IngAm I? + Verb -Ing . Are you?, Are we?, Are they?+ Verb- Ing.Example: Question : Is she studying for the English test? Answer : No, she is not. [jawaban yes/ no question] atau dalam bhs Indonesia jawaban pendek [singkat]. She is studying for the Math test [ ini jawaban Panjang]Contoh berikut: They are playing football in the yard.[+]Question : Are they playing football in the yard?Answer : Yes, they are.. No, they are not [ jika tidak]C.Lembar kerja peserta didik/ Penugasan.I Complete the following sentences with the correct words.Examples :1. Is it raining outside? No, it is not.2. Are the children playing outside?Yes, they are.1.-----------you doing your homework now? Yes, I…………2…………….he helping his parents? No, he………………3…………….they friends watching TV? Yes, they…………..4……………….they looking at the mountain? Yes, they…………….5……………….I hurting you? No, you………………………….6……………..She waving to us? No,she…………………..II Make the following sentences in to negative sentences [-]Example : We are cooking our dinner [+] Answer : We are not cooking our dinner[-]1.He is playing the guitar[+]Answer :………………………………………..[-]2.I am going home now [+]Answer :…………………………………………[-]3.They are drinking tea [+]Answer :…………………………………………[-]4.She is washing the dishes [+]Answer :…………………………………………[-]5.I am looking for my dictionary[+]Answer :…………………………………………[-]​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kd-3-6-tujuan-perbelajaran-1-mengetahui-kosa-kata-bahasa-inggris-yang-berkaitan-dewan-shapes-2-menganalisis-soal-tentang-shapes-materi-pokok-square-kotak-segi-empat-1-rectangle-persegi-panjan">3.
+                                            KD 3.6 Tujuan perbelajaran: 1. Mengetahui kosa kata Bahasa Inggris yang berkaitan dewan Shapes 2. Menganalisis soal tentang Shapes. Materi Pokok: Square : Kotak segi empat 1. Rectangle: persegi panjang 2 Oval: bujur telur 3 Circle : lingkaran O Star : Bintang 5. Semicircle : setengah lingkaran 6. ☆ O A Triangle : segi tiga 7. Formula: Question: 1. What shapes is it? (bentuk apakah ini? Responses: it is a/an (ini adalah .........) Yes, it is (ya) No, it is not (tidak) 2. Is it (apakah ini bentuk .......) ... 3. What shape is the (apakah bentuknya?) It is (bentuknya ....) Evaluasi: 1. donec A: is it an oval? B: no, it is A: what shapes is it? B: it is 2. () . A: is it a triangle? B: no, it A: what shape is it? B: it 3. D A: it is a pentagon? B: A: what shape is it?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yg-bisa-tolong-bantuin-we-use-the-present-continuous-amisare-ing-to-talk-about-temporary-things-which-have-begun-but-havent-finished-they-are-often-happening-now-at-this-moment-shopie-h">4.
+                                            Yg bisa tolong bantuin...:)We use the present continuous (am/is/are + -ing) to talk about temporary things which have begun but haven't finished. They are often happening now, at this moment.SHOPIE: Here are some examples of things happening now.I'm just uploading some photos to Facebook and I'm sending a message to Billie.We're all riding camels and the sun's shining.They're waiting for me to get off the phone!HIDAYAH : I'm not sure what 'temporary' means. Can I say 'I'm learning to drive', even if I'm not having a driving lesson right now?SHOPIE : Yes, absolutely! You might not be having a driving lesson right at this moment, but it is temporary, so that's correct. We use the present continuous for longer situations like this too.HIDAYAH : OK, I see what you mean. So that’s for things happening now, or round about now. What about the future? Can I use the present continuous for the future?SHOPIE : Yes, I’m glad you asked me that. We use the present continuous for future arrangements with other people.At eight I’m meeting Lucas, just for a quick coffee.HIDAYAH : What about questions and negatives?SHOPIE : For questions you just change the subject and the verb to be. So, You are &gt; Are you, then add the –ing form. Sometimes you need a question word first.Are you working hard for the exam?What are you doing?Is anybody sitting here?_____________________________SHOPIE : For negatives you add not after the verb to be. Don't forget to use a contraction if you're speaking.You're not really studying at all, are you? (or You aren't really studying…)They aren't using the computer room at the moment.This program isn't working.HIDAYAH : That's fine, but I suppose there are some spelling rules for –ing forms?SHOPIE : Yes, you're right. If a verb ends in e, you take off the e and add –ing.have - having ride - ridingIf a verb ends in a vowel + a consonant, the consonant is usually doubledbefore you add –ing.swim - swimming run - runningBut be careful with verbs with more than two syllables where the stress isn't on the last syllable. With those you don't double the consonant.visit - visiting open - openingHIDAYAH : OK, but what about two-syllable verbs where the stress is on the last syllable, like begin?SHOPIE : If the stress is on the last syllable, you do double the final consonant.begin - beginningHIDAYAH : Right, the present continuous seems quite easy to me. I'm understanding it perfectly!SHOPIE: Whoops! Sorry, you can't say 'I'm understanding it'.HIDAYAH : Why not? I'm talking about something happening right now.SHOPIE : Yes, but there is a group of verbs which are called state verbs which we use for states (not actions) and we don't usually use these in the continuous form.____________________________SHOPIE : want - need - like - love - hate - prefer - believe - think - know - realise -understand - recognise - suppose - be - exist - appear - look - seem - belong - have (for possession) - own - feel - smell - tasteHIDAYAH: So these are verbs for talking about emotions, thinking, existing, appearing, possession and the senses.SHOPIE : Yes, excellent.HIDAYAH : But wait a minute. What about, 'I'm thinking of coming with you tomorrow.' Or, 'I'm thinking about my boyfriend.'SHOPIE: Yes, they are correct. But the meaning of think there is 'having thoughts in your mind' or 'considering'. It's not the same as 'having an opinion' about something.I think that song's brilliant. (opinion)She's thinking about studying archaeology. (considering / wondering about)HIDAYAH : OK, so there are some exceptions. Like, 'I'm loving it.'SHOPIE: No, sorry, that's not an exception, that's wrong!HIDAYAH : It can’t be wrong!SHOPIE : Well, OK, maybe it's a new usage. English does change. But don't use it in exams!Tugas : baca materi kemudian buat rangkuman dan tulis kembali contoh contoh kalimat present continuous tense minimal 10 kalimat​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bandung-2nd-september-2014we-are-honored-to-invite-you-to-attend-our-10th-wedding-anniversary-atplace-ballroom-hotel-savoy-homandate-sunday-september-6th-2014dress-code-party-dress-for-ladies">5.
+                                            Bandung, 2nd September 2014We are honored to invite you to attend our 10th wedding anniversary at:Place : Ballroom Hotel Savoy HomanDate : Sunday, September 6th 2014Dress code : party dress for ladies, tuxedo for gentlemenIt is a great expectation for us to have you as our guests.Sincerely Yours,Ronny and AstriSoal 1Question: What kind of invitation is the text above?Pilih jawabanmu.1Wedding party invitation2Garden party3Graduation party4Birthday party invitation5Wedding anniversary partyQuestion number 1 to 3 is based on the following invitation.Bandung, 2nd September 2014We are honored to invite you to attend our 10th wedding anniversary at:Place : Ballroom Hotel Savoy HomanDate : Sunday, September 6th 2014Dress code : party dress for ladies, tuxedo for gentlemenIt is a great expectation for us to have you as our guests.Sincerely Yours,Ronny and AstriSoal 2Question: Where will be the party held?Pilih jawabanmu.1In a restaurant 2At school 3In the hotel 4In the house 5In the garden Materi  SoalLampiranQuestion number 1 to 3 is based on the following invitation.Bandung, 2nd September 2014We are honored to invite you to attend our 10th wedding anniversary at:Place : Ballroom Hotel Savoy HomanDate : Sunday, September 6th 2014Dress code : party dress for ladies, tuxedo for gentlemenIt is a great expectation for us to have you as our guests.Sincerely Yours,Ronny and AstriBasketball Player Tryout!Friday 5th September 2014, 14.00 pmBasketball field, sports outfitAll students are welcomed.Show your best move!Soal 4Question: What does the announcement about?Pilih jawabanmu.1A party for basketball players2A tryout to become basketball player3Basketball match4Sports session in basketball field5A basketball training1235678910•	 Materi  SoalLampiranQuestion number 4 to 7 is based on the following school announcement.Basketball Player Tryout!Friday 5th September 2014, 14.00 pmBasketball field, sports outfitAll students are welcomed.Show your best move!Soal 5Question: Who can join the tryout?Pilih jawabanmu.1Only 12th grader    2Only 11th grader     3The basketball players4All students     5Only 10th graderQuestion number 4 to 7 is based on the following school announcement.Basketball Player Tryout!Friday 5th September 2014, 14.00 pmBasketball field, sports outfitAll students are welcomed.Show your best move!Soal 6Question: The students who would like to join the tryout must wear …Pilih jawabanmu.1Swimsuit                2T-shirt              3Students’ uniform                                                     4Sports costume                     5TrousersSoal 7Question: What does “show your best move” mean?Pilih jawabanmu.1Students who tryout must put some show     2Students who tryout must dance      3Students who tryout must move around     4Students who tryout must be best students       5Students who tryout must have good skill in playing basketball Materi  SoalLampiranQuestion number 8 to 9 is based on the following tips.Sonia : Hey, do you have plan for Saturday night?Freddy : No, why?Sonia : I have two tickets for the Java Jazz Festival in Sabuga, do you want to come?Freddy : Wow, that’s fantastic! I would be crazy if I say no.Soal 8Question: What is Sonia’s plan for Saturday night?Pilih jawabanmu.1To go to a concert      2Not to do anything      3To stay at home           4To go with Freddy     5To study Materi  SoalLampiranQuestion number 8 to 9 is based on the following tips.Sonia : Hey, do you have plan for Saturday night?Freddy : No, why?Sonia : I have two tickets for the Java Jazz Festival in Sabuga, do you want to come?Freddy : Wow, that’s fantastic! I would be crazy if I say no.Soal 9Question: What does the phrase “I would be crazy if I say no” mean?Pilih jawabanmu.1It means no     2It means yes       3Not a chance                                           4It has possibility                5It means maybe1234567810InvitationInvitation - Invitation•   Beranda•	 33,200•	 Materi  SoalLampiranQuestion 10Daniel : Hey, can I ask you something?Ophelia: Yeah, sure.Daniel : I will have my birthday party next Sunday. Can you come?Ophelia: Well, I’m afraid I will be out of town on that day.Soal 10Question: What phrase showed us that Ophelia decline Daniel’s invitation?Pilih jawabanmu.1Well,        2On that day              3I will be out of town                                    4Yeah, sure               5I’m afraid123456789​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tugasipelajari-materi-chapter-1-buku-paket-lengkapi-dialog-menggunakan-ungkapan-tentang1-to-get-attention2-to-check-if-we-are-understood3-to-show-appreciation4-to-tell-what-we-or-other-people-thi">6.
+                                            TUGASIPelajari materi chapter 1 buku paket. Lengkapi dialog menggunakan ungkapan tentang1. To get attention2. To check if we are understood3. To show appreciation4. To tell what we or other people think of somethingComplete the following dialogues!LA: Everybody, .... please?B: Yes, Ma'am2. A: From now on we will use English in our English class. OK? We will use English inour English classSiti,B: We will use English in our English class.3 A Sir ?B: Sure, please go to toilet!4. A: ... of your table mate?B: She is smart, polite, and friendly Ma'am.SA..?B: The story is very interesting6. A: Do you understand my question?B: ... Ma'am. May you repeat once again?7. A. The class is not too clean. ... soo?B: No, I think it is clean.8. A: What do you think of our school?Bin9. A Guys, I think Rina will like this notebook.B Rina doesn't like bright colour.10.A: ....?B: Yes, My teacher said that we must use mask every time we want to go out.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#we-use-the-present-continuous-amisare-ing-to-talk-about-temporary-things-which%c2%a0have-begun-but-havent-finished-they-are-often-happening-now-at-this-moment-shopie-here-are-some-examples">7.
+                                            We use the present continuous (am/is/are + -ing) to talk about temporary things which have begun but haven't finished. They are often happening now, at this moment.SHOPIE: Here are some examples of things happening now.I'm just uploading some photos to Facebook and I'm sending a message to Billie.We're all riding camels and the sun's shining.They're waiting for me to get off the phone!HIDAYAH : I'm not sure what 'temporary' means. Can I say 'I'm learning to drive', even if I'm not having a driving lesson right now?SHOPIE : Yes, absolutely! You might not be having a driving lesson right at this moment, but it is temporary, so that's correct. We use the present continuous for longer situations like this too.HIDAYAH : OK, I see what you mean. So that’s for things happening now, or round about now. What about the future? Can I use the present continuous for the future?SHOPIE : Yes, I’m glad you asked me that. We use the present continuous for future arrangements with other people.At eight I’m meeting Lucas, just for a quick coffee.HIDAYAH : What about questions and negatives?SHOPIE : For questions you just change the subject and the verb to be. So, You are &gt; Are you, then add the –ing form. Sometimes you need a question word first.Are you working hard for the exam?What are you doing?Is anybody sitting here?_____________________________SHOPIE : For negatives you add not after the verb to be. Don't forget to use a contraction if you're speaking.You're not really studying at all, are you? (or You aren't really studying…)They aren't using the computer room at the moment.This program isn't working.HIDAYAH : That's fine, but I suppose there are some spelling rules for –ing forms?SHOPIE : Yes, you're right. If a verb ends in e, you take off the e and add –ing.have - having ride - ridingIf a verb ends in a vowel + a consonant, the consonant is usually doubledbefore you add –ing.swim - swimming run - runningBut be careful with verbs with more than two syllables where the stress isn't on the last syllable. With those you don't double the consonant.visit - visiting open - openingHIDAYAH : OK, but what about two-syllable verbs where the stress is on the last syllable, like begin?SHOPIE : If the stress is on the last syllable, you do double the final consonant.begin - beginningHIDAYAH : Right, the present continuous seems quite easy to me. I'm understanding it perfectly!SHOPIE: Whoops! Sorry, you can't say 'I'm understanding it'.HIDAYAH : Why not? I'm talking about something happening right now.SHOPIE : Yes, but there is a group of verbs which are called state verbs which we use for states (not actions) and we don't usually use these in the continuous form.____________________________SHOPIE : want - need - like - love - hate - prefer - believe - think - know - realise -understand - recognise - suppose - be - exist - appear - look - seem - belong - have (for possession) - own - feel - smell - tasteHIDAYAH: So these are verbs for talking about emotions, thinking, existing, appearing, possession and the senses.SHOPIE : Yes, excellent.HIDAYAH : But wait a minute. What about, 'I'm thinking of coming with you tomorrow.' Or, 'I'm thinking about my boyfriend.'SHOPIE: Yes, they are correct. But the meaning of think there is 'having thoughts in your mind' or 'considering'. It's not the same as 'having an opinion' about something.I think that song's brilliant. (opinion)She's thinking about studying archaeology. (considering / wondering about)HIDAYAH : OK, so there are some exceptions. Like, 'I'm loving it.'SHOPIE: No, sorry, that's not an exception, that's wrong!HIDAYAH : It can’t be wrong!SHOPIE : Well, OK, maybe it's a new usage. English does change. But don't use it in exams!Tugas : baca materi kemudian buat rangkuman dan tulis kembali contoh contoh kalimat present continuous tense minimal 10 kalimatYg bisa tolong bantuin,,:)​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="materi-bahasa-inggris-tentang-yes-or-no-question-tolong-bantu-jawab-segera-terima-kasih">
+                            1. materi bahasa inggris tentang yes or no question. Tolong bantu jawab segera. Terima kasih</h2><br />
+                        yes/no question adl pertanyaan yg menggunakan aux verb sbg kata tanya dan hny membutuhkan jawaban ya atau tdk. aturan dlm yes/no adalah: aux verb mengikuti tense yg ada. contoh pd nominal present tense: are you a student? yes, i am./no, i am not. verbal present tense: does he read newspaper every morning? yes, he does./no, he doesn't. past tense: did you bring my book yesterday? yes, i did./no, i didn't.Yes or no question mean question that need the answer yes or no.<br />we have to use auxilaries verb infront of Subject as well as Tense .<br />examples :<br />-Do I study english everyday?yes,You do/No,you do not<br />-Does he speak german every other day?yes, he does/No,he does not<br />-Will you have to work tonigh?Yes, I will/No,I will not<br />-Are you tired yerterday?Yes, I am/No,I am Not<br />-Was he doing his homework last night?yes, he was/No,he was not<br />-Is there going tobe an important game tonight? yes, there is/No,there is  not<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="mata-pelajaran-bhs-inggris-kls-viii-pertemuan-ix-materi-pokok-present-continuous-tensea-tujuan-pembelajaran-1-peserta-didik-mampu-membuat-kalimat-bertanya-dalam-bentuk-yesno-questions-de">
+                            2. Mata Pelajaran : Bhs Inggris  Kls : VIII Pertemuan : IX Materi Pokok : Present Continuous TenseA .Tujuan Pembelajaran :  1.Peserta didik mampu membuat kalimat bertanya dalam bentuk Yes/No questions dengan menggunakan Present Continuous Tense. 2.Peserta didik mampu menjawab pertanyaan Yes/No questions yang digunakan didalam Present Continuous Tense. 3. Peserta didik mampu membuat kalimat negative [-] [kalimat menidakkan]B. Materi : Form Yes/No Question.[Bentuk kalimat tanya Yes/No question]TOBE+SUBJECT+VERB-ING+OBJECT[?]TOBE [ IS,AM,ARE]Is he?, Is she? ,Is It.?+ Verb- IngAm I? + Verb -Ing . Are you?, Are we?, Are they?+ Verb- Ing.Example: Question : Is she studying for the English test? Answer : No, she is not. [jawaban yes/ no question] atau dalam bhs Indonesia jawaban pendek [singkat]. She is studying for the Math test [ ini jawaban Panjang]Contoh berikut: They are playing football in the yard.[+]Question : Are they playing football in the yard?Answer : Yes, they are.. No, they are not [ jika tidak]C.Lembar kerja peserta didik/ Penugasan.I Complete the following sentences with the correct words.Examples :1. Is it raining outside? No, it is not.2. Are the children playing outside?Yes, they are.1.-----------you doing your homework now? Yes, I…………2…………….he helping his parents? No, he………………3…………….they friends watching TV? Yes, they…………..4……………….they looking at the mountain? Yes, they…………….5……………….I hurting you? No, you………………………….6……………..She waving to us? No,she…………………..II Make the following sentences in to negative sentences [-]Example : We are cooking our dinner [+] Answer : We are not cooking our dinner[-]1.He is playing the guitar[+]Answer :………………………………………..[-]2.I am going home now [+]Answer :…………………………………………[-]3.They are drinking tea [+]Answer :…………………………………………[-]4.She is washing the dishes [+]Answer :…………………………………………[-]5.I am looking for my dictionary[+]Answer :…………………………………………[-]​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1<strong> </strong><strong>Are</strong> you doing your homework now? Yes, I <strong>am</strong></p><p></p><p>2 <strong>Is</strong> he helping his parents? No, he <strong>is not</strong></p><p></p><p>3 <strong>Are</strong> they friends watching TV? Yes, they <strong>are</strong></p><p></p><p>4 <strong>Are</strong> they looking at the mountain? Yes, they <strong>are</strong></p><p></p><p>5 <strong>Am</strong> I hurting you? No, you <strong>are</strong> <strong>not</strong></p><p></p><p>6 <strong>Is</strong> she waving to us? No,she <strong>is not</strong></p><p></p><p></p><p></p><p>1.He is playing the guitar[+]</p><p></p><p>Answer : He is not playing the guitar [-]</p><p></p><p>2.I am going home now [+]</p><p></p><p>Answer : I am not going home now [-]</p><p></p><p>3.They are drinking tea [+]</p><p></p><p>Answer : They are not drinking tea [-]</p><p></p><p>4.She is washing the dishes [+]</p><p></p><p>Answer : She is not washing the dishes [-]</p><p></p><p>5.I am looking for my dictionary [+]</p><p></p><p>Answer : I am not looking for my dictionary [-]</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kd-3-6-tujuan-perbelajaran-1-mengetahui-kosa-kata-bahasa-inggris-yang-berkaitan-dewan-shapes-2-menganalisis-soal-tentang-shapes-materi-pokok-square-kotak-segi-empat-1-rectangle-persegi-panjan">
+                            3. KD 3.6 Tujuan perbelajaran: 1. Mengetahui kosa kata Bahasa Inggris yang berkaitan dewan Shapes 2. Menganalisis soal tentang Shapes. Materi Pokok: Square : Kotak segi empat 1. Rectangle: persegi panjang 2 Oval: bujur telur 3 Circle : lingkaran O Star : Bintang 5. Semicircle : setengah lingkaran 6. ☆ O A Triangle : segi tiga 7. Formula: Question: 1. What shapes is it? (bentuk apakah ini? Responses: it is a/an (ini adalah .........) Yes, it is (ya) No, it is not (tidak) 2. Is it (apakah ini bentuk .......) ... 3. What shape is the (apakah bentuknya?) It is (bentuknya ....) Evaluasi: 1. donec A: is it an oval? B: no, it is A: what shapes is it? B: it is 2. () . A: is it a triangle? B: no, it A: what shape is it? B: it 3. D A: it is a pentagon? B: A: what shape is it?​</h2><br />
+                        <p><strong>Pertanyaannya sedikit membingungkan dan kurang jelas, mungkin bisa di lebih dijelaskan :)</strong></p><br />
+                                            <h2 class="ez-toc-section" id="yg-bisa-tolong-bantuin-we-use-the-present-continuous-amisare-ing-to-talk-about-temporary-things-which-have-begun-but-havent-finished-they-are-often-happening-now-at-this-moment-shopie-h">
+                            4. Yg bisa tolong bantuin...:)We use the present continuous (am/is/are + -ing) to talk about temporary things which have begun but haven't finished. They are often happening now, at this moment.SHOPIE: Here are some examples of things happening now.I'm just uploading some photos to Facebook and I'm sending a message to Billie.We're all riding camels and the sun's shining.They're waiting for me to get off the phone!HIDAYAH : I'm not sure what 'temporary' means. Can I say 'I'm learning to drive', even if I'm not having a driving lesson right now?SHOPIE : Yes, absolutely! You might not be having a driving lesson right at this moment, but it is temporary, so that's correct. We use the present continuous for longer situations like this too.HIDAYAH : OK, I see what you mean. So that’s for things happening now, or round about now. What about the future? Can I use the present continuous for the future?SHOPIE : Yes, I’m glad you asked me that. We use the present continuous for future arrangements with other people.At eight I’m meeting Lucas, just for a quick coffee.HIDAYAH : What about questions and negatives?SHOPIE : For questions you just change the subject and the verb to be. So, You are &gt; Are you, then add the –ing form. Sometimes you need a question word first.Are you working hard for the exam?What are you doing?Is anybody sitting here?_____________________________SHOPIE : For negatives you add not after the verb to be. Don't forget to use a contraction if you're speaking.You're not really studying at all, are you? (or You aren't really studying…)They aren't using the computer room at the moment.This program isn't working.HIDAYAH : That's fine, but I suppose there are some spelling rules for –ing forms?SHOPIE : Yes, you're right. If a verb ends in e, you take off the e and add –ing.have - having ride - ridingIf a verb ends in a vowel + a consonant, the consonant is usually doubledbefore you add –ing.swim - swimming run - runningBut be careful with verbs with more than two syllables where the stress isn't on the last syllable. With those you don't double the consonant.visit - visiting open - openingHIDAYAH : OK, but what about two-syllable verbs where the stress is on the last syllable, like begin?SHOPIE : If the stress is on the last syllable, you do double the final consonant.begin - beginningHIDAYAH : Right, the present continuous seems quite easy to me. I'm understanding it perfectly!SHOPIE: Whoops! Sorry, you can't say 'I'm understanding it'.HIDAYAH : Why not? I'm talking about something happening right now.SHOPIE : Yes, but there is a group of verbs which are called state verbs which we use for states (not actions) and we don't usually use these in the continuous form.____________________________SHOPIE : want - need - like - love - hate - prefer - believe - think - know - realise -understand - recognise - suppose - be - exist - appear - look - seem - belong - have (for possession) - own - feel - smell - tasteHIDAYAH: So these are verbs for talking about emotions, thinking, existing, appearing, possession and the senses.SHOPIE : Yes, excellent.HIDAYAH : But wait a minute. What about, 'I'm thinking of coming with you tomorrow.' Or, 'I'm thinking about my boyfriend.'SHOPIE: Yes, they are correct. But the meaning of think there is 'having thoughts in your mind' or 'considering'. It's not the same as 'having an opinion' about something.I think that song's brilliant. (opinion)She's thinking about studying archaeology. (considering / wondering about)HIDAYAH : OK, so there are some exceptions. Like, 'I'm loving it.'SHOPIE: No, sorry, that's not an exception, that's wrong!HIDAYAH : It can’t be wrong!SHOPIE : Well, OK, maybe it's a new usage. English does change. But don't use it in exams!Tugas : baca materi kemudian buat rangkuman dan tulis kembali contoh contoh kalimat present continuous tense minimal 10 kalimat​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Rangkuman</strong></p><p>We use the present continuous (am/is/are + -ing) to talk about temporary things which </p><p>have begun but haven't finished that often happening now, at this moment.</p><p></p><p>We use the present continuous for future </p><p>arrangements with other people.</p><p></p><p>For negatives you add not after the verb to be.</p><p>For questions you just change the subject and the verb to be.</p><p></p><p>If a verb ends in e, you take off the e and add –ing.</p><p>If the stress is on the last syllable, you do double the final consonant.</p><p></p><p>There is a group of verbs which are called state verbs which we use </p><p>for states (not actions) and we don't usually use these in the continuous form.</p><p></p><p><strong>kalimat present continuous tense minimal 10 kalimat</strong></p>We're all riding camels and the sun's shining.They're waiting for me to get off the phone!I'm not having a driving lesson right now?At eight I’m meeting Lucas, just for a quick coffee.Are you working hard for the exam?They aren't using the computer room at the moment.She's thinking about studying archaeology.This program isn't working.You aren't really studyingWhat are you doing?<p></p><p></p><p>Semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bandung-2nd-september-2014we-are-honored-to-invite-you-to-attend-our-10th-wedding-anniversary-atplace-ballroom-hotel-savoy-homandate-sunday-september-6th-2014dress-code-party-dress-for-ladies">
+                            5. Bandung, 2nd September 2014We are honored to invite you to attend our 10th wedding anniversary at:Place : Ballroom Hotel Savoy HomanDate : Sunday, September 6th 2014Dress code : party dress for ladies, tuxedo for gentlemenIt is a great expectation for us to have you as our guests.Sincerely Yours,Ronny and AstriSoal 1Question: What kind of invitation is the text above?Pilih jawabanmu.1Wedding party invitation2Garden party3Graduation party4Birthday party invitation5Wedding anniversary partyQuestion number 1 to 3 is based on the following invitation.Bandung, 2nd September 2014We are honored to invite you to attend our 10th wedding anniversary at:Place : Ballroom Hotel Savoy HomanDate : Sunday, September 6th 2014Dress code : party dress for ladies, tuxedo for gentlemenIt is a great expectation for us to have you as our guests.Sincerely Yours,Ronny and AstriSoal 2Question: Where will be the party held?Pilih jawabanmu.1In a restaurant 2At school 3In the hotel 4In the house 5In the garden Materi  SoalLampiranQuestion number 1 to 3 is based on the following invitation.Bandung, 2nd September 2014We are honored to invite you to attend our 10th wedding anniversary at:Place : Ballroom Hotel Savoy HomanDate : Sunday, September 6th 2014Dress code : party dress for ladies, tuxedo for gentlemenIt is a great expectation for us to have you as our guests.Sincerely Yours,Ronny and AstriBasketball Player Tryout!Friday 5th September 2014, 14.00 pmBasketball field, sports outfitAll students are welcomed.Show your best move!Soal 4Question: What does the announcement about?Pilih jawabanmu.1A party for basketball players2A tryout to become basketball player3Basketball match4Sports session in basketball field5A basketball training1235678910•	 Materi  SoalLampiranQuestion number 4 to 7 is based on the following school announcement.Basketball Player Tryout!Friday 5th September 2014, 14.00 pmBasketball field, sports outfitAll students are welcomed.Show your best move!Soal 5Question: Who can join the tryout?Pilih jawabanmu.1Only 12th grader    2Only 11th grader     3The basketball players4All students     5Only 10th graderQuestion number 4 to 7 is based on the following school announcement.Basketball Player Tryout!Friday 5th September 2014, 14.00 pmBasketball field, sports outfitAll students are welcomed.Show your best move!Soal 6Question: The students who would like to join the tryout must wear …Pilih jawabanmu.1Swimsuit                2T-shirt              3Students’ uniform                                                     4Sports costume                     5TrousersSoal 7Question: What does “show your best move” mean?Pilih jawabanmu.1Students who tryout must put some show     2Students who tryout must dance      3Students who tryout must move around     4Students who tryout must be best students       5Students who tryout must have good skill in playing basketball Materi  SoalLampiranQuestion number 8 to 9 is based on the following tips.Sonia : Hey, do you have plan for Saturday night?Freddy : No, why?Sonia : I have two tickets for the Java Jazz Festival in Sabuga, do you want to come?Freddy : Wow, that’s fantastic! I would be crazy if I say no.Soal 8Question: What is Sonia’s plan for Saturday night?Pilih jawabanmu.1To go to a concert      2Not to do anything      3To stay at home           4To go with Freddy     5To study Materi  SoalLampiranQuestion number 8 to 9 is based on the following tips.Sonia : Hey, do you have plan for Saturday night?Freddy : No, why?Sonia : I have two tickets for the Java Jazz Festival in Sabuga, do you want to come?Freddy : Wow, that’s fantastic! I would be crazy if I say no.Soal 9Question: What does the phrase “I would be crazy if I say no” mean?Pilih jawabanmu.1It means no     2It means yes       3Not a chance                                           4It has possibility                5It means maybe1234567810InvitationInvitation - Invitation•   Beranda•	 33,200•	 Materi  SoalLampiranQuestion 10Daniel : Hey, can I ask you something?Ophelia: Yeah, sure.Daniel : I will have my birthday party next Sunday. Can you come?Ophelia: Well, I’m afraid I will be out of town on that day.Soal 10Question: What phrase showed us that Ophelia decline Daniel’s invitation?Pilih jawabanmu.1Well,        2On that day              3I will be out of town                                    4Yeah, sure               5I’m afraid123456789​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Wedding anniversary party </p><p>2. In a hotel</p><p>4. Tryout to become a basketball player</p><p>5. All students </p><p>6. Sports costume</p><p>7.Students who tryout must have good skill in playing basketball</p><p>8.Go to a concert</p><p>9.It means yes</p><p>10.I will be out of town</p><p></p><p>My apologies if its wrong</p><br />
+                                            <h2 class="ez-toc-section" id="tugasipelajari-materi-chapter-1-buku-paket-lengkapi-dialog-menggunakan-ungkapan-tentang1-to-get-attention2-to-check-if-we-are-understood3-to-show-appreciation4-to-tell-what-we-or-other-people-thi">
+                            6. TUGASIPelajari materi chapter 1 buku paket. Lengkapi dialog menggunakan ungkapan tentang1. To get attention2. To check if we are understood3. To show appreciation4. To tell what we or other people think of somethingComplete the following dialogues!LA: Everybody, .... please?B: Yes, Ma'am2. A: From now on we will use English in our English class. OK? We will use English inour English classSiti,B: We will use English in our English class.3 A Sir ?B: Sure, please go to toilet!4. A: ... of your table mate?B: She is smart, polite, and friendly Ma'am.SA..?B: The story is very interesting6. A: Do you understand my question?B: ... Ma'am. May you repeat once again?7. A. The class is not too clean. ... soo?B: No, I think it is clean.8. A: What do you think of our school?Bin9. A Guys, I think Rina will like this notebook.B Rina doesn't like bright colour.10.A: ....?B: Yes, My teacher said that we must use mask every time we want to go out.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yang diatas 1</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah salam ikan buntal</p><br />
+                                            <h2 class="ez-toc-section" id="we-use-the-present-continuous-amisare-ing-to-talk-about-temporary-things-which%c2%a0have-begun-but-havent-finished-they-are-often-happening-now-at-this-moment-shopie-here-are-some-examples">
+                            7. We use the present continuous (am/is/are + -ing) to talk about temporary things which have begun but haven't finished. They are often happening now, at this moment.SHOPIE: Here are some examples of things happening now.I'm just uploading some photos to Facebook and I'm sending a message to Billie.We're all riding camels and the sun's shining.They're waiting for me to get off the phone!HIDAYAH : I'm not sure what 'temporary' means. Can I say 'I'm learning to drive', even if I'm not having a driving lesson right now?SHOPIE : Yes, absolutely! You might not be having a driving lesson right at this moment, but it is temporary, so that's correct. We use the present continuous for longer situations like this too.HIDAYAH : OK, I see what you mean. So that’s for things happening now, or round about now. What about the future? Can I use the present continuous for the future?SHOPIE : Yes, I’m glad you asked me that. We use the present continuous for future arrangements with other people.At eight I’m meeting Lucas, just for a quick coffee.HIDAYAH : What about questions and negatives?SHOPIE : For questions you just change the subject and the verb to be. So, You are &gt; Are you, then add the –ing form. Sometimes you need a question word first.Are you working hard for the exam?What are you doing?Is anybody sitting here?_____________________________SHOPIE : For negatives you add not after the verb to be. Don't forget to use a contraction if you're speaking.You're not really studying at all, are you? (or You aren't really studying…)They aren't using the computer room at the moment.This program isn't working.HIDAYAH : That's fine, but I suppose there are some spelling rules for –ing forms?SHOPIE : Yes, you're right. If a verb ends in e, you take off the e and add –ing.have - having ride - ridingIf a verb ends in a vowel + a consonant, the consonant is usually doubledbefore you add –ing.swim - swimming run - runningBut be careful with verbs with more than two syllables where the stress isn't on the last syllable. With those you don't double the consonant.visit - visiting open - openingHIDAYAH : OK, but what about two-syllable verbs where the stress is on the last syllable, like begin?SHOPIE : If the stress is on the last syllable, you do double the final consonant.begin - beginningHIDAYAH : Right, the present continuous seems quite easy to me. I'm understanding it perfectly!SHOPIE: Whoops! Sorry, you can't say 'I'm understanding it'.HIDAYAH : Why not? I'm talking about something happening right now.SHOPIE : Yes, but there is a group of verbs which are called state verbs which we use for states (not actions) and we don't usually use these in the continuous form.____________________________SHOPIE : want - need - like - love - hate - prefer - believe - think - know - realise -understand - recognise - suppose - be - exist - appear - look - seem - belong - have (for possession) - own - feel - smell - tasteHIDAYAH: So these are verbs for talking about emotions, thinking, existing, appearing, possession and the senses.SHOPIE : Yes, excellent.HIDAYAH : But wait a minute. What about, 'I'm thinking of coming with you tomorrow.' Or, 'I'm thinking about my boyfriend.'SHOPIE: Yes, they are correct. But the meaning of think there is 'having thoughts in your mind' or 'considering'. It's not the same as 'having an opinion' about something.I think that song's brilliant. (opinion)She's thinking about studying archaeology. (considering / wondering about)HIDAYAH : OK, so there are some exceptions. Like, 'I'm loving it.'SHOPIE: No, sorry, that's not an exception, that's wrong!HIDAYAH : It can’t be wrong!SHOPIE : Well, OK, maybe it's a new usage. English does change. But don't use it in exams!Tugas : baca materi kemudian buat rangkuman dan tulis kembali contoh contoh kalimat present continuous tense minimal 10 kalimatYg bisa tolong bantuin,,:)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1) i am listening radio right now at my room</p><p>2) john is reading a horror novel now at his room</p><p>3) they are talking about covid 19 at this moment</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/57_ZK2bL1Vo?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-lagu-acoustic-version/">Download Lagu Acoustic Version</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-membuat-busur-panah-yang-kuat/">Cara Membuat Busur Panah Yang Kuat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-hack-ujian-online/">Cara Hack Ujian Online</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-un-smp-2016/">Download Un Smp 2016</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-un-bahasa-inggris-sma-2016-pdf/">Soal Un Bahasa Inggris Sma 2016 Pdf</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/bank-soal-ips-kelas-6/">Bank Soal Ips Kelas 6</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-tiu-cpns-2023-pdf/">Soal Tiu Cpns 2023 Pdf</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-un-sd-matematika-2023/">Soal Un Sd Matematika 2023</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/tebak-gambar-tersulit/">Tebak Gambar Tersulit</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/surat-pengantar-perusahaan-ke-bpjs/">Surat Pengantar Perusahaan Ke Bpjs</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/buku-tuhan-maaf-kami-sedang-sibuk/">Buku Tuhan Maaf Kami Sedang Sibuk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/ppdb-smkn-1-losarang/">Ppdb Smkn 1 Losarang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/pengertian-kombinasi-dan-permutasi/">Pengertian Kombinasi Dan Permutasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-menghitung-roi-dan-eva/">Cara Menghitung Roi Dan Eva</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-cerita-penjumlahan-kelas-1-sd/">Soal Cerita Penjumlahan Kelas 1 Sd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-mempercepat-tumbuh-bulu-ayam/">Cara Mempercepat Tumbuh Bulu Ayam</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/prota-dan-promes-kelas-3-sd-kurikulum-2013-revisi-2017/">Prota Dan Promes Kelas 3 Sd Kurikulum 2013 Revisi 2017</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-seni-budaya-kelas-10-semester-2-dan-jawabannya/">Soal Seni Budaya Kelas 10 Semester 2 Dan Jawabannya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/asimtot-datar-dan-tegak/">Asimtot Datar Dan Tegak</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/kumpulan-soal-osn-matematika-smp/">Kumpulan Soal Osn Matematika Smp</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

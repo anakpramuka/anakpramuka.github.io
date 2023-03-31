@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kertas Love - BELAJAR</title>
+    <meta name="description" content="Kertas Love, , , , , , , 0, , , , , , 0, kertas-love, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kertas Love - BELAJAR" />
+    <meta property="og:description" content="Kertas Love, , , , , , , 0, , , , , , 0, kertas-love, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kertas Love - BELAJAR" />
+    <meta name="twitter:description" content="Kertas Love, , , , , , , 0, , , , , , 0, kertas-love, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Kertas Love</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">memilbule</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Kertas+Love" alt="Kertas Love">
+                    </div>
+                    <p></p>
+                    <p>tulislah pertaanya ok.
+ini ada 3 kertas.
+siapa yang bisa.
+saya akan kasih.
+love dan folow.
+ok</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tulislah-pertaanya-ok-ini-ada-3-kertas-siapa-yang-bisa-saya-akan-kasih-love-dan-folow-ok">1.
+                                            tulislah pertaanya ok.
+ini ada 3 kertas.
+siapa yang bisa.
+saya akan kasih.
+love dan folow.
+ok</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mohon-minta-caranya-kalau-bisa-ditulis-ya-di-kertas-aku-kasi-love-sama-bintang-5-tolong-butuh%e2%80%8b">2.
+                                            mohon minta caranya, kalau bisa ditulis ya di kertas, aku kasi love sama bintang 5 , tolong butuh​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-mentransfer-gambaran-pelat-yang-telah-diukir-ke-permukaan-kertas-pada-umumnya-menggunakan-2-hasil-sablon-akan-langsung-terlihat-ketika-tolong-kk-nanti-ku-kasih-bintang-5-love%e2%80%8b">3.
+                                            1.mentransfer gambaran pelat yang telah diukir ke permukaan kertas pada umumnya menggunakan...2.hasil sablon akan langsung terlihat ketika... tolong kk...nanti ku kasih bintang 5 &amp; love​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#soal-pas-quran-hadits-kelas-7e-7f-76-7h-71-dan-73-tri-puspa-0857-ogor-goos-l7369-dslove-tojawaban-ditulis-dikertas-selembarsoal-dan-jawaban-dikumpul-disekolah-tanggalnamakelas1">4.
+                                            Soal PAS Qur'an Hadits kelas 7E, 7F, 76, 7H, 71 dan 73 Tri Puspa 0857-ogor - goos/ &amp; L7369-d&amp;slove toJawaban ditulis dikertas selembar,soal dan jawaban dikumpul DISEKOLAH Tanggal:NamaKelas:1. Tuliskan beberapa fungsi al-qur'an bagi kehudupan manusia2. Salah satu fungsi hadits terhadap kitab al-qur'an adalah sebagai apa?3. Seorang pelajar muslim yang mengamalkan al-qur'an dan hadits harus memiliki sikap sebagai berikut?4. Mengapa surah an-naas dan al-falaq dinamakan surah mu'awwidzatain?5. Tuliskan 4 pelajaran yang tidak diambil setelah memahami isi kandungan Q.s naa?6. Bagaimana cara mewujudkan tauhid uluhiyyah? Jelaskan?7. Apakah yang dimaksud dengan ibadah ghairu mahdnah? Berikan contoh?8. Tuliskan 3 hal yg harus kita lakaukan setelah memahami isi kandungan Q.s al-ikhlas?9. Berikan 3 contoh kasus penyimpangan tauhid yang terjadi dilingkunganmu?10. Berikut yang bukan merupakan pengertian Al-qur'an adalah?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-bentuk-operasi-pada-kata-cetak-tebal-adalah-2-menjalankan-program-microsoft-word-dari-ikon-yang-ada-di-desktop-dengan-cara-3-ikon-align-justify-untuk-menempatkan-teks-ke">5.
+                                            1. bentuk operasi pada kata cetak tebal adalah.........2. menjalankan program Microsoft word dari ikon yang ada di desktop dengan cara.........3. ikon align justify untuk menempatkan teks ke...........4. untuk memberikan coretan ke tengah-tengah teks menggunakan ikon...........5. untuk melihat hasil cetakan di layar sebelum dicetak di kertas menggunakan ikon............6. ikon yang tidak terdapat pada tab file adalah...........- bagi yang bisa jawab saja- harus semuanya yakecuali nomor 6 nomor 6 kalau tahu dijawab kalau tidak tahu tidak usah- sebelumnya yg bisa jwb saya kasih love dan 5 bintang langsung - kalau tidak benar tapi sudah berusaha tidak apa apa tetep saya kasih tapi harus semuanya kecuali nomor 6         terimakasih...............​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#my-name-is-ahmad-jefry-people-call-me-aj-i-have-abrother-and-a-sister-named-danu-jefry-dj-and-tina-jefrytj-dj-is-a-kind-brother-he-always-help-me-to-finish-all-ofmy-homeworks-he-also-always-r">6.
+                                            My name is Ahmad Jefry, people call me AJ. I have abrother and a sister named Danu Jefry (DJ) and Tina Jefry(TJ). DJ is a kind brother, He always help me to finish all ofmy homeworks. He also always remind me to help ourparent when he does not at home. Thus with TJ, she is acute sister. Even if she is our last sister but she never givehard time for us. She never ask something difficut to find. Ilove my siblings.Tugas1. Terjemahkan teks diatas kedalam bahasa Indonesia2. Temukan pronoun (kata ganti)3. Temukan kalimat deskripsiNB: Tulis jawaban di kertasfotrkumpulkan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lengkapi-kalimat-di-bawah-ini-dengan-bahasa-inggris-tolong-jawab-secepatnya-dan-jangan-asal-menjawab1-takes-my-pen-dia-mengambil-pulpen-ku-2-they-love-parents-mereka-menyayangi-orang-tua">7.
+                                            lengkapi kalimat di bawah ini dengan bahasa inggris tolong jawab secepatnya dan jangan asal menjawab1. .....takes my pen (dia mengambil pulpen ku) 2. They love.....parents (mereka menyayangi orang tua mereka)3. Don't touch! I'ts.... (jangan sentuh! Itu adalah punyaku) 4. She likes to live.... (Dia suka hidup sendirian) 5. We....will come to your house (kami sendiri yang akan datang ke rumahmu) 6. He hits.....with a paper (dia memukul dirinya dengan sebuah kertas) 7. She likes me. But i don't like.... (dia suka aku tapi aku tidak suka dia)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#translate-ke-bahsa-indonesia-ya-butuh-bantuanshe-is-a-girl-of-many-talents-young-bright-and-talented-are-the-few-of-the-words-that-describe-about-maudy-ayunda-her-full-name-is-ayunda-faza-maudya">8.
+                                            Translate ke bahsa indonesia ya butuh bantuan
+She is a girl of many talents. Young, bright, and talented are the few of the words that describe about Maudy Ayunda. Her full name is Ayunda Faza Maudya. She is 19 years old. she was born on Jakarta, December 19th 1994. Her zodiac is Sagittarius.
+She is an actress, a singer, and a pianist. She has a shoulder black hair. Her nose is not sharp. She is 166 cm tall, and 47 kg weight. She is a cute and beautiful girl. Besides, she is very smart girls. 
+Now she cotinue her study  in Oxfort , England.She study in British International  School. She has many songs. like perahu kertas, aku atau temanmu, tahu diri, first love, cinta datang terlambat, tiba-tiba, panggil aku sayang, and the others.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatalah-ringkasan-dari-novel-london-love-story-2-minimal-4-kertas-difoto-aja-ringkasannya-tolong-di-jawab-butuh-banget-besok-dikumpulin-pliss-entar-saya-kasih-5-bintang">9.
+                                            Buatalah ringkasan dari  novel london love story 2 minimal 4 kertas difoto aja ringkasannya 
+Tolong di jawab butuh banget besok dikumpulin  pliss entar saya kasih 5 bintang </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#b-jawablah-secara-lengkap-dan-benar-pada-kolom-jawaban1-bagaimana-cara-memanfaatkan-sda2-mengapa-manusia-mesti-memanfaatkan-sda-dengan-baik3-bagaimana-hubungan-penggunaan-kertas-yang-boros-deng">10.
+                                            B. Jawablah secara lengkap dan benar pada kolom jawaban!1. Bagaimana cara memanfaatkan SDA?2. Mengapa manusia mesti memanfaatkan SDA dengan baik?3. Bagaimana hubungan penggunaan kertas yang boros dengan kerusakan hutan?4. Sebutkan tiga cara menghemat penggunaan kertas!5. Tuliskan empat cara membatasi penggunaan energi listrik di rumah?Help me please ༎ຶ︵༎ຶNanti ku kasih Love, jawaban tercerdas, bintang 5 dan follow#JanganNgasal​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-pengertian-komik-dan-sebutkan-ciri-cirinya-2-apa-yang-kalian-tahu-dengan-komik-strip-dan-komik-buku-3-jelaskan-yang-dimaksud-dengan-komik-edukasi-dan-komikpromosi-4-sebut">11.
+                                            1. Jelaskan pengertian komik dan sebutkan ciri-cirinya !.....2. Apa yang kalian tahu dengan komik strip dan komik buku...!3. Jelaskan yang dimaksud dengan komik edukasi dan komikpromosi !.....4. Sebutkan syarat-syarat menggambar komik!....5. Buatlah komik humor di kertas selembar....!​jawab yang bener jangan ngasal dikumpulin nya sekarang soalnya tolong bantu jawab yah love u</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-inggris-kls-7tugas-keterampilan-kd-4-7-2buatlah-di-kertas-selembardikumpulkan-ketika-tatap-mukaarrange-the-jumbled-sentences-into-agood-paragraph-of-descriptive-textsusunlah-kalimat-kalimat-a">12.
+                                            BAHASA INGGRIS KLS 7TUGAS KETERAMPILAN KD 4.7.2BUATLAH DI KERTAS SELEMBAR,DIKUMPULKAN KETIKA TATAP MUKAARRANGE THE JUMBLED SENTENCES INTO AGOOD PARAGRAPH OF DESCRIPTIVE TEXT(SUSUNLAH KALIMAT KALIMAT ACAK TERSEBUTMENJADI SEBUAH PARAGRAF TEKS DESCRIPTIVE)• There are some plants and flowers there.• My house is not small or big.• Because of that, I love my house verymuch.• It has three bedrooms, one bathroom, oneliving room, one kitchen/dining room.• The house is clean and comfortable to livein.• In front of the house, there is a small park.• Behind the house, there is a garden and arabbit in the cage.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-rumus-pythagorassudut-terpanjang-pada-segitiga-siku-siku-disebutnote-sebagai-permintaan-maaf-kenapa-jarjit-kalau-pantun-ngomongnya-dua-tiga-dulu-karena-yang-nomor-satu-cuman-kam">13.
+                                            Sebutkan Rumus rumus Pythagoras!!Sudut Terpanjang Pada Segitiga siku siku disebut?Note :Sebagai Permintaan maaf :Kenapa Jarjit kalau Pantun ngomongnya dua tiga dulu??..Karena yang nomor satu Cuman kamu ☺❤Seneng dech jadi pengen pantun hahahaPantun Dulu gak sehhhhh...Dua tiga Kucing melintasCintaku bukan diatas kertasDua tiga main layang layang I Love Raniku Sayank Sekian Terima kasih [tex]\large{ \tt{ \color{orange}{My}{ \color{red}{name}{ \color{gray}{is}{ \color{purple}{Rifki}{ \color{lavender}{32}}}}}}} \\  [/tex][tex] \:  \:  \:  \:  \:  \:  \: cirebon \:  28 \: 2  \: 2022[/tex]​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kak-tolong-bantu-jawab-besok-di-kumpulkan-jadi-jawab-yg-benar-g-ngasal-jawab%e2%9c%85ga-ngasal%e2%9c%85ku-beri-love%e2%9c%85jika-jawab-semua-nya-jadikan-jawaban-terbaik%e2%9c%85-jika-jawab-semuan">14.
+                                            kak tolong bantu jawab besok di kumpulkan!!! jadi jawab yg benar g ngasal!! Jawab✅Ga ngasal✅ku beri love✅jika jawab semua nya Jadikan jawaban terbaik✅ jika jawab semuanya dengan benar COPAS❌Ngasal❌​​​di beri poin gede ✅​​​​​​​​​yg di jawab no 1,2,3,6,9,101. perhatikan persyaratan berikut (1) komposisi yang terdiri atas huruf dan gambar di atas media kertas atau kain yang berukuran besar. (2) menggunakan bahasa yang singkat jelas dan tidak rancu agar mudah dipahami (3) perpaduan warna tidak kuat dan tidak kontras (4) tidak dapat ditempel di dinding dan tempat umum ciri-ciri poster ditunjukkan oleh nomor...a. (3) dan (4) b. (2) dan (3) c. (1) dan (3)d. (1) dan (2) 2. Langkah pertama dalam membuat poster adalah...a. menentukan posisi poster akan diletakkan b. menentukan sasaran dan tujuan pembuatan poster c. membuat rencana perkiraan jumlah poster yang akan diproduksi d. menentukan desain dan ukuran poster gambar no 3jenis poster tersebut berdasarkan isinya adalah...a. poster layanan Masyarakatb. poster kegiatanc. poster pendidikand. poster karya seni  ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-ringkasan-dari-novel-london-love-story-2-minimal-4-page-atau-4-kertas-dan-tuliskan-nama-pengarang-dan-penerbitnya-siapa-tolong-dijawab-besok-dikumpulin-pliss-entar-saya-kasih-jawaban-yang-terb">15.
+                                            buatlah ringkasan dari novel london love story 2 minimal 4 page atau 4 kertas dan tuliskan nama pengarang dan penerbitnya siapa tolong dijawab besok dikumpulin pliss entar saya kasih jawaban yang terbaik</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="tulislah-pertaanya-ok-ini-ada-3-kertas-siapa-yang-bisa-saya-akan-kasih-love-dan-folow-ok">
+                            1. tulislah pertaanya ok.
+ini ada 3 kertas.
+siapa yang bisa.
+saya akan kasih.
+love dan folow.
+ok</h2><br />
+                        <p><strong>Jawaban:</strong></p>Romawi I<p>1. a. Cedera</p><p>2. b. Luka</p><p>3. c. Pingsan</p><p>4. a. Keseleo </p><p>5. c. Olesi dengan obat merah</p><p>6. c. Luka terbuka dan luka tertutup</p><p>7. b. Benda runcing</p><p>8. c. Bakar</p><p>9. d. Dibawa ke dukun patah tulang</p><p>10. b. Berhati-hati</p>Romawi II<p>1. Peregangan otot yang melebihi kapasitas normal</p><p>2. Menggunakan metode RICE</p><p>3. Secepatnya membawa korban ke dokter atau rumah sakit</p><p>4.  Perubahan suhu, zat kimia,atau ledakan listrik</p><p>5.  Pendarahan</p>Romawi III<p>1. Cedera adalah sesuatu kerusakan pada struktur atau fungsi tubuh disebabkan ada sesuatu yang tidak normal (hilang)</p><p>2. 1. Cedera otot pergelangan kaki</p><p>2. Cedera tulang kering</p><p>3. Nyeri pinggang
+</p><p>4. Cedera bahu</p><p>5. Kram otot</p><p>3. RICE merupakan singkatan dari Rest, Ice, Compression dan Elevation. Metode pengobatan ini biasanya dilakukan untuk cedera akut, khususnya cedera jaringan lunak (sprain maupun strain). Metode terapi RICE ini dilakukan secepat mungkin sesaat setelah terjadinya cedera sampai dengan ±48 jam setelah cedera terjadi.</p>4.  1. Luka terbuka
+<p>
+Luka terbuka ialah luka yang terjadi dikarenakan jaringan kulit luar mengalami kerusakan, Jika luka tergolong ringan, berikut adalah beberapa jenis luka terbuka serta cara yang bisa Anda lakukan untuk mencegahnya dari infeksi.
+</p>2. Luka lecet
+<p>Cara membersihkannya, cuci tangan sampai bersih pakai sarung tangan. Kemudian bersihkan luka dengan menggosok lembut menggunakan sabun, air dan lap bersih. Selanjutnya oleskan salep antibiotik atau obat luka ke area yang terlkuka, lalu balut area yang terluka dengan perban. Jangan lupa cuci tangan kembali setelah membersihkan luka anda.
+</p>
+3. Luka sobek
+<p>
+Luka sobekan yang dikenal juga dengan sebukan laserasi ini disebabkan oleh kecelakaan menggunakan pisau atau alat tajam lainnya. Jika luka tidak terlalu dalam, kita semua bisa melakukan penanganan atau pertolongan pertama secara sendirian.</p><p>5. Mempertahankan penderita tetap hidup atau terhindar dari maut.</p><p>
+<strong>Penjelasan:</strong></p><p><strong>semoga membantu dan benar</strong></p><p><strong>maaf kalau salah</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mohon-minta-caranya-kalau-bisa-ditulis-ya-di-kertas-aku-kasi-love-sama-bintang-5-tolong-butuh%e2%80%8b">
+                            2. mohon minta caranya, kalau bisa ditulis ya di kertas, aku kasi love sama bintang 5 , tolong butuh​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>1. 10 pangkat -10 : 10 pangkat 5 = 10 pangkat -10-5 </p><p>                                                     = 10 pangkat -15</p><p>2. 2 pangkat 6 / 2 pangkat 4  = 2 pangkat 6-4</p><p>                                                  = 2 pangkat 2 atau 4</p><p>3. 10 pangkat 2 / 10 pangkat 6 = 10 pangkat 2-6</p><p>                                                   = 10 pangkat -4</p><p>4.5 pangkat -6 : 5 pangkat -7 = 5 pangkat (-6) - (-7)</p><p>                                                  = 5 pangkat 1</p><p>5.100 pangkat a / 100 pangkat b = 100 pangkat a-b</p><p></p><p> HEHE</p><p>KALAU ADA PERTANYAAN SEPUTAR JAWABAN SAYA MOHON DITANYAKAN</p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-mentransfer-gambaran-pelat-yang-telah-diukir-ke-permukaan-kertas-pada-umumnya-menggunakan-2-hasil-sablon-akan-langsung-terlihat-ketika-tolong-kk-nanti-ku-kasih-bintang-5-love%e2%80%8b">
+                            3. 1.mentransfer gambaran pelat yang telah diukir ke permukaan kertas pada umumnya menggunakan...2.hasil sablon akan langsung terlihat ketika... tolong kk...nanti ku kasih bintang 5 &amp; love​</h2><br />
+                        <p>1.<strong> tinta </strong>(Media cetak) </p><p>2. tinta telah <strong>melewati gambar</strong> pada Screen dan mengenai kain</p><p></p><p>Smoga mbantu ♪</p><br />
+                                            <h2 class="ez-toc-section" id="soal-pas-quran-hadits-kelas-7e-7f-76-7h-71-dan-73-tri-puspa-0857-ogor-goos-l7369-dslove-tojawaban-ditulis-dikertas-selembarsoal-dan-jawaban-dikumpul-disekolah-tanggalnamakelas1">
+                            4. Soal PAS Qur'an Hadits kelas 7E, 7F, 76, 7H, 71 dan 73 Tri Puspa 0857-ogor - goos/ &amp; L7369-d&amp;slove toJawaban ditulis dikertas selembar,soal dan jawaban dikumpul DISEKOLAH Tanggal:NamaKelas:1. Tuliskan beberapa fungsi al-qur'an bagi kehudupan manusia2. Salah satu fungsi hadits terhadap kitab al-qur'an adalah sebagai apa?3. Seorang pelajar muslim yang mengamalkan al-qur'an dan hadits harus memiliki sikap sebagai berikut?4. Mengapa surah an-naas dan al-falaq dinamakan surah mu'awwidzatain?5. Tuliskan 4 pelajaran yang tidak diambil setelah memahami isi kandungan Q.s naa?6. Bagaimana cara mewujudkan tauhid uluhiyyah? Jelaskan?7. Apakah yang dimaksud dengan ibadah ghairu mahdnah? Berikan contoh?8. Tuliskan 3 hal yg harus kita lakaukan setelah memahami isi kandungan Q.s al-ikhlas?9. Berikan 3 contoh kasus penyimpangan tauhid yang terjadi dilingkunganmu?10. Berikut yang bukan merupakan pengertian Al-qur'an adalah?​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>1.Fungsi Al-quran Bagi Umat Manusia, Petunjuk Jalan yang Benar. </p><p>2.Hadits memiliki fungsi untuk menguraikan, merincikan, menjelaskan, dan mentekniskan apa yang tidak dijelaskan di dalam Al-Quran/penjelasan yang masih terlalu umum di dalam Al-Quran</p><p>3.rajin membaca Al-Qur'an dan mengamalkanya</p><p>4.surah an-nas dan al-falaq dinamakan surah mu'awwidzatain karena surah mu'awwidzatain berarti dua surah pelindung, surah ini diturunkan ketika Rasulullah khawatir akan sihir orang yahudi yang menimpanya dan memohon perlindungan kepada ALLAH dari kejahatan manusia, syaitan dan juga jin.</p><p>5.1. Hanya Allah SWT tempat berlindung</p><p>2. Allah adalah segala-galanya baik yang nampak maupun tidak</p><p>3. Allah yang melindungi hamba-Nya yg berlindung pada-Nya dari jin bahkan manusia sekalipun</p><p>4. Hanya Allah SWT yang parut disembah dan tempat memohon. Maaf jika ada kekeliruan</p><p>6.tauhid uluhiyah artinya kepercayaan bahwa allah lah sembahan yang benar </p><p>keyakinan tersebut harus dibuktikan dengan amal nyata dalam kehidupan sehari- hari .yaitu menyembah hanya kepada allah dan tidak menyekutukannya dengan apapun</p><p>contoh tauhid uluhiyyah terdapat dalam surah alfatihah ayat 5- 7</p><p>7.ibadah ghairu mahdhah sering disebut sebagai ibadah umum atau muamalah, yaitu segala sesuatu yang dicintai dan diridhoi oleh Allah baik berupa perkataan atau perbuatan, lahir maupun batin yang mencakup seluruh aspek kehidupan seperti aspek ekonomi, sosial, politik, budaya, seni dan pendidikan</p><p>8.1.percaya bahwa allah adalah tuhan kita dan dialah yg mahakuasa</p><p>2.hanya kepadanyalah kita bergantung</p><p>3.kita tdk boleh memikirkan bagaimana wujudnya dan memercayai bahwa ia ada</p><p>makasih</p><p>9.Percaya dukun</p><p>percaya takhayul</p><p>percaya ramalan</p><p>10.al-quran adalah kitab yang di turunkan oleh Allah SWT yang berisi firman-firman-Nya kepada Nabi Muhammad SAW secara berangsur angsur sebagai pedoman hidup umat manusia</p><p> </p><br />
+                                            <h2 class="ez-toc-section" id="1-bentuk-operasi-pada-kata-cetak-tebal-adalah-2-menjalankan-program-microsoft-word-dari-ikon-yang-ada-di-desktop-dengan-cara-3-ikon-align-justify-untuk-menempatkan-teks-ke">
+                            5. 1. bentuk operasi pada kata cetak tebal adalah.........2. menjalankan program Microsoft word dari ikon yang ada di desktop dengan cara.........3. ikon align justify untuk menempatkan teks ke...........4. untuk memberikan coretan ke tengah-tengah teks menggunakan ikon...........5. untuk melihat hasil cetakan di layar sebelum dicetak di kertas menggunakan ikon............6. ikon yang tidak terdapat pada tab file adalah...........- bagi yang bisa jawab saja- harus semuanya yakecuali nomor 6 nomor 6 kalau tahu dijawab kalau tidak tahu tidak usah- sebelumnya yg bisa jwb saya kasih love dan 5 bintang langsung - kalau tidak benar tapi sudah berusaha tidak apa apa tetep saya kasih tapi harus semuanya kecuali nomor 6         terimakasih...............​</h2><br />
+                        1. Bold<br />2. Klik 2x<br />3. rata kanan dan kiri<br />4. strikethrough<br />5. Print Preview<br />
+                                            <h2 class="ez-toc-section" id="my-name-is-ahmad-jefry-people-call-me-aj-i-have-abrother-and-a-sister-named-danu-jefry-dj-and-tina-jefrytj-dj-is-a-kind-brother-he-always-help-me-to-finish-all-ofmy-homeworks-he-also-always-r">
+                            6. My name is Ahmad Jefry, people call me AJ. I have abrother and a sister named Danu Jefry (DJ) and Tina Jefry(TJ). DJ is a kind brother, He always help me to finish all ofmy homeworks. He also always remind me to help ourparent when he does not at home. Thus with TJ, she is acute sister. Even if she is our last sister but she never givehard time for us. She never ask something difficut to find. Ilove my siblings.Tugas1. Terjemahkan teks diatas kedalam bahasa Indonesia2. Temukan pronoun (kata ganti)3. Temukan kalimat deskripsiNB: Tulis jawaban di kertasfotrkumpulkan​</h2><br />
+                        <p>ini dia kalau diterjemah kan ke indonesia</p><p>Nama saya Ahmad Jefry, orang memanggil saya AJ. Saya memiliki  </p><p>saudara lelaki dan perempuan bernama Danu Jefry (DJ) dan Tina Jefry  </p><p>(TJ). DJ adalah saudara yang baik hati, Dia selalu membantu saya menyelesaikan semua  </p><p>pekerjaan rumah saya. Dia juga selalu mengingatkan saya untuk membantu  </p><p>orang tua kita ketika dia tidak di rumah. Jadi dengan TJ, dia adalah  </p><p>adik yang imut. Meskipun dia adalah saudara perempuan terakhir kita, tetapi dia tidak pernah memberikan  </p><p>waktu yang sulit bagi kita. Dia tidak pernah meminta sesuatu yang sulit ditemukan. Saya  suka saudara saya. </p><p></p><p>maaf kakak cuma bisa terjemah kan ,kalau kalimat deskripsi menurut kakak i love my sblings,nomor 2 kakak belum bisa jawab </p><p></p><p>jadikan jawaban kakak yg terbaik ya<br />
+                                            <h2 class="ez-toc-section" id="lengkapi-kalimat-di-bawah-ini-dengan-bahasa-inggris-tolong-jawab-secepatnya-dan-jangan-asal-menjawab1-takes-my-pen-dia-mengambil-pulpen-ku-2-they-love-parents-mereka-menyayangi-orang-tua">
+                            7. lengkapi kalimat di bawah ini dengan bahasa inggris tolong jawab secepatnya dan jangan asal menjawab1. .....takes my pen (dia mengambil pulpen ku) 2. They love.....parents (mereka menyayangi orang tua mereka)3. Don't touch! I'ts.... (jangan sentuh! Itu adalah punyaku) 4. She likes to live.... (Dia suka hidup sendirian) 5. We....will come to your house (kami sendiri yang akan datang ke rumahmu) 6. He hits.....with a paper (dia memukul dirinya dengan sebuah kertas) 7. She likes me. But i don't like.... (dia suka aku tapi aku tidak suka dia)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. .....takes my pen (dia mengambil pulpen ku) <strong>He</strong> (untuk laki2) atau <strong>she</strong> (untuk perempuan) </p><p></p><p>2. They love.....parents (mereka menyayangi orang tua mereka) <strong>their</strong></p><p></p><p>3. Don't touch! I'ts.... (jangan sentuh! Itu adalah punyaku)  <strong>mine</strong></p><p></p><p>4. She likes to live.... (Dia suka hidup sendirian) <strong>alone</strong><strong> </strong>atau <strong>by </strong><strong>herself</strong></p><p></p><p>5. We....will come to your house (kami sendiri yang akan datang ke rumahmu)  <strong>alone</strong></p><p></p><p>6. He hits.....with a paper (dia memukul dirinya dengan sebuah kertas)  <strong>himself</strong></p><p></p><p>7. She likes me. But i don't like.... (dia suka aku tapi aku tidak suka dia) <strong>her</strong></p><p></p><p></p><p><strong>Jawaban:</strong></p><p>1. <strong>He</strong><strong> </strong>takes my pen.</p><p>2. They love Their parents.</p><p>3. Don't touch! It's <strong>Mine</strong>.</p><p>4. She like to live<strong> </strong><strong>Alone</strong>.</p><p>5. We<strong> </strong><strong>Ourselves</strong><strong> </strong>will come to your house.</p><p>6. He hits <strong>Himself</strong><strong> </strong>with a paper.</p><p>7. She likes me. But i don't like <strong>Her</strong><strong>.</strong></p><p><strong>Penjelasan:</strong></p><p>Tolong dijadikan jawaban terbaik.</p><br />
+                                            <h2 class="ez-toc-section" id="translate-ke-bahsa-indonesia-ya-butuh-bantuanshe-is-a-girl-of-many-talents-young-bright-and-talented-are-the-few-of-the-words-that-describe-about-maudy-ayunda-her-full-name-is-ayunda-faza-maudya">
+                            8. Translate ke bahsa indonesia ya butuh bantuan
+She is a girl of many talents. Young, bright, and talented are the few of the words that describe about Maudy Ayunda. Her full name is Ayunda Faza Maudya. She is 19 years old. she was born on Jakarta, December 19th 1994. Her zodiac is Sagittarius.
+She is an actress, a singer, and a pianist. She has a shoulder black hair. Her nose is not sharp. She is 166 cm tall, and 47 kg weight. She is a cute and beautiful girl. Besides, she is very smart girls. 
+Now she cotinue her study  in Oxfort , England.She study in British International  School. She has many songs. like perahu kertas, aku atau temanmu, tahu diri, first love, cinta datang terlambat, tiba-tiba, panggil aku sayang, and the others.</h2><br />
+                        Dia adalah seorang gadis yang memiliki banyak bakat. Muda, cerdas, dan berbakat adalah beberapa kata yang menggambarkan tentang Maudy Ayunda. Nama lengkapnya adalah Ayunda Faza Maudya. Dia berusia 19 tahun.Dia lahir di Jakarta, 19 Desember 1994. Zodiaknya adalah Sagitarius.<br />dia adalah seorang aktris, penyanyi dan pianis. dia memiliki rambut hitam sebahu. hidungnya tidak mancung. Tingginya 166 cm dan beratnya 47 kg. dia adalah seorang gadis yang imut dan cantik. selain itu, dia adalah seorang gadis yang sangat pintar.<br />Sekarang, dia melanjutkan studinya di Oxford, Inggris. Dia belajar di British International School. Dia memiliki banyak lagu, seperti Perahu kertas, aku atau temanmu, tahu diri, first love, cinta datang terlambat, tiba-tiba, panggil aku sayang, dan lain-lain.dia seorang wanita yg punya banyak bakat.Muda,cerdas,dan bertalenta itu sedikit kat untuk mendeskripsikan tentang Maudy Anyunda.nama lengkapnya adalah Ayunda Faza Maudyadia berumur 19 tahun,dia lahir di jakarta,19 desember 1994,zodiaknya sagittarius.                                                                                  Dia seorang artis,menyanyi,dan pemain piano.dia punya rambut hitam sepundak.dia punya hidung mancung.tingginya 166cm,dan berat badannya 47kg.dia lucu dan wanita yang cantik.disamping itu dia seorang wanita sangat cerdas/                                                                                                              Sekarang dia melanjutkan sekolah di Oxfort,inggris.dia belajar di sekolah internasional British.dia punya banyak lagu,seperti perahu kertas, aku atau temanmu,tahundiri,fist love,cinta datang terlambat,tiba tiba,panggil aku asayang dan yang lainnya.    semoga benar yaaaa..<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="buatalah-ringkasan-dari-novel-london-love-story-2-minimal-4-kertas-difoto-aja-ringkasannya-tolong-di-jawab-butuh-banget-besok-dikumpulin-pliss-entar-saya-kasih-5-bintang">
+                            9. Buatalah ringkasan dari  novel london love story 2 minimal 4 kertas difoto aja ringkasannya 
+Tolong di jawab butuh banget besok dikumpulin  pliss entar saya kasih 5 bintang </h2><br />
+                        Udah satu tahun semenjak Dave dan Caramel bersatu. Mereka masih menjadi pasangan yang romantis dan apapun yang dilakukan Caramel kepada Dave, Dave selalu menerimanya. Caramel selalu percaya bahwa apapun yang dilakukannya Dave selalu menerimanya. Pagi yang dingin kala itu saat Dave dan Caramel bertemu dan mereka pergi jalan2. Dave sempat mengomentari dandanan Caramel. Dan Caramel mengira bahwa make up nya jelek. Padahal Dave hanya bercanda dan mengatakan bahwa Caramel tetap cantik dan semakin cantik. Dan Dave meminta agar Caramel tak lagi memotong rambutnya.<br />     Dave pun mengajak Caramel keliling Kota London, dan memberikan boneka pada Caramel. Sebelum mereka bertemu saat Caramel dijalan Caramel melihat toko kue dan melihat ada kue ulang tahun dengan lilin angka 17. Dan itu membuat Caramel teringat saat ulang tahunnya ke 17 saat masih SMA dulu bersama sahabat sahabatnya. Dan saat itu terlihat Caramel menantikan seseorang sebelum meniup lilin.<br />     Dave dan Caramel pun menuju Restaurant untuk makan siang.Saat itu Caramel mendapat telephone dari Mamanya, lalu Mamanya bicara dengan Dave.  Dan Caramel membuka laptopnya untuk membuka email. Saat itu ada email masuk yang membuat raut wajah Caramel berubah. Dan Dave pun bertanya kepada Caramel. Dan ternyata email itu dari teman SMA Caramel bernama Samira, yang akan pergi ke London dalam waktu dekat. Dave pun melanjutkan pembicaraan, Dave berkata kepada Caramel bahwa masih ada satu rahasia lagi yang belum ia kasih tahu ke Caramel. Caramel pun cemas dan takut tentang rahasia Dave tersebut. Dan Caramel pun bilang pada Dave       "Dave...rahasia apa lagi sih? Jangan bilang kalau ada orang ketiga diantara kita. Aku benar2 ngak siap untuk itu." Dan Dave pun memberikan amplop cokelat yang berisi rahasia tersebut. Dan saat Caramel membukanya ternyata isinya adalah tiket liburan ke Swiss. Caramel pun kaget dan seperti tidak percaya. Yaa.. Dave memang ingin mewujudkan keinginan Caramel untuk bermain salju. Dave pun berkata bahwa ia sangat mencintai Caramel dan hal itu tidak dapat ditawar lagi.<br />     Beberapa hari kemudian Caramel mempersiapkan barang2 nya. Dave dan Caramel pun tergesa-gesa menuju Stasiun Kereta. Dan saking terburu-burunya saat sampai dikereta Pasport Dave hilang. Dave pun harus turun dan mencari Pasport nya. Pasportnya pun akhirnya ditemukan oleh anak kecil. Namun saat Dave kembali ke kereta, kereta sudah berangkat dan  Dave pun ketinggalan. Dave pun langsung mengirim pesan ke Caramel bahwa Dave akan naik kereta berikutnya dan menyusul Caramel.<br />     Caramel pun tiba di Swiss, Caramel cukup kesal karena Sam yang seharusnya menjemputnya justru telat. Akhirnya Caramel pun bertemu dengan Sam. Mereka pun segera menuju mobil namun, Caramel sempat salah mobil. Akhirnya mereka pun bergegas meninggalkan Stasiun dan menuju rumah Sam. Sam saat itu sudah menjadi DJ terkenal di Swiss. Sam membawa mobil tua dan klasiknya itu dengan ugal-ugalan sampai membuat Caramel muntah2. Mereka pun bergegas memasuki rumah dan Caramel sudah mendapat kamar di rumah Sa<br />    <br /><br />
+                                            <h2 class="ez-toc-section" id="b-jawablah-secara-lengkap-dan-benar-pada-kolom-jawaban1-bagaimana-cara-memanfaatkan-sda2-mengapa-manusia-mesti-memanfaatkan-sda-dengan-baik3-bagaimana-hubungan-penggunaan-kertas-yang-boros-deng">
+                            10. B. Jawablah secara lengkap dan benar pada kolom jawaban!1. Bagaimana cara memanfaatkan SDA?2. Mengapa manusia mesti memanfaatkan SDA dengan baik?3. Bagaimana hubungan penggunaan kertas yang boros dengan kerusakan hutan?4. Sebutkan tiga cara menghemat penggunaan kertas!5. Tuliskan empat cara membatasi penggunaan energi listrik di rumah?Help me please ༎ຶ︵༎ຶNanti ku kasih Love, jawaban tercerdas, bintang 5 dan follow#JanganNgasal​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.</p><p>1). menggunakan bahan pengganti misalnya hasil metaurgi (campuran )</p><p>2). mengembangkan metode penambangan dan pemprosesan yg lebih efisien serta dapat didaur ulang .</p><p>3). melaksanakan etika lingkungan dgn menjaga kelestarian alam .</p><p>2.- Manusia harus memanfaatkan sumber daya alam dengan bijak agar sumber daya alam tersebut tidak cepat habis dan bisa digunakan oleh anak cucu kita kelak. - Selain itu, penggunaan sumber daya alam secara bijak akan membuat lingkungan tetap lestari dan terjaga.</p><p>3. kertas itu berasal dari pohon, tanpa sadar kalau perilaku boros kertas itu ternyata turut membantu laju pengurangan hutan (deforestasi). Setiap 15 rim kertas ukuran A4 itu akan menebang 1 pohon. Setiap 7000 eks lempar koran yang kita baca setiap hari itu akan menghabiskan 10-17 pohon hutan.</p><p>4. Berikut ini beberapa hal yang sederhana yang dapat kita lakukan, yaitu;</p><p>• Tidak dengan mudah membuang kertas. ...</p><p>• Memaksimalkan penggunaan kertas yaitu menggunakan semua bagian sisi kertas seperti saat mencetak, gunakan kedua sisi kertas.</p><p>• Mengumpulkan sisa-sisa kertas untuk dapat dikelolah atau didaur ulang lagi.</p><p>5. Untuk menghindari hal tersebut, beberapa cara dan tips untuk menghemat listrik ini dapat diterapkan dalam kehidupan sehari-hari :</p><p>1. Cabut Kabel/Peralatan Dari Saklar Saat Tidak Digunakan. </p><p>2. Gunakan Listrik Dengan Sistem Pulsa. </p><p>3. Hemat Pemakaian Lampu. </p><p>4. Gunakan AC Seperlunya. </p><p></p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>B</strong><strong>E</strong><strong>R</strong><strong>M</strong><strong>A</strong><strong>N</strong><strong>F</strong><strong>A</strong><strong>A</strong><strong>T</strong><strong>J</strong><strong>A</strong><strong>N</strong><strong>A</strong><strong>G</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>L</strong><strong>U</strong><strong>P</strong><strong>A</strong><strong> </strong><strong>F</strong><strong>O</strong><strong>L</strong><strong>L</strong><strong>O</strong><strong>W</strong><strong>K</strong><strong>A</strong><strong>S</strong><strong>I</strong><strong>H</strong><strong> </strong><strong>P</strong><strong>I</strong><strong>N</strong><strong> </strong><strong>J</strong><strong>A</strong><strong>W</strong><strong>A</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>T</strong><strong>E</strong><strong>R</strong><strong>C</strong><strong>E</strong><strong>R</strong><strong>D</strong><strong>A</strong><strong>S</strong><strong>S</strong><strong>E</strong><strong>M</strong><strong>A</strong><strong>N</strong><strong>G</strong><strong>A</strong><strong>T</strong><strong> </strong><strong>B</strong><strong>E</strong><strong>L</strong><strong>A</strong><strong>J</strong><strong>A</strong><strong>R</strong><p></p><p><strong>Jawaban:</strong></p><p>1. Bagaimana cara memanfaatkan SDA?.</p><p></p><p> 1.menggunakan bahan pengganti misalnya hasil metaurgi (campuran )</p><p>2.mengembangkan metode penambangan dan pemprosesan yg lebih efisien serta dapat didaur ulang .</p><p>3melaksanakan etika lingkungan dgn menjaga kelestarian alam .</p><p>2 Mengapa manusia mesti memanfaatkan SDA dengan baik?Manusia harus memanfaatkan sumber daya alam dengan bijak agar sumber daya alam tersebut tidak cepat habis dan bisa digunakan oleh anak cucu kita kelak. - Selain itu, penggunaan sumber daya alam secara bijak akan membuat lingkungan tetap lestari dan terjaga.</p><p>3Bagaimana hubungan penggunaan kertas yang boros dengan kerusakan hutan？Hubungan penggunaan kertas yang boros disebabkan oleh banyaknya orang yang menggunakan kertas sebagai coret-coretan atau mengasal pada saat menulis.</p><p></p><p>Kerusakan hutan disebabkan oleh manusia yang tidak bertanggung jawab dan menebang pohon tersebut.</p><p></p><p>Hubungan antara kertas boros dan kerusakan hutan adalah kertas yang dibuang begitu saja, kerusakan hutan oleh orang yang menebang pohon</p><p>4 Sebutkan tiga cara menghemat penggunaan kertas!</p>Tidak dengan mudah membuang kertas. ...Memaksimalkan penggunaan kertas yaitu menggunakan semua bagian sisi kertas seperti saat mencetak, gunakan kedua sisi kertas.Mengumpulkan sisa-sisa kertas untuk dapat dikelolah atau didaur ulang lagi.<p>5 Tuliskan empat cara membatasi penggunaan energi listrik di rumah?</p><p></p><p>1Cabut Kabel/Peralatan Dari Saklar Saat Tidak Digunakan.</p><p>2. Gunakan Listrik Dengan Sistem Pulsa.</p><p>3. Hemat Pemakaian Lampu. </p><p>4. Gunakan AC Seperlunya. </p><p></p><p></p><p><strong>Penjelasan:</strong></p><p># semoga bermanfaat </p><br />
+                                            <h2 class="ez-toc-section" id="1-jelaskan-pengertian-komik-dan-sebutkan-ciri-cirinya-2-apa-yang-kalian-tahu-dengan-komik-strip-dan-komik-buku-3-jelaskan-yang-dimaksud-dengan-komik-edukasi-dan-komikpromosi-4-sebut">
+                            11. 1. Jelaskan pengertian komik dan sebutkan ciri-cirinya !.....2. Apa yang kalian tahu dengan komik strip dan komik buku...!3. Jelaskan yang dimaksud dengan komik edukasi dan komikpromosi !.....4. Sebutkan syarat-syarat menggambar komik!....5. Buatlah komik humor di kertas selembar....!​jawab yang bener jangan ngasal dikumpulin nya sekarang soalnya tolong bantu jawab yah love u</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. komik merupakan sebuah karya seni yang memuat komposisi antara huruf dan gambar</p><p>ciri utama komik mempunyai sifat menarik perhatian mata sehingga yang membaca ikut tertarik</p><p></p><p></p><p>2.</p>Komik setrip adalah sebuah gambar atau rangkaian gambar yang berisi cerita. Strip komik ditulis dan digambar oleh seorang kartunis, dan diterbitkan secara teratur (biasanya harian atau mingguan) di surat kabar dan di Internet. komik buku adalah komik yang di kemas dalam bentuk buku<p></p><p></p><p>3.komik edukasi adalah seni pada media cetak</p><p>komik  komikpromosi adalah komik untuk mempromosikan</p><p></p><p>4.</p> menentukan topikmembuat kalimat singkatmenggunakan gambarmenggunakan media tepat<p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-inggris-kls-7tugas-keterampilan-kd-4-7-2buatlah-di-kertas-selembardikumpulkan-ketika-tatap-mukaarrange-the-jumbled-sentences-into-agood-paragraph-of-descriptive-textsusunlah-kalimat-kalimat-a">
+                            12. BAHASA INGGRIS KLS 7TUGAS KETERAMPILAN KD 4.7.2BUATLAH DI KERTAS SELEMBAR,DIKUMPULKAN KETIKA TATAP MUKAARRANGE THE JUMBLED SENTENCES INTO AGOOD PARAGRAPH OF DESCRIPTIVE TEXT(SUSUNLAH KALIMAT KALIMAT ACAK TERSEBUTMENJADI SEBUAH PARAGRAF TEKS DESCRIPTIVE)• There are some plants and flowers there.• My house is not small or big.• Because of that, I love my house verymuch.• It has three bedrooms, one bathroom, oneliving room, one kitchen/dining room.• The house is clean and comfortable to livein.• In front of the house, there is a small park.• Behind the house, there is a garden and arabbit in the cage.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>•My House Is Not Small Or Big</p><p>•Because Of That, I Love My House Very Much</p><p>•It Has Three Bedrooms, One Bathroom, One Living Room, One Kitchen/Dining Room</p><p>•The House Is Clean And Comfortable To Live Ini</p><p>•In Front Of The House, There Is A Small Park</p><p>•There Are Some Plants And Flowers There</p><p>•Behind The House, There Are Is A Garden And A Rabbit In The Cage</p><p><strong>Penjelasan:</strong></p><p>Maaf Kalau Salah</p><p><strong>Jawaban:</strong></p><p>My house is not small or big. It has three bedrooms , one bathroom , one living room , one kitchen / dining room. The house is clean and comfortable to live in.</p><p>Behind the house , there is a garden and a rabbit in the cage. In front of the house , there is a small park. There are some plants and flower there . </p><p>Because of that , i love my house very much</p><p><strong>Penjelasan:</strong></p><p>May this help's you to get greater grade's and i am sorry if there is any wrong answers :) </p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-rumus-pythagorassudut-terpanjang-pada-segitiga-siku-siku-disebutnote-sebagai-permintaan-maaf-kenapa-jarjit-kalau-pantun-ngomongnya-dua-tiga-dulu-karena-yang-nomor-satu-cuman-kam">
+                            13. Sebutkan Rumus rumus Pythagoras!!Sudut Terpanjang Pada Segitiga siku siku disebut?Note :Sebagai Permintaan maaf :Kenapa Jarjit kalau Pantun ngomongnya dua tiga dulu??..Karena yang nomor satu Cuman kamu ☺❤Seneng dech jadi pengen pantun hahahaPantun Dulu gak sehhhhh...Dua tiga Kucing melintasCintaku bukan diatas kertasDua tiga main layang layang I Love Raniku Sayank Sekian Terima kasih [tex]\large{ \tt{ \color{orange}{My}{ \color{red}{name}{ \color{gray}{is}{ \color{purple}{Rifki}{ \color{lavender}{32}}}}}}} \\  [/tex][tex] \:  \:  \:  \:  \:  \:  \: cirebon \:  28 \: 2  \: 2022[/tex]​</h2><br />
+                        <p>rumus Pythagoras</p><p>a²+b²= c²</p><br />
+                                            <h2 class="ez-toc-section" id="kak-tolong-bantu-jawab-besok-di-kumpulkan-jadi-jawab-yg-benar-g-ngasal-jawab%e2%9c%85ga-ngasal%e2%9c%85ku-beri-love%e2%9c%85jika-jawab-semua-nya-jadikan-jawaban-terbaik%e2%9c%85-jika-jawab-semuan">
+                            14. kak tolong bantu jawab besok di kumpulkan!!! jadi jawab yg benar g ngasal!! Jawab✅Ga ngasal✅ku beri love✅jika jawab semua nya Jadikan jawaban terbaik✅ jika jawab semuanya dengan benar COPAS❌Ngasal❌​​​di beri poin gede ✅​​​​​​​​​yg di jawab no 1,2,3,6,9,101. perhatikan persyaratan berikut (1) komposisi yang terdiri atas huruf dan gambar di atas media kertas atau kain yang berukuran besar. (2) menggunakan bahasa yang singkat jelas dan tidak rancu agar mudah dipahami (3) perpaduan warna tidak kuat dan tidak kontras (4) tidak dapat ditempel di dinding dan tempat umum ciri-ciri poster ditunjukkan oleh nomor...a. (3) dan (4) b. (2) dan (3) c. (1) dan (3)d. (1) dan (2) 2. Langkah pertama dalam membuat poster adalah...a. menentukan posisi poster akan diletakkan b. menentukan sasaran dan tujuan pembuatan poster c. membuat rencana perkiraan jumlah poster yang akan diproduksi d. menentukan desain dan ukuran poster gambar no 3jenis poster tersebut berdasarkan isinya adalah...a. poster layanan Masyarakatb. poster kegiatanc. poster pendidikand. poster karya seni  ​</h2><br />
+                        <p>Jawaban:</p><p>1. d. (1) dan (2) .</p><p>2. b. menentukan sasaran dan tujuan pembuatan poster .</p><p>3. a. poster layanan Masyarakat.</p><p>6. gada soalnya.</p><p>9. a. 1,2, dan 3.</p><p>10. a. mempublikasikan suatu kegiatan.</p><p></p><p>Penjelasan:</p><p>maaf untuk no 6 tolong soalnya ya dek....tulis di kolom komentar biar ntar ku edit dan ku jawab</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-ringkasan-dari-novel-london-love-story-2-minimal-4-page-atau-4-kertas-dan-tuliskan-nama-pengarang-dan-penerbitnya-siapa-tolong-dijawab-besok-dikumpulin-pliss-entar-saya-kasih-jawaban-yang-terb">
+                            15. buatlah ringkasan dari novel london love story 2 minimal 4 page atau 4 kertas dan tuliskan nama pengarang dan penerbitnya siapa tolong dijawab besok dikumpulin pliss entar saya kasih jawaban yang terbaik</h2><br />
+                        Judul buku : London Love Story<br /><br />Penulis : Tisa TS<br /><br />Penulis pendamping : Stanley Meulen<br /><br />Penyunting : M. Kahfie Julianto<br /><br />Penerbit : Loveable<br /><br />Tahun terbit : Desember 2015<br /><br />Tebal buku : 192 halaman, 12,7 x 20.5 cm<br /><br />ISBN : 978-602-72989-7-2<br /><br />Review Unsur Intrinsik Novel London Love Story<br /><br />Resensi novel london love story berawal dari cerita tentang empat orang <br />mahasiswa berasal dari Indonesia yang sedang kuliah di ibu kota London <br />negara inggris. Mereka adalah Caramel, Bima, Dave, dan Adelle. Caramel <br />merupakan seorang gadis yang terlahir dari keluarga sederhana yang <br />sukses dalam meraih cita-cita untuk kuliah di London, Inggris.<br /><br />Caramel hidup bersama ibunya dan tinggal di Jakarta. sedangkan ayah <br />Caramel sudah lama wafat. Ia berusaha dengan gigih untuk hidup di <br />London, meskipun caramel sibuk kuliah, Caramel juga bekerja paruh waktu <br />di sebuah kedai pizza yang berada di kota london.<br /><br />Karakter seorang Caramel adalah gadis yang mandiri, ceria lagi cantik <br />dan manis. Bentuk tubuhnya tidak terlalu tinggi namun caramel selalu <br />terlihat cantik karena model dan cara berpakaian-nya sangat menarik <br />seperti pakaian perempuan London pada umumnya.<br /><br />Namun siapa sangka, di balik kecantikan dan keceriaan-nya, ternyata <br />Caramel menyimpan kesedihan yang mendalam tentang mantan pacarnya. Walau<br />hatinya sedih Caramel selalu bisa menyembunyikan kesedihan tersebut di <br />hadapan teman-temannya. termasuk seorang Bima, yang sudah lama berteman <br />dan diam diam memendam perasaan kepadanya.<br /><br />Bima merupakan sosok sahabat sejati bagi seorang Caramel, karakter-nya <br />dalam novel ini diceritakan baik, perhatian, pengertian, suka membuat <br />kejutan, namun terkadang juga suka membuat kesal dikarenakan tingkah <br />spontannya yang seringkali membuat Caramel bingung dan bimbang.<br /><br />Bima adalah seorang lelaki dengan perawakan bertubuh besar dan tegap <br />selalu berusaha untuk mendekati Caramel, namun sangat disayangkan <br />Caramel tidak merespon cintanya dengan baik. Alasan yang diberikan hanya<br />karena mantan pacarnya.<br /><br />Lain halnya dengan sosok laki-laki Indonesia yang juga berkuliah di <br />London bernama Dave. Dia adalah seorang yang tampan, kaya, dan menjadi <br />sosok idaman setiap wanita. Gaya Hidup-nya sangat glamour dan serba <br />mewah. Suatu hari, ketika Dave mengahadiri sebuah acara pesta ulang <br />tahun temannya yang juga berasal dari Indonesia bernama Bayu di sebuah <br />klub ternama yang berada di kota London.<br /><br />Ketika itu Dave tak berlama lama mengikuti pesta, entah kenapa ia <br />langsung pulang, dan bergegas menyalakan mobilnya. Disaat menyusuri <br />indahnya jalanan di kota London yang terang. Dave terkejut karena <br />melihat seorang wanita yang mengenakan pakaian gaun pengantin berwarna <br />putih sedang berdiri di pinggir Tower Bridge, tepatnya di jembatan <br />terkenal di kota London.<br /><br />Karena rasa penasaran, Dave berhenti dan memarkirkan mobil-nya di sisi <br />jembatan. Saat itu , Dave sangat terkejut ketika wanita itu mulai <br />memanjat pagar jembatan lalu ingin bunuh diri. Karena penasaran Dave <br />segera mendatangi wanita itu. Ternyata wanita itu juga berasal dari <br />Indonesia.<br /><br />Dave berusaha mencegah dengan cara menakuti-nakuti wanita itu supaya <br />tidak jadi bunuh diri. Tetapi, wanita itu tetap bersikeras ingin loncat.<br />Saat wanita itu tergelincir untungnya Dave segera menolongnya. Setelah <br />kejadian itu Mereka pun berkenalan.<br /><br />Dave pun jadi tahu siapa wanita itu dan apa masalahnya, wanita itu <br />adalah Adelle. karena kelelahan Adelle tiba tiba jatuh pingsan. Rasa <br />takut terjadi hal hal yang tidak di inginkan dave membawa adelle ke <br />apartemen miliknya.<br /><br />Saat itu ketika Caramel sedang bekerja paruh waktu di kedai pizza, <br />ketika ia membuat pizza dan berjaga di tempat kasir pembayaran, <br />tiba-tiba seorang Bima muncul dengan membawa boneka lucu untuk <br />memberikan sebuah kejutan kepada Caramel, lagi lagi Bima berusaha untuk <br />mencari perhatiannya Caramel.<br /><br />Sifat Bima memang tidak pantang menyerah, ia selalu berusaha untuk <br />mendapatkan cinta dari Caramel, di saat yang sama, Bima ingin mengajak <br />Caramel untuk pergi jalan-jalan. Awalnya Caramel menolak ajakan <br />tersebut, namun karena tingkah Bima yang sedikit konyol, akhirnya <br />Caramel menerima ajakan Tersebut.<br /><br />Di dalam apartemen milik Dave, Adelle masih belum sadarkan diri. Dave <br />dengan suka rela menjaga Adelle. Sudah beberapa lama kemudian akhirnya <br />Adelle sadar dan kaget bukan main saat melihat Dave. Ketika pertemuannya<br />dengan Dave, diketahui saat itu Adelle beniat bunuh diri di karenakan <br />gagal menikah dengan pasangan-nya yang berasal dari London.<br /><br />Karena rasa putus asa, adelle pun memilih nekat bunuh diri. Dan ia <br />berkata kepada Dave bahwa ia sudah tidak punya siapa-siapa lagi di <br />London. Karena Dave memiliki sifat baik hati ia mengizinkan Adelle untuk<br />sementara waktu tinggal di apartemen miliknya.<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/giflqV66Bcg?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/penerapan-motivasi-dalam-organisasi/">Penerapan Motivasi Dalam Organisasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-lagu-persija-ayo-the-jak/">Download Lagu Persija Ayo The Jak</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-kalimat-necessity/">Contoh Kalimat Necessity</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/kawanda-unej/">Kawanda Unej</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/nonton-drama-korea-doctors-subtitle-indonesia/">Nonton Drama Korea Doctors Subtitle Indonesia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-un-bahasa-inggris-sma-2023-pdf/">Soal Un Bahasa Inggris Sma 2023 Pdf</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-bahasa-inggris-kelas-8-semester-1-dan-kunci-jawaban/">Soal Bahasa Inggris Kelas 8 Semester 1 Dan Kunci Jawaban</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/pendidikan-agama-islam-kelas-7-kurikulum-2013/">Pendidikan Agama Islam Kelas 7 Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-bahasa-inggris-pertamina-pdf/">Contoh Soal Bahasa Inggris Pertamina Pdf</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/http-spmb-unp-ac-idmandiri-2023/">Http //spmb.unp.ac.id/mandiri 2023</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/oppo-cph1717-lupa-pola/">Oppo Cph1717 Lupa Pola</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-aplikasi-input-data/">Download Aplikasi Input Data</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/hp-1000-1b09au-driver/">Hp 1000-1b09au Driver</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-kelas-1-tema-7-subtema-1/">Soal Kelas 1 Tema 7 Subtema 1</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-penyusutan-aktiva-tetap-metode-garis-lurus/">Contoh Soal Penyusutan Aktiva Tetap Metode Garis Lurus</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-tes-toefl-dan-pembahasannya/">Contoh Soal Tes Toefl Dan Pembahasannya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-merubah-game-ps2-menjadi-game-pc-tanpa-emulator/">Cara Merubah Game Ps2 Menjadi Game Pc Tanpa Emulator</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/test-online-bahasa-indonesia-kelas-6/">Test Online Bahasa Indonesia Kelas 6</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-rasio-keuangan/">Soal Rasio Keuangan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/limit-x-mendekati-tak-terhingga/">Limit X Mendekati Tak Terhingga</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

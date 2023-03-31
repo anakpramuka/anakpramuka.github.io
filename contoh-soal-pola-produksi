@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contoh Soal Pola Produksi - BELAJAR</title>
+    <meta name="description" content="Contoh Soal Pola Produksi, , , , , , , 0, , , , , , 0, contoh-soal-pola-produksi, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contoh Soal Pola Produksi - BELAJAR" />
+    <meta property="og:description" content="Contoh Soal Pola Produksi, , , , , , , 0, , , , , , 0, contoh-soal-pola-produksi, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Contoh Soal Pola Produksi - BELAJAR" />
+    <meta name="twitter:description" content="Contoh Soal Pola Produksi, , , , , , , 0, , , , , , 0, contoh-soal-pola-produksi, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Contoh Soal Pola Produksi</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">habibunayka</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Contoh+Soal+Pola+Produksi" alt="Contoh Soal Pola Produksi">
+                    </div>
+                    <p></p>
+                    <p>1. Jelaskan yang dimaksud dengan produksi!
+2. Jelaskan 4 jenis nilai guna barang dan masing-masing berikan contoh!
+3. a. Jelaskan 3 tujuan produsen dalam memproduksi barang !
+ b. jelaskan 4 faktor produksi!
+4. Jelaskan dan berikan contoh 3 jenis tenaga kerja!
+5. a. Jelaskan pengertian distribusi!
+ b. Jelaskan 5 tujuan distribusi!
+6. a. Kemukakann 4 lembaga distribusi!
+ b. Kemukakan 3 saluran distribusi dan contohnya!
+7. a. Jelaskan pengertian konsumsi!
+ b. Kemukakan 6 faktor yang mempengaruhi pola konsumsi!
+*Poin Sesuai Jumlah Soal</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-yang-dimaksud-dengan-produksi2-jelaskan-4-jenis-nilai-guna-barang-dan-masing-masing-berikan-contoh3-a-jelaskan-3-tujuan-produsen-dalam-memproduksi-barang-b-jelaskan-4-faktor-pro">1.
+                                            1. Jelaskan yang dimaksud dengan produksi!
+2. Jelaskan 4 jenis nilai guna barang dan masing-masing berikan contoh!
+3. a. Jelaskan 3 tujuan produsen dalam memproduksi barang !
+ b. jelaskan 4 faktor produksi!
+4. Jelaskan dan berikan contoh 3 jenis tenaga kerja!
+5. a. Jelaskan pengertian distribusi!
+ b. Jelaskan 5 tujuan distribusi!
+6. a. Kemukakann 4 lembaga distribusi!
+ b. Kemukakan 3 saluran distribusi dan contohnya!
+7. a. Jelaskan pengertian konsumsi!
+ b. Kemukakan 6 faktor yang mempengaruhi pola konsumsi!
+*Poin Sesuai Jumlah Soal</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#susa-untuk-soal-no-26-sd-35-adalah-soal-bentuk-isian-b-isilah-titik-%e2%80%93-titik-di-bawah-ini-dengan-benar-jelas-dan-singkat-26-indonesia-akan-menjadi-bangsa-yang-kuat-apabila-warganya-senant">2.
+                                            SUSa. Untuk soal no 26 s/d 35 adalah soal bentuk isian.b. Isilah titik – titik di bawah ini dengan benar, jelas dan singkat !26. Indonesia akan menjadi bangsa yang kuat apabila warganya senantiasa menjaga27. Rakyat bersatu dalam mendukung pelaksanaan pembangunan, maka dapat meningkatan28. Negara Indonesia merdeka sejak 17 Agustus 1945.Aspek yang digunakan pada kalimat tersebut adalah29. Menggunakan struktur bahasa yang tepat dan memenuhi kaidah ejaan yang berlaku adalah ciriciri dari kalimat ....30. Belalang sering hinggap pada daun untuk menyesuaikan warna dan bentuk tubuhnya. Caratersebut disebut dengan ....31.Buah naga, kunyit, dan daun pandan adalah contoh tanaman yang dapat dimanfaatkansebagai ...Contoh sikap positif seorang siswa selaku pelajar yang menunjukkan menghargai kemerdekaanadalah ....3233. Upaya pemerintah untuk meningkatkan produksi bahan pangan pada masa awal kemerdekaandengan melaksanakan ....34. Tujuan penggunaan pola lantai pada sebuah tari adalah untuk.....35Pola lantai dir​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kakak-cantik-dan-ganteng-tolong-di-jawab-ya-soal-nya1-materi-zat-tunggal-adlh-2-yg-di-madsud-zat-campuran-homogen-adlh-3-air-gula-merupakan-contoh-dari-jenis-materi-4-sebagian-besar-penduduk">3.
+                                            Kakak cantik dan ganteng tolong di jawab ya soal nya
+1.materi zat tunggal adlh...
+2.yg di madsud zat campuran homogen adlh...
+3.air gula merupakan contoh dari jenis materi...
+4.sebagian besar penduduk yg tinggal di dataran tinggi memiliki mata pencaharian sbg...
+5.suatu kegiatan untuk memproduksi barang dan jasa di sebut
+6.distribusi adlh
+7.salah 1 ciri tanggga nada diatonis minor adlh...
+8.pola lantai yg banyak di gunakan dlm tarian adlh pola lantai...
+9.batik motif sidomukti berasal dari daerah...
+10.sebutkan usaha untk membina persatuan dan kesatuan...
+11.sebutkan unsur unsur dlm iklan
+KAKAK CANTIK DAN GANTENG TOLONG DI JAWAB YA SOAL NYA BESOK DI KUMPUL KAN YG JWB DPT POIN DAN PAHALA AMINNN</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-penerapan-sistem-pemerintahan-yang-terbuka-dan-transparan-merupakan-bentuk-globalisasi-di-bidang-a-politikb-sosialc-budayad-ekonomi8-jika-modernisasi-adalah-suatu-bentuk-proses-perubahan-d">4.
+                                            7. Penerapan sistem pemerintahan yang terbuka dan transparan merupakan bentuk globalisasi di bidang ....a. politikb. sosialc. budayad. ekonomi8. Jika modernisasi adalah suatu bentuk proses perubahan dari cara-cara tradisional ke cara-cara yang lebih maju, maka westernisasi adalah suatu bentuk proses ....a. penolakan budaya Baratb. peniruan budaya Baratc. pembenaran budaya Baratd. pemfilteran budaya Barat9. Manfaat yang diperoleh masyarakat atas berkembangnya arus modernisasi adalaha. menghemat biaya hidupb. meningkatkan keuntunganc. meningkatkan kualitas hidupd. mengurangi pencemaran lingkungan10. Contoh bentuk kemajuan hasil modernisasi dan globalisasi di bidang ekonomi adalah adanya ...a. direct marketingb. multilevel marketingc. sistem kredit bunga menurund. telemarketing11. Pengaruh negatif atas terjadinya modernisasi yang dirasakan masyarakat adalah ....a. mengembangkan kreativitas masyarakatb. menumbuhkan sikap disiplin yang tinggic. berkembangnya perilaku individualisd. meningkatnya kualitas hidup12. Salah satu penyebab masyarakat maumenerima globalisasi adalah ....a. mengganggu pola tingkah lakub. mampu menggoyahkan integrasi bangsac. rasa tidak puas dengan keadaan yang adad. mengganggu pola pikir masyarakat13. Dampak negatif dari globalisasi sebagaiberikut, kecuali ....a. cultural shockb. memperkaya ilmuc. cultural lagd. kerusakan lingkungan14. Ketika unsur-unsur kebudayaan tidakkembang secara bersamaan, maka akanmemunculkan sesuatu yang dinamakanc. lagcultural ....a. shockb. animousityd. gap15. Ketimpangan kebudayaan dirasa sangatmencolok jika ketimpangan atau keterting-galan yang terjadi di bidang ....a. ekonomib. teknologic. alam pemikirand. komunikasi16. Salah satu syarat terbentuknya suatu ma-syarakat adalah ....a. kelompok orang yang memiliki tempattinggal yang berinteraksi dan salingmembutuhkanb. memiliki adat istiadatc. masing-masing anggota merasa bagiandari kesatuan sosiald. sekelompok orang pada suatu tempat17. Selain hasil modernisasi berupa alat-alatperlengkapan, ada juga hasil modernisasidi bidang sikap dan nilai. Di antaranya ....a. menghargai semua tingkah laku orangBaratb. meniru mode dan kebiasaan masyarakatAmerikaC. menolak seluruh tradisi masyarakat desadl. menghargai waktu dan meningkatkandisiplin18. Modernisasi yang berkembang di suatunegara dapat diukur melaluia. perkembangan produk imporb. pudarnya jati diri suatu bangsapenguasaan proses produksi modernd. penerapan iptek secara bertanggungjawab19. Adanya perkembangan barang, misalnyaradio, internet dan televisi dapat menunjuk-kan bahwa komunikasi global semakin ....a. lambatc. lemahb. cepatd. kuat20. Peristiwa politik di dunia yang mampumenggerakkan globalisasi adalah ....a. munculnya Gerakan Non Blokb. runtuhnya komunisme Uni Sovietc. Cina menutup diri dari kapitalismed. runtuhnya tembok Berlin di JermanTolong dibantu ya, soalnya mau dipakai buat PAS nanti :")​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-bagaimana-sikap-menghargai-kebudayaan-daerah2-sebutkan-manfaat-kerjasama3-apa-manfaat-dari-kegiatan-diskusimusyawarah4-sebutkan-gagasan-pokok-dan-gagasan-pendukung-dari-paragraf-dibawah-rum">5.
+                                            1. Bagaimana sikap menghargai kebudayaan daerah?2. Sebutkan manfaat kerjasama!3. Apa manfaat dari kegiatan diskusi/musyawarah?4. Sebutkan gagasan pokok dan gagasan pendukung dari paragraf dibawah !Rumah Adat Joglo merupakan rumah adat yang berasal dari suku jawa yang kebanyakan bermukim di Jawa Tengah, dan Jawa Timur , dan Daerah Istimewa Yogyakarta. Ketiga provinsi ini memiliki budaya yang hampir sama juga bangunan rumah adat yang hampir mirip satu sama lainnya . Rumah joglo dari Jawa tengah terkenal dengan gaya arsitekturnya yang unik dan sarat akan nilai filosofis tentang pola tingkah laku manusia dalam bermasyarakat, bahkan setiap sudut ruangan dan bentuk rumah ini memiliki makna tersendiri yang membuatnya semakin unik dan istimewa .Panjang garis pantai kabupaten yang berada paling ujung timur Pulau Jawa ini sekitar 175 kilometer. Dengan potensi besarnya, Banyuwangi konsisten menjadi penghasil ikan laut terbesar setelah Bagan Siapiapi. Dan bahkan, hingga kini masih terus mendominasi hasil perikanan di Indonesia, baik perikanan tangkap maupun industri perikanan lainnya. Kabupaten di ujung timur Pulau Jawa ini telah berhasil melakukan ekspor hingga ke 18 negara.Sistem pengalengan sudah cukup maju. Ditambah lagi industri besar di Pelabuhan Muncar, Banyuwangi terus berkembang. Kabupaten ini sendiri mencatatkan pertumbuhan produksi ikan tangkap yang konsisten, yaitu sebesar 31.600 ton pada 2011 dan naik cukup besar menjadi 44.570 ton pada tahun berikutnya.Pada tahun 2013, produksi ikan tangkap Banyuwangi mencapai 49.539 ton, dengan jenis ikan tangkap terbanyak adalah ikan layang dan lemuru. Dalam bidang perikanan, Bayuwangi menyerap banyak tenaga kerja, mulai dari nelayan, pekerja industri perikanan, hingga industri rumahan.Tuliskan gagasan pokok &amp; gagasan pendukung pada bacaan diatas! 5. Ujian Sekolah telah usai, kini hasil ujian siswa dibagikan. Dalam deretan daftar mahasiswa yaitu Heri, Udin, Alan dan Nana mendapatkan nilai yang memuaskan yaitu mendapatkan nilai 10 untuk mata pelajaran Matematika.Sedangkan untuk siswa lain kebanyakan hanya mendapatkan nilai 70-90 dan hanya satu orang yang mendapat nilai kurang dari 70. Dari keseluruhan nilai mata pelajaran Matematika dapat disimpulkan bahwa siswa cukup bagus dalam mengerjakan soal Matematika.Apa gagasan pokok dalam bacaan diatas?6. Sebutkan contoh kerjasama dalam keberagaman di lingkungan masyarakat!7. Fahombo Batu merupakan budaya yang berasal dari.... 8. Bunyi tidak bisa merambat pada ….9. Jelaskan proses terjadinya pendengaran!10. Tuliskan macam-macam bunyi pantul!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#21-di-bawah-ini-yang-merupakan-masalah-sosial-dari-faktor-ekonomis-ialah%e2%80%a6%e2%80%a6a-kemiskinan-dan-pengangguranb-penyakit-saraf-depresi-dan-bunuh-diric-perceraian-dan-kenaka">6.
+                                            21.	
+Di bawah ini yang merupakan masalah sosial dari faktor ekonomis ialah……
+A. 		
+kemiskinan dan pengangguran
+B. 		
+penyakit saraf, depresi, dan bunuh diri
+C. 		
+perceraian dan kenakalan remaja
+D. 		
+pencurian, konflik ras dan etnis
+E. 		
+penyakit menular
+22.	
+Kerja sama antara karyawan suatu pabrik dengan pengusaha dalam rangka memproduksi barang dagangan  termasuk bentuk kerja sama……
+A. 		
+terpadu
+B. 		
+kontrak
+C. 		
+spontan 
+D. 		
+langsung
+E. 		
+tradisional
+23.	
+Lembaga pengendalian sosial yang bertugas memberikan kejelasan mengenai status hukum dari sebuah persoalan hukum adalah…
+A. 		
+Kantor Urusan Agama
+B. 		
+tokoh masyarakat
+C. 		
+pengadilan
+D. 		
+kepolisian
+E. 		
+tokoh adat
+24.	
+Mahasiswa asal Maluku tinggal bersama di sebuah asrama milik organisasi masyarakat Makassar. Dan mahasiswa asal Ambon juga tinggal bersama di asrama masyarakat Makassar. Struktur sosial tersebut berpengaruh positif terhadap…
+A. 		
+integrasi sosial
+B. 		
+kesenjangan sosial
+C. 		
+disintegrasi sosial
+D. 		
+konflik horizontal
+E. 		
+proses amalgamasi
+25.	
+Orang – orang yang menduduki lapisan sosial yang berdasarkan ukuran kekuasaan misalnya…
+A. 		
+orang yang berjasa besar di suatu negara
+B. 		
+semua guru yang bekerja dengan tekun
+C. 		
+para pejabat pemerintah
+D. 		
+ilmuwan dan cendekiawan
+E. 		
+pedagang kaki lima
+26.	
+Kehidupan masyarakat desa terlihat tenang, aman, dan tenteram, karena semua warganya bertindak sesuai dengan status dan peranan masing – masing. Dalam ilustrasi ini unsur keteratutan sosial yang terlihat adalah…
+A. 		
+keteraturan sosial
+B. 		
+tertib sosial
+C. 		
+keajegan
+D. 		
+pola
+E. 		
+order
+27.	
+Jika seorang pemuda terbiasa bergaul dengan orang – orang yang berperilaku menyimpang, seperti berandalan, pemabuk, atau pecandu narkoba, lambat laun pemuda tersebut akan berperilaku menyimpang juga atau mengikuti perbuatan – perbuatan itu. Perilaku menyimpang yang dilakukan pemuda tersebut disebabkan oleh…
+A. 		
+perbedaan budaya masyarakat
+B. 		
+pengaruh budaya asing menyimpang
+C. 		
+dorongan kebutuhan ekonomi
+D. 		
+proses belajar menyimpang
+E. 		
+sakit mental yang tidak sehat
+28.	
+Konflik yang terjadi antara Pakistan dengan India mengenai persoalan Kashmir merupakan bentuk contoh konflik sosial yaitu…
+A. 		
+konflik antarsuku
+B. 		
+konflik internasional
+C. 		
+konflik antarkelompok
+D. 		
+konflik politik
+E. 		
+konflik antargenerasi
+29.	
+Diana dan Dita sudah sekian lama terlibat konflik. Apa yang menjadi penyebabnya, mereka pun sulit menjelaskan. Oleh karena merasa tak lagi mampu menyelesaikan perselisihan sendiri, akhirnya mereka mengundang pihak ketiga untuk menengahi serta memberikan nasihat-nasihat.
+Dalam kasus ini, pihak ketiga tadi disebut…
+A. 		
+konselor
+B. 		
+mediato
+C. 		
+arbitrator
+D. 		
+perekayasa sosial
+E. 		
+fasilitator
+30.	
+Permasalahan antara karyawan dengan perusahaan menyangkut besaran gaji akhirnya bisa diatasi dengan meminta bantuan pemerintah. Dimana pemerintah sebagai pihak ketiga menetapkan upah minimum untuk gaji karyawan. Sehingga masalah pun terselesaikan. Pada ilustrasi ini penyelesaian konflik berbentuk…
+A. 		
+arbitrasi
+B. 		
+konsiliasi
+C. 		
+koersi
+D. 		
+kompromi
+E. 		
+mediasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#latihan-soal-ips-untuk-kelas-8-1-contoh-perubahan-ruang-akibat-perkembangan-teknologi-transportasi-dinegara-thailand-adalah-pembangunan-2-untuk-mengatasi-kebakaran-hutan-negara-negara-asean-bekerja">7.
+                                            LATIHAN SOAL IPS UNTUK KELAS 8 1. Contoh perubahan ruang akibat perkembangan teknologi transportasi dinegara Thailand adalah pembangunan 2. Untuk mengatasi kebakaran hutan negarä-negara asean bekerja säma bentuk interaksi keruangan yang dipengaruhi oleh faktor 3. Negara-negara asean memiliki pola arah angin muson timur dan muson barat karena berada 4. Hasi tambang terbesar di negara asia tenggara adalah.. 5. Tbukota negara vietnam dan thailand. 6. Puncak tertinggi gunung tahan, titiwangsa merupa kan pegunungan terpanjan8, tanahnya tidak subur yang dapat digunakan sebaga tanaman kelapa. Gambaran bentang alam negara 7. Kasus pulau sipadan dan ligitan merupakan kasuskehidupan politik mengena 8. Faktor penghambat kerjasama asean. 9. Negara-negara yang berbatasan langsung dengan wilayah indonesia . 10.Asean council teachers convention bentuk kerjasama dibidang 11. Bentuk kerjasama dibidang sosial dan budaya negara asean 12.Akibat perkembangan teknologi transfortasi dan komunikasi dalam bidang budaya.. 13. Interaksi sosial yang terjadi antara pengungsi manusia perahu di dorong rasa... 14. Upaya meningkatkan pendidlikan di asia tenggara dengan negara asean memberikan. 15. Menciptakan keamanan dan perdamaian salah satu tujuan negara asean dibidang.. 16. Tujuan utama kerjasama dibidang ekonomi negara asean.. 17. Bentuk kerjasama bidang ekonomi yang bertujuan meningkatkan daya saing ekonomi sebagai basis produksi pasar dunia. 18. Kerjasama negara penghasil minyak bumi seperti OPEC didorong oleh faktor. 19. Kondisi bentang alam negara thailand .. 20. Sumber perekonomian utama Brunai Darussalam adalah sektor ....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dampak-globalisasi-bagi-indonesiaglobalisasi-adalah-satu-proses-penyebaran-hal-hal-baru-khususnya-yang-menyangkutinformasi-secara-mendunia-melalui-media-cetak-dan-elektronik-secara-terbatas-globali">8.
+                                            Dampak Globalisasi Bagi IndonesiaGlobalisasi adalah satu proses penyebaran hal-hal baru, khususnya yang menyangkutinformasi secara mendunia melalui media cetak dan elektronik. Secara terbatas, globalisasiterbentuk oleh adanya kemajuan di bidang komunikasi dunia. Contohnya, melalui televisi padaacara siaran berita kita dapat melihat dan memperoleh informasi dalam waktu yang singkat.Globalisasi memberikan manfaat dan juga membawa dampak bagi kehidupan bangsaIndonesia. Manfaat adalah hal-hal positif dari globalisasi, sedangkan dampak merupakan akibatnegatif dari globalisasi. Manfaat dan dampak globalisasi bagi bangsa Indonesia meliputi berbagaibidang sosial budaya, ekonomi, maupun pendidikan.Pada bidang ekonomi, globalisasi memberi manfaat yaitu meningkatkan kemampuanberkompetisi dan meningkatkan kualitas produksi dalam negeri untuk menaikkan pendapatan perkapita masyarakat. Sementara akibat negatifnya adalah timbulnya persaingan tidak sehat sehinggahanya yang bermodal kuat yang akan menguasainya.Globalisasi dalam bidang sosial budaya dapat memperluaswawasan budaya, meningkatkankemampuan bahasa asing, meningkatkan pengetahuan, mengubah sikap mental ke arah yanglebih baik meningkatkan produktivitas kerja, dan memberikan arah dalam perilaku. Dampak negatifglobalisasi dalam bidang sosial dan budaya antara lain meningkatnya individualisme, perubahanpada pola kerja, serta terjadinya pergeseran nilai kehidupan dalam masyarakat.Bangsa Indonesia sebagai bagian dari masyarakat internasional tidak akan terlepas daripengaruh globalisasi. Perubahan yang diakibatkan oleh globalisasi dapat memberikan manfaatyang positif maupun negatif bagi bangsa Indonesia. Oleh sebab itu, bangsa Indonesia harusmemiliki filter untuk menangkal dampak negatif dari globalisasi sehingga hal positif akibat adanyaglobalisasi bisa dimanfaatkan secara optimal.itu teks nya↑↑↑ini soalnya↓↓↓tulislah ringkasan informasi penting dari teks ''dampak globalisasi bagi indonesia jawab ya ok makasih (•‿•)^_^^_^(•‿•)#jawab_asal_ripot ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#saat-ini-masyarakat-mulai-menyadari-gaya-hidup-sehat-dengan-mengatur-pola-makan-tidak-melulu-soal-rasa-tetapi-lebih-pada-cara-makanan-di-olah-di-produksi-secara-aman-dan-sehat-bahkan-makanan-organi">9.
+                                            Saat ini masyarakat mulai menyadari gaya hidup sehat dengan mengatur pola makan.Tidak melulu soal rasa , tetapi lebih pada cara makanan di olah di produksi secara aman dan sehat. Bahkan makanan organik berupa sayur dan sumber protein hewani, menjadi contohnya . Bahan pangan organik di yakini aman karena sistem pertanianya tidak menggunakan pupuk kimia,pestisida ,dan benih transgenik.Sumber protein hewani ,seperti sapi, ayam atau ungags,di piara tanpa antibiotikdan hormon pertumbuhan .{. . . } Konsumsilah bahan pangan yang di kelola secara organik.19.	Konjungsi dan penanda kohesi –koherensi yang tepat untuk melengkapi teks tersebut *​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-saat-ini-terdapat-bermacam-macam-alat-komunikasi-modern-berikut-ini-yang-termasuk-alat-komunikasimodem-adalahc-traktord-mobil3-teknologi-pertanian-masa-kini-dalam-mengolah-tanah-menggunakan">10.
+                                            2. Saat ini terdapat bermacam-macam alat komunikasi modern. Berikut ini yang termasuk alat komunikasimodem adalahC. traktorD. mobil3. Teknologi pertanian masa kini dalam mengolah tanah menggunakan ....C. cangkulB. kerbauD. traktor4. Salah satu kelemahan teknologi produksi masa lalu adalahA menggunakan tenaga mesinC hasilnya sangat jelekB. menimbulkan polusi parahD. proses pengerjaannya lama5. Alat komunikasi modern seperti telepon genggam dapat dibawa ke berbagai tempat. Hal ini menunjukkanbahwa alat komunikasi modern itu lebihC. praktisB bagusD. kuat6. Teinologi informasi berikut dipengaruhi oleh globalisasi, kecuali ....A hentonganC. radioD. satelit1 Contoh dampak positif dari modernisasi adalah ....A. sifat pemalasC. sifat pekerja kerasB sifat konsumtifD. sifat diktator8. Dampak negatif dari modernisasi, antara lain kekeluargaan dan gotong royong semakin berkurang. Hal iniA sumber daya manusia sedikitC. banyak industri di kota besarB modemnisasi kurang berhasilD. pengaruh pola hidup kebarat-baratan9. Berikut ini yang merupakan kendaraan darat yang digunakan pada masa lampau adalahC. kapal uapB. pesawatD. kereta api10 Dampak positif dari modernisasi transportasi modem terhadap kehidupan bermasyarakat adalahA meningkatkan rasa individualismeC. sumber daya manusia menjadi lebih sedikitmempercepat waktu perjalananD. banyak polusi yang terjadiB. Isilah soal berikut dengan jawaban yang tepat!bantu jawab dong soal nya mau di kumpulkan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-sebutkan-macam-macam-tanggung-jawab-yg-dimiliki-manusia2-sebutkan-5-hak-kita-sebagai-wsrga-masyarakat3-jelaskan-cara-yg-dapat-dilakukan-untuk-dapat-menemukan-informasi-padasebuah-teks4-jelaskan-pe">11.
+                                            1. sebutkan macam-macam tanggung jawab yg dimiliki manusia2.sebutkan 5 hak kita sebagai wsrga masyarakat3.jelaskan cara yg dapat dilakukan untuk dapat menemukan informasi padasebuah teks4. jelaskan pengertian cerita pedek 5. apa penting nya udara bersih bagi kesehatan manusia6. mengapa kita harus menjaga pola hidup sehat7. sebutkan 5 contoh kegiatan produksi8. mengapa setiap orang yg melakukan kegiatanusahaekonomi harus memiliki rasa tanggung jawab 9. sebutkan jenis jenis tangga nada diatonis minor 10. sebutkan persiapan persiapan yg harus dilakukan sebelum melaksanakan peragaan karya tari tolong dijawab kak soalnya besok mau di kumpulkan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pilihan-ganda-19-soal-bantu-jawab-ya-kak-jangan-ngasal-jangan-cuma-numpang-poin-doang1-sebuah-perubahan-yang-terjadi-dalam-kehidupan-masyarakat-di-mana-dalam-perubahan-ini-masyarakat-mulai-meninggalk">12.
+                                            PILIHAN GANDA 19 SOAL BANTU JAWAB YA KAK JANGAN NGASAL JANGAN CUMA NUMPANG POIN DOANG1. Sebuah perubahan yang terjadi dalam kehidupan masyarakat di mana dalam perubahan ini masyarakat mulai meninggalkan berbagai macam kebiasaan dan pola hidup tradisional yang sudah tidak lagi relevan, menuju ke pola kehidupan yang jauh lebih modern dan sesuai dengan perkembangan zaman disebut .... a. globalisasib. transformasic. modernisasid.adaptasi2. Berikut ini merupakan salah satu ciri masyarakat modern adalah .... *a. sikapnya yang lebih terbuka terhadap sesuatu yang barub. menutup diri terhadap perkembangan teknologic. selalu memegang teguh kearifan lokald. menolak segala bentuk teknologi3. Di bawah ini merupakan faktor yang sangat menentukan diterima atau ditolaknya suatu perubahan sebagai bagian dari modernisasi adalah .... a. perkembangan dari negara lainb. kebijakan para pemimpin negarac. kekayaan yang dimiliki seseorangd. sikap mental dan budaya suatu masyarakat4. Berikut merupakan sikap mental yang bisa menjadi pendorong modernisasi adalah.... a. disiplin, bersaing, egois, jujurb. jujur, malas, peduli lingkunganc. rajin, tepat waktu, takut mengambil risikod. tepat waktu, berani mengambil risiko, disiplin5. Di bawah ini bukan merupakan dampak positif modernisasi adalah .... a. sikap individualisme lebih mendominasib. berkembangnya ilmu pengetahuan dan teknologic. adanya transfer teknologi dari negara maju kepada negara berkembangd. membuat cara berpikir masyarakat berubah, semula irasional menjadi rasional6. Sikap dan perilaku yang muncul karena dampak negatif modernisasi, kecuali.... a. individualismeb. konsumtifc. empatid. egois7. Berikut ini adalah kekurangan teknologi transportasi modern, yaitu .... a. menimbulkan pencemaran udarab. menggunakan teknologi canggihc. daya jangkau cepat dan jauhd. nyaman saat dikendarai8. Perkembangan teknologi juga berdampak pada bidang transportasi. Saat ini, untuk bepergian ke daerah atau pulau lain manusia tidak membutuhkan waktu lama. Kemudahan itu dapat diperoleh jika manusia menggunakan .... a. pesawat terbangb. sepeda motorc. kapal lautd. mobil9. Di bawah ini yang termasuk dampak negatif dari perubahan sosial budaya, kecuali .... a. gaya hidup kebarat-baratanb. pola hidup konsumtifc. pola hidup hematd. kesenjangan sosial10. Berikut manfaat ditemukannya transportasi udara adalah .... a. menghambat pengiriman barangb. pengiriman barang ke luar negeri lebih cepatc. mematikan pasaran dalam negerid. membutuhkan biaya banyak dan waktu yang lama11. Salah satu cara yang tepat dalam menyikapi adanya penemuan di bidang elektronik adalah .... a. selalu memakai alat elektnonik untuk mengerjakan segala sesuatub. bermalas-malasan dengan alat elektronik yang dimilkic. menggunakan alat elektronik dengan tepatd. tidak menggunakan alat elektronik dalarn kehidupannya12. Berkembangnya jenis kendaraan yang bisa dipakai adalah contoh modernisasi di bidang …. a. perindustrianb. pertanianc. transportasid. komunikasi13. Untuk mencegah dampak negatif modernisasi maka kita perlu …. a. berpegang teguh kepada nilai dan normab. melihat berbagai barang negara asingc. membeli produk milik asingd. membuat saingan produk negara lain14. Bentuk contoh modernisasi yang ada di Indonesia serta masyarakat dunia yang paling sering ditemukan adalah .... a. penggunaan facebook, instagram, twitter dan media sosial lainnya untuk berkomunikasi dengan orang lainb. penghitungan hasil produksi barang dan jasa yang dilakukan perusahaan dilakukan secara manualc. pedagang keliling menjajakan dagangannya dengan berjalan kakid. bepergian ke luar negeri menggunakan kapal laut15. Modernisasi di bidang teknologi, orang cenderung menggunakan aplikasi ini sebagai petunjuk jalan, aplikasi yang dimaksud adalah .... a. google meetb. google slidec. google mapsd. google doc16. Perusahaan negara yang melayani angkutan darat yaitu .... a. DAMRIb. BUMNc. TELKOMd. KIA17. Dampak positif modernisasi sistem transportasi darat terhadap kelangsungan hidup masyarakat yaitu .... a. mobilitas barang dan orang terganggub. pencemaran udarac. biaya transportasi umum menjadi mahald. mempersingkat waktu18. Menimbulkan perilaku konsumtif, menimbulkan ketergantungan, meningkatkan angka kecelakaan lalu lintas merupakan dampak negatif modernisasi terhadap .... a. lingkungan alamb. teknologi pariwisatac. kehidupan masyarakatd. industri otomotif19. Modernisasi di bidang transportasi membuat polusi udara yang meningkat, berikut ini salah satu cara untuk mengurangi polusi udara adalah.... a. menggunakan kendaraan bermotor untuk bepergian jarak dekatb.bepergian menggunakan kendaraan umumc. tidak membeli kendaraan bermotord. menebang pepohonan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-contoh-penerapan-prinsip-ekonomi-dalam-kegiatan-ekonomi1-menggunakan-tenaga-kerja-dengan-upah-murah2-menyalurkan-barang-dengan-prinsip-tepat-sasaran3-menggunakan-barang-dengan-mutu-baik">13.
+                                            Berikut contoh penerapan prinsip ekonomi dalam kegiatan ekonomi!(1) menggunakan tenaga kerja dengan upah murah(2) menyalurkan barang dengan prinsip tepat sasaran(3) menggunakan barang dengan mutu baik(4) menggunakan bahan mentah yang bermutu baik(5) harus hemat untuk menekan biaya produksiYang tergolong penerapan prinsip ekonomi dalam kegiatan produksi adalah...A. (1), (2), dan (3)B. (1), (3), dan (4)C. (2), (3), dan (5)D. (3), (4), dan (5)3.3.4 Menjelaskan Kegiatan ProduksiBerikut adalah faktor-faktor produksi kecuali...A. barang/jasaB. tenaga kerjaC. modalD. kewirausahaanBerikut ini yang termasuk kegiatan produksi adalah...A. Ibu memasak nasi di dapurB. Petani menanam cabai di sawahC. Adik membeli es krim bersama temanD. Arman membeli pulpen di koperasi sekolahTujuan manusia melakukan produksi adalah...A. memperoleh laba/keuntunganB. memenuhi kebutuhan hidupC. memperoleh barang/jasa yang diinginkanD. menghabiskan nilai guna barang3.3.5 Menjelaskan Kegiatan DistribusiKegiatan ekspor barang ke luar negeri termasuk kegiatan...A. kerjasama ekonomiB. distribusi tidak langsungC. konsumsi internasionalD. produksi masyarakat asingBerikut adalah kegiatan ekonomi masyarakat!(1) Perusahaan menghasilkan barang kebutuhan sehari-hari(2) Pengusaha karet mengekspor barang ke Jerman(3) Perusahaan sepatu mengangkut hasil produk ke setiap pedagang resminya(4) Pabrik tekstil menerima penambahan karyawan baru(5) Pedagang souvenir menjual barang di berbagai tempat lokasi pariwisataYang termasuk kegiatan distribusi adalah...A. (1), (2), dan (3)B. (1), (3), dan (4)C. (2), (3), dan (5)D. (3), (4), dan (5)Kegiatan berikut yang termasuk distribusi langsung adalah...A. Aluh berkeliling kampung menjual tahuisi buatan ibunyaB. Pada musim panen petani menjual hasilnya kepada tengkulakC. Pengusaha roti menjual produknya ke pengecerD. Pengrajin sepatu menjual produknya di koperasi3.3.6 Menjelaskan Kegiatan KonsumsiFaktor berikut yang mempengaruhi pola konsumsi seseorang adalah...A. pajakB. biaya produksiC. kemajuan teknologiD. pendapatanTindakan menghabiskan atau mengurangi nilai guna barang dan atau jasa disebut...A. produksiB. distribusiC. konsumsiD. nutrisiContoh kegiatan konsumsi yang menghabiskan nilai guna suatu barang adalah...A. Seorang ayah membelikan anaknya sepeda baruB. Bu Susi baru pulang membeli perabot rumahC. Bintang dan sekeluarga makan di warung makanD. Habib membeli atribut pramuka di koperasiSampai di sini mungkin teman-teman juga tertarik melihat perangkat penilaian berikut yang memiliki indikator sama dengan soal-soal di atas yaitu:Genap: pelaksanaan penilaian harian 1 (PH-1) IPS kelas VII.3.3.7 Menjelaskan Kaitan antara Permintaan, Penawaran dan HargaKesediaan penjual untuk menjual berbagai barang pada berbagai tingkat harga dalam waktu tertentu disebut...A. keinginanB. kebutuhanC. permintaanD. penawaranBerikut adalah faktor-faktor yang mempengaruhi permintaan dan penawaran!(1) pendapatan(2) biaya produksi(3) teknologi(4) jumlah penduduk(5) bencana alamFaktor yang mempengaruhi penawaran adalah...A. (1), (2), dan (3)B. (2), (3), dan (4)C. (2), (3), dan (5)D. (3), (4), dan (5)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-sebagai-umat-beragama-dan-percaya-dengan-adanya-tuhansebelum-melaksanakan-suatu-kegiatan-maka-sebaiknya-kita-%e2%80%a6-2-keberagaman-budaya-di-indonesia-akan-tetap-terjaga-apabila-ditanamkan-sika">14.
+                                            1. Sebagai umat beragama dan percaya dengan adanya tuhan,sebelum melaksanakan suatu kegiatan maka sebaiknya kita ….2. Keberagaman budaya di Indonesia akan tetap terjaga apabila ditanamkan sikap ....3. Indonesia terkenal dengan keberagaman budaya yang dimiliki. Keberagaman budaya yang dimiliki Indonesia bisa ada karena Indonesia memiliki keberagaman….4. Untuk menemukan informasi penting tentang suatu proses dalam bacaan menggunakan kata tanya ….5. Tanggal berapakah diperingati sebagai hari air sedunia ….6. Bagian cerita yang paling mendebarkan dan menegangkan dalam cerita terdapat pada bagian…cerita7. Made sedang mencuci pakaian. Setelah selesai mencuci, Made lupa menutup keran air sehingga air menetes terus- menerus. Tindakan Made menunjukkan prilaku .… 8. Akibat yang akan terjadi apabila daerah resapan air berkurang ....9. Syarat air bersih tidak mengandung kuman penyakit merupakan syarat secara ….10. Nano adalah seorang pengusaha yang berasal dari Maluku. Ia memiliki lahan yang luas yang digunakan untuk menanam cengkih. Ketika panen tiba, akan ada pengepul yang datang untuk membeli cengkih dari kebunnya. Usaha yang dilakukan Nano termasuk dalam jenis usaha ….11. Orang yang melakukan kegiatan produksi disebut ....12. Kegiatan memproses atau mengolah barang dengan menggunakan sarana dan peralatandisebut ....13. Perhatikan gambar berikut ini !Tarian pada gambar di atas menggunakan pola lantai garis .…14. Rancangan gambar yang dibuat sesuai gagasan disebut ....15. Arang, Kapur, dan Crayon termasuk bahan pewarnaan dengan teknik ....III. Jawablah pertanyaan-pertanyaan di bawah ini dengan benar!1. Tuliskan 3 cara melestarikan tarian daerah!2. Bacalah paragraf berikut untuk menjawab soal 2!Keberadaan air bersih sangat penting bagi kehidupan kita. Sumber air bersih harus kita jaga. Hal tersebut karena banyak kegiatan kita secara tidak langsung memengaruhi daur air. Kita juga dapat berperan menjaga sumber air bersih dengan cara melakukan penghematan. Berdasarkan bacaan di atas, apa yang dapat kita lakukan untuk mencukupi kebutuhan air bersih yang semakin meningkat?3. Jelaskan secara singkat proses daur air!4. Apakah perbedaan industri besar dan industri kecil?5. Sebutkan 3 contoh tari kreasi beserta daerah asalnya!tolong di jawab semuanya soalnya besok di kumpul​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-jenis-otoritas-yang-berpengaruh-terhadap-pola-kepemimpinan-dan-pengambilan-keputusan-menurut-weber-2-menurut-saudara-mengapa-terjadi-diferensiasi-dalam-sebuah-organisasi-jelaskan-3-jela">15.
+                                            1 Jelaskan jenis otoritas yang berpengaruh terhadap pola kepemimpinan dan pengambilan keputusan menurut Weber? 2 Menurut Saudara, mengapa terjadi diferensiasi dalam sebuah organisasi? Jelaskan! 3 Jelaskan cara-cara yang dapat dilakukan organisasi untuk membakukan perilaku anggota organisasi?
+Untuk Tugas 2, mahasiswa diminta menjelaskan strategi pemasaran suatu produk yang berada dalam tahap pertumbuhan.
+Soal 1 Jelaskan sumber pemborosan pada sistem operasional perusahaan! 2 Menjelaskan langkah serta perbedaan dalam PERT dan CPM! 3 Jelaskan metode dan tahapan penugasan!
+Jelaskan strategi yang dapat diterapkan perusahaan pada awal membuat pasar sasaran dengan menggunakan Analisis Matriks Portofolio, saat kondisi daya tarik pasar rendah namun perusahaan mempunyai kekuatan bisnis yang tinggi! 2. - Berikan analisis daur hidup produk pada tahap kedewasaan dengan menjelaskan karakteristik pasar dan perilaku pembelian, baik dalam hal tingkat penjualan, harga, kompetisi, margin/keuntungan yang didapat. - Kemudian sampaikan strategi harga dan promosi yang seharusnya dilakukan perusahaan, jelaskan. 3. - Apakah Anda setuju, bahwa dengan menerapkan strategi mempertahankan, strategi defensif, dan strategi inovasi dapat membuat produk menikmati tahapan kedewasaan lebih lama dan menguntungkan, jelaskan. - Jelaskan juga tiga cara yang dapat dilakukan perushaan dalam strategi inovasi produk pada tahap kedewasaan! 4. Apakah Anda setuju periklanan dilakukan untuk menciptakan citra merek dan menjadi daya tarik simbolik bagi persuhaan atau merek sehingga produk menjadi lebih dikenal oleh pasar, jelaskan. Jelaskan juga alasan yang membuat
+1 Jelaskan langkah-langkah pemecahan optimal dengan metode simpleks! 2 Suatu perusahaan menjual barang hasil produksinya di tiga daerah penjualan, yaitu Lampung, Bandung dan Surabaya. Perusahaan itu memiliki tiga buah pabrik yang menghasilkan barang tersebut, yaitu di Jakarta, Tanggerang dan Bekasi , kebutuhan barang di tiap-tiap gudang penjualan sebagai berikut: Lampung (L) = 80 Ton Bandung (Ba) = 60 Ton Surabaya (S) = 40 Ton Kapasitas produksi tiap-tiap pabrik sebagai berikut: Jakarta (J) = 50 ton Tanggerang (T) = 60 Ton Bekasi (Be) = 70 Ton Biaya Pengangkutan dari tiap gudang penjualan setiap ton sebagai berikut (dalam ribu rupiah) Ke Dari Lampung (L) Bandung (Ba) Surabaya (S) Jakarta (J) 17 5 20 Tanggerang (T) 19 10 32 Bekasi (Be) 20 12 26 Selesaikanlah alokasi optimal dari data di atas dengan menggunakan metode vogel!
+1. Jelaskan apa yang anda ketahui mengenai metode payback period, Internal Rate of Return, net present value dan Profitability indeks! 2. Kemanfaatan suatu proyek terhadap ekonomi nasional haruslah dianalisis, jelaskan dari aspek yang perlu dianalisis!
+2. Terdapat keterkaitan antara perencanaan strategik dan anggaran. Apa yang Anda ketahui mengenai perencanaan strategik dan pengaruhnya terhadap anggaran? Berikan contohnya. 2. Balanced Scorecard membantu manajemen dalam menentukan tingkat pencapaian perencanaan strategik. Apa yang Anda ketahui mengenai balanced scorecard? Jelaskan dan berikan contoh kasus mengenai balanced scorecard di Indonesia. 3. Penyusunan anggaran disusun dengan melibatkan seluruh manajemen perusahaan. Menurut Anda bagaimana posisi manajemen dalam proses penganggaran dan fungsi anggaran dalam kegiatan manajerial? Berikan contohnya.</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="1-jelaskan-yang-dimaksud-dengan-produksi2-jelaskan-4-jenis-nilai-guna-barang-dan-masing-masing-berikan-contoh3-a-jelaskan-3-tujuan-produsen-dalam-memproduksi-barang-b-jelaskan-4-faktor-pro">
+                            1. 1. Jelaskan yang dimaksud dengan produksi!
+2. Jelaskan 4 jenis nilai guna barang dan masing-masing berikan contoh!
+3. a. Jelaskan 3 tujuan produsen dalam memproduksi barang !
+ b. jelaskan 4 faktor produksi!
+4. Jelaskan dan berikan contoh 3 jenis tenaga kerja!
+5. a. Jelaskan pengertian distribusi!
+ b. Jelaskan 5 tujuan distribusi!
+6. a. Kemukakann 4 lembaga distribusi!
+ b. Kemukakan 3 saluran distribusi dan contohnya!
+7. a. Jelaskan pengertian konsumsi!
+ b. Kemukakan 6 faktor yang mempengaruhi pola konsumsi!
+*Poin Sesuai Jumlah Soal</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Produksi merupakan kegiatan menghasilkan barang maupun jasa atau kegiatan menambah nilai kegunaan atau manfaat suatu barang. </p><p></p><p>2. 4 macam nilai guna barang adalah :</p><p></p><p>1. Form utility</p><p></p><p>2. Service utility</p><p></p><p>3. Time utility</p><p></p><p>4. Place utility</p><p></p><p>3.A. Tujuan produsen mrnghasilkan barang, yaitu untuk memenuhi kebutuhan para konsumen selain itu banyak produsen yang membuka lapangan pekerjaan untuk orang lain, karena dalam menghasilkan barang seorang pemilik sebuah usaha membutuhkan karyawan, serta bertujuan untuk mencari laba</p><p></p><p>3.B.4 faktor pendukung yaitu sumber daya alam, tenaga kerja manusia, modal atau aset, serta kewirausahaan</p><p></p><p>4.  -tenaga kerja terdidik, contohnya:Dokter, Polisi, Guru,dll.</p><p> -Tenaga kerja terlatih, contohnya:Akuntan, Teknisi, Sopir,dll.</p><p> -Tenaga kerja tak terlatih, contohnya:kuli bangunan, buruh cuci, buruh rongsok,dll.</p><p></p><p>5.A. Distribusi adalah salah satu aspek dari pemasaran. Distribusi juga dapat diartikan sebagai kegiatan pemasaran yang berusaha memperlancar dan mempermudah penyampaian barang dan jasa dari produsen kepada konsumen. DIstribusi dilakukan sehingga penggunaannya sesuai dengan yang diperlukan. </p><p>B. - menstabilkan harga barang/jasa.</p><p>- mempercepat sampainya produksi ke tangan konsumen.</p><p>- menjaga kesinambungan kegiatan produksi.</p><p>- menjaga kelangsungan hidup perusahaan</p><p></p><p>6. A. eksportir.</p><p>importir.</p><p>koperasi konsumsi.</p><p>supermarket, swalayan, mal.</p><p>pedagang kaki lima (PKL)</p><p></p><p>6.B. Ada dua sistem distribusi dalam penyaluran hasil produksi, yakni:</p><p></p><p>Distribusi langsung</p><p>Distribusi langsung merupakan distribusi yang dilakukan secara langsung kepada masyarakat (konsumen) oleh produsen tidak melalui perantara.</p><p></p><p>Contoh dari distribusi langsung seperti, nelayan yang menjual hasil tangkapannya langsung kepada konsumen.</p><p></p><p></p><p>Distribusi tidak langsung</p><p>Distribusi tidak langsung merupakan penyaluran hasil produksi kepada konsumen melalui perantara tidak produsen langsung.</p><p></p><p></p><p>Contohnya bisa lewat pedagang yang membeli dan menjual kembali hasil produksi tanpa merubah bentuk dan tanggungjawab sendiri dengan tujuaan mendapatkan keuntungan.</p><p>Kemudian pedagang menjual hasil produksi ke konsumen bisa di pasar.</p><p></p><p>7.A.Konsumsi merupakan pembelanjaan barang dan jasa oleh rumah tangga. Barang tersebut meliputi pembelanjaan rumah tangga pada barang yang tahan lama, misalnya meja, kursi, motor, dan lainnya.</p><p>7B. Pendapatan, Harga Barang dan Jasa, Adat Istiadat dan Kebiasaan Konsumen, Barang Pengganti, Jumlah Penduduk, Banyaknya Barang yang Dikonsumsi, Dugaan Masyarakat Terhadap Perubahan Harga, Selera</p><p></p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p><p>maaf kalo ada yg kurang tepat </p><br />
+                                            <h2 class="ez-toc-section" id="susa-untuk-soal-no-26-sd-35-adalah-soal-bentuk-isian-b-isilah-titik-%e2%80%93-titik-di-bawah-ini-dengan-benar-jelas-dan-singkat-26-indonesia-akan-menjadi-bangsa-yang-kuat-apabila-warganya-senant">
+                            2. SUSa. Untuk soal no 26 s/d 35 adalah soal bentuk isian.b. Isilah titik – titik di bawah ini dengan benar, jelas dan singkat !26. Indonesia akan menjadi bangsa yang kuat apabila warganya senantiasa menjaga27. Rakyat bersatu dalam mendukung pelaksanaan pembangunan, maka dapat meningkatan28. Negara Indonesia merdeka sejak 17 Agustus 1945.Aspek yang digunakan pada kalimat tersebut adalah29. Menggunakan struktur bahasa yang tepat dan memenuhi kaidah ejaan yang berlaku adalah ciriciri dari kalimat ....30. Belalang sering hinggap pada daun untuk menyesuaikan warna dan bentuk tubuhnya. Caratersebut disebut dengan ....31.Buah naga, kunyit, dan daun pandan adalah contoh tanaman yang dapat dimanfaatkansebagai ...Contoh sikap positif seorang siswa selaku pelajar yang menunjukkan menghargai kemerdekaanadalah ....3233. Upaya pemerintah untuk meningkatkan produksi bahan pangan pada masa awal kemerdekaandengan melaksanakan ....34. Tujuan penggunaan pola lantai pada sebuah tari adalah untuk.....35Pola lantai dir​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>26. persatuan dan kesatuan</p><p>27. pembangunan yang baik dan kesejahteraan rakyat akan meningkat. </p><p>28. kapan</p><p>29. kalimat efektif</p><p>30. mimikri</p><p>31. konsumsi</p><p>32. 1) Menghormati para pejuang yang telah memperjuangkan Bangsa Indonesia.</p><p>2) Belajar dengan sungguh-sungguh, agar mendapat ilmu dan mengharumkan Nama Bangsa Indonesia.</p><p>33. Pinjaman Nasional</p><p>Program Pinjaman Nasional ini dilaksanakan oleh Menteri Keuangan. lr. Surachman. Pinjaman Nasional akan dibayar kembali selama jangka waktu 40 tahun.</p><p></p><p>Pembentukan Badan Perancang Ekonomi</p><p>Pembentukan Badan ini atas inisiatif Menteri Kemakmuran, dr. A.K. Gani. Badan ini merupakan badan tetap yang bertugas membuat rencana pembangunan ekonomi untuk jangka waktu 2 sampai 3 tahun.</p><p></p><p>Rencana Kasimo (Kasimo Plan)</p><p>Program ini disusun oleh Menteri Urusan Bahan Makanan I.J. Kasimo. Program ini berupa Rencana Produksi Tiga Tahun, 1948-1950 mengenai usaha swasembada pangan dengan beberapa petunjuk pelaksanaan yang praktis.</p><p></p><p>34. Untuk membuat penari tidak bertabrakan dengan penari lainnya, sehingga letaknya sinkron atau sesuai. </p><p></p><p>#semangat</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kakak-cantik-dan-ganteng-tolong-di-jawab-ya-soal-nya1-materi-zat-tunggal-adlh-2-yg-di-madsud-zat-campuran-homogen-adlh-3-air-gula-merupakan-contoh-dari-jenis-materi-4-sebagian-besar-penduduk">
+                            3. Kakak cantik dan ganteng tolong di jawab ya soal nya
+1.materi zat tunggal adlh...
+2.yg di madsud zat campuran homogen adlh...
+3.air gula merupakan contoh dari jenis materi...
+4.sebagian besar penduduk yg tinggal di dataran tinggi memiliki mata pencaharian sbg...
+5.suatu kegiatan untuk memproduksi barang dan jasa di sebut
+6.distribusi adlh
+7.salah 1 ciri tanggga nada diatonis minor adlh...
+8.pola lantai yg banyak di gunakan dlm tarian adlh pola lantai...
+9.batik motif sidomukti berasal dari daerah...
+10.sebutkan usaha untk membina persatuan dan kesatuan...
+11.sebutkan unsur unsur dlm iklan
+KAKAK CANTIK DAN GANTENG TOLONG DI JAWAB YA SOAL NYA BESOK DI KUMPUL KAN YG JWB DPT POIN DAN PAHALA AMINNN</h2><br />
+                        <p>jawab:</p><p></p><p>1). Materi zat tunggal adalah <strong>Unsur</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>Se</strong><strong>nyawa</strong><strong>,</strong><strong>contohnya</strong><strong> </strong><strong>Oksigen</strong><strong>(</strong><strong>O</strong><strong>)</strong><strong>,</strong><strong>Nitrogen</strong><strong>(</strong><strong>N</strong><strong>)</strong><strong>,</strong><strong> Hidrogen</strong><strong> (</strong><strong>H</strong><strong>)</strong><strong>,</strong><strong>dan</strong><strong> </strong><strong>Karbon</strong><strong>(</strong><strong>C</strong><strong>)</strong></p><p></p><p>2). Campuran homogen adalah campuran yang komposisinya sama/seragam </p><p></p><p>3). Air gula merupakan contoh dari jenis materi Canpuran homogen </p><p></p><p>4). Berkebun/bercocok tanam sayur-sayuran</p><p></p><p>5). Kegiatan Produksi</p><p></p><p>6). Distribusi adalah kegiatan menyalurkan barang dari produsen ke konsumen</p><p></p><p>9). Berasal dari daerah Solo</p><p></p><p>10). - Saling toleransi/solidaritas</p><p>- Menghargai perbedaan</p><p>- Cinta tanah air dan bangsa</p><p></p><p>Make The Best Answer</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="7-penerapan-sistem-pemerintahan-yang-terbuka-dan-transparan-merupakan-bentuk-globalisasi-di-bidang-a-politikb-sosialc-budayad-ekonomi8-jika-modernisasi-adalah-suatu-bentuk-proses-perubahan-d">
+                            4. 7. Penerapan sistem pemerintahan yang terbuka dan transparan merupakan bentuk globalisasi di bidang ....a. politikb. sosialc. budayad. ekonomi8. Jika modernisasi adalah suatu bentuk proses perubahan dari cara-cara tradisional ke cara-cara yang lebih maju, maka westernisasi adalah suatu bentuk proses ....a. penolakan budaya Baratb. peniruan budaya Baratc. pembenaran budaya Baratd. pemfilteran budaya Barat9. Manfaat yang diperoleh masyarakat atas berkembangnya arus modernisasi adalaha. menghemat biaya hidupb. meningkatkan keuntunganc. meningkatkan kualitas hidupd. mengurangi pencemaran lingkungan10. Contoh bentuk kemajuan hasil modernisasi dan globalisasi di bidang ekonomi adalah adanya ...a. direct marketingb. multilevel marketingc. sistem kredit bunga menurund. telemarketing11. Pengaruh negatif atas terjadinya modernisasi yang dirasakan masyarakat adalah ....a. mengembangkan kreativitas masyarakatb. menumbuhkan sikap disiplin yang tinggic. berkembangnya perilaku individualisd. meningkatnya kualitas hidup12. Salah satu penyebab masyarakat maumenerima globalisasi adalah ....a. mengganggu pola tingkah lakub. mampu menggoyahkan integrasi bangsac. rasa tidak puas dengan keadaan yang adad. mengganggu pola pikir masyarakat13. Dampak negatif dari globalisasi sebagaiberikut, kecuali ....a. cultural shockb. memperkaya ilmuc. cultural lagd. kerusakan lingkungan14. Ketika unsur-unsur kebudayaan tidakkembang secara bersamaan, maka akanmemunculkan sesuatu yang dinamakanc. lagcultural ....a. shockb. animousityd. gap15. Ketimpangan kebudayaan dirasa sangatmencolok jika ketimpangan atau keterting-galan yang terjadi di bidang ....a. ekonomib. teknologic. alam pemikirand. komunikasi16. Salah satu syarat terbentuknya suatu ma-syarakat adalah ....a. kelompok orang yang memiliki tempattinggal yang berinteraksi dan salingmembutuhkanb. memiliki adat istiadatc. masing-masing anggota merasa bagiandari kesatuan sosiald. sekelompok orang pada suatu tempat17. Selain hasil modernisasi berupa alat-alatperlengkapan, ada juga hasil modernisasidi bidang sikap dan nilai. Di antaranya ....a. menghargai semua tingkah laku orangBaratb. meniru mode dan kebiasaan masyarakatAmerikaC. menolak seluruh tradisi masyarakat desadl. menghargai waktu dan meningkatkandisiplin18. Modernisasi yang berkembang di suatunegara dapat diukur melaluia. perkembangan produk imporb. pudarnya jati diri suatu bangsapenguasaan proses produksi modernd. penerapan iptek secara bertanggungjawab19. Adanya perkembangan barang, misalnyaradio, internet dan televisi dapat menunjuk-kan bahwa komunikasi global semakin ....a. lambatc. lemahb. cepatd. kuat20. Peristiwa politik di dunia yang mampumenggerakkan globalisasi adalah ....a. munculnya Gerakan Non Blokb. runtuhnya komunisme Uni Sovietc. Cina menutup diri dari kapitalismed. runtuhnya tembok Berlin di JermanTolong dibantu ya, soalnya mau dipakai buat PAS nanti :")​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>7. A</p><p>8. B</p><p>9. C</p><p>10. A</p><p>11. C</p><p>12. C</p><p>13. B</p><p>14. cultural lag</p><p>15. A</p><p>16. A</p><p>17. D</p><p>18. D</p><p>19. B</p><p>20. B</p><br />
+                                            <h2 class="ez-toc-section" id="1-bagaimana-sikap-menghargai-kebudayaan-daerah2-sebutkan-manfaat-kerjasama3-apa-manfaat-dari-kegiatan-diskusimusyawarah4-sebutkan-gagasan-pokok-dan-gagasan-pendukung-dari-paragraf-dibawah-rum">
+                            5. 1. Bagaimana sikap menghargai kebudayaan daerah?2. Sebutkan manfaat kerjasama!3. Apa manfaat dari kegiatan diskusi/musyawarah?4. Sebutkan gagasan pokok dan gagasan pendukung dari paragraf dibawah !Rumah Adat Joglo merupakan rumah adat yang berasal dari suku jawa yang kebanyakan bermukim di Jawa Tengah, dan Jawa Timur , dan Daerah Istimewa Yogyakarta. Ketiga provinsi ini memiliki budaya yang hampir sama juga bangunan rumah adat yang hampir mirip satu sama lainnya . Rumah joglo dari Jawa tengah terkenal dengan gaya arsitekturnya yang unik dan sarat akan nilai filosofis tentang pola tingkah laku manusia dalam bermasyarakat, bahkan setiap sudut ruangan dan bentuk rumah ini memiliki makna tersendiri yang membuatnya semakin unik dan istimewa .Panjang garis pantai kabupaten yang berada paling ujung timur Pulau Jawa ini sekitar 175 kilometer. Dengan potensi besarnya, Banyuwangi konsisten menjadi penghasil ikan laut terbesar setelah Bagan Siapiapi. Dan bahkan, hingga kini masih terus mendominasi hasil perikanan di Indonesia, baik perikanan tangkap maupun industri perikanan lainnya. Kabupaten di ujung timur Pulau Jawa ini telah berhasil melakukan ekspor hingga ke 18 negara.Sistem pengalengan sudah cukup maju. Ditambah lagi industri besar di Pelabuhan Muncar, Banyuwangi terus berkembang. Kabupaten ini sendiri mencatatkan pertumbuhan produksi ikan tangkap yang konsisten, yaitu sebesar 31.600 ton pada 2011 dan naik cukup besar menjadi 44.570 ton pada tahun berikutnya.Pada tahun 2013, produksi ikan tangkap Banyuwangi mencapai 49.539 ton, dengan jenis ikan tangkap terbanyak adalah ikan layang dan lemuru. Dalam bidang perikanan, Bayuwangi menyerap banyak tenaga kerja, mulai dari nelayan, pekerja industri perikanan, hingga industri rumahan.Tuliskan gagasan pokok &amp; gagasan pendukung pada bacaan diatas! 5. Ujian Sekolah telah usai, kini hasil ujian siswa dibagikan. Dalam deretan daftar mahasiswa yaitu Heri, Udin, Alan dan Nana mendapatkan nilai yang memuaskan yaitu mendapatkan nilai 10 untuk mata pelajaran Matematika.Sedangkan untuk siswa lain kebanyakan hanya mendapatkan nilai 70-90 dan hanya satu orang yang mendapat nilai kurang dari 70. Dari keseluruhan nilai mata pelajaran Matematika dapat disimpulkan bahwa siswa cukup bagus dalam mengerjakan soal Matematika.Apa gagasan pokok dalam bacaan diatas?6. Sebutkan contoh kerjasama dalam keberagaman di lingkungan masyarakat!7. Fahombo Batu merupakan budaya yang berasal dari.... 8. Bunyi tidak bisa merambat pada ….9. Jelaskan proses terjadinya pendengaran!10. Tuliskan macam-macam bunyi pantul!​</h2><br />
+                        <p>1. Bagaimana sikap menghargai kebudayaan daerah?</p><p></p><p>||•Jawab•||</p><p>Dengan cara menghargai perbedaan tersebut,dan tidak saling membeda bedakan satu sama lain.</p><p></p><p>2. Sebutkan manfaat kerjasama!</p><p></p><p>||•Jawab•||</p><p>Supaya pekerjaan yang berat akan menjadi terasa ringan,dan pekerjaan akan lebih cepat selesai.</p><p></p><p>3. Apa manfaat dari kegiatan diskusi/musyawarah?</p><p></p><p>||•Jawab•||</p><p>Manfaatnya adalah kita dapat menyelesaikan masalah dengan cepat.</p><p></p><p>4. Sebutkan gagasan pokok dan gagasan pendukung dari paragraf dibawah !</p><p></p><p>||•Jawab•||</p><p>Gagasan pokok; Rumah Adat Joglo merupakan rumah adat yang berasal dari suku jawa yang kebanyakan bermukim di Jawa Tengah, dan Jawa Timur , dan Daerah Istimewa Yogyakarta. </p><p></p><p>Gagasan pendukung; Panjang garis pantai kabupaten yang berada paling ujung timur Pulau Jawa ini sekitar 175 kilometer. Dengan potensi besarnya, Banyuwangi konsisten menjadi penghasil ikan laut terbesar setelah Bagan Siapiapi. Dan bahkan, hingga kini masih terus mendominasi hasil perikanan di Indonesia, baik perikanan tangkap maupun industri perikanan lainnya.</p><p></p><p>5. Ujian Sekolah telah usai, kini hasil ujian siswa dibagikan. Dalam deretan daftar mahasiswa yaitu Heri, Udin, Alan dan Nana mendapatkan nilai yang memuaskan yaitu mendapatkan nilai 10 untuk mata pelajaran Matematika.</p><p>Sedangkan untuk siswa lain kebanyakan hanya mendapatkan nilai 70-90 dan hanya satu orang yang mendapat nilai kurang dari 70. Dari keseluruhan nilai mata pelajaran Matematika dapat disimpulkan bahwa siswa cukup bagus dalam mengerjakan soal Matematika.</p><p>Apa gagasan pokok dalam bacaan diatas?</p><p></p><p>||•Jawab•||</p><p>Ujian Sekolah telah usai, kini hasil ujian siswa dibagikan. Dalam deretan daftar mahasiswa yaitu Heri, Udin, Alan dan Nana mendapatkan nilai yang memuaskan yaitu mendapatkan nilai 10 untuk mata pelajaran Matematika.</p><p></p><p>6. Sebutkan contoh kerjasama dalam keberagaman di lingkungan masyarakat!</p><p></p><p>||•Jawab•||</p><p>1. Membangun ronda siskamling</p><p>2.Bergotong royong membersihkan selokan</p><p>3.Bergotong royong untuk membenarkan jalanan yang rusak</p><p></p><p>7. Fahombo Batu merupakan budaya yang berasal dari....</p><p></p><p>||•Jawab•||</p><p>Yogyakarta</p><p></p><p>8. Bunyi tidak bisa merambat pada ….</p><p></p><p>||•Jawab•||</p><p>Bunyi yang terdengar dengan sterofom/busa</p><p></p><p>9. Jelaskan proses terjadinya pendengaran!</p><p></p><p>||•Jawab•||</p><p>Dengan adanya trakea/keong pada telinga</p><p></p><p>10. Tuliskan macam-macam bunyi pantul!</p><p></p><p>||•Jawab•||</p><p></p><p>------</p><p></p><p></p><p>Maaf kalau salah ya</p><p></p><p>-Lysha:')</p><br />
+                                            <h2 class="ez-toc-section" id="21-di-bawah-ini-yang-merupakan-masalah-sosial-dari-faktor-ekonomis-ialah%e2%80%a6%e2%80%a6a-kemiskinan-dan-pengangguranb-penyakit-saraf-depresi-dan-bunuh-diric-perceraian-dan-kenaka">
+                            6. 21.	
+Di bawah ini yang merupakan masalah sosial dari faktor ekonomis ialah……
+A. 		
+kemiskinan dan pengangguran
+B. 		
+penyakit saraf, depresi, dan bunuh diri
+C. 		
+perceraian dan kenakalan remaja
+D. 		
+pencurian, konflik ras dan etnis
+E. 		
+penyakit menular
+22.	
+Kerja sama antara karyawan suatu pabrik dengan pengusaha dalam rangka memproduksi barang dagangan  termasuk bentuk kerja sama……
+A. 		
+terpadu
+B. 		
+kontrak
+C. 		
+spontan 
+D. 		
+langsung
+E. 		
+tradisional
+23.	
+Lembaga pengendalian sosial yang bertugas memberikan kejelasan mengenai status hukum dari sebuah persoalan hukum adalah…
+A. 		
+Kantor Urusan Agama
+B. 		
+tokoh masyarakat
+C. 		
+pengadilan
+D. 		
+kepolisian
+E. 		
+tokoh adat
+24.	
+Mahasiswa asal Maluku tinggal bersama di sebuah asrama milik organisasi masyarakat Makassar. Dan mahasiswa asal Ambon juga tinggal bersama di asrama masyarakat Makassar. Struktur sosial tersebut berpengaruh positif terhadap…
+A. 		
+integrasi sosial
+B. 		
+kesenjangan sosial
+C. 		
+disintegrasi sosial
+D. 		
+konflik horizontal
+E. 		
+proses amalgamasi
+25.	
+Orang – orang yang menduduki lapisan sosial yang berdasarkan ukuran kekuasaan misalnya…
+A. 		
+orang yang berjasa besar di suatu negara
+B. 		
+semua guru yang bekerja dengan tekun
+C. 		
+para pejabat pemerintah
+D. 		
+ilmuwan dan cendekiawan
+E. 		
+pedagang kaki lima
+26.	
+Kehidupan masyarakat desa terlihat tenang, aman, dan tenteram, karena semua warganya bertindak sesuai dengan status dan peranan masing – masing. Dalam ilustrasi ini unsur keteratutan sosial yang terlihat adalah…
+A. 		
+keteraturan sosial
+B. 		
+tertib sosial
+C. 		
+keajegan
+D. 		
+pola
+E. 		
+order
+27.	
+Jika seorang pemuda terbiasa bergaul dengan orang – orang yang berperilaku menyimpang, seperti berandalan, pemabuk, atau pecandu narkoba, lambat laun pemuda tersebut akan berperilaku menyimpang juga atau mengikuti perbuatan – perbuatan itu. Perilaku menyimpang yang dilakukan pemuda tersebut disebabkan oleh…
+A. 		
+perbedaan budaya masyarakat
+B. 		
+pengaruh budaya asing menyimpang
+C. 		
+dorongan kebutuhan ekonomi
+D. 		
+proses belajar menyimpang
+E. 		
+sakit mental yang tidak sehat
+28.	
+Konflik yang terjadi antara Pakistan dengan India mengenai persoalan Kashmir merupakan bentuk contoh konflik sosial yaitu…
+A. 		
+konflik antarsuku
+B. 		
+konflik internasional
+C. 		
+konflik antarkelompok
+D. 		
+konflik politik
+E. 		
+konflik antargenerasi
+29.	
+Diana dan Dita sudah sekian lama terlibat konflik. Apa yang menjadi penyebabnya, mereka pun sulit menjelaskan. Oleh karena merasa tak lagi mampu menyelesaikan perselisihan sendiri, akhirnya mereka mengundang pihak ketiga untuk menengahi serta memberikan nasihat-nasihat.
+Dalam kasus ini, pihak ketiga tadi disebut…
+A. 		
+konselor
+B. 		
+mediato
+C. 		
+arbitrator
+D. 		
+perekayasa sosial
+E. 		
+fasilitator
+30.	
+Permasalahan antara karyawan dengan perusahaan menyangkut besaran gaji akhirnya bisa diatasi dengan meminta bantuan pemerintah. Dimana pemerintah sebagai pihak ketiga menetapkan upah minimum untuk gaji karyawan. Sehingga masalah pun terselesaikan. Pada ilustrasi ini penyelesaian konflik berbentuk…
+A. 		
+arbitrasi
+B. 		
+konsiliasi
+C. 		
+koersi
+D. 		
+kompromi
+E. 		
+mediasi</h2><br />
+                        21.A<br />22.B<br />23.A<br />25.A<br />26.A<br />27.C<br />28.D<br />29.<br />
+                                            <h2 class="ez-toc-section" id="latihan-soal-ips-untuk-kelas-8-1-contoh-perubahan-ruang-akibat-perkembangan-teknologi-transportasi-dinegara-thailand-adalah-pembangunan-2-untuk-mengatasi-kebakaran-hutan-negara-negara-asean-bekerja">
+                            7. LATIHAN SOAL IPS UNTUK KELAS 8 1. Contoh perubahan ruang akibat perkembangan teknologi transportasi dinegara Thailand adalah pembangunan 2. Untuk mengatasi kebakaran hutan negarä-negara asean bekerja säma bentuk interaksi keruangan yang dipengaruhi oleh faktor 3. Negara-negara asean memiliki pola arah angin muson timur dan muson barat karena berada 4. Hasi tambang terbesar di negara asia tenggara adalah.. 5. Tbukota negara vietnam dan thailand. 6. Puncak tertinggi gunung tahan, titiwangsa merupa kan pegunungan terpanjan8, tanahnya tidak subur yang dapat digunakan sebaga tanaman kelapa. Gambaran bentang alam negara 7. Kasus pulau sipadan dan ligitan merupakan kasuskehidupan politik mengena 8. Faktor penghambat kerjasama asean. 9. Negara-negara yang berbatasan langsung dengan wilayah indonesia . 10.Asean council teachers convention bentuk kerjasama dibidang 11. Bentuk kerjasama dibidang sosial dan budaya negara asean 12.Akibat perkembangan teknologi transfortasi dan komunikasi dalam bidang budaya.. 13. Interaksi sosial yang terjadi antara pengungsi manusia perahu di dorong rasa... 14. Upaya meningkatkan pendidlikan di asia tenggara dengan negara asean memberikan. 15. Menciptakan keamanan dan perdamaian salah satu tujuan negara asean dibidang.. 16. Tujuan utama kerjasama dibidang ekonomi negara asean.. 17. Bentuk kerjasama bidang ekonomi yang bertujuan meningkatkan daya saing ekonomi sebagai basis produksi pasar dunia. 18. Kerjasama negara penghasil minyak bumi seperti OPEC didorong oleh faktor. 19. Kondisi bentang alam negara thailand .. 20. Sumber perekonomian utama Brunai Darussalam adalah sektor ....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ibukota vietnam dan thailand</p><p><strong>Penjelasan:</strong></p><p> 5. ibukota vietnam = Hochimin</p><p>     ibukota thailand = bangkok</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dampak-globalisasi-bagi-indonesiaglobalisasi-adalah-satu-proses-penyebaran-hal-hal-baru-khususnya-yang-menyangkutinformasi-secara-mendunia-melalui-media-cetak-dan-elektronik-secara-terbatas-globali">
+                            8. Dampak Globalisasi Bagi IndonesiaGlobalisasi adalah satu proses penyebaran hal-hal baru, khususnya yang menyangkutinformasi secara mendunia melalui media cetak dan elektronik. Secara terbatas, globalisasiterbentuk oleh adanya kemajuan di bidang komunikasi dunia. Contohnya, melalui televisi padaacara siaran berita kita dapat melihat dan memperoleh informasi dalam waktu yang singkat.Globalisasi memberikan manfaat dan juga membawa dampak bagi kehidupan bangsaIndonesia. Manfaat adalah hal-hal positif dari globalisasi, sedangkan dampak merupakan akibatnegatif dari globalisasi. Manfaat dan dampak globalisasi bagi bangsa Indonesia meliputi berbagaibidang sosial budaya, ekonomi, maupun pendidikan.Pada bidang ekonomi, globalisasi memberi manfaat yaitu meningkatkan kemampuanberkompetisi dan meningkatkan kualitas produksi dalam negeri untuk menaikkan pendapatan perkapita masyarakat. Sementara akibat negatifnya adalah timbulnya persaingan tidak sehat sehinggahanya yang bermodal kuat yang akan menguasainya.Globalisasi dalam bidang sosial budaya dapat memperluaswawasan budaya, meningkatkankemampuan bahasa asing, meningkatkan pengetahuan, mengubah sikap mental ke arah yanglebih baik meningkatkan produktivitas kerja, dan memberikan arah dalam perilaku. Dampak negatifglobalisasi dalam bidang sosial dan budaya antara lain meningkatnya individualisme, perubahanpada pola kerja, serta terjadinya pergeseran nilai kehidupan dalam masyarakat.Bangsa Indonesia sebagai bagian dari masyarakat internasional tidak akan terlepas daripengaruh globalisasi. Perubahan yang diakibatkan oleh globalisasi dapat memberikan manfaatyang positif maupun negatif bagi bangsa Indonesia. Oleh sebab itu, bangsa Indonesia harusmemiliki filter untuk menangkal dampak negatif dari globalisasi sehingga hal positif akibat adanyaglobalisasi bisa dimanfaatkan secara optimal.itu teks nya↑↑↑ini soalnya↓↓↓tulislah ringkasan informasi penting dari teks ''dampak globalisasi bagi indonesia jawab ya ok makasih (•‿•)^_^^_^(•‿•)#jawab_asal_ripot ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>•Globalisasi adalah satu proses penyebaran hal-hal baru, khususnya yang menyangkut</p><p>informasi secara mendunia melalui media cetak dan elektronik.</p><p></p><p>• Secara terbatas, globalisasi</p><p>terbentuk oleh adanya kemajuan di bidang komunikasi dunia. Contohnya, melalui televisi pada</p><p></p><p>•Manfaat adalah hal-hal positif dari globalisasi</p><p></p><p>•sedangkan dampak merupakan akibat</p><p>negatif dari globalisasi. </p><p></p><p>•Manfaat dan dampak globalisasi bagi bangsa Indonesia meliputi berbagaibidang sosial budaya, ekonomi, maupun pendidikan.</p><p></p><p>•<strong> bidang ekonomi</strong></p><p></p><p><strong>posi</strong><strong>tif</strong><strong> </strong><strong>nya</strong> globalisasi memberi manfaat yaitu meningkatkan kemampuanberkompetisi dan meningkatkan kualitas produksi dalam negeri untuk menaikkan pendapatan per</p><p>kapita masyarakat.</p><p></p><p>•  <strong>negatifnya</strong> adalah timbulnya persaingan tidak sehat sehingga hanya yang bermodal kuat yang akan menguasainya.</p><p> </p><p><strong>bidang sosial budaya </strong></p><p></p><p> <strong>posi</strong><strong>tif</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong>memperluas</p><p>wawasan budaya, meningkatkan</p><p>kemampuan bahasa asing, meningkatkan pengetahuan, mengubah sikap mental ke arah yanglebih baik meningkatkan produktivitas kerja, dan memberikan arah dalam perilak</p><p></p><p>. <strong>Dampak negatif</strong></p><p>globalisasi dalam bidang sosial dan budaya antara lain meningkatnya individualisme, perubahan</p><p>pada pola kerja, serta terjadinya pergeseran nilai kehidupan dalam masyarakat.</p><p></p><p>• positif maupun negatif bagi bangsa Indonesia. Oleh sebab itu, bangsa Indonesia harus</p><p>memiliki filter untuk menangkal dampak negatif dari globalisasi sehingga hal positif akibat adanya</p><p>globalisasi bisa dimanfaatkan secara optimal.</p><p>Jawaban dari Pertanyaan Diatas adalah</p><p>Globalisasi adalah satu proses penyebaran hal-hal baru, khususnya yang menyangkut</p><p>informasi secara mendunia melalui media cetak dan elektronik. Manfaat dan dampak globalisasi bagi bangsa Indonesia meliputi berbagai</p><p>bidang sosial budaya, ekonomi, maupun pendidikan. Pada bidang ekonomi, globalisasi memberi manfaat yaitu meningkatkan kemampuan berkompetisi dan meningkatkan kualitas produksi dalam negeri untuk menaikkan pendapatan perkapita masyarakat. Dampak negatifnya adalah timbulnya persaingan tidak sehat sehingga hanya yang bermodal kuat yang akan menguasainya. Perubahan yang diakibatkan oleh globalisasi dapat memberikan manfaat yang positif maupun negatif bagi bangsa Indonesia. </p>Sekian dari Saya, Semoga Bermanfaat dan Tolong Jadikan Jawaban Terbaik. Have a Good Day! ^^<br />
+                                            <h2 class="ez-toc-section" id="saat-ini-masyarakat-mulai-menyadari-gaya-hidup-sehat-dengan-mengatur-pola-makan-tidak-melulu-soal-rasa-tetapi-lebih-pada-cara-makanan-di-olah-di-produksi-secara-aman-dan-sehat-bahkan-makanan-organi">
+                            9. Saat ini masyarakat mulai menyadari gaya hidup sehat dengan mengatur pola makan.Tidak melulu soal rasa , tetapi lebih pada cara makanan di olah di produksi secara aman dan sehat. Bahkan makanan organik berupa sayur dan sumber protein hewani, menjadi contohnya . Bahan pangan organik di yakini aman karena sistem pertanianya tidak menggunakan pupuk kimia,pestisida ,dan benih transgenik.Sumber protein hewani ,seperti sapi, ayam atau ungags,di piara tanpa antibiotikdan hormon pertumbuhan .{. . . } Konsumsilah bahan pangan yang di kelola secara organik.19.	Konjungsi dan penanda kohesi –koherensi yang tepat untuk melengkapi teks tersebut *​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maka,konsumsilah bahan pangan yang kelola secara organik.</p><p>penjelasan:</p><p>gua harap memuaskan</p><br />
+                                            <h2 class="ez-toc-section" id="2-saat-ini-terdapat-bermacam-macam-alat-komunikasi-modern-berikut-ini-yang-termasuk-alat-komunikasimodem-adalahc-traktord-mobil3-teknologi-pertanian-masa-kini-dalam-mengolah-tanah-menggunakan">
+                            10. 2. Saat ini terdapat bermacam-macam alat komunikasi modern. Berikut ini yang termasuk alat komunikasimodem adalahC. traktorD. mobil3. Teknologi pertanian masa kini dalam mengolah tanah menggunakan ....C. cangkulB. kerbauD. traktor4. Salah satu kelemahan teknologi produksi masa lalu adalahA menggunakan tenaga mesinC hasilnya sangat jelekB. menimbulkan polusi parahD. proses pengerjaannya lama5. Alat komunikasi modern seperti telepon genggam dapat dibawa ke berbagai tempat. Hal ini menunjukkanbahwa alat komunikasi modern itu lebihC. praktisB bagusD. kuat6. Teinologi informasi berikut dipengaruhi oleh globalisasi, kecuali ....A hentonganC. radioD. satelit1 Contoh dampak positif dari modernisasi adalah ....A. sifat pemalasC. sifat pekerja kerasB sifat konsumtifD. sifat diktator8. Dampak negatif dari modernisasi, antara lain kekeluargaan dan gotong royong semakin berkurang. Hal iniA sumber daya manusia sedikitC. banyak industri di kota besarB modemnisasi kurang berhasilD. pengaruh pola hidup kebarat-baratan9. Berikut ini yang merupakan kendaraan darat yang digunakan pada masa lampau adalahC. kapal uapB. pesawatD. kereta api10 Dampak positif dari modernisasi transportasi modem terhadap kehidupan bermasyarakat adalahA meningkatkan rasa individualismeC. sumber daya manusia menjadi lebih sedikitmempercepat waktu perjalananD. banyak polusi yang terjadiB. Isilah soal berikut dengan jawaban yang tepat!bantu jawab dong soal nya mau di kumpulkan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>3. D. Traktor</p><p>4. D. Proses pengerjaan lama</p><p>5. Praktis</p><p>6. A. kentongan</p><br />
+                                            <h2 class="ez-toc-section" id="1-sebutkan-macam-macam-tanggung-jawab-yg-dimiliki-manusia2-sebutkan-5-hak-kita-sebagai-wsrga-masyarakat3-jelaskan-cara-yg-dapat-dilakukan-untuk-dapat-menemukan-informasi-padasebuah-teks4-jelaskan-pe">
+                            11. 1. sebutkan macam-macam tanggung jawab yg dimiliki manusia2.sebutkan 5 hak kita sebagai wsrga masyarakat3.jelaskan cara yg dapat dilakukan untuk dapat menemukan informasi padasebuah teks4. jelaskan pengertian cerita pedek 5. apa penting nya udara bersih bagi kesehatan manusia6. mengapa kita harus menjaga pola hidup sehat7. sebutkan 5 contoh kegiatan produksi8. mengapa setiap orang yg melakukan kegiatanusahaekonomi harus memiliki rasa tanggung jawab 9. sebutkan jenis jenis tangga nada diatonis minor 10. sebutkan persiapan persiapan yg harus dilakukan sebelum melaksanakan peragaan karya tari tolong dijawab kak soalnya besok mau di kumpulkan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. menjaga lingkungan dg baik</p><p><strong>Jawaban:</strong></p><p>1.Kita sebagai manusia,mempunyai tanggungjawab sendiri,misalnya:</p><p>-Seorang ayah bertanggungjawab untuk menafkahi keluarganya</p><p>-Seorang ibu bertanggungjawab untuk merawat/mendidik anaknya,agar kelak masa depan anaknya sukses</p><p>-Seorang anak bertanggungjawab untuk belajar agar kelak masa depannya sukses dan bisa membanggakan orangtuanya</p><p>2.Kita sebagai warga negara,tentunya memiliki hak masing masing,misalnya:</p><p>-Kita harus saling menghargai satu sama lain</p><p>-Kita harus menjalin hubungan/toleransi satu sama lain</p><p>-Tidak membeda bedakan suku,budaya,agama,dan ras masing masing</p><p>-Tidak boleh berkata kasar dan harus bisa menguasai mulut kita</p><p>-Tidak boleh bersikap seenaknya/meraja lela terhadap orang lain</p><p>3.Pertama kita harus membaca teks tersebut dengan benar/teliti.</p><p>Kedua,kita menyimak informasi apa yang kita baca dari teks tersebut</p><p>Ketiga,kita sudah bisa menulis informasi yang kita dapat dari teks tersebut ke dalam catatan kita</p><p>4.Cerita pendek adalah sebuah cerita yang terdiri dari hanya beberapa paragraf dan kalimat/yang diceritakannya juga tidak terlalu panjang.</p><p>5.Manusia mebutuhkan udara yang bersih/sehat bagi tubuhnya.Udara yang bersih misalnya bisa didapat dari pepohonan.</p><p>6.Kita harus menjaga pola hidup sehat,agar tubuh kita tidak sakit/berpenyakit.</p><p>7.Produksi pakaian,produksi makanan,produksi minuman,produksi perabotan rumah,dll.</p><p>8.Karena orang tersebut harus benar benar bertanggungjawab atas kegiatan ekonominya,karena apabila tidak bertanggungjawab maka usaha ekonominya tersebut akan gagal/tidak berhasil.</p><p>9.-</p><p>10.Pertama,kita harus berlatih menari agar tariannya tidak berantakan saat tampil </p><p>Kedua,kita harus menyiapkan busana tari,panggung,dan peralatan lainnya</p><p>Ketiga,kita bisa menampilkan tarian tersebut</p><p></p><p><strong>Penjelasan:</strong></p><p>Jadikan yang terbaik ya:)</p><p>Maaf,nomor 9 saya kurang tahu_-</p><br />
+                                            <h2 class="ez-toc-section" id="pilihan-ganda-19-soal-bantu-jawab-ya-kak-jangan-ngasal-jangan-cuma-numpang-poin-doang1-sebuah-perubahan-yang-terjadi-dalam-kehidupan-masyarakat-di-mana-dalam-perubahan-ini-masyarakat-mulai-meninggalk">
+                            12. PILIHAN GANDA 19 SOAL BANTU JAWAB YA KAK JANGAN NGASAL JANGAN CUMA NUMPANG POIN DOANG1. Sebuah perubahan yang terjadi dalam kehidupan masyarakat di mana dalam perubahan ini masyarakat mulai meninggalkan berbagai macam kebiasaan dan pola hidup tradisional yang sudah tidak lagi relevan, menuju ke pola kehidupan yang jauh lebih modern dan sesuai dengan perkembangan zaman disebut .... a. globalisasib. transformasic. modernisasid.adaptasi2. Berikut ini merupakan salah satu ciri masyarakat modern adalah .... *a. sikapnya yang lebih terbuka terhadap sesuatu yang barub. menutup diri terhadap perkembangan teknologic. selalu memegang teguh kearifan lokald. menolak segala bentuk teknologi3. Di bawah ini merupakan faktor yang sangat menentukan diterima atau ditolaknya suatu perubahan sebagai bagian dari modernisasi adalah .... a. perkembangan dari negara lainb. kebijakan para pemimpin negarac. kekayaan yang dimiliki seseorangd. sikap mental dan budaya suatu masyarakat4. Berikut merupakan sikap mental yang bisa menjadi pendorong modernisasi adalah.... a. disiplin, bersaing, egois, jujurb. jujur, malas, peduli lingkunganc. rajin, tepat waktu, takut mengambil risikod. tepat waktu, berani mengambil risiko, disiplin5. Di bawah ini bukan merupakan dampak positif modernisasi adalah .... a. sikap individualisme lebih mendominasib. berkembangnya ilmu pengetahuan dan teknologic. adanya transfer teknologi dari negara maju kepada negara berkembangd. membuat cara berpikir masyarakat berubah, semula irasional menjadi rasional6. Sikap dan perilaku yang muncul karena dampak negatif modernisasi, kecuali.... a. individualismeb. konsumtifc. empatid. egois7. Berikut ini adalah kekurangan teknologi transportasi modern, yaitu .... a. menimbulkan pencemaran udarab. menggunakan teknologi canggihc. daya jangkau cepat dan jauhd. nyaman saat dikendarai8. Perkembangan teknologi juga berdampak pada bidang transportasi. Saat ini, untuk bepergian ke daerah atau pulau lain manusia tidak membutuhkan waktu lama. Kemudahan itu dapat diperoleh jika manusia menggunakan .... a. pesawat terbangb. sepeda motorc. kapal lautd. mobil9. Di bawah ini yang termasuk dampak negatif dari perubahan sosial budaya, kecuali .... a. gaya hidup kebarat-baratanb. pola hidup konsumtifc. pola hidup hematd. kesenjangan sosial10. Berikut manfaat ditemukannya transportasi udara adalah .... a. menghambat pengiriman barangb. pengiriman barang ke luar negeri lebih cepatc. mematikan pasaran dalam negerid. membutuhkan biaya banyak dan waktu yang lama11. Salah satu cara yang tepat dalam menyikapi adanya penemuan di bidang elektronik adalah .... a. selalu memakai alat elektnonik untuk mengerjakan segala sesuatub. bermalas-malasan dengan alat elektronik yang dimilkic. menggunakan alat elektronik dengan tepatd. tidak menggunakan alat elektronik dalarn kehidupannya12. Berkembangnya jenis kendaraan yang bisa dipakai adalah contoh modernisasi di bidang …. a. perindustrianb. pertanianc. transportasid. komunikasi13. Untuk mencegah dampak negatif modernisasi maka kita perlu …. a. berpegang teguh kepada nilai dan normab. melihat berbagai barang negara asingc. membeli produk milik asingd. membuat saingan produk negara lain14. Bentuk contoh modernisasi yang ada di Indonesia serta masyarakat dunia yang paling sering ditemukan adalah .... a. penggunaan facebook, instagram, twitter dan media sosial lainnya untuk berkomunikasi dengan orang lainb. penghitungan hasil produksi barang dan jasa yang dilakukan perusahaan dilakukan secara manualc. pedagang keliling menjajakan dagangannya dengan berjalan kakid. bepergian ke luar negeri menggunakan kapal laut15. Modernisasi di bidang teknologi, orang cenderung menggunakan aplikasi ini sebagai petunjuk jalan, aplikasi yang dimaksud adalah .... a. google meetb. google slidec. google mapsd. google doc16. Perusahaan negara yang melayani angkutan darat yaitu .... a. DAMRIb. BUMNc. TELKOMd. KIA17. Dampak positif modernisasi sistem transportasi darat terhadap kelangsungan hidup masyarakat yaitu .... a. mobilitas barang dan orang terganggub. pencemaran udarac. biaya transportasi umum menjadi mahald. mempersingkat waktu18. Menimbulkan perilaku konsumtif, menimbulkan ketergantungan, meningkatkan angka kecelakaan lalu lintas merupakan dampak negatif modernisasi terhadap .... a. lingkungan alamb. teknologi pariwisatac. kehidupan masyarakatd. industri otomotif19. Modernisasi di bidang transportasi membuat polusi udara yang meningkat, berikut ini salah satu cara untuk mengurangi polusi udara adalah.... a. menggunakan kendaraan bermotor untuk bepergian jarak dekatb.bepergian menggunakan kendaraan umumc. tidak membeli kendaraan bermotord. menebang pepohonan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. c. modernisasi</p><p>2. a. sikapnya yang lebih terbuka terhadap sesuatu yang baru</p><p>3. d. sikap mental dan budaya suatu masyarakat</p><p>4. d. tepat waktu, berani mengambil risiko, disiplin</p><p>5. a. sikap individualisme lebih mendominasi</p><p>6. c. empati</p><p>7. a. menimbulkan pencemaran udara</p><p>8. a. pesawat terbang</p><p>9. c. pola hidup hemat</p><p>10. b. pengiriman barang ke luar negeri lebih cepat</p><p>11. c. menggunakan alat elektronik dengan tepat</p><p>12. c. transportasi</p><p>13. a. berpegang teguh kepada nilai dan norma</p><p>14. a. penggunaan facebook, instagram, twitter dan media sosial lainnya untuk berkomunikasi dengan orang lain</p><p>15. c. google maps</p><p>16. a. DAMRI</p><p>17. d. mempersingkat waktu</p><p>18. d. industri otomotif</p><p>19. b.bepergian menggunakan kendaraan umum</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-contoh-penerapan-prinsip-ekonomi-dalam-kegiatan-ekonomi1-menggunakan-tenaga-kerja-dengan-upah-murah2-menyalurkan-barang-dengan-prinsip-tepat-sasaran3-menggunakan-barang-dengan-mutu-baik">
+                            13. Berikut contoh penerapan prinsip ekonomi dalam kegiatan ekonomi!(1) menggunakan tenaga kerja dengan upah murah(2) menyalurkan barang dengan prinsip tepat sasaran(3) menggunakan barang dengan mutu baik(4) menggunakan bahan mentah yang bermutu baik(5) harus hemat untuk menekan biaya produksiYang tergolong penerapan prinsip ekonomi dalam kegiatan produksi adalah...A. (1), (2), dan (3)B. (1), (3), dan (4)C. (2), (3), dan (5)D. (3), (4), dan (5)3.3.4 Menjelaskan Kegiatan ProduksiBerikut adalah faktor-faktor produksi kecuali...A. barang/jasaB. tenaga kerjaC. modalD. kewirausahaanBerikut ini yang termasuk kegiatan produksi adalah...A. Ibu memasak nasi di dapurB. Petani menanam cabai di sawahC. Adik membeli es krim bersama temanD. Arman membeli pulpen di koperasi sekolahTujuan manusia melakukan produksi adalah...A. memperoleh laba/keuntunganB. memenuhi kebutuhan hidupC. memperoleh barang/jasa yang diinginkanD. menghabiskan nilai guna barang3.3.5 Menjelaskan Kegiatan DistribusiKegiatan ekspor barang ke luar negeri termasuk kegiatan...A. kerjasama ekonomiB. distribusi tidak langsungC. konsumsi internasionalD. produksi masyarakat asingBerikut adalah kegiatan ekonomi masyarakat!(1) Perusahaan menghasilkan barang kebutuhan sehari-hari(2) Pengusaha karet mengekspor barang ke Jerman(3) Perusahaan sepatu mengangkut hasil produk ke setiap pedagang resminya(4) Pabrik tekstil menerima penambahan karyawan baru(5) Pedagang souvenir menjual barang di berbagai tempat lokasi pariwisataYang termasuk kegiatan distribusi adalah...A. (1), (2), dan (3)B. (1), (3), dan (4)C. (2), (3), dan (5)D. (3), (4), dan (5)Kegiatan berikut yang termasuk distribusi langsung adalah...A. Aluh berkeliling kampung menjual tahuisi buatan ibunyaB. Pada musim panen petani menjual hasilnya kepada tengkulakC. Pengusaha roti menjual produknya ke pengecerD. Pengrajin sepatu menjual produknya di koperasi3.3.6 Menjelaskan Kegiatan KonsumsiFaktor berikut yang mempengaruhi pola konsumsi seseorang adalah...A. pajakB. biaya produksiC. kemajuan teknologiD. pendapatanTindakan menghabiskan atau mengurangi nilai guna barang dan atau jasa disebut...A. produksiB. distribusiC. konsumsiD. nutrisiContoh kegiatan konsumsi yang menghabiskan nilai guna suatu barang adalah...A. Seorang ayah membelikan anaknya sepeda baruB. Bu Susi baru pulang membeli perabot rumahC. Bintang dan sekeluarga makan di warung makanD. Habib membeli atribut pramuka di koperasiSampai di sini mungkin teman-teman juga tertarik melihat perangkat penilaian berikut yang memiliki indikator sama dengan soal-soal di atas yaitu:Genap: pelaksanaan penilaian harian 1 (PH-1) IPS kelas VII.3.3.7 Menjelaskan Kaitan antara Permintaan, Penawaran dan HargaKesediaan penjual untuk menjual berbagai barang pada berbagai tingkat harga dalam waktu tertentu disebut...A. keinginanB. kebutuhanC. permintaanD. penawaranBerikut adalah faktor-faktor yang mempengaruhi permintaan dan penawaran!(1) pendapatan(2) biaya produksi(3) teknologi(4) jumlah penduduk(5) bencana alamFaktor yang mempengaruhi penawaran adalah...A. (1), (2), dan (3)B. (2), (3), dan (4)C. (2), (3), dan (5)D. (3), (4), dan (5)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.a</p><p>2.a</p><p>3.b.</p><p>4.a</p><p>5.a</p><p>6.c</p><p></p><p><strong>Penjelasan:</strong></p><p>maaf ya cuma segini</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-sebagai-umat-beragama-dan-percaya-dengan-adanya-tuhansebelum-melaksanakan-suatu-kegiatan-maka-sebaiknya-kita-%e2%80%a6-2-keberagaman-budaya-di-indonesia-akan-tetap-terjaga-apabila-ditanamkan-sika">
+                            14. 1. Sebagai umat beragama dan percaya dengan adanya tuhan,sebelum melaksanakan suatu kegiatan maka sebaiknya kita ….2. Keberagaman budaya di Indonesia akan tetap terjaga apabila ditanamkan sikap ....3. Indonesia terkenal dengan keberagaman budaya yang dimiliki. Keberagaman budaya yang dimiliki Indonesia bisa ada karena Indonesia memiliki keberagaman….4. Untuk menemukan informasi penting tentang suatu proses dalam bacaan menggunakan kata tanya ….5. Tanggal berapakah diperingati sebagai hari air sedunia ….6. Bagian cerita yang paling mendebarkan dan menegangkan dalam cerita terdapat pada bagian…cerita7. Made sedang mencuci pakaian. Setelah selesai mencuci, Made lupa menutup keran air sehingga air menetes terus- menerus. Tindakan Made menunjukkan prilaku .… 8. Akibat yang akan terjadi apabila daerah resapan air berkurang ....9. Syarat air bersih tidak mengandung kuman penyakit merupakan syarat secara ….10. Nano adalah seorang pengusaha yang berasal dari Maluku. Ia memiliki lahan yang luas yang digunakan untuk menanam cengkih. Ketika panen tiba, akan ada pengepul yang datang untuk membeli cengkih dari kebunnya. Usaha yang dilakukan Nano termasuk dalam jenis usaha ….11. Orang yang melakukan kegiatan produksi disebut ....12. Kegiatan memproses atau mengolah barang dengan menggunakan sarana dan peralatandisebut ....13. Perhatikan gambar berikut ini !Tarian pada gambar di atas menggunakan pola lantai garis .…14. Rancangan gambar yang dibuat sesuai gagasan disebut ....15. Arang, Kapur, dan Crayon termasuk bahan pewarnaan dengan teknik ....III. Jawablah pertanyaan-pertanyaan di bawah ini dengan benar!1. Tuliskan 3 cara melestarikan tarian daerah!2. Bacalah paragraf berikut untuk menjawab soal 2!Keberadaan air bersih sangat penting bagi kehidupan kita. Sumber air bersih harus kita jaga. Hal tersebut karena banyak kegiatan kita secara tidak langsung memengaruhi daur air. Kita juga dapat berperan menjaga sumber air bersih dengan cara melakukan penghematan. Berdasarkan bacaan di atas, apa yang dapat kita lakukan untuk mencukupi kebutuhan air bersih yang semakin meningkat?3. Jelaskan secara singkat proses daur air!4. Apakah perbedaan industri besar dan industri kecil?5. Sebutkan 3 contoh tari kreasi beserta daerah asalnya!tolong di jawab semuanya soalnya besok di kumpul​</h2><br />
+                        <p>Jawaban:</p><p></p><p>Penjelasan:</p><p>1. Berdoa terlebih dahulu sesuai dengan kepercayaan masing-masing. </p><p>2. Toleransi</p><br />
+                                            <h2 class="ez-toc-section" id="1-jelaskan-jenis-otoritas-yang-berpengaruh-terhadap-pola-kepemimpinan-dan-pengambilan-keputusan-menurut-weber-2-menurut-saudara-mengapa-terjadi-diferensiasi-dalam-sebuah-organisasi-jelaskan-3-jela">
+                            15. 1 Jelaskan jenis otoritas yang berpengaruh terhadap pola kepemimpinan dan pengambilan keputusan menurut Weber? 2 Menurut Saudara, mengapa terjadi diferensiasi dalam sebuah organisasi? Jelaskan! 3 Jelaskan cara-cara yang dapat dilakukan organisasi untuk membakukan perilaku anggota organisasi?
+Untuk Tugas 2, mahasiswa diminta menjelaskan strategi pemasaran suatu produk yang berada dalam tahap pertumbuhan.
+Soal 1 Jelaskan sumber pemborosan pada sistem operasional perusahaan! 2 Menjelaskan langkah serta perbedaan dalam PERT dan CPM! 3 Jelaskan metode dan tahapan penugasan!
+Jelaskan strategi yang dapat diterapkan perusahaan pada awal membuat pasar sasaran dengan menggunakan Analisis Matriks Portofolio, saat kondisi daya tarik pasar rendah namun perusahaan mempunyai kekuatan bisnis yang tinggi! 2. - Berikan analisis daur hidup produk pada tahap kedewasaan dengan menjelaskan karakteristik pasar dan perilaku pembelian, baik dalam hal tingkat penjualan, harga, kompetisi, margin/keuntungan yang didapat. - Kemudian sampaikan strategi harga dan promosi yang seharusnya dilakukan perusahaan, jelaskan. 3. - Apakah Anda setuju, bahwa dengan menerapkan strategi mempertahankan, strategi defensif, dan strategi inovasi dapat membuat produk menikmati tahapan kedewasaan lebih lama dan menguntungkan, jelaskan. - Jelaskan juga tiga cara yang dapat dilakukan perushaan dalam strategi inovasi produk pada tahap kedewasaan! 4. Apakah Anda setuju periklanan dilakukan untuk menciptakan citra merek dan menjadi daya tarik simbolik bagi persuhaan atau merek sehingga produk menjadi lebih dikenal oleh pasar, jelaskan. Jelaskan juga alasan yang membuat
+1 Jelaskan langkah-langkah pemecahan optimal dengan metode simpleks! 2 Suatu perusahaan menjual barang hasil produksinya di tiga daerah penjualan, yaitu Lampung, Bandung dan Surabaya. Perusahaan itu memiliki tiga buah pabrik yang menghasilkan barang tersebut, yaitu di Jakarta, Tanggerang dan Bekasi , kebutuhan barang di tiap-tiap gudang penjualan sebagai berikut: Lampung (L) = 80 Ton Bandung (Ba) = 60 Ton Surabaya (S) = 40 Ton Kapasitas produksi tiap-tiap pabrik sebagai berikut: Jakarta (J) = 50 ton Tanggerang (T) = 60 Ton Bekasi (Be) = 70 Ton Biaya Pengangkutan dari tiap gudang penjualan setiap ton sebagai berikut (dalam ribu rupiah) Ke Dari Lampung (L) Bandung (Ba) Surabaya (S) Jakarta (J) 17 5 20 Tanggerang (T) 19 10 32 Bekasi (Be) 20 12 26 Selesaikanlah alokasi optimal dari data di atas dengan menggunakan metode vogel!
+1. Jelaskan apa yang anda ketahui mengenai metode payback period, Internal Rate of Return, net present value dan Profitability indeks! 2. Kemanfaatan suatu proyek terhadap ekonomi nasional haruslah dianalisis, jelaskan dari aspek yang perlu dianalisis!
+2. Terdapat keterkaitan antara perencanaan strategik dan anggaran. Apa yang Anda ketahui mengenai perencanaan strategik dan pengaruhnya terhadap anggaran? Berikan contohnya. 2. Balanced Scorecard membantu manajemen dalam menentukan tingkat pencapaian perencanaan strategik. Apa yang Anda ketahui mengenai balanced scorecard? Jelaskan dan berikan contoh kasus mengenai balanced scorecard di Indonesia. 3. Penyusunan anggaran disusun dengan melibatkan seluruh manajemen perusahaan. Menurut Anda bagaimana posisi manajemen dalam proses penganggaran dan fungsi anggaran dalam kegiatan manajerial? Berikan contohnya.</h2><br />
+                        <p>Pertanyaan di atas terlalu banyak untuk dimuat dalam satu jawaban saja, sehingga akan saya jawab pertanyaan yang terdapat dalam judul.</p><p>1. <strong>Jenis otoritas menurut Max Weber:</strong></p>Otoritas tradisional, yaitu bentuk kekuasaan yang didasarkan pada kepercayaan akan masa lampau (tradisi dan kebiasaan).Otoritas kharismatis, yaitu bentuk kekuasaan yang muncul dari kualifitas seorang individu (di luar kebiasaan).Otoritas legal-rasional, yaitu otoritas birokratis (legalitas) berupa aturan-aturan dalam suatu sistem (hukum).<p>2. <strong>Diferensiasi</strong> <strong>dalam sebuah organisasi </strong>terjadi karena adanya perbedaan-perbedaan dalam anggota organisasi tersebut. Perbedaan tersebut bersifat horizontal (agama, jenis kelamin, etnis, dan sebagainya).</p><p>3. <strong>Cara untuk membakukan perilaku anggota organisasi </strong>di antaranya adalah dengan membuat peraturan yang jelas bagi anggota organisasi tersebut.</p><p></p>Pembahasan<p><strong>Organisasi </strong>adalah sebuah sistem kerja sama oleh dua orang atau lebih untuk mencapai tujuan bersama. Di dalam sebuah organisasi, diperlukan komunikasi yang baik dan jelas.</p><p></p>Pelajari lebih lanjut<p>Materi tentang organisasi https://brainly.co.id/tugas/51371254</p><p></p><p><strong>#BelajarBersamaBrainly #SPJ1</strong></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/guq1W7MrBgo?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ips</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/buku-guru-pai-kelas-9-kurikulum-2013/">Buku Guru Pai Kelas 9 Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/epanrita-ppdb/">Epanrita Ppdb</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/kisi-kisi-soal-ukg-2016/">Kisi Kisi Soal Ukg 2016</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/onepiece-923/">Onepiece 923</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-usbn-matematika-sd/">Soal Usbn Matematika Sd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/tes-kesehatan-poltekkes-gigi-berlubang/">Tes Kesehatan Poltekkes Gigi Berlubang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/persyaratan-pmdk-polban/">Persyaratan Pmdk Polban</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-bahasa-arab-kelas-xii/">Soal Bahasa Arab Kelas Xii</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/tata-cara-penulisan-judul/">Tata Cara Penulisan Judul</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/peta-minda-simdig/">Peta Minda Simdig</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/materi-tes-guru-berprestasi/">Materi Tes Guru Berprestasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/free-download-mp4-lagu-anak/">Free Download Mp4 Lagu Anak</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-kamus-indonesia-arab/">Download Kamus Indonesia Arab</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-lagu-oh-tuhan-mohon-ampun/">Download Lagu Oh Tuhan Mohon Ampun</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-login-simpak-guru/">Cara Login Simpak Guru</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-matematika-program-linear/">Contoh Soal Matematika Program Linear</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/pertanyaan-kuis-family-100/">Pertanyaan Kuis Family 100</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-tentang-turunan/">Soal Tentang Turunan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-gerund-beserta-jawaban/">Contoh Soal Gerund Beserta Jawaban</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/akun-garena-indonesia/">Akun Garena Indonesia</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

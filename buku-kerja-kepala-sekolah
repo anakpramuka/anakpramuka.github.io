@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Buku Kerja Kepala Sekolah - BELAJAR</title>
+    <meta name="description" content="Buku Kerja Kepala Sekolah, , , , , , , 0, , , , , , 0, buku-kerja-kepala-sekolah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Buku Kerja Kepala Sekolah - BELAJAR" />
+    <meta property="og:description" content="Buku Kerja Kepala Sekolah, , , , , , , 0, , , , , , 0, buku-kerja-kepala-sekolah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Buku Kerja Kepala Sekolah - BELAJAR" />
+    <meta name="twitter:description" content="Buku Kerja Kepala Sekolah, , , , , , , 0, , , , , , 0, buku-kerja-kepala-sekolah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Buku Kerja Kepala Sekolah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">afifahaz2</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Buku+Kerja+Kepala+Sekolah" alt="Buku Kerja Kepala Sekolah">
+                    </div>
+                    <p></p>
+                    <p>Berikut yang termasuk mobilitas sosial intragenerasi adalah
+A.seorang sekretaris di pindahkan kebagian bendahara
+B.seorang ayah yang bekerja menjadi guru dan beralih profesi menjadi penjual buku
+C.seorang ayah yg bekerja sebagai petani sedangkan anaknya yag bekerja di pasar
+D.mentri pendidikan periode lalu sekarang diangkat menjadi mentri tenaga kerja
+E.guru sosiologi sma x di pindah tugaskan ke sma y sebagai kepala sekolah</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-termasuk-mobilitas-sosial-intragenerasi-adalaha-seorang-sekretaris-di-pindahkan-kebagian-bendaharab-seorang-ayah-yang-bekerja-menjadi-guru-dan-beralih-profesi-menjadi-penjual-bukuc-seo">1.
+                                            Berikut yang termasuk mobilitas sosial intragenerasi adalah
+A.seorang sekretaris di pindahkan kebagian bendahara
+B.seorang ayah yang bekerja menjadi guru dan beralih profesi menjadi penjual buku
+C.seorang ayah yg bekerja sebagai petani sedangkan anaknya yag bekerja di pasar
+D.mentri pendidikan periode lalu sekarang diangkat menjadi mentri tenaga kerja
+E.guru sosiologi sma x di pindah tugaskan ke sma y sebagai kepala sekolah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#isilah-titik-titik-di-bawah-ini-dengan-kata-ganti-orang-yang-sesuai-dengan-kalimatnya-1-globalisasi-telah-membawa-banyak-perubahan-dalam-kehidupan-_______-2-doni-bertanya-pada-gurunya-_______-meng">2.
+                                             Isilah titik-titik di bawah ini dengan kata ganti orang yang sesuai dengan kalimatnya. 1.Globalisasi telah membawa banyak perubahan dalam kehidupan _______.2.Doni bertanya pada gurunya, _______, mengapa ________ tidak boleh membaca buku itu?3.Doni dan Nesia pergi bersama ayah dan ibu ke toko buku. ________ ingin membeli beberapa buku bacaan tentang tokoh-tokoh ilmuwan Indonesia. 4.Bapak kepala sekolah sedang memimpin upacara pagi di sekolah. _______ mengenakan baju batik lengan panjang. 5.Doni mengajak teman-temannya bermain sepak bola di halaman sekolah. Yuk, teman-teman _______ bermain sepakbola! Teman-temannya menjawab, Wah, ________ tidak bisa, Doni. ________ ada tugas sekolah yang harus dikerjakan segera.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#saat-libur-sekolah-tiba-ayahmu-mendapatkan-undangan-dari-kepala-desa-untuk-melakukan-kerja-bakti-bersih-desa-kegiatan-tersebut-sebagai-upaya-mencegah-banjir-pada-musim-hujan-sebagai-peserta-didik">3.
+                                            Saat libur sekolah tiba, ayahmu mendapatkan undangan dari Kepala Desa untuk melakukan kerja bakti bersih desa. Kegiatan tersebut sebagai upaya mencegah banjir pada musim hujan. Sebagai peserta didik, yang telah mempelajari serta memahami materi persatuan dan kesatuan. Bagaimana sikap yang sebaiknya kamu lakukan? Ceritakan langkah yang akan kamu lakukan dalam buku tugas masing-masing.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#siswa-itu-menggunakan-seragam-putih-biru-contoh-kalimat-tersebut-merupakan-bagian-kaidah-kebahasaan-%c2%a0a-menggunakan-kata-kiasan-atau-majasb-mengandung-kata-kerja-transitifc-menggunakan-kat">4.
+                                            Siswa itu menggunakan seragam putih biru. Contoh kalimat tersebut merupakan bagian kaidah kebahasaan.... *a. Menggunakan kata kiasan atau majasb. Mengandung kata kerja transitifc. Menggunakan kata kerjad. Menggunakan frasa10. Berikut yang merupakan contoh penggunaan frasa yang mengandung kata benda berdasarkan kaidah kebahasaan teks deskripsi adalah.... *a. Kucing cerdasb. Beliau adalah seorang kepala sekolah yang rendah hatic. Saya yakin buku itu murahd. Pohon kelapa melambai-lambai seolah memanggilku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-guru-isa-menajamkan-telinganya-2-sekolah-itu-sepi-3-guru-guru-lain-sudah-pulang-4-dia-merasa-kepalanya-agak-pening-5-ada-yang-membawa-pekerjaan-rumah-mereka-untuk-diselesaikan-di-rumah-6-buku">5.
+                                            1.guru isa menajamkan telinganya, 2 sekolah itu sepi, 3.guru guru lain sudah pulang, 4.dia merasa kepalanya agak pening, 5.ada yang membawa pekerjaan rumah mereka untuk diselesaikan di, rumah, 6.buku tulis mahal dari luar, 7.dan dirumah uangnya telah habis,8.jika diambilnya sebungkus, tidak ada orang yang akan tahu, pikirnyaYang manakah termasuk kalimat majemuk bertingkat </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-guru-isa-menajamkan-telinganya-2-sekolah-itu-sepi-3-guru-guru-lain-sudah-pulang-4-dia-merasa-kepalanya-agak-pening-5-ada-yang-membawa-pekerjaan-rumah-mereka-untuk-diselesaikan-di-rumah-6">6.
+                                            1) Guru Isa menajamkan telinganya. 2) Sekolah itu sepi. 3) Guru-guru lain sudah pulang. 4) Dia merasa kepalanya agak pening. 5) Ada yang membawa pekerjaan rumah mereka untuk diselesaikan di rumah. 6) Buku tulis mahal dari luar. 7) Dan dirumah uang telah habis. 8) Jika diambilnya sebungkus, tidak ada orang yang akan tahu, pikirnya.                                                      Kalimat majemuk bertingkat ditujukkan oleh nomor</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1guru-isa-menajamkan-telinganya-2sekolah-itu-sepi-3guru-guru-lain-sudah-pulang-4dia-merasa-kepalanya-agak-pening-5ada-yang-membawa-pekerjaan-rumah-mereka-untuk-di-selesaikan-di-rumah-6buku-tulis">7.
+                                            1)guru isa menajamkan telinganya 2)sekolah itu sepi 3)guru guru lain sudah pulang 4)dia merasa kepalanya agak pening 5)ada yang membawa pekerjaan rumah mereka untuk di selesaikan di rumah 6)buku tulis mahal dari luar 7)dan dirumah uang telah habis 8)jika diambilnya sebungkus,tidak ada orang yang akan tau, pikirnya.jelaskan pola kalimatnya dan jawab apa jawaban nya  terimakasih. ..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#di-sebuah-sekolah-berlantai-4-telah-ditemukan-mayat-salah-satu-murid-ketua-osis-sekolah-tersebut-diminta-untuk-menyelidiki-kasus-tersebut-ck-kenapa-harus-aku-yang-hanya-bekerja-disini-gerutu-nya">8.
+                                            Di sebuah sekolah berlantai 4 telah ditemukan mayat salah satu murid. Ketua osis sekolah tersebut diminta untuk menyelidiki kasus tersebut."Ck, kenapa harus aku yang hanya bekerja disini." gerutu nya malas.Pengurus sekolah mengatakan bahwa ia melihat beberapa murid melewati koridor lantai tersebut. Termasuk murid yang tewas tersebut. Ia berkata bahwa ada beberapa muka tidak asing disana, yaitu Argatha, Xena, Diana, Aneta dan Amora.Ketua osis segera kembali dalam clan dan memeriksa isi tas mayat tersebut. Terdapat beberapa buku pelajaran disana. Dan penglihatan nya tertuju pada buku yang sering ia lihat di meja Aneta. Entah untuk apa ia meminjam buku tersebut.Di lembar terakhir terdapat beberapa angka yang menurutnya sangat janggal241542417524Lalu ketua osis tersebut segera menghampiri seseorang yang angka ini maksud dan membawanya ke ruang kepala sekolah. Sebenarnya apa yang terjadi?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#guru-isa-menajamkan-telinganya-sekolah-itu-sepi-guru-guru-lain-sudah-pulang-dia-merasa-kepadanya-agak-penting-ada-yang-membawa-pekerjaan-mereka-untuk-diselesaikan-di-rumah-buku-tulis-mahal-di-lua">9.
+                                            Guru Isa menajamkan telinganya. Sekolah itu sepi. Guru-guru lain sudah pulang. Dia merasa kepadanya agak penting. Ada yang membawa pekerjaan mereka untuk diselesaikan di rumah. Buku tulis mahal di luar dan di rumah uang telah habis. Jika diambilnya sebungkus, tidak ada orang yang akan tahu, pikirnya dan dengan uang ini dia akan dapat membeli beras. Rasa malu menjalar ke dalam hatinya, ketika pikiran ini melintas ke kepalanya. "Sampai bisa niat mencuri masuk ke dalam kepalaku". pikirnya, malu pada dirinya sendiir, buku-buku tulis yang telah diperiksanya itu dimasukkannya cepat-cepat ke dalam laci meja, seakan-akan dia takut akan tergoda kalau lama-lama dilihatnya, dan laci itu dikuncinya. Beberap saat guru Isa bertopang dagu demikian.
+Unsut ekstrinsik dalam kutipan novel di atas adalah...
+a. agama
+b. Politik
+c. Adat
+d. Sosial
+e. Budaya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-mobilitas-sosial-lateral-permanen-ditunjukkan-oleh-pernyataan-a-hima-mengikuti-orang-tunya-yang-bertransmigrasi-ke-sumatra-dan-bersekolah-di-sana-b-pak-indri-harus-melepaskan-jabatannya-seba">10.
+                                            Contoh mobilitas sosial lateral permanen ditunjukkan oleh pernyataan...a.hima mengikuti orang tunya yang. bertransmigrasi ke sumatra dan bersekolah di sana.b.pak indri harus melepaskan jabatannya sebagai kepala sekolah karena memilih pensiun dini.c.citra mendapatkan pekerjaan sebagai editor buku setelah menganggur hampir enam bulan.d.jono sementara ikut neneknya di desa hingga SMP, setelah lulus ia ikut orang tuanya ke kota.tolong dijawab ya besok dikumpulplisssssssss!!!!!!!!!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kalimat-manakah-di-bawah-ini-yang-tidak-menggunakan-kata-kerja-mental-%c2%a0kepala-sekolah-menyetujui-kegiatan-bakti-sosial-yang-diadakan-osisdesfa-mematuhi-aturan-yang-diberikan-dewan-juriyosimen">11.
+                                            Kalimat manakah di bawah ini yang tidak menggunakan kata kerja mental ... *Kepala sekolah menyetujui kegiatan bakti sosial yang diadakan OSISDesfa mematuhi aturan yang diberikan dewan juriYosimenerima ajakan Fasya untuk membaca buku di perpustakaanPutri Muslimah 2018 sangat menginspirasi pemuda-pemudi IndonesiaReyfaldi sangat memahami kondisi keluarganya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cermati-paragraf-berikutkerja-sama-kepala-sekolah-dan-guru-guru-sekolahku-amat-baik-kondisi-ini-membuathubungan-siswa-dan-guru-juga-terjalin-harmonis-guru-mata-pelajaran-seperti-guru-agamabahasa">12.
+                                            Cermati paragraf berikut!Kerja sama kepala sekolah dan guru-guru sekolahku amat baik. Kondisi ini membuathubungan siswa dan guru juga terjalin harmonis. Guru mata pelajaran, seperti guru agama,bahasa Indonesia, dan olahraga, dapat melaksanakan pembelajaran yang bermutu. Siswapun dapat belajar dengan aktif dan penuh prestasiSumber: Bahasa Indonesia kelas VII (Buku Siswa, hal. 66)Berdasarkan pola pengembangan teks eksposisi, paragraf tersebut adalah pola .........?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1osis-adalah-organisasi-siswa-intra-sekolah-maksud-dari-kata-intra-adalah-aosis-adalah-organisasi-yang-berada-di-lingkungan-sekolah-bosis-adalah-oraganisasi-yang-tidak-berhubungan-dengan-sekola">13.
+                                            1)OSIS adalah Organisasi Siswa Intra Sekolah, maksud dari kata Intra adalah... A)OSIS adalah organisasi yang berada di lingkungan sekolah B)OSIS adalah oraganisasi yang tidak berhubungan dengan sekolah lain C)OSIS adalah bagian dari salah satu organisasi pemuda D)OSIS adalh organisasi pelajar se-Indonesia 2)Kewajiban utama Siswa yang pertama adalah "belajar keras" menuntut ilmu pengetahuan dan teknologi. Pada lambang OSIS, hal tersebut dilambangkan dengan... A)Dua tangan terbuka B)Pelangi merah putih C)Tujuh belas butir padi D)Buku terbuka 3)Secara struktural kegiatan OSIS berada dibawah pembinaan Pembantu Kepala sekolah urusan... A)HUMAS B)KURIKULUM C)KESISWAAN D)SARPRAS  4)Salah satu tugas Pengurus OSIS adalah... A)Melaksanakan kerja bakti di Sekolah B)Menyusun program kerja OSIS C)Melaksanakan ketertiban siswa di sekolah D)Menjadi petugas upacara bendera 5)Dala</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-perilaku-di-bawah-ini-yang-menunjukan-sikap-rukun-di-sekolah-adalah-a-membaca-buku-di-perpustakaan-b-melaksanakan-tugas-kelompokc-mengerjakan-tugas-sekolahd-mengajukan-pertanyaan-dalam-belajar2">14.
+                                            1.perilaku di bawah ini yang menunjukan sikap rukun di sekolah adalah...  a.membaca buku di perpustakaan b.melaksanakan tugas kelompokc.mengerjakan tugas sekolahd.mengajukan pertanyaan dalam belajar2.salah satu contoh sikap demokratis dalam kehidupan sehari hari adalah..a.pemilihan kepala desab.pelaksanaan penyuluhan kesehatan c.penentuan regu kerja bakti di lingkungand.penentuan kelompok pengajian di masjid tolong ya kakak kakak. GBU </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lintang-telah-menunjukkan-minat-yang-besar-untuk-bersekolah-semenjak-hari-pertama-berada-di-sekolah-ia-berasal-dari-keluarga-yang-miskin-ayahnya-bekerja-sebagai-nelayan-miskin-yang-tidak-memiliki-pera">15.
+                                            Lintang telah menunjukkan minat yang besar untuk bersekolah semenjak hari pertama berada di sekolah ia berasal dari keluarga yang miskin ayahnya bekerja sebagai nelayan miskin yang tidak memiliki perahu dan harus menanggung kehidupan 14 jiwa anggota keluarga semenjak ayahnya meninggal Lintang membanting tulang dan terus belajar Ia adalah anak yang pantang menyerah dan lebih menakjubkan nya lagi semua pengetahuan itu ia pelajari sendiri dengan membaca berbagai macam buku milik kepala sekolah Jika ya Mendapat giliran tugas menyapu di ruangan beliau *Tuliskan amanat yang terdapat dalam cerita tersebut! mhon bntuan nya. ​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="berikut-yang-termasuk-mobilitas-sosial-intragenerasi-adalaha-seorang-sekretaris-di-pindahkan-kebagian-bendaharab-seorang-ayah-yang-bekerja-menjadi-guru-dan-beralih-profesi-menjadi-penjual-bukuc-seo">
+                            1. Berikut yang termasuk mobilitas sosial intragenerasi adalah
+A.seorang sekretaris di pindahkan kebagian bendahara
+B.seorang ayah yang bekerja menjadi guru dan beralih profesi menjadi penjual buku
+C.seorang ayah yg bekerja sebagai petani sedangkan anaknya yag bekerja di pasar
+D.mentri pendidikan periode lalu sekarang diangkat menjadi mentri tenaga kerja
+E.guru sosiologi sma x di pindah tugaskan ke sma y sebagai kepala sekolah</h2><br />
+                        Jawabannya adalah :<br />C. seorang ayah yg bekerja sebagai petani sedangkan anaknya bekerja di pasar.<br /><br />(Alasan : karena pilihan C sangat sesuai dengan pertanyaan yaitu, kegiatan mobilitas sosial intragenerasi merupakan kegiatan yg dilakukan individu atau kelompok dalam satu generasi)<br /><br />"Semoga bermanfaat..."Jawabannya adalah E. Guru sosiologi SMA X dipindah tugaslan ke SMA Y sebagai Kepala sekolah<br /><br />(Mobilitas intragenerasi adalah mobilitas yang dialami oleh individu atau sekelompok orang secara generasi. <br />contoh: pak budi adalah seorang guru namun karena ketekunannya, beliau diangkat menjadi kepala sekolah)<br /><br />Semoga membantu!<br />
+                                            <h2 class="ez-toc-section" id="isilah-titik-titik-di-bawah-ini-dengan-kata-ganti-orang-yang-sesuai-dengan-kalimatnya-1-globalisasi-telah-membawa-banyak-perubahan-dalam-kehidupan-_______-2-doni-bertanya-pada-gurunya-_______-meng">
+                            2.  Isilah titik-titik di bawah ini dengan kata ganti orang yang sesuai dengan kalimatnya. 1.Globalisasi telah membawa banyak perubahan dalam kehidupan _______.2.Doni bertanya pada gurunya, _______, mengapa ________ tidak boleh membaca buku itu?3.Doni dan Nesia pergi bersama ayah dan ibu ke toko buku. ________ ingin membeli beberapa buku bacaan tentang tokoh-tokoh ilmuwan Indonesia. 4.Bapak kepala sekolah sedang memimpin upacara pagi di sekolah. _______ mengenakan baju batik lengan panjang. 5.Doni mengajak teman-temannya bermain sepak bola di halaman sekolah. Yuk, teman-teman _______ bermain sepakbola! Teman-temannya menjawab, Wah, ________ tidak bisa, Doni. ________ ada tugas sekolah yang harus dikerjakan segera.​</h2><br />
+                        <p>1. sehari  hari</p><p>2. bu guru,kita</p><p>3. doni dan nesia</p><p>4. ia</p><p>5. kita,sayang sekali karena</p><p></p><p></p><p>semoga membantu maaf klo salah</p><p><strong>Jawaban:</strong></p><p>1. Manusia. </p><p>2.Bu guru, saya</p><p>3.Mereka</p><p>4.Semua siswa</p><p>5. Kita, kami, kami</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu.... </p><br />
+                                            <h2 class="ez-toc-section" id="saat-libur-sekolah-tiba-ayahmu-mendapatkan-undangan-dari-kepala-desa-untuk-melakukan-kerja-bakti-bersih-desa-kegiatan-tersebut-sebagai-upaya-mencegah-banjir-pada-musim-hujan-sebagai-peserta-didik">
+                            3. Saat libur sekolah tiba, ayahmu mendapatkan undangan dari Kepala Desa untuk melakukan kerja bakti bersih desa. Kegiatan tersebut sebagai upaya mencegah banjir pada musim hujan. Sebagai peserta didik, yang telah mempelajari serta memahami materi persatuan dan kesatuan. Bagaimana sikap yang sebaiknya kamu lakukan? Ceritakan langkah yang akan kamu lakukan dalam buku tugas masing-masing.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yg laki² membantu ayah kerja bakti </p><p>yg perempuan membantu membuat camilan / jajanan untuk orang" yg membantu kerja bakti </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="siswa-itu-menggunakan-seragam-putih-biru-contoh-kalimat-tersebut-merupakan-bagian-kaidah-kebahasaan-%c2%a0a-menggunakan-kata-kiasan-atau-majasb-mengandung-kata-kerja-transitifc-menggunakan-kat">
+                            4. Siswa itu menggunakan seragam putih biru. Contoh kalimat tersebut merupakan bagian kaidah kebahasaan.... *a. Menggunakan kata kiasan atau majasb. Mengandung kata kerja transitifc. Menggunakan kata kerjad. Menggunakan frasa10. Berikut yang merupakan contoh penggunaan frasa yang mengandung kata benda berdasarkan kaidah kebahasaan teks deskripsi adalah.... *a. Kucing cerdasb. Beliau adalah seorang kepala sekolah yang rendah hatic. Saya yakin buku itu murahd. Pohon kelapa melambai-lambai seolah memanggilku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>9. mengunakan kata kerja</p><p>10.saya yakin buku itu murah</p><br />
+                                            <h2 class="ez-toc-section" id="1-guru-isa-menajamkan-telinganya-2-sekolah-itu-sepi-3-guru-guru-lain-sudah-pulang-4-dia-merasa-kepalanya-agak-pening-5-ada-yang-membawa-pekerjaan-rumah-mereka-untuk-diselesaikan-di-rumah-6-buku">
+                            5. 1.guru isa menajamkan telinganya, 2 sekolah itu sepi, 3.guru guru lain sudah pulang, 4.dia merasa kepalanya agak pening, 5.ada yang membawa pekerjaan rumah mereka untuk diselesaikan di, rumah, 6.buku tulis mahal dari luar, 7.dan dirumah uangnya telah habis,8.jika diambilnya sebungkus, tidak ada orang yang akan tahu, pikirnyaYang manakah termasuk kalimat majemuk bertingkat </h2><br />
+                        8.jika diambilnya sebungkus,tidak ada orang yang akan tahu,pikirnya<br />Maaf y klo salahJawabannya 8.Jika diambilnya sebungkus, tidak akan ada orang yang tahu, pikirnya.<br /><br />Maaf Kalo Salah<br />
+                                            <h2 class="ez-toc-section" id="1-guru-isa-menajamkan-telinganya-2-sekolah-itu-sepi-3-guru-guru-lain-sudah-pulang-4-dia-merasa-kepalanya-agak-pening-5-ada-yang-membawa-pekerjaan-rumah-mereka-untuk-diselesaikan-di-rumah-6">
+                            6. 1) Guru Isa menajamkan telinganya. 2) Sekolah itu sepi. 3) Guru-guru lain sudah pulang. 4) Dia merasa kepalanya agak pening. 5) Ada yang membawa pekerjaan rumah mereka untuk diselesaikan di rumah. 6) Buku tulis mahal dari luar. 7) Dan dirumah uang telah habis. 8) Jika diambilnya sebungkus, tidak ada orang yang akan tahu, pikirnya.                                                      Kalimat majemuk bertingkat ditujukkan oleh nomor</h2><br />
+                        5) ada yg membawa pekerjaan rumah mereka untuk diselesaikan di rumah<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="1guru-isa-menajamkan-telinganya-2sekolah-itu-sepi-3guru-guru-lain-sudah-pulang-4dia-merasa-kepalanya-agak-pening-5ada-yang-membawa-pekerjaan-rumah-mereka-untuk-di-selesaikan-di-rumah-6buku-tulis">
+                            7. 1)guru isa menajamkan telinganya 2)sekolah itu sepi 3)guru guru lain sudah pulang 4)dia merasa kepalanya agak pening 5)ada yang membawa pekerjaan rumah mereka untuk di selesaikan di rumah 6)buku tulis mahal dari luar 7)dan dirumah uang telah habis 8)jika diambilnya sebungkus,tidak ada orang yang akan tau, pikirnya.jelaskan pola kalimatnya dan jawab apa jawaban nya  terimakasih. ..</h2><br />
+                        menurut aku si D karna yg di bagian ke 8 itu<br />
+                                            <h2 class="ez-toc-section" id="di-sebuah-sekolah-berlantai-4-telah-ditemukan-mayat-salah-satu-murid-ketua-osis-sekolah-tersebut-diminta-untuk-menyelidiki-kasus-tersebut-ck-kenapa-harus-aku-yang-hanya-bekerja-disini-gerutu-nya">
+                            8. Di sebuah sekolah berlantai 4 telah ditemukan mayat salah satu murid. Ketua osis sekolah tersebut diminta untuk menyelidiki kasus tersebut."Ck, kenapa harus aku yang hanya bekerja disini." gerutu nya malas.Pengurus sekolah mengatakan bahwa ia melihat beberapa murid melewati koridor lantai tersebut. Termasuk murid yang tewas tersebut. Ia berkata bahwa ada beberapa muka tidak asing disana, yaitu Argatha, Xena, Diana, Aneta dan Amora.Ketua osis segera kembali dalam clan dan memeriksa isi tas mayat tersebut. Terdapat beberapa buku pelajaran disana. Dan penglihatan nya tertuju pada buku yang sering ia lihat di meja Aneta. Entah untuk apa ia meminjam buku tersebut.Di lembar terakhir terdapat beberapa angka yang menurutnya sangat janggal241542417524Lalu ketua osis tersebut segera menghampiri seseorang yang angka ini maksud dan membawanya ke ruang kepala sekolah. Sebenarnya apa yang terjadi?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>penbulyan dan berujung pembunuhan.</p><p><strong>Penjelasan:</strong></p><p>mungkin</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="guru-isa-menajamkan-telinganya-sekolah-itu-sepi-guru-guru-lain-sudah-pulang-dia-merasa-kepadanya-agak-penting-ada-yang-membawa-pekerjaan-mereka-untuk-diselesaikan-di-rumah-buku-tulis-mahal-di-lua">
+                            9. Guru Isa menajamkan telinganya. Sekolah itu sepi. Guru-guru lain sudah pulang. Dia merasa kepadanya agak penting. Ada yang membawa pekerjaan mereka untuk diselesaikan di rumah. Buku tulis mahal di luar dan di rumah uang telah habis. Jika diambilnya sebungkus, tidak ada orang yang akan tahu, pikirnya dan dengan uang ini dia akan dapat membeli beras. Rasa malu menjalar ke dalam hatinya, ketika pikiran ini melintas ke kepalanya. "Sampai bisa niat mencuri masuk ke dalam kepalaku". pikirnya, malu pada dirinya sendiir, buku-buku tulis yang telah diperiksanya itu dimasukkannya cepat-cepat ke dalam laci meja, seakan-akan dia takut akan tergoda kalau lama-lama dilihatnya, dan laci itu dikuncinya. Beberap saat guru Isa bertopang dagu demikian.
+Unsut ekstrinsik dalam kutipan novel di atas adalah...
+a. agama
+b. Politik
+c. Adat
+d. Sosial
+e. Budaya</h2><br />
+                        d. sosial<br /><br />jadikan yg terbaikKayaknya <br />D. Sosial<br />Tapi maaf kalau salah ya... <br />
+                                            <h2 class="ez-toc-section" id="contoh-mobilitas-sosial-lateral-permanen-ditunjukkan-oleh-pernyataan-a-hima-mengikuti-orang-tunya-yang-bertransmigrasi-ke-sumatra-dan-bersekolah-di-sana-b-pak-indri-harus-melepaskan-jabatannya-seba">
+                            10. Contoh mobilitas sosial lateral permanen ditunjukkan oleh pernyataan...a.hima mengikuti orang tunya yang. bertransmigrasi ke sumatra dan bersekolah di sana.b.pak indri harus melepaskan jabatannya sebagai kepala sekolah karena memilih pensiun dini.c.citra mendapatkan pekerjaan sebagai editor buku setelah menganggur hampir enam bulan.d.jono sementara ikut neneknya di desa hingga SMP, setelah lulus ia ikut orang tuanya ke kota.tolong dijawab ya besok dikumpulplisssssssss!!!!!!!!!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>sepertinya A....maaf kalo salah</p><p><strong>Penjelasan:</strong></p><p>mobilitas sosial=perpindahan seseorang atau kelompok yang secara tidak langsung merubah status sosial</p><br />
+                                            <h2 class="ez-toc-section" id="kalimat-manakah-di-bawah-ini-yang-tidak-menggunakan-kata-kerja-mental-%c2%a0kepala-sekolah-menyetujui-kegiatan-bakti-sosial-yang-diadakan-osisdesfa-mematuhi-aturan-yang-diberikan-dewan-juriyosimen">
+                            11. Kalimat manakah di bawah ini yang tidak menggunakan kata kerja mental ... *Kepala sekolah menyetujui kegiatan bakti sosial yang diadakan OSISDesfa mematuhi aturan yang diberikan dewan juriYosimenerima ajakan Fasya untuk membaca buku di perpustakaanPutri Muslimah 2018 sangat menginspirasi pemuda-pemudi IndonesiaReyfaldi sangat memahami kondisi keluarganya​</h2><br />
+                        <p>Reyfaldi sangat memahami kondisi keluarganya</p><p></p><p><strong>Jawaban:</strong></p><p>dari gambar dibawah ini, tempat ibadah umat hindu ditunjukkan nomor ….</p><br />
+                                            <h2 class="ez-toc-section" id="cermati-paragraf-berikutkerja-sama-kepala-sekolah-dan-guru-guru-sekolahku-amat-baik-kondisi-ini-membuathubungan-siswa-dan-guru-juga-terjalin-harmonis-guru-mata-pelajaran-seperti-guru-agamabahasa">
+                            12. Cermati paragraf berikut!Kerja sama kepala sekolah dan guru-guru sekolahku amat baik. Kondisi ini membuathubungan siswa dan guru juga terjalin harmonis. Guru mata pelajaran, seperti guru agama,bahasa Indonesia, dan olahraga, dapat melaksanakan pembelajaran yang bermutu. Siswapun dapat belajar dengan aktif dan penuh prestasiSumber: Bahasa Indonesia kelas VII (Buku Siswa, hal. 66)Berdasarkan pola pengembangan teks eksposisi, paragraf tersebut adalah pola .........?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ide pokok: hubungan yg harmonis antar siswa Dan guru.</p><p>pendapat : keharmonisan guru-siswa terjadi Karena adanya kerjasama kepsek dan guru</p><p>fakta:guru mapel dpt melaksanakan pembelajaran yg bermutu Dan siswa dapat belajar aktif Dan berprestasi</p><p></p><p><strong>Penjelasan:</strong></p><p>maaf ya kalau ada yang salah.</p><p>semoga bermanfaat ya buat teman teman.</p><br />
+                                            <h2 class="ez-toc-section" id="1osis-adalah-organisasi-siswa-intra-sekolah-maksud-dari-kata-intra-adalah-aosis-adalah-organisasi-yang-berada-di-lingkungan-sekolah-bosis-adalah-oraganisasi-yang-tidak-berhubungan-dengan-sekola">
+                            13. 1)OSIS adalah Organisasi Siswa Intra Sekolah, maksud dari kata Intra adalah... A)OSIS adalah organisasi yang berada di lingkungan sekolah B)OSIS adalah oraganisasi yang tidak berhubungan dengan sekolah lain C)OSIS adalah bagian dari salah satu organisasi pemuda D)OSIS adalh organisasi pelajar se-Indonesia 2)Kewajiban utama Siswa yang pertama adalah "belajar keras" menuntut ilmu pengetahuan dan teknologi. Pada lambang OSIS, hal tersebut dilambangkan dengan... A)Dua tangan terbuka B)Pelangi merah putih C)Tujuh belas butir padi D)Buku terbuka 3)Secara struktural kegiatan OSIS berada dibawah pembinaan Pembantu Kepala sekolah urusan... A)HUMAS B)KURIKULUM C)KESISWAAN D)SARPRAS  4)Salah satu tugas Pengurus OSIS adalah... A)Melaksanakan kerja bakti di Sekolah B)Menyusun program kerja OSIS C)Melaksanakan ketertiban siswa di sekolah D)Menjadi petugas upacara bendera 5)Dala</h2><br />
+                        <p><strong>Jawaban :</strong></p><p>1). OSIS adalah Organisasi Siswa Intra Sekolah, maksud dari kata Intra adalah...
+</p><p><strong>a. OSIS adalah organisasi yang berada di lingkungan sekolah</strong>
+</p><p>b. OSIS adalah organisasi yang tidak berhubungan dengan sekolah lain
+</p><p>c. OSIS adalah bagian dari salah satu organisasi pemuda
+</p><p>d. OSIS adalah organisasi pelajar se-Indonesia
+</p><p>2). Kewajiban utama Siswa yang pertama adalah "belajar keras" menuntut ilmu pengetahuan dan teknologi. Pada lambang OSIS, hal tersebut dilambangkan dengan...
+</p><p>a. Dua tangan terbuka
+</p><p>b. Pelangi merah putih
+</p><p>c. Tujuh belas butir padi
+</p><p><strong>d. Buku terbuka</strong>
+</p><p>3). Secara struktural kegiatan OSIS berada dibawah pembinaan Pembantu Kepala sekolah urusan...
+</p><p>a. HUMAS
+</p><p>b. KURIKULUM
+</p><p><strong>c. KESISWAAN</strong>
+</p><p>d. SARPRAS
+</p><p>4). Salah satu tugas Pengurus OSIS adalah...
+</p><p>A. Melaksanakan kerja bakti di Sekolah
+</p><p><strong>B. Menyusun program kerja OSIS</strong>
+</p><p>C. Melaksanakan ketertiban siswa di sekolah
+</p><p>D. Menjadi petugas upacara bendera</p><p><strong>Penjelasan :</strong></p><p>Arti lambang OSIS </p><p>a. Bunga Bintang Sudut Lima dan Lima Kelopak Daun Bunga  </p>melambangkan siswa sebagai bunga harapan bangsa, putih    menunjukkan kemurnian jiwa yang bersumber Pancasila, dalam daya dan upaya melalui 5 jalan yaitu : Abdi, Adab, Ajar, Aktif dan Amal (5A).
+<p>b. Buku Terbuka  </p>Kewajiban utama siswa adalah belajar keras menuntut ilmu pengetahuan dan teknologi
+<p>3. Kunci Pas
+</p>Kewajiban utama dari seorang siswa yang kedua yaitu bekerja keras
+<p>4. Dua Tangan Terbuka  </p>Kewajiban utama siswa yang ketiga yaitu berbakti dan bersedia menolong yang lemah
+<p>5. Biduk atau Perahu Lesung  </p>Sebagai wadah pembinaan guna menuju masa depan yang lebih baik yang sesuai dengan cita-cita
+<p>6. Pelangi Merah Putih  </p>Gambaran atau Jembatan menuju ke tujuan Nasional
+<p>7. Butir Padi, 8 Lipatan Pita, 4 Kapas, 5 Daun Kapas  </p>Siswa harus menegakkan nilai-nilai perjuangan sebagai kader bangsa dan pembangunan
+<p>8. Warna Kuning  </p>Warna kehormatan generasi muda dipercaya untuk berbuat baik melalui organisasi demi Nusa dan Bangsa
+<p>9. Warna Cokelat  </p>Dalam berfikir, bertingkah laku yang harus berpijak pada tanah air budaya bangsa
+<p>10. Warna Merah Putih
+</p>Melambangkan kesucian, berani dalam membela kebenaran<p><strong>Pelajari lebih lanjut :</strong></p><p>Materi pengertian OSIS pada link</p><p>https://brainly.co.id/tugas/20961807</p><p><strong>#BelajarBersamaBrainly</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-perilaku-di-bawah-ini-yang-menunjukan-sikap-rukun-di-sekolah-adalah-a-membaca-buku-di-perpustakaan-b-melaksanakan-tugas-kelompokc-mengerjakan-tugas-sekolahd-mengajukan-pertanyaan-dalam-belajar2">
+                            14. 1.perilaku di bawah ini yang menunjukan sikap rukun di sekolah adalah...  a.membaca buku di perpustakaan b.melaksanakan tugas kelompokc.mengerjakan tugas sekolahd.mengajukan pertanyaan dalam belajar2.salah satu contoh sikap demokratis dalam kehidupan sehari hari adalah..a.pemilihan kepala desab.pelaksanaan penyuluhan kesehatan c.penentuan regu kerja bakti di lingkungand.penentuan kelompok pengajian di masjid tolong ya kakak kakak. GBU </h2><br />
+                        jawabannya :<br /><br />1. B<br />2. A1. b. Melaksankan tugas kelompok.<br />2.a. Pemilihan kepala desa.<br />Semoga membantu.<br />
+                                            <h2 class="ez-toc-section" id="lintang-telah-menunjukkan-minat-yang-besar-untuk-bersekolah-semenjak-hari-pertama-berada-di-sekolah-ia-berasal-dari-keluarga-yang-miskin-ayahnya-bekerja-sebagai-nelayan-miskin-yang-tidak-memiliki-pera">
+                            15. Lintang telah menunjukkan minat yang besar untuk bersekolah semenjak hari pertama berada di sekolah ia berasal dari keluarga yang miskin ayahnya bekerja sebagai nelayan miskin yang tidak memiliki perahu dan harus menanggung kehidupan 14 jiwa anggota keluarga semenjak ayahnya meninggal Lintang membanting tulang dan terus belajar Ia adalah anak yang pantang menyerah dan lebih menakjubkan nya lagi semua pengetahuan itu ia pelajari sendiri dengan membaca berbagai macam buku milik kepala sekolah Jika ya Mendapat giliran tugas menyapu di ruangan beliau *Tuliskan amanat yang terdapat dalam cerita tersebut! mhon bntuan nya. ​</h2><br />
+                        <p>Jawaban:</p><p>Kita harus pantang menyerah dan terus berusaha untuk mencapai tujuan yang terbaik. Kalau kita sudah berusaha, tentu tuhan tidak tinggal diam. </p><p>Penjelasan </p><p>Amanat adalah suatu pesan yang ingin disampaikan oleh si pemberi amanat berbentuk sebuah perintah kepada penerima amanat melalui amanat yang tertulis atau instruksi, agar si penerima amanat dapat menyampaikan atau melakukan amanat yang diberikan oleh si pemberi amanat.</p><p></p><p>Semoga membantu jangan lupa follow ya and jadikan jawaban tercerdas ^_^</p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/pTWt_Qf9cUY?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ips</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/rpp-seni-musik-smp-kelas-7-kurikulum-2013/">Rpp Seni Musik Smp Kelas 7 Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/rpp-kurikulum-2013-revisi-2017-smk/">Rpp Kurikulum 2013 Revisi 2017 Smk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/semesta-matsnawi/">Semesta Matsnawi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-pola-analogi/">Contoh Pola Analogi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/drama-bawang-merah-bawang-putih-bahasa-inggris/">Drama Bawang Merah Bawang Putih Bahasa Inggris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/ustadz-syafiq-reza-basalamah-mp3/">Ustadz Syafiq Reza Basalamah Mp3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-limit-dan-jawaban/">Soal Limit Dan Jawaban</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/tes-motivasi-kepemimpinan/">Tes Motivasi Kepemimpinan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-uas-quran-hadits-kelas-4-semester-2/">Soal Uas Qur&#039;an Hadits Kelas 4 Semester 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-lagu-karaoke-format-mpeg-gratis/">Download Lagu Karaoke Format Mpeg Gratis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/ganool-running-man/">Ganool Running Man</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/rpp-stem/">Rpp Stem</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/pidato-tentang-kebakaran-hutan/">Pidato Tentang Kebakaran Hutan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-pilihan-ganda-spldv-kelas-8/">Soal Pilihan Ganda Spldv Kelas 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-lagu-mpeg/">Download Lagu Mpeg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/kursus-menjahit-tangerang/">Kursus Menjahit Tangerang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-ujian-sistem-informasi-manajemen/">Soal Ujian Sistem Informasi Manajemen</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-bilangan-bulat-dan-pecahan/">Contoh Soal Bilangan Bulat Dan Pecahan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-probabilitas-statistik/">Contoh Soal Probabilitas Statistik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-integral-volume-benda-putar/">Contoh Soal Integral Volume Benda Putar</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

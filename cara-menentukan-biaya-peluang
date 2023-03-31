@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cara Menentukan Biaya Peluang - BELAJAR</title>
+    <meta name="description" content="Cara Menentukan Biaya Peluang, , , , , , , 0, , , , , , 0, cara-menentukan-biaya-peluang, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Cara Menentukan Biaya Peluang - BELAJAR" />
+    <meta property="og:description" content="Cara Menentukan Biaya Peluang, , , , , , , 0, , , , , , 0, cara-menentukan-biaya-peluang, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Cara Menentukan Biaya Peluang - BELAJAR" />
+    <meta name="twitter:description" content="Cara Menentukan Biaya Peluang, , , , , , , 0, , , , , , 0, cara-menentukan-biaya-peluang, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Cara Menentukan Biaya Peluang</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">vivianizuraida15</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Cara+Menentukan+Biaya+Peluang" alt="Cara Menentukan Biaya Peluang">
+                    </div>
+                    <p></p>
+                    <p>Cara menentukan biaya peluang
+Cara menentukan biaya peluang</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-menentukan-biaya-peluangcara-menentukan-biaya-peluang">1.
+                                            Cara menentukan biaya peluang
+Cara menentukan biaya peluang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimanakah-cara-menentukan-pilihan-agar-biaya-peluang-agar-biaya-peluang-tidak-merugikan-kita">2.
+                                            bagaimanakah cara menentukan pilihan agar biaya peluang agar biaya peluang tidak merugikan kita</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-menentukan-pilihan-agar-biaya-peluang-tidak-merugikan-kita-berikan-penjelsan">3.
+                                            bagaimana cara menentukan pilihan agar biaya peluang tidak merugikan kita berikan penjelsan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-menentukan-pilihan-agar-biaya-peluang-tidak-merugikan-kalian-jelaskan-secara-rinci">4.
+                                            bagaimana cara menentukan pilihan agar biaya peluang tidak merugikan kalian??, jelaskan secara rinci</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimanakah-cara-menentukan-pilihan-agar-biaya-peluang-tidak-merugikan-kalian-berikan-penyelesaian-kalian-secara-rinci">5.
+                                            Bagaimanakah cara menentukan pilihan agar biaya peluang tidak merugikan kalian? berikan penyelesaian kalian secara rinci</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#21-seorang-wirausaha-dikatakan-trampil-dan-professional-dalam-menjual-jika-memiliki-kemampuan-menjual-yang-memuaskana-diri-sendirib-orang-lainc-keluargad-pelangganpembelie-pemasok22-mempromosi">6.
+                                            21.	Seorang wirausaha dikatakan trampil dan professional dalam menjual jika memiliki kemampuan menjual yang memuaskana.	Diri sendirib.	Orang lainc.	Keluargad.	Pelanggan/pembelie.	Pemasok22.	Mempromosikan produk dapat menggunakan media, kecualia.	Bannerb.	Surat kabarc.	Internetd.	Radioe.	Televisi23.	Akibat jika perusahaan tidak menjaga kualitas produk adalah sebagai berikut, kecualia.	Produk tidak lakub.	Konsumen lari ke produk lainc.	Pelanggan hilangd.	Produk digemari konsumene.	Perusahaan menderita kerugian24.	Berikut ini yang bukan merupakan ciri – ciri intrepreaneur action adalaha.	Mandirib.	Mencari peluangc.	Mudah menyerahd.	Berkreasie.	Berorientasi ke masa depan25.	Kesempatan yang harus diambil oleh seorang wirausaha untuk mewujudkan atau melaksanakan suatu usaha dengan keberanian mengambil resiko merupakan pengertian daria.	Wirausahab.	Wiraswastac.	Peluang usahad.	Jual belie.	Pedagang26.	Untuk menganalisis lingkungan eksternal dalam perencanaan usaha seseorang wirausaha dapat mengguanak analisisa.	Streangth and Weaknessb.	Opportunity and Weaknessc.	Opportunity and Strengthd.	Streangth, Weakness, Opportunity and Threatse.	Opportunity and Threats27.	Berikut ini termasuk salah satu strategi hargaa.	Mengikuti bazar dan pameranb.	Menggelar undian berhadiahc.	Mengadakan bakti sociald.	Mendiversifikasi produke.	Memberikan diskon28.	Wirausaha sebagai orang yang menanggung resiko, yang merencanakan, supervise, mengorganisasi, merupakan gagasan daria.	Richard Cantillonb.	Jean Baptist Sayc.	Bedeaud.	Francis Walkere.	David McLelland29.	Membedakan antara orang yang menyediakan modal dan memberikan bunga, dengan orang yang menerima keuntungan karena keberhasilannya memimpin usaha, merupakan gagasan daria.	Richard Cantillonb.	Jean Baptist Sayc.	Bedeaud.	Francis Walkere.	David McLelland30.	Seorang yang energik dan membatasi resiko, merupakan gagasan daria.	Richard Cantillonb.	Jean Baptist Sayc.	Bedeaud.	Francis Walkere.	David McLelland31.	Kata lain dari kalimat peluang adalaha.	Strengthb.	Opportunityc.	SWOTd.	Weaknesse.	Threat32.	Seorang wirausaha harus berfikir bicara positif dan kreatif antara lain :a.	Kurang komunikatifb.	Harus menerima gagasan baru didalam dunia usaha / bisnis c.	Tidak percaya dirid.	Malu bertanyae.	Egoistis33.	Yang bukan merupakan cara menangkap peluang usaha adalaha.	Mau belajar ilmu manajemen usahab.	Mau meminta jasa konsultanc.	Mau meminta jasa keluargad.	Mau percaya dan yakin bahwa usahanya bisa dilaksanakane.	Meminta jasa kenalan34.	Dalam analisis SWOT, W adalah Weakness yang artinya :a.	Kekuatanb.	Peluangc.	Kelemahand.	Ancamane.	Persaingan35.	Berikut ini alas an utama kegagalan usaha baru, yaitua.	Waktu memulai usaha baru yang tidak tepatb.	Manajemen yang baik dan tepatc.	Memulai usaha yang membuat perencanaan yang baikd.	Pengusaha selalu menangkap peluang usaha yang tepat dan baike.	Hasil produksi yang banyak diminati oleh konsumen36.	Perusahaan menyerahkan cara untuk menarik para konsumen agar mau melakukan pembelian terhadap barang – barang produksinya disebut a.	Ilmu menjualb.	Promosic.	Negosiasid.	Pembiayaane.	Pelanggan37.	Orang yang pandai dalam menentukan produk baru, menentukan cara produk baru, menyusun kegiatan produk baru, mengatur keuangan serta memasukkannya kedalam suatu usaha merupakan pengertian dari a.	Kewirausahaanb.	Pelaku usahac.	Pekerjad.	Wirausahawane.	Wiraswasta38.	Kemampuan menyelesaikan masalah yang memeberikan kesempatan individu untuk menciptakan ide -ide asli atau baru disebuta.	Kreatifb.	Inovatifc.	Imajinatifd.	Pro aktife.	Aktif39.	Dalam promosi apa yang harud dilakukan agar minat pembeli semakin meningkat ?a.	Memberi tau kelemahan – kelemahan produkb.	Menawarkan produk dengan harga yang sangat murahc.	Menjelaskan manfaat dan kelebihan yang ada pada produkd.	Menghasut dan memaksa konsumen untuk membeli produk tersebute.	Membohongi konsumen tentang deskripsi barang40.	Dalam memasarkan suatu produk, hendaklah memperhatikan beberapa aspek, kecualia.	Harga produk harus sesuai dengan biaya produksinyab.	Harga produk harus memperhatikan ekonomi dan nilai kurs mata uang yang sedang berlakuc.	Produk harus dikemas dan dipasarkan sebagus mungkin agar menarik pembelid.	Pada kemasan disertakan deskripsi yang menampilkan kelebihan produke.	Memasarkan produk dengan promosi yang tidak baik​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#masalah-pokok-ekonomi-sepenuhnya-diserahkan-pada-kekuatan-permintaan-dan-penawaran-adalah-sistem-ekonomi-%c2%a04-poina-tradisionalb-modernc-klasikd-komandoe-pasarkelangkaan-memunculkan-pilihan-dan">7.
+                                            Masalah pokok ekonomi sepenuhnya diserahkan pada kekuatan permintaan dan penawaran adalah sistem ekonomi.... *4 poina.tradisionalb.modernc.klasikd.komandoe.pasarKelangkaan memunculkan pilihan dan pilihan menimbulkan biaya yang disebut.... *4 poina.biaya tetapb.biaya variabelc.biaya peluangd.biaya resikoe.modalTerdapat tiga masalah pokok ekonomi, yaitu .... *4 poina.what, why dan whereb.what, when dan whomc.what, why dan whend.what, why dan whome.why, when dan whomEkonomi klasik membahas masalah.... *4 poina.biaya peluang dan kelangkaanb.produksi, distribusi dan konsumsic.produksi,promosi dan konsumsid.sistem ekonomi dan konsumsie.sistem ekonomi dan kelangkaanOppotunity cost selalu diukur dari nilai peluang yang terbaik yang dikorbankan atau nilai peluang yang.... *4 poina.tidak dipilihb.terkecilc.terbesard.dipilihe.tidak adaBerikut ini yang bukan hakikat permasalahan ekonomi adalah.... *4 poina.pilihanb.biaya peluangc.sistem ekonomid.skala prioritase.kelangkaanAturan dan tata cara untuk mengkoordinasikan perilaku masyarakat dalam menjalankan kegiatan ekonomi untuk mencapai tujuan adalah.... *4 poina.teori ekonomi.b.masalah ekonomic.sistem ekonomid.kegiatan ekonomie.pelaku ekonomiDalam kegiatan ekonomi, rumah tangga memiliki peran .... *4 poina.pengatur kegiatan ekonomib.pemasok faktor produksic.distributor barang dan jasad.agen pembangunane.produsen barang dan jasaPrioritas kedua dalam skema skala prioritas kebutuhan diantaranya adalah kebutuhan... *4 poina.tersierb.sekarangc.primerd.kelompoke.individuPenanaman modal oleh investor asing adalah salah satu bentuk peran pelaku ekonomi.... *4 poina.masyarakat luar negerib.rumah tanggac.pemerintahd.perusahaane.masyarakatBila pemenuhan kebutuhan terhadap suatu benda berlangsung terus-menerus maka tingkat kepuasan mula-mula tinggi, kemudian menurun sampai akhirnya mencapai titik nol, hal tersebut adalah penjelasan dari.... *4 poina.Hukum gossen Ib.Hukum gossen IIc.Teori perilaku konsumend.Teori kebutuhan Maslowe.Teori perilaku produsenPrioritas pertama dalam skema skala prioritas kebutuhan diantaranya kebutuhan....4 poina.yang akan datangb.kelompokc.tersierd.sekundere.sekarangMasalah ekonomi yang dilihat dari sudut pandang yang sederhana adalah ekonomi.... *4 poina.campuranb.komandoc.pasard.moderne.klasikMasyarakat dapat menikmati produk bermutu tinggi yang tidak dihasilkan perusahaan dalam negeri dengan cara mengimpor, hal ini merupakan salah satu peran masyarakat luar negeri sebagai.... *4 poina.sumber tenaga kerja ahlib.produsen barang dan jasac.investord.agen pembangunane.konsumen barang dan jasaDalam sistem ekonomi komando yang menentukan apa, bagaimana dan untuk siapa barang diproduksi ditentukan oleh.... *4 poina.adat istiadatb.pemerintahc.pemuka masyarakatd.manajer perusahaane.kelompokDiagram yang menunjukkan hubungan yang sangat penting antara rumah tangga, perusahaan, pemerintah dan masyarakat luar negeri adalah diagram.... *4 poina.diagram pelaku kegiatan ekonomibhubungan pelaku ekonomi banyak sektorc.interaksi pelaku ekonomi model kompleksd.hubungan antara pelaku ekonomie.interaksi pelaku ekonomi model sederhanaSuatu daftar berbagai macam kebutuhan hidup yang disusun berdasarkan kepentingannya adalah... *4 poina.daftar keinginanb.daftar kebutuhan hidupc.daftar kebutuhan ekonomid.skala prioritas keinginane.skala prioritas kebutuhanBerikut ini merupakan ciri-ciri sistem ekonomi tradisional, kecuali... *4 poinsetiap rumah tangga memproduksi sendiri barang kebutuhannyamasyarakat statis karena minim berhubungan dengan dunia luarkegiatan ekonomi hanya untuk kebutuhan makananteknologi yang digunakan masih sangat sederhanabarang yang dihasilkan banyak dan berkualitas tinggiBerikut ini yang bukan kelebihan sistem ekonomi campuran adalah.... *4 poinindividu dapat memiliki faktor produksipotensi swasta dapat berkembang.usaha kecil menengah mendapat perhatiankepemilikan pribadi tidak diakuikestabilan ekonomi terjaminDengan uang saku yang diperoleh dari orang tua, seorang siswa harus dapat mengaturnya untuk memenuhi kebutuhan selama satu hari di sekolah, hal ini merupakan penerapan dari.... *4 poinTeori perilaku produsenTeori perilaku konsumenTeori kebutuhan MaslowHukum gossen Ihukum gossen IISistem ekonomi pasar bebas yang mengutamakan pemilik modal disebut juga sistem ekonomi .... *4 poinsosialiskomandokapitalismonopolisempurnaKebutuhan yang tidak mutlak harus dipenuhi, namun bila terpenuhi kehidupan akan terasa lebih baik, lebih bahagia dan beradab adalah kebutuhan... *4 poinmasa mendatangtersiersekunderprimermendesak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#salah-satu-cara-menentukan-pilihan-yang-tepat-untuk-menetapkan-alternatif-yang-paling-menguntungkan-adalah-dengan-mempertimbangkan-biaya-peluang-biaya-peluang-adalah-%c2%a0a-biaya-yang-dikorb">8.
+                                            Salah satu cara menentukan pilihan yang tepat untuk menetapkan alternatif yang paling menguntungkan adalah dengan mempertimbangkan biaya peluang. biaya peluang adalah . . . . *a.biaya yang dikorbankan untuk mendapat sesuatub.laba yang diperoleh perusahaan dari hasil distribusi produkc.biaya yang digunakan peruahaan untuk memproduksi barangd.sejumlah uang yang diperoleh dari selisih pendapatan dan bebane.pembayaran tunai untuk membayar sumber daya yang dibeli perusahaan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pilihlah-satu-jawaban-1-pernyataan-berikut-yang-termasuk-pada-bagian-ilmu-ekonomi-deskriptif-adalah-a-elastisitas-permintaan-merupakan-derajat-kepekaan-dari-perubahan-kuantitas-barang-yang-dimin">9.
+                                            PILIHLAH SATU JAWABAN 1 Pernyataan berikut yang termasuk pada bagian ilmu ekonomi deskriptif adalah . . .A. Elastisitas permintaan merupakan derajat kepekaan dari perubahan kuantitas barang yang diminta sebagai akibat perubahan harga, pendapatan, dan harga barang lainB. Angka kemiskinan di suatu Negara pada September 2015 sebesar 17,5%C. Perusahaan menggunakan analisis elastisitas dalam mengukur penurunan harga tiket untuk meningkatkan penerimaannya D. Terdapat hubungan antara inflasi dan pengangguran di Indonesia E. Suatu perusahaan air mineral memutuskan untuk memproduksi 40.000 liter perhari2 Biaya yang dikeluarkan atau dikorbankan untuk menggunakan sumber daya bagi tujuan tertentu yang diukur dengan manfaat yang dilepasnya karena tidak menggunakan untuk tujuan lain disebut ....A. Biaya langsung B. Biaya peluangC. Biaya tetap D. Biaya sehari-hari E. Biaya variabel3 Perhatikan macam-macam kebutuhan berikut!1) Rekreasi dan ibadah.2) Makan dan minum.3) Jalan dan jembatan.4) Buku untuk pelajar.5) Angkutan umum.Pembagian kebutuhan berdasarkan subjek-subjek ditunjukkan pada nomor . . . .A. 1), 2), dan 3)B. 1), 2), dan 4)C. 2), 3), dan 4)D. 2), 4), dan 5)E. 3), 4), dan 5)4 Suatu kondisi dipasar “ pada saat harga ayam turun, permintaan telur juga akan turun. Artinya, ayam tersebut merupakan barang . . . .A. Komplementer B. Substitusi C. Superior D. InteriorE. Bebas 5 Perhatikan pernyataan-pernyataan berikut!1) Ekonomi mikro mempelajari harga barang, sedangkan ekonomi makro mempelajari perilaku produsen dan konsumen.2) Ekonomi mikro membahas harga pasar, sedangkan ekonomi makro membahas tentang inflasi.3) Ekonomi mikro membahas tentang interaksi antara penjual dan pembeli, sedangkan ekonomi makro membahas tentang inflasi.4) Ekonomi mikro membahas tentang penerimaan perusahaan, sedangkan ekonomi makro membahas tentang penerimaan nasional.5) Ekonomi mikro membahas tentang pengangguran, sedangkan ekonomi makro membahas tentang kesenjangan ekonomi.Berdasarkan pernyataan tersebut perbedaan ekonomi makro dan mikro yang paling tepat ditunjukkan pada nomor . . .A. 1), 2), dan 3)B. 1), 3), dan 5)C. 2), 3), dan 4)D. 2), 4), dan 5)E. 3), 4), dan 5)6 Berdasarkan intensitasnya, kebutuhan manusia terdiri dari kebutuhan . . .A. Primer, sekunder, dan tersierB. Jasmani dan rohaniC. Sekarang dan yang akan datangD. Individu dan kolektifE. Jangka panjang dan jangka pendek7 Keputusan Herman memilih bekerja sebagai staf TU dengan gaji Rp. 800.000,00 per bulan telah menghilangkan peluang Herrman bekerja sebagai pramusaji dengan gaji Rp. 1.000.000,00 per bulan. Dengan demikian, biaya peluang karena Herman memilih bekerja sebagai staf TU adalah sebesar . . .A. Rp. 800.000,00 per bulanB. Rp. 1.000.000,00 per bulanC. Rp. 1.800.000,00 per bulanD. Rp. 200.000,00 per bulanE. Rp. 2.000.000,00 per bulan8 Suatu Negara terjadi kelangkaan beras sehingga harga beras melambung tinggi dan tidak terjangkau oleh daya beli masyarakat. Untuk mengatasi kelangkaan beras yang paling tepat adalah . . .A. Mengganti tanaman padi dengan tanaman jagung bibit unggul sehingga produksi jagung meningkatkan B. Mengubah pola musim tanam sesuai dengan panca usaha tani sehingga produktivitas meningkatC. Mengimpor beras dan menjualnya dengan harga lebih murah dari harga dalam negeriD. Mengubah pola makanan pokok rakyat dari beras ke singkong atau saguE. Mendata kembali kebutuhan beras secara rasional9 Masyarakat harus menentukan siapa yang akan melakukan produksi, dengan sumber daya apa, dan teknik produksi apa yang akan digunakan. Masalah ini berkaitan dengan . . . . A. Barang apa yang akan diproduksiB. Untuk siapa barang diproduksiC. Megapa barang harus diproduksiD. Di mana barang harus diproduksiE. Bagaimana cara memproduksi10 Pemerintah berperan penuh dalam mengatur dan mendominasi segala sektor perekonomian. Keadaan tersebut menyebabkan terbatasnya daya inisiatif dan kreativitas masyarakat. Hal tersebut merupakan salah satu ciri system ekonomi . . . .A. DemokrasiB. TradisionalC. Bebas D. Terpusat E. Kerakyatan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jawablah-pertanyaan-berikut-dengan-benari-judul-pisang-gorengii-manfaat-1-melancarkan-gula-darah2-mengontrol-gula-darah3-menjaga-tekanan-darah-tetap-stabil4-menjaga-imunitas-tubuh5-memenuhi">10.
+                                            jawablah pertanyaan berikut dengan benarI. Judul : PISANG GORENGII. Manfaat :1. Melancarkan gula darah2. Mengontrol gula darah3. Menjaga tekanan darah tetap stabil4. Menjaga imunitas tubuh5. Memenuhi asupan nutrisi ibu hamil6. Mencegah anemia7. Menurunkan berat badanIII. Tujuan- Untuk menentukan biaya produksi dari makanan pisang goreng- Untuk menentukan BEP dari makanan pisang gorengIV: Alat dan Bahan:a. Alat:- kompor- spatula- sendok- pisau- mangkok/tempat adonan- piring sajib. bahan:- 150 gram gula pasir- garam secukupnya- 100ml air- 3 buah pisang- 500ml minyak goreng- susu kental 1 sachetV. Cara KerjaKupas kulit pisang, kemudian potong serong.Campur tepung terigu dengan gula, telur,garam dan air ke dalam adonan, kemudian goreng hingga berwarna keemasan. Angkat, lalu tiriskan dan sajikan.VI. Dasar Teori:Pisang adalah tanaman buah berupa herbal yang berasal dari kawasan di Asia Tenggara (termasuk Indonesia). Tanaman ini kemudian menyebar ke Afrika (madagaskar), Amerika Selatan dan Amerika Tengah. Di Jawa Bara, pisang di sebut dengan cau. Di Jawa Tengah dan Jawa Timur di namakan gedang. VII. Pembahasan:Srangeht : Karna mudah di buat dan tidak terlalu banyak mengeluarkan biaya.Waekness : naiknya harga bahan baku seperti tepung terigu dan minyak goreng dan tingginya angka persaingan.tugasnya di bawah iniOpportunity : (peluang)Treat : merawatVIII. Kesimpulan :Dapat mengetahui BEP​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-berilah-tanda-silang-x-pada-huruf-a-b-c-d-atau-e-pada-jawaban-yang-benar-1-kemampuan-untuk-merancang-membentuk-membuat-atau-melakukan-sesuatu-dengan-cara-yang-baru-atau-lain-disebut">11.
+                                            A. Berilah tanda silang (x) pada huruf a, b, c, d, atau e, pada jawaban yang benar! 1. Kemampuan untuk merancang, membentuk, membuat, atau melakukan sesuatu dengan cara yang baru atau lain disebut … a. Inovasi b. Analisis c. Kreativitas d. Peluang e. Ide 2. Perhatikan cara-cara berikut ini! 1) Melakukan penelitian tentang seberapa luas bentuk usaha yang dijalankan. 2) Bentuk usaha apa yang akan dijalankan. 3) Jenis usaha yang akan dijalankan. 4) Informasi usaha yang akan dijalankan. 5) Intuisi usaha yang akan berkembang. Yang bukan merupakan cara untuk menganalisis perluang usaha yang ada di sekitar ditunjukkan oleh nomor …. a. 1 b. 2 c. 3 d. 4 e. 5 3. Guna menganalisis keberhasilan maupun kegagalan usaha produk kreatif bangunan, anda dapat menggunakan analisis…. a. Peluang usaha b. Kelayakan usaha c. Kelayakan finansial d. SWOT e. Laba 4. Metode perencanaan strategis yang digunakan untuk mengevaluasi kekuatan, kelemahan dalam suatu proyek bisnis/wirausaha atau suatu spekulasi bisnis dinamakan …. a. Peluang usaha b. Kelayakan usaha c. Kelayakan finansial d. SWOT e. Laba 5. Kegunaan analisis SWOT, yaitu …. a. Mengetahui langkah-langkah yang perlu dilakukan dalam pengembangan usaha produk barang atau jasa sebagai alat penyusun strategi b. Melakukan strategi untuk mendapatkan keuntungan yang besar c. Menghitung total biaya produksi sehingga terjadi kerugian d. Menghitung biaya total yang akan dikeluarkan pada saat melakukan proses produksi e. Menekan pengeluaran 6. Pada produk di bawah yang menunjukkan produk kreatif bangunan, yaitu …. a. Pilar b. Angin-angin c. Gypsum d. Batu alam ukir e. Bata ringan 7. Perhatikan bentuk-bentuk analisis berikut ini! 1) Teknik sebelum peluang usaha baru diimplementasikan, dilihat dari aspek teknis perlu dilakukan analisis. 2) Dalam melaksanakan analisis kelayakan teknis, perlu diperhatikan berbagai macam teknis pembuatan produk barang atau jasa. Bentuk analisis tersebut, yaitu ….. a. Analisis kelayakan b. Analisis peluang pasar c. Menentukan jumlah d. Pembelian potensial e. Analisis kekuatan 8. Seorang wirausahawan yang akan membuka usaha baru di bidang produk kreatif bangunan selalu membutuhkan informasi tentang pasar karena tujuan dari pemasaran adalah untuk memenuhi permintaan pelanggan. Untuk itu dilakukan analisis …. a. Analisis kelayakan b. Analisis peluang pasar c. Menentukan jumlah d. Pembelian potensial e. Uji coba pasar 9. Berikut yang merupakan tujuan riset pasar adalah … a. Mengumpulkan informasi untuk pengembalian keputusan tentang usaha produk barang atau jasa yang akan dibuka b. Menentukan besarnya distribusi c. Memahami produk-produk unggulan d. Membentuk pasar barang e. Menentukan pangsa pasar 10. Dalam melaksanakan analisis kelayakan teknis, perlu diperhatikan … a. Teknis pembuatan produk barang atau jasa b. Keunggulan produk c. Kekurangan produk d. Keinginan pelanggan e. Keinginan pasar B. Jawablah uraian di bawah ini dengan benar dan tepat! 1. Apa yang anda ketahui tentang peluang kewirausahaan bidang produk kreatif bangunan? 2. Tuliskan jenis produk kreatif bangunan yang kamu tahu, tuliskan minimal lima contoh!3. Uraikan yang kamu ketahui tentang studi kelayakan pasar! 4. Apa kelebihan melakukan uji coba pasar? 5. Apa saja hal yang harus diperhatikan dalam analisis kelayakan teknis?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-proses-mengorganisir-mengelola-dan-keberanian-menanggung-resiko-untuk-menciptakan-usaha-baru-dan-peluang-berusaha-adalah-pengertian-2-yang-termasuk-karakter-seorang-wirausahawan-adalah-3">12.
+                                            1.	Proses mengorganisir, mengelola dan keberanian menanggung resiko untuk menciptakan usaha baru dan peluang berusaha adalah pengertian ...2.	Yang termasuk karakter seorang wirausahawan adalah  ...3.	Yang merupakan sikap wirausahawan adalah 4.	Potensi yang dimiliki seseorang untuk mencapai tujuan (keuntungan, uang, kekayaan) dengan cara melakukan usaha yang memanfaatkan berbagai sumber daya yang dimiliki adalah pengertian ...5.	suatu tindakan yang selalu dihubungkan dengna kemungkinan terjadinya kerugian yang tidak terduga dan tidak adalah pengertian 6.	Salah satu ciri dari peluang usaha yang potensial adalah 7.	Yang merupakan pengertian HAKI adalah 8.	Manfaat Hak Atas Kekayaan intelektual adalah...9.	Apapun yang dapat ditawarkan kepada pasar untuk atensi, akuisisi, penggunaan, atau konsumsi yang mungkin memuaskan suatu kebutuhan atau keinginan10.	Biaya yang berubah sesuai dengan output yang dihasilkan adalah biaya  11.	Seseorang yang memiliki kemampuan melihat &amp; menilai kesempatan-kesempatan bisnis; mengumpulkan berbagai sumber daya yang dibutuhkan untuk mengambil tindakan yang tepat, mengambil keuntungan serta memiliki sifat, watak &amp; kemauan untuk mewujudkan gagasan inovatif ke dalam dunia nyata secara kreatif dlm rangka meraih sukses/meningkatkan pendapatan adalah pengertian... 12.	Berpikiran positif, ulet &amp; terampil adalah ...13.	salah satu keterampilan dasar kewirausahaan adalah ...14.	segmentasi yang tepat untuk usaha tempat kos, ATK, fotocopy, rental komputer, internet, warnas, adalah ...15.	Kesediaan untuk menggunakan kemampuan dalam mencari peluang dalamkemungkinan untuk memperoleh keuntungan adalah pertimbangan dalam 16.	Salah satu sumber untuk memperoleh peluang usaha adalah ...17.	salah satu sumber untuk menemukan peluang usaha/ide bisnis adalah18.	salah satu aspek yang menentukan penentuan pasar adalah ... 19.	Nama lain analisis kelemahan, kekuatan, peluang, dan ancaman adalah 20.	kegagalan yg timbul akibat ketidakcukupan dana adalah </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-mengatasi-masalah-ekonomi1-menentukan-pilihan-yg-tepat-2-memanfaatkan-biaya-peluang-3-mengatasi-masalah-ekonomi-mikro-4-mengatasi-masalah-ekonomi-makro-5-sistem-ekonomi-sebagai-solusi-masala">13.
+                                            Cara mengatasi masalah ekonomi1. Menentukan pilihan yg tepat.2. Memanfaatkan biaya peluang.3. Mengatasi masalah ekonomi mikro.4. Mengatasi masalah ekonomi makro.5. Sistem ekonomi sebagai solusi masalah ekonomiTolong jawab yg benar!!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pernyataan-berikut-di-bawah-ini-yang-tidak-termasuk-fungsi-gambar-teknik-adalah-1-poinmenyampaikan-informasimembuat-produk-barubahan-dokumentasipengawetanmenuangkan-gagasan-untuk-pengemba">14.
+                                            Pernyataan berikut di bawah ini yang tidak termasuk fungsi gambar teknik adalah . . . *
+1 poin
+Menyampaikan informasi
+Membuat produk baru
+Bahan dokumentasi
+Pengawetan
+Menuangkan gagasan untuk pengembangan
+Menterjemahkan gambar desain menjadi gambar terukur sehingga dapat dipahami orang lain disebut . . . . *
+1 poin
+Tujuan penggunaan gambar teknik
+Fungsi penggunaan gambar teknik
+Gambar teknik yang terukur
+Gambar teknik yang terukur dan teratur
+Desain gambar teknik
+Menurut “Gilmor dan Joseph” produksi massal yaitu pendekatan dimana pelanggan melakukan dialog untuk membantu mengartikulasikan kebutuhan konsumen dan membuat produk sesuai kebutuhan konsumen, disebut . . . *
+1 poin
+Customerzer adaptive
+Customerzer kolaboratif
+Customerzer cosmetic
+Customerzer transparan
+Customerzer segments
+Berikut yang tidak termasuk fungsi pengendalian produksi adalah . . . *
+1 poin
+Menetapkan besarnya pajak
+Meramalkan peruntutan
+Memantau permintaan
+Membuat sistem pengendalian
+Melakukan perencanaan
+Berikut yang tidak termasuk faktor yang menentukan indikator keberhasilan suatu usaha adalah . . . *
+1 poin
+Kepuasan konsumen
+Kepuasan penjual
+Volume penjualan meningkat
+Tingkat produksi meningkat
+Penambahan tenaga kerja
+Perhatikan biaya-biaya produksi berikut ini. (1) Biaya pembelian bahan baku (2) Biaya sewa tempat usaha (3) Biaya gaji tenaga kerja borongan (4) Biaya gaji untuk tenaga kerja tetap. Biaya produksi diatas termasuk dalam biaya produksi tetap ditunjukkan oleh nomor. . . *
+1 poin
+1 dan 2
+1 dan 4
+2 dan 3
+2 dan 4
+3 dan 4
+Kegiatan yang menimbulkan atau meningkatkan kegunaan (utility) disebut . . . *
+1 poin
+Produksi
+Proses produksi
+Produk
+Produsen
+Produk jadi
+Toko yang khusus menjual atau menyewakan pakaian pengantin, merupakan pemanfaatan peluang dengan cara . . . *
+1 poin
+Make modification
+Make it better
+Make it the first
+Make it special products
+Clonning</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-berikut-ini-yang-tidak-termasuk-kegunaan-dari-adanya-penghitungan-bep-break-even-point-yaitu-a-target-penjualan-yang-harus-dicapaib-persediaan-barang-hasil-produksi-yang-harus-dimilikic">15.
+                                            1. Berikut ini yang tidak termasuk kegunaan dari adanya penghitungan BEP (break even point), yaitu....
+A. Target penjualan yang harus dicapai
+B. Persediaan barang hasil produksi yang harus dimiliki
+C. Besaran penjualan hasil produksi
+D. Dampak kegiatan produksi beserta biaya yang dikeluarkan, harga jual produk, dan hasil penjualan
+E. Kesempatan untuk mengulang kembali strategi dan promosi yang sudah dilakukan
+2. Didistribusikan di berbagai tempat sebagai media untuk mengenalkan produk ramah lingkungan dikenal dengan....
+A. Poster
+B. Stiker
+C. Kalender
+D. Iklan
+E. Ambient
+3. Pada tahap analisis kelayakan usaha produk kerajinan, beberapa langkah yang harus dilakukan kecuali....
+A. Analisis kelayakan teknis
+B. Analisis peluang pasar
+C. Menentukan sasaran konsumen
+D. Menentukan segmen pasar
+E. Uji coba menjual
+4. Perencanaan administrasi usaha kerajinan diperlukan wirausahawan bagi kelancaran dan pengelolaan yang bertujuan di bawah ini kecuali....
+A. Memonitor kegiatan administrasi
+B. Mengevaluasi kegiatan-kegiatan pengorganisasian
+C. Menyusun program pengembangan usaha
+D. Mengamankan kegiatan-kegiatan usaha dan organisasi perusahaannya
+E. Melaksanakan pembayaran upah bagi karyawannya
+5. Surat-surat yang harus disiapkan ketika akan membuka usaha sebagai berikut, kecuali....
+A. Surat izin gangguan (HO)
+B. Surat izin tempat usaha (situ)
+C. Surat izin usaha perdagangan (SIUP)
+D. Surat izin tempat usaha (situ)
+E. Surat izin MUI
+6. Berikut merupakan biaya overhead kecuali....
+A. Biaya administrasi
+B. Biaya tenaga kerja
+C. Biaya pengiriman
+D. Biaya alat tulis kantor
+E. Biaya listrik
+7. Penentuan harga jual produk dapat ditentukan dengan tiga cara berikut....
+A. Harga berdasarkan harga pasar, biaya dan titik impas
+B. Harga berdasarkan biaya variabel, modal dan bahan baku
+C. Harga berdasarkan harga bahan baku, titik impas dan tenaga kerja
+D. Harga berdasarkan harga biaya tetap, biaya sewa dan modal
+E. Harga berdasarkan harga pasar, tenaga kerja dan titik impas
+8. Manfaat break even point (bep) adalah, kecuali....
+A. Alat perencanaan menghasilkan laba
+B. Bahan informasi tentang volume penjualan
+C. Untuk mengevaluasi laba
+D. Mengganti bahan baku berikutnya
+E. Mengganti sistem laporan yang mudah dimengerti lewat grafis
+9. Yang tidak merupakan faktor yang menjadi dasar pertimbangan mendirikan sebuah usaha adalah....
+A. Keuntungan
+B. Penguasaan teknik
+C. Modal
+D. Manejemen
+E. Keberuntungan usaha
+10. Sumber daya utama yang sangat penting untuk dikelola adalah....
+A. Manusia
+B. Mesin
+C. Material
+D. Market
+E. Peralatan</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="cara-menentukan-biaya-peluangcara-menentukan-biaya-peluang">
+                            1. Cara menentukan biaya peluang
+Cara menentukan biaya peluang</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Memperhatikan biaya yg paling tinggi yg tidak dipilih oleh pelaku/tokoh yg disebutkan dalam soal</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimanakah-cara-menentukan-pilihan-agar-biaya-peluang-agar-biaya-peluang-tidak-merugikan-kita">
+                            2. bagaimanakah cara menentukan pilihan agar biaya peluang agar biaya peluang tidak merugikan kita</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>harus berhati hati agar tidak tertipu dan itu tak akan merugikan kita</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-menentukan-pilihan-agar-biaya-peluang-tidak-merugikan-kita-berikan-penjelsan">
+                            3. bagaimana cara menentukan pilihan agar biaya peluang tidak merugikan kita berikan penjelsan</h2><br />
+                        Pilih yang berguna dan pendapatan lebih tinggi.<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-menentukan-pilihan-agar-biaya-peluang-tidak-merugikan-kalian-jelaskan-secara-rinci">
+                            4. bagaimana cara menentukan pilihan agar biaya peluang tidak merugikan kalian??, jelaskan secara rinci</h2><br />
+                        Pilih barang menurut kebutuhan yang diperlukan(hal pokok saja) <br />
+                                            <h2 class="ez-toc-section" id="bagaimanakah-cara-menentukan-pilihan-agar-biaya-peluang-tidak-merugikan-kalian-berikan-penyelesaian-kalian-secara-rinci">
+                            5. Bagaimanakah cara menentukan pilihan agar biaya peluang tidak merugikan kalian? berikan penyelesaian kalian secara rinci</h2><br />
+                        <p><strong>Bagaimanakah cara menentukan pilihan agar biaya peluang tidak merugikan kalian? berikan penyelesaian kalian secara rinci.</strong></p><p>Jawaban :</p><p>Cara menentukan biaya peluang agar tidak merugikan adalah dengan menghitung besarnya masing-masing biaya peluang yang ada, mengklasifikasikannya mulai dari yang menguntungkan sampai dengan yang merugikan, lalu pilih kegiatan yang paling besar membawa keuntungan bagi kita dan meninggalkan kegiatan yang mempunyai keuntungan yang rendah.</p><p>Biaya peluang atau biaya kesempatan (Opportunity Cost) adalah biaya yang dikeluarkan ketika memilih suatu kegiatan. Biaya peluang muncul dari kegiatan alternatif yang tidak bisa kita lakukan.</p><p>Untuk mempelajari lebih jauh tentang kelangkaan dapat dilihat pada link berikut ini : brainly.co.id/tugas/3451710</p><p>Dan untuk mempelajari lebih jauh tentang biaya peluang dapat dilihat pada link berikut ini : brainly.co.id/tugas/3031076</p><p><strong>Kode Soal : 7.10.3</strong></p><p><strong>Kelas : VII (1 SMP)</strong></p><p><strong>Mata Pelajaran : IPS</strong></p><p><strong>Kategori : Potensi dan Pemanfaatan Sumber Daya Alam</strong></p><p><strong>Kata Kunci : Kelangkaan, Biaya Peluang, Kebutuhan</strong></p><br />
+                                            <h2 class="ez-toc-section" id="21-seorang-wirausaha-dikatakan-trampil-dan-professional-dalam-menjual-jika-memiliki-kemampuan-menjual-yang-memuaskana-diri-sendirib-orang-lainc-keluargad-pelangganpembelie-pemasok22-mempromosi">
+                            6. 21.	Seorang wirausaha dikatakan trampil dan professional dalam menjual jika memiliki kemampuan menjual yang memuaskana.	Diri sendirib.	Orang lainc.	Keluargad.	Pelanggan/pembelie.	Pemasok22.	Mempromosikan produk dapat menggunakan media, kecualia.	Bannerb.	Surat kabarc.	Internetd.	Radioe.	Televisi23.	Akibat jika perusahaan tidak menjaga kualitas produk adalah sebagai berikut, kecualia.	Produk tidak lakub.	Konsumen lari ke produk lainc.	Pelanggan hilangd.	Produk digemari konsumene.	Perusahaan menderita kerugian24.	Berikut ini yang bukan merupakan ciri – ciri intrepreaneur action adalaha.	Mandirib.	Mencari peluangc.	Mudah menyerahd.	Berkreasie.	Berorientasi ke masa depan25.	Kesempatan yang harus diambil oleh seorang wirausaha untuk mewujudkan atau melaksanakan suatu usaha dengan keberanian mengambil resiko merupakan pengertian daria.	Wirausahab.	Wiraswastac.	Peluang usahad.	Jual belie.	Pedagang26.	Untuk menganalisis lingkungan eksternal dalam perencanaan usaha seseorang wirausaha dapat mengguanak analisisa.	Streangth and Weaknessb.	Opportunity and Weaknessc.	Opportunity and Strengthd.	Streangth, Weakness, Opportunity and Threatse.	Opportunity and Threats27.	Berikut ini termasuk salah satu strategi hargaa.	Mengikuti bazar dan pameranb.	Menggelar undian berhadiahc.	Mengadakan bakti sociald.	Mendiversifikasi produke.	Memberikan diskon28.	Wirausaha sebagai orang yang menanggung resiko, yang merencanakan, supervise, mengorganisasi, merupakan gagasan daria.	Richard Cantillonb.	Jean Baptist Sayc.	Bedeaud.	Francis Walkere.	David McLelland29.	Membedakan antara orang yang menyediakan modal dan memberikan bunga, dengan orang yang menerima keuntungan karena keberhasilannya memimpin usaha, merupakan gagasan daria.	Richard Cantillonb.	Jean Baptist Sayc.	Bedeaud.	Francis Walkere.	David McLelland30.	Seorang yang energik dan membatasi resiko, merupakan gagasan daria.	Richard Cantillonb.	Jean Baptist Sayc.	Bedeaud.	Francis Walkere.	David McLelland31.	Kata lain dari kalimat peluang adalaha.	Strengthb.	Opportunityc.	SWOTd.	Weaknesse.	Threat32.	Seorang wirausaha harus berfikir bicara positif dan kreatif antara lain :a.	Kurang komunikatifb.	Harus menerima gagasan baru didalam dunia usaha / bisnis c.	Tidak percaya dirid.	Malu bertanyae.	Egoistis33.	Yang bukan merupakan cara menangkap peluang usaha adalaha.	Mau belajar ilmu manajemen usahab.	Mau meminta jasa konsultanc.	Mau meminta jasa keluargad.	Mau percaya dan yakin bahwa usahanya bisa dilaksanakane.	Meminta jasa kenalan34.	Dalam analisis SWOT, W adalah Weakness yang artinya :a.	Kekuatanb.	Peluangc.	Kelemahand.	Ancamane.	Persaingan35.	Berikut ini alas an utama kegagalan usaha baru, yaitua.	Waktu memulai usaha baru yang tidak tepatb.	Manajemen yang baik dan tepatc.	Memulai usaha yang membuat perencanaan yang baikd.	Pengusaha selalu menangkap peluang usaha yang tepat dan baike.	Hasil produksi yang banyak diminati oleh konsumen36.	Perusahaan menyerahkan cara untuk menarik para konsumen agar mau melakukan pembelian terhadap barang – barang produksinya disebut a.	Ilmu menjualb.	Promosic.	Negosiasid.	Pembiayaane.	Pelanggan37.	Orang yang pandai dalam menentukan produk baru, menentukan cara produk baru, menyusun kegiatan produk baru, mengatur keuangan serta memasukkannya kedalam suatu usaha merupakan pengertian dari a.	Kewirausahaanb.	Pelaku usahac.	Pekerjad.	Wirausahawane.	Wiraswasta38.	Kemampuan menyelesaikan masalah yang memeberikan kesempatan individu untuk menciptakan ide -ide asli atau baru disebuta.	Kreatifb.	Inovatifc.	Imajinatifd.	Pro aktife.	Aktif39.	Dalam promosi apa yang harud dilakukan agar minat pembeli semakin meningkat ?a.	Memberi tau kelemahan – kelemahan produkb.	Menawarkan produk dengan harga yang sangat murahc.	Menjelaskan manfaat dan kelebihan yang ada pada produkd.	Menghasut dan memaksa konsumen untuk membeli produk tersebute.	Membohongi konsumen tentang deskripsi barang40.	Dalam memasarkan suatu produk, hendaklah memperhatikan beberapa aspek, kecualia.	Harga produk harus sesuai dengan biaya produksinyab.	Harga produk harus memperhatikan ekonomi dan nilai kurs mata uang yang sedang berlakuc.	Produk harus dikemas dan dipasarkan sebagus mungkin agar menarik pembelid.	Pada kemasan disertakan deskripsi yang menampilkan kelebihan produke.	Memasarkan produk dengan promosi yang tidak baik​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>21. orang lain</p><p>22. surat kabar</p><p>23. produk digemari</p><p>24. mudah menyerah</p><p>25. pedagang</p><p>26. yang D</p><p>27. memberi diskon</p><p>28. francis walker</p><p>29. bedeau</p><p>30. </p><br />
+                                            <h2 class="ez-toc-section" id="masalah-pokok-ekonomi-sepenuhnya-diserahkan-pada-kekuatan-permintaan-dan-penawaran-adalah-sistem-ekonomi-%c2%a04-poina-tradisionalb-modernc-klasikd-komandoe-pasarkelangkaan-memunculkan-pilihan-dan">
+                            7. Masalah pokok ekonomi sepenuhnya diserahkan pada kekuatan permintaan dan penawaran adalah sistem ekonomi.... *4 poina.tradisionalb.modernc.klasikd.komandoe.pasarKelangkaan memunculkan pilihan dan pilihan menimbulkan biaya yang disebut.... *4 poina.biaya tetapb.biaya variabelc.biaya peluangd.biaya resikoe.modalTerdapat tiga masalah pokok ekonomi, yaitu .... *4 poina.what, why dan whereb.what, when dan whomc.what, why dan whend.what, why dan whome.why, when dan whomEkonomi klasik membahas masalah.... *4 poina.biaya peluang dan kelangkaanb.produksi, distribusi dan konsumsic.produksi,promosi dan konsumsid.sistem ekonomi dan konsumsie.sistem ekonomi dan kelangkaanOppotunity cost selalu diukur dari nilai peluang yang terbaik yang dikorbankan atau nilai peluang yang.... *4 poina.tidak dipilihb.terkecilc.terbesard.dipilihe.tidak adaBerikut ini yang bukan hakikat permasalahan ekonomi adalah.... *4 poina.pilihanb.biaya peluangc.sistem ekonomid.skala prioritase.kelangkaanAturan dan tata cara untuk mengkoordinasikan perilaku masyarakat dalam menjalankan kegiatan ekonomi untuk mencapai tujuan adalah.... *4 poina.teori ekonomi.b.masalah ekonomic.sistem ekonomid.kegiatan ekonomie.pelaku ekonomiDalam kegiatan ekonomi, rumah tangga memiliki peran .... *4 poina.pengatur kegiatan ekonomib.pemasok faktor produksic.distributor barang dan jasad.agen pembangunane.produsen barang dan jasaPrioritas kedua dalam skema skala prioritas kebutuhan diantaranya adalah kebutuhan... *4 poina.tersierb.sekarangc.primerd.kelompoke.individuPenanaman modal oleh investor asing adalah salah satu bentuk peran pelaku ekonomi.... *4 poina.masyarakat luar negerib.rumah tanggac.pemerintahd.perusahaane.masyarakatBila pemenuhan kebutuhan terhadap suatu benda berlangsung terus-menerus maka tingkat kepuasan mula-mula tinggi, kemudian menurun sampai akhirnya mencapai titik nol, hal tersebut adalah penjelasan dari.... *4 poina.Hukum gossen Ib.Hukum gossen IIc.Teori perilaku konsumend.Teori kebutuhan Maslowe.Teori perilaku produsenPrioritas pertama dalam skema skala prioritas kebutuhan diantaranya kebutuhan....4 poina.yang akan datangb.kelompokc.tersierd.sekundere.sekarangMasalah ekonomi yang dilihat dari sudut pandang yang sederhana adalah ekonomi.... *4 poina.campuranb.komandoc.pasard.moderne.klasikMasyarakat dapat menikmati produk bermutu tinggi yang tidak dihasilkan perusahaan dalam negeri dengan cara mengimpor, hal ini merupakan salah satu peran masyarakat luar negeri sebagai.... *4 poina.sumber tenaga kerja ahlib.produsen barang dan jasac.investord.agen pembangunane.konsumen barang dan jasaDalam sistem ekonomi komando yang menentukan apa, bagaimana dan untuk siapa barang diproduksi ditentukan oleh.... *4 poina.adat istiadatb.pemerintahc.pemuka masyarakatd.manajer perusahaane.kelompokDiagram yang menunjukkan hubungan yang sangat penting antara rumah tangga, perusahaan, pemerintah dan masyarakat luar negeri adalah diagram.... *4 poina.diagram pelaku kegiatan ekonomibhubungan pelaku ekonomi banyak sektorc.interaksi pelaku ekonomi model kompleksd.hubungan antara pelaku ekonomie.interaksi pelaku ekonomi model sederhanaSuatu daftar berbagai macam kebutuhan hidup yang disusun berdasarkan kepentingannya adalah... *4 poina.daftar keinginanb.daftar kebutuhan hidupc.daftar kebutuhan ekonomid.skala prioritas keinginane.skala prioritas kebutuhanBerikut ini merupakan ciri-ciri sistem ekonomi tradisional, kecuali... *4 poinsetiap rumah tangga memproduksi sendiri barang kebutuhannyamasyarakat statis karena minim berhubungan dengan dunia luarkegiatan ekonomi hanya untuk kebutuhan makananteknologi yang digunakan masih sangat sederhanabarang yang dihasilkan banyak dan berkualitas tinggiBerikut ini yang bukan kelebihan sistem ekonomi campuran adalah.... *4 poinindividu dapat memiliki faktor produksipotensi swasta dapat berkembang.usaha kecil menengah mendapat perhatiankepemilikan pribadi tidak diakuikestabilan ekonomi terjaminDengan uang saku yang diperoleh dari orang tua, seorang siswa harus dapat mengaturnya untuk memenuhi kebutuhan selama satu hari di sekolah, hal ini merupakan penerapan dari.... *4 poinTeori perilaku produsenTeori perilaku konsumenTeori kebutuhan MaslowHukum gossen Ihukum gossen IISistem ekonomi pasar bebas yang mengutamakan pemilik modal disebut juga sistem ekonomi .... *4 poinsosialiskomandokapitalismonopolisempurnaKebutuhan yang tidak mutlak harus dipenuhi, namun bila terpenuhi kehidupan akan terasa lebih baik, lebih bahagia dan beradab adalah kebutuhan... *4 poinmasa mendatangtersiersekunderprimermendesak​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Masalah pokok ekonomi sepenuhnya diserahkan pada kekuatan permintaan dan penawaran adalah sistem ekonomi.... *</p><p></p><p>4 poin</p><p></p><p>a.tradisional</p><p></p><p>b.modern</p><p></p><p>c.klasik</p><p></p><p>d.komando</p><p></p><p>e.pasar</p><p></p><p>Kelangkaan memunculkan pilihan dan pilihan menimbulkan biaya yang disebut.... *</p><p></p><p>4 poin</p><p></p><p>a.biaya tetap</p><p></p><p>b.biaya variabel</p><p></p><p>c.biaya peluang</p><p></p><p>d.biaya resiko</p><p></p><p>e.modal</p><p></p><p>Terdapat tiga masalah pokok ekonomi, yaitu .... *</p><p></p><p>4 poin</p><p></p><p>a.what, why dan where</p><p></p><p>b.what, when dan whom</p><p></p><p>c.what, why dan when</p><p></p><p>d.what, why dan whom</p><p></p><p>e.why, when dan whom</p><p></p><p>Ekonomi klasik membahas masalah.... *</p><p></p><p>4 poin</p><p></p><p>a.biaya peluang dan kelangkaan</p><p></p><p>b.produksi, distribusi dan konsumsi</p><p></p><p>c.produksi,promosi dan konsumsi</p><p></p><p>d.sistem ekonomi dan konsumsi</p><p></p><p>e.sistem ekonomi dan kelangkaan</p><p></p><p>Oppotunity cost selalu diukur dari nilai peluang yang terbaik yang dikorbankan atau nilai peluang yang.... *</p><p></p><p>4 poin</p><p></p><p>a.tidak dipilih</p><p></p><p>b.terkecil</p><p></p><p>c.terbesar</p><p></p><p>d.dipilih</p><p></p><p>e.tidak ada</p><p></p><p>Berikut ini yang bukan hakikat permasalahan ekonomi adalah.... *</p><p></p><p>4 poin</p><p></p><p>a.pilihan</p><p></p><p>b.biaya peluang</p><p></p><p>c.sistem ekonomi</p><p></p><p>d.skala prioritas</p><p></p><p>e.kelangkaan</p><p></p><p>Aturan dan tata cara untuk mengkoordinasikan perilaku masyarakat dalam menjalankan kegiatan ekonomi untuk mencapai tujuan adalah.... *</p><p></p><p>4 poin</p><p></p><p>a.teori ekonomi.</p><p></p><p>b.masalah ekonomi</p><p></p><p>c.sistem ekonomi</p><p></p><p>d.kegiatan ekonomi</p><p></p><p>e.pelaku ekonomi</p><p></p><p>Dalam kegiatan ekonomi, rumah tangga memiliki peran .... *</p><p></p><p>4 poin</p><p></p><p>a.pengatur kegiatan ekonomi</p><p></p><p>b.pemasok faktor produksi</p><p></p><p>c.distributor barang dan jasa</p><p></p><p>d.agen pembangunan</p><p></p><p>e.produsen barang dan jasa</p><p></p><p>Prioritas kedua dalam skema skala prioritas kebutuhan diantaranya adalah kebutuhan... *</p><p></p><p>4 poin</p><p></p><p>a.tersier</p><p></p><p>b.sekarang</p><p></p><p>c.primer</p><p></p><p>d.kelompok</p><p></p><p>e.individu</p><p></p><p>Penanaman modal oleh investor asing adalah salah satu bentuk peran pelaku ekonomi.... *</p><p></p><p>4 poin</p><p></p><p>a.masyarakat luar negeri</p><p></p><p>b.rumah tangga</p><p></p><p>c.pemerintah</p><p></p><p>d.perusahaan</p><p></p><p>e.masyarakat</p><p></p><p>Bila pemenuhan kebutuhan terhadap suatu benda berlangsung terus-menerus maka tingkat kepuasan mula-mula tinggi, kemudian menurun sampai akhirnya mencapai titik nol, hal tersebut adalah penjelasan dari.... *</p><p></p><p>4 poin</p><p></p><p>a.Hukum gossen I</p><p></p><p>b.Hukum gossen II</p><p></p><p>c.Teori perilaku konsumen</p><p></p><p>d.Teori kebutuhan Maslow</p><p></p><p>e.Teori perilaku produsen</p><p></p><p>Prioritas pertama dalam skema skala prioritas kebutuhan diantaranya kebutuhan....</p><p></p><p>4 poin</p><p></p><p>a.yang akan datang</p><p></p><p>b.kelompok</p><p></p><p>c.tersier</p><p></p><p>d.sekunder</p><p></p><p>e.sekarang</p><p></p><p>Masalah ekonomi yang dilihat dari sudut pandang yang sederhana adalah ekonomi.... *</p><p></p><p>4 poin</p><p></p><p>a.campuran</p><p></p><p>b.komando</p><p></p><p>c.pasar</p><p></p><p>d.modern</p><p></p><p>e.klasik</p><p></p><p>Masyarakat dapat menikmati produk bermutu tinggi yang tidak dihasilkan perusahaan dalam negeri dengan cara mengimpor, hal ini merupakan salah satu peran masyarakat luar negeri sebagai.... *</p><p></p><p>4 poin</p><p></p><p>a.sumber tenaga kerja ahli</p><p></p><p>b.produsen barang dan jasa</p><p></p><p>c.investor</p><p></p><p>d.agen pembangunan</p><p></p><p>e.konsumen barang dan jasa</p><p></p><p>Dalam sistem ekonomi komando yang menentukan apa, bagaimana dan untuk siapa barang diproduksi ditentukan oleh.... *</p><p></p><p>4 poin</p><p></p><p>a.adat istiadat</p><p></p><p>b.pemerintah</p><p></p><p>c.pemuka masyarakat</p><p></p><p>d.manajer perusahaan</p><p></p><p>e.kelompok</p><p></p><p>Diagram yang menunjukkan hubungan yang sangat penting antara rumah tangga, perusahaan, pemerintah dan masyarakat luar negeri adalah diagram.... *</p><p></p><p>4 poin</p><p></p><p>a.diagram pelaku kegiatan ekonomi</p><p></p><p>bhubungan pelaku ekonomi banyak sektor</p><p></p><p>c.interaksi pelaku ekonomi model kompleks</p><p></p><p>d.hubungan antara pelaku ekonomi</p><p></p><p>e.interaksi pelaku ekonomi model sederhana</p><p></p><p>Suatu daftar berbagai macam kebutuhan hidup yang disusun berdasarkan kepentingannya adalah... *</p><p></p><p>4 poin</p><p></p><p>a.daftar keinginan</p><p></p><p>b.daftar kebutuhan hidup</p><p></p><p>c.daftar kebutuhan ekonomi</p><p></p><p>d.skala prioritas keinginan</p><p></p><p>e.skala prioritas kebutuhan</p><p></p><p>Berikut ini merupakan ciri-ciri sistem ekonomi tradisional, kecuali... *</p><p></p><p>4 poin</p><p></p><p>setiap rumah tangga memproduksi sendiri barang kebutuhannya</p><p></p><p>masyarakat statis karena minim berhubungan dengan dunia luar</p><p></p><p>kegiatan ekonomi hanya untuk kebutuhan makanan</p><p></p><p>teknologi yang digunakan masih sangat sederhana</p><p></p><p>barang yang dihasilkan banyak dan berkualitas tinggi</p><p></p><p>Berikut ini yang bukan kelebihan sistem ekonomi campuran adalah.... *</p><p></p><p>4 poin</p><p></p><p>individu dapat memiliki faktor produksi</p><p></p><p>potensi swasta dapat berkembang.</p><p></p><p>usaha kecil menengah mendapat perhatian</p><p></p><p>kepemilikan pribadi tidak diakui</p><p></p><p>kestabilan ekonomi terjamin</p><p></p><p>Dengan uang saku yang diperoleh dari orang tua, seorang siswa harus dapat mengaturnya untuk memenuhi kebutuhan selama satu hari di sekolah, hal ini merupakan penerapan dari.... *</p><p></p><p>4 poin</p><p></p><p>Teori perilaku produsen</p><p></p><p>Teori perilaku konsumen</p><p></p><p>Teori kebutuhan Maslow</p><p></p><p>Hukum gossen I</p><p></p><p>hukum gossen II</p><p></p><p>Sistem ekonomi pasar bebas yang mengutamakan pemilik modal disebut juga sistem ekonomi .... *</p><p></p><p>4 poin</p><p></p><p>sosialis</p><p></p><p>komando</p><p></p><p>kapitalis</p><p></p><p>monopoli</p><p></p><p>sempurna</p><p></p><p>Kebutuhan yang tidak mutlak harus dipenuhi, namun bila terpenuhi kehidupan akan terasa lebih baik, lebih bahagia dan beradab adalah kebutuhan... *</p><p></p><p>4 poin</p><p></p><p>masa mendatang</p><p></p><p>tersier</p><p></p><p>sekunder</p><p></p><p>primer</p><p></p><p>mendesak</p><p></p><p></p><p><strong>Jawaban:</strong></p><p>1. D. Komando</p><p>2. C. Biaya peluang</p><br />
+                                            <h2 class="ez-toc-section" id="salah-satu-cara-menentukan-pilihan-yang-tepat-untuk-menetapkan-alternatif-yang-paling-menguntungkan-adalah-dengan-mempertimbangkan-biaya-peluang-biaya-peluang-adalah-%c2%a0a-biaya-yang-dikorb">
+                            8. Salah satu cara menentukan pilihan yang tepat untuk menetapkan alternatif yang paling menguntungkan adalah dengan mempertimbangkan biaya peluang. biaya peluang adalah . . . . *a.biaya yang dikorbankan untuk mendapat sesuatub.laba yang diperoleh perusahaan dari hasil distribusi produkc.biaya yang digunakan peruahaan untuk memproduksi barangd.sejumlah uang yang diperoleh dari selisih pendapatan dan bebane.pembayaran tunai untuk membayar sumber daya yang dibeli perusahaan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>a. Biaya yang dikorbankan untuk mendapatkan sesuatu</strong></p><p></p><p><strong>Penjelasan:</strong></p><p><strong>Peluang adalah suatu kemungkinan dimana kita akan mendapat atau meraih hal yang telah kita perhitungkan akan bisa kita dapatkan. Dalam hal biaya peluang, kita harus rela mengorbakan sebagian biaya atau bisa disebut kita berani mengambil resiko.</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="pilihlah-satu-jawaban-1-pernyataan-berikut-yang-termasuk-pada-bagian-ilmu-ekonomi-deskriptif-adalah-a-elastisitas-permintaan-merupakan-derajat-kepekaan-dari-perubahan-kuantitas-barang-yang-dimin">
+                            9. PILIHLAH SATU JAWABAN 1 Pernyataan berikut yang termasuk pada bagian ilmu ekonomi deskriptif adalah . . .A. Elastisitas permintaan merupakan derajat kepekaan dari perubahan kuantitas barang yang diminta sebagai akibat perubahan harga, pendapatan, dan harga barang lainB. Angka kemiskinan di suatu Negara pada September 2015 sebesar 17,5%C. Perusahaan menggunakan analisis elastisitas dalam mengukur penurunan harga tiket untuk meningkatkan penerimaannya D. Terdapat hubungan antara inflasi dan pengangguran di Indonesia E. Suatu perusahaan air mineral memutuskan untuk memproduksi 40.000 liter perhari2 Biaya yang dikeluarkan atau dikorbankan untuk menggunakan sumber daya bagi tujuan tertentu yang diukur dengan manfaat yang dilepasnya karena tidak menggunakan untuk tujuan lain disebut ....A. Biaya langsung B. Biaya peluangC. Biaya tetap D. Biaya sehari-hari E. Biaya variabel3 Perhatikan macam-macam kebutuhan berikut!1) Rekreasi dan ibadah.2) Makan dan minum.3) Jalan dan jembatan.4) Buku untuk pelajar.5) Angkutan umum.Pembagian kebutuhan berdasarkan subjek-subjek ditunjukkan pada nomor . . . .A. 1), 2), dan 3)B. 1), 2), dan 4)C. 2), 3), dan 4)D. 2), 4), dan 5)E. 3), 4), dan 5)4 Suatu kondisi dipasar “ pada saat harga ayam turun, permintaan telur juga akan turun. Artinya, ayam tersebut merupakan barang . . . .A. Komplementer B. Substitusi C. Superior D. InteriorE. Bebas 5 Perhatikan pernyataan-pernyataan berikut!1) Ekonomi mikro mempelajari harga barang, sedangkan ekonomi makro mempelajari perilaku produsen dan konsumen.2) Ekonomi mikro membahas harga pasar, sedangkan ekonomi makro membahas tentang inflasi.3) Ekonomi mikro membahas tentang interaksi antara penjual dan pembeli, sedangkan ekonomi makro membahas tentang inflasi.4) Ekonomi mikro membahas tentang penerimaan perusahaan, sedangkan ekonomi makro membahas tentang penerimaan nasional.5) Ekonomi mikro membahas tentang pengangguran, sedangkan ekonomi makro membahas tentang kesenjangan ekonomi.Berdasarkan pernyataan tersebut perbedaan ekonomi makro dan mikro yang paling tepat ditunjukkan pada nomor . . .A. 1), 2), dan 3)B. 1), 3), dan 5)C. 2), 3), dan 4)D. 2), 4), dan 5)E. 3), 4), dan 5)6 Berdasarkan intensitasnya, kebutuhan manusia terdiri dari kebutuhan . . .A. Primer, sekunder, dan tersierB. Jasmani dan rohaniC. Sekarang dan yang akan datangD. Individu dan kolektifE. Jangka panjang dan jangka pendek7 Keputusan Herman memilih bekerja sebagai staf TU dengan gaji Rp. 800.000,00 per bulan telah menghilangkan peluang Herrman bekerja sebagai pramusaji dengan gaji Rp. 1.000.000,00 per bulan. Dengan demikian, biaya peluang karena Herman memilih bekerja sebagai staf TU adalah sebesar . . .A. Rp. 800.000,00 per bulanB. Rp. 1.000.000,00 per bulanC. Rp. 1.800.000,00 per bulanD. Rp. 200.000,00 per bulanE. Rp. 2.000.000,00 per bulan8 Suatu Negara terjadi kelangkaan beras sehingga harga beras melambung tinggi dan tidak terjangkau oleh daya beli masyarakat. Untuk mengatasi kelangkaan beras yang paling tepat adalah . . .A. Mengganti tanaman padi dengan tanaman jagung bibit unggul sehingga produksi jagung meningkatkan B. Mengubah pola musim tanam sesuai dengan panca usaha tani sehingga produktivitas meningkatC. Mengimpor beras dan menjualnya dengan harga lebih murah dari harga dalam negeriD. Mengubah pola makanan pokok rakyat dari beras ke singkong atau saguE. Mendata kembali kebutuhan beras secara rasional9 Masyarakat harus menentukan siapa yang akan melakukan produksi, dengan sumber daya apa, dan teknik produksi apa yang akan digunakan. Masalah ini berkaitan dengan . . . . A. Barang apa yang akan diproduksiB. Untuk siapa barang diproduksiC. Megapa barang harus diproduksiD. Di mana barang harus diproduksiE. Bagaimana cara memproduksi10 Pemerintah berperan penuh dalam mengatur dan mendominasi segala sektor perekonomian. Keadaan tersebut menyebabkan terbatasnya daya inisiatif dan kreativitas masyarakat. Hal tersebut merupakan salah satu ciri system ekonomi . . . .A. DemokrasiB. TradisionalC. Bebas D. Terpusat E. Kerakyatan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tradisional nomor 10 maaf salah</p><br />
+                                            <h2 class="ez-toc-section" id="jawablah-pertanyaan-berikut-dengan-benari-judul-pisang-gorengii-manfaat-1-melancarkan-gula-darah2-mengontrol-gula-darah3-menjaga-tekanan-darah-tetap-stabil4-menjaga-imunitas-tubuh5-memenuhi">
+                            10. jawablah pertanyaan berikut dengan benarI. Judul : PISANG GORENGII. Manfaat :1. Melancarkan gula darah2. Mengontrol gula darah3. Menjaga tekanan darah tetap stabil4. Menjaga imunitas tubuh5. Memenuhi asupan nutrisi ibu hamil6. Mencegah anemia7. Menurunkan berat badanIII. Tujuan- Untuk menentukan biaya produksi dari makanan pisang goreng- Untuk menentukan BEP dari makanan pisang gorengIV: Alat dan Bahan:a. Alat:- kompor- spatula- sendok- pisau- mangkok/tempat adonan- piring sajib. bahan:- 150 gram gula pasir- garam secukupnya- 100ml air- 3 buah pisang- 500ml minyak goreng- susu kental 1 sachetV. Cara KerjaKupas kulit pisang, kemudian potong serong.Campur tepung terigu dengan gula, telur,garam dan air ke dalam adonan, kemudian goreng hingga berwarna keemasan. Angkat, lalu tiriskan dan sajikan.VI. Dasar Teori:Pisang adalah tanaman buah berupa herbal yang berasal dari kawasan di Asia Tenggara (termasuk Indonesia). Tanaman ini kemudian menyebar ke Afrika (madagaskar), Amerika Selatan dan Amerika Tengah. Di Jawa Bara, pisang di sebut dengan cau. Di Jawa Tengah dan Jawa Timur di namakan gedang. VII. Pembahasan:Srangeht : Karna mudah di buat dan tidak terlalu banyak mengeluarkan biaya.Waekness : naiknya harga bahan baku seperti tepung terigu dan minyak goreng dan tingginya angka persaingan.tugasnya di bawah iniOpportunity : (peluang)Treat : merawatVIII. Kesimpulan :Dapat mengetahui BEP​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>........................</p><p><strong>Penjelasan:</strong></p><p>ngga ada soalnya </p><br />
+                                            <h2 class="ez-toc-section" id="a-berilah-tanda-silang-x-pada-huruf-a-b-c-d-atau-e-pada-jawaban-yang-benar-1-kemampuan-untuk-merancang-membentuk-membuat-atau-melakukan-sesuatu-dengan-cara-yang-baru-atau-lain-disebut">
+                            11. A. Berilah tanda silang (x) pada huruf a, b, c, d, atau e, pada jawaban yang benar! 1. Kemampuan untuk merancang, membentuk, membuat, atau melakukan sesuatu dengan cara yang baru atau lain disebut … a. Inovasi b. Analisis c. Kreativitas d. Peluang e. Ide 2. Perhatikan cara-cara berikut ini! 1) Melakukan penelitian tentang seberapa luas bentuk usaha yang dijalankan. 2) Bentuk usaha apa yang akan dijalankan. 3) Jenis usaha yang akan dijalankan. 4) Informasi usaha yang akan dijalankan. 5) Intuisi usaha yang akan berkembang. Yang bukan merupakan cara untuk menganalisis perluang usaha yang ada di sekitar ditunjukkan oleh nomor …. a. 1 b. 2 c. 3 d. 4 e. 5 3. Guna menganalisis keberhasilan maupun kegagalan usaha produk kreatif bangunan, anda dapat menggunakan analisis…. a. Peluang usaha b. Kelayakan usaha c. Kelayakan finansial d. SWOT e. Laba 4. Metode perencanaan strategis yang digunakan untuk mengevaluasi kekuatan, kelemahan dalam suatu proyek bisnis/wirausaha atau suatu spekulasi bisnis dinamakan …. a. Peluang usaha b. Kelayakan usaha c. Kelayakan finansial d. SWOT e. Laba 5. Kegunaan analisis SWOT, yaitu …. a. Mengetahui langkah-langkah yang perlu dilakukan dalam pengembangan usaha produk barang atau jasa sebagai alat penyusun strategi b. Melakukan strategi untuk mendapatkan keuntungan yang besar c. Menghitung total biaya produksi sehingga terjadi kerugian d. Menghitung biaya total yang akan dikeluarkan pada saat melakukan proses produksi e. Menekan pengeluaran 6. Pada produk di bawah yang menunjukkan produk kreatif bangunan, yaitu …. a. Pilar b. Angin-angin c. Gypsum d. Batu alam ukir e. Bata ringan 7. Perhatikan bentuk-bentuk analisis berikut ini! 1) Teknik sebelum peluang usaha baru diimplementasikan, dilihat dari aspek teknis perlu dilakukan analisis. 2) Dalam melaksanakan analisis kelayakan teknis, perlu diperhatikan berbagai macam teknis pembuatan produk barang atau jasa. Bentuk analisis tersebut, yaitu ….. a. Analisis kelayakan b. Analisis peluang pasar c. Menentukan jumlah d. Pembelian potensial e. Analisis kekuatan 8. Seorang wirausahawan yang akan membuka usaha baru di bidang produk kreatif bangunan selalu membutuhkan informasi tentang pasar karena tujuan dari pemasaran adalah untuk memenuhi permintaan pelanggan. Untuk itu dilakukan analisis …. a. Analisis kelayakan b. Analisis peluang pasar c. Menentukan jumlah d. Pembelian potensial e. Uji coba pasar 9. Berikut yang merupakan tujuan riset pasar adalah … a. Mengumpulkan informasi untuk pengembalian keputusan tentang usaha produk barang atau jasa yang akan dibuka b. Menentukan besarnya distribusi c. Memahami produk-produk unggulan d. Membentuk pasar barang e. Menentukan pangsa pasar 10. Dalam melaksanakan analisis kelayakan teknis, perlu diperhatikan … a. Teknis pembuatan produk barang atau jasa b. Keunggulan produk c. Kekurangan produk d. Keinginan pelanggan e. Keinginan pasar B. Jawablah uraian di bawah ini dengan benar dan tepat! 1. Apa yang anda ketahui tentang peluang kewirausahaan bidang produk kreatif bangunan? 2. Tuliskan jenis produk kreatif bangunan yang kamu tahu, tuliskan minimal lima contoh!3. Uraikan yang kamu ketahui tentang studi kelayakan pasar! 4. Apa kelebihan melakukan uji coba pasar? 5. Apa saja hal yang harus diperhatikan dalam analisis kelayakan teknis?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. Kreativitas</p><p>maaf kalo salah jawabannya.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-proses-mengorganisir-mengelola-dan-keberanian-menanggung-resiko-untuk-menciptakan-usaha-baru-dan-peluang-berusaha-adalah-pengertian-2-yang-termasuk-karakter-seorang-wirausahawan-adalah-3">
+                            12. 1.	Proses mengorganisir, mengelola dan keberanian menanggung resiko untuk menciptakan usaha baru dan peluang berusaha adalah pengertian ...2.	Yang termasuk karakter seorang wirausahawan adalah  ...3.	Yang merupakan sikap wirausahawan adalah 4.	Potensi yang dimiliki seseorang untuk mencapai tujuan (keuntungan, uang, kekayaan) dengan cara melakukan usaha yang memanfaatkan berbagai sumber daya yang dimiliki adalah pengertian ...5.	suatu tindakan yang selalu dihubungkan dengna kemungkinan terjadinya kerugian yang tidak terduga dan tidak adalah pengertian 6.	Salah satu ciri dari peluang usaha yang potensial adalah 7.	Yang merupakan pengertian HAKI adalah 8.	Manfaat Hak Atas Kekayaan intelektual adalah...9.	Apapun yang dapat ditawarkan kepada pasar untuk atensi, akuisisi, penggunaan, atau konsumsi yang mungkin memuaskan suatu kebutuhan atau keinginan10.	Biaya yang berubah sesuai dengan output yang dihasilkan adalah biaya  11.	Seseorang yang memiliki kemampuan melihat &amp; menilai kesempatan-kesempatan bisnis; mengumpulkan berbagai sumber daya yang dibutuhkan untuk mengambil tindakan yang tepat, mengambil keuntungan serta memiliki sifat, watak &amp; kemauan untuk mewujudkan gagasan inovatif ke dalam dunia nyata secara kreatif dlm rangka meraih sukses/meningkatkan pendapatan adalah pengertian... 12.	Berpikiran positif, ulet &amp; terampil adalah ...13.	salah satu keterampilan dasar kewirausahaan adalah ...14.	segmentasi yang tepat untuk usaha tempat kos, ATK, fotocopy, rental komputer, internet, warnas, adalah ...15.	Kesediaan untuk menggunakan kemampuan dalam mencari peluang dalamkemungkinan untuk memperoleh keuntungan adalah pertimbangan dalam 16.	Salah satu sumber untuk memperoleh peluang usaha adalah ...17.	salah satu sumber untuk menemukan peluang usaha/ide bisnis adalah18.	salah satu aspek yang menentukan penentuan pasar adalah ... 19.	Nama lain analisis kelemahan, kekuatan, peluang, dan ancaman adalah 20.	kegagalan yg timbul akibat ketidakcukupan dana adalah </h2><br />
+                        jawaban no.4 adalah Peluang Usaha<br />jawaban no.19 adalah analisis SWOT<br />
+                                            <h2 class="ez-toc-section" id="cara-mengatasi-masalah-ekonomi1-menentukan-pilihan-yg-tepat-2-memanfaatkan-biaya-peluang-3-mengatasi-masalah-ekonomi-mikro-4-mengatasi-masalah-ekonomi-makro-5-sistem-ekonomi-sebagai-solusi-masala">
+                            13. Cara mengatasi masalah ekonomi1. Menentukan pilihan yg tepat.2. Memanfaatkan biaya peluang.3. Mengatasi masalah ekonomi mikro.4. Mengatasi masalah ekonomi makro.5. Sistem ekonomi sebagai solusi masalah ekonomiTolong jawab yg benar!!</h2><br />
+                        5.sistem ekonomi sebagai solusi masalah ekonomi<br />
+                                            <h2 class="ez-toc-section" id="pernyataan-berikut-di-bawah-ini-yang-tidak-termasuk-fungsi-gambar-teknik-adalah-1-poinmenyampaikan-informasimembuat-produk-barubahan-dokumentasipengawetanmenuangkan-gagasan-untuk-pengemba">
+                            14. Pernyataan berikut di bawah ini yang tidak termasuk fungsi gambar teknik adalah . . . *
+1 poin
+Menyampaikan informasi
+Membuat produk baru
+Bahan dokumentasi
+Pengawetan
+Menuangkan gagasan untuk pengembangan
+Menterjemahkan gambar desain menjadi gambar terukur sehingga dapat dipahami orang lain disebut . . . . *
+1 poin
+Tujuan penggunaan gambar teknik
+Fungsi penggunaan gambar teknik
+Gambar teknik yang terukur
+Gambar teknik yang terukur dan teratur
+Desain gambar teknik
+Menurut “Gilmor dan Joseph” produksi massal yaitu pendekatan dimana pelanggan melakukan dialog untuk membantu mengartikulasikan kebutuhan konsumen dan membuat produk sesuai kebutuhan konsumen, disebut . . . *
+1 poin
+Customerzer adaptive
+Customerzer kolaboratif
+Customerzer cosmetic
+Customerzer transparan
+Customerzer segments
+Berikut yang tidak termasuk fungsi pengendalian produksi adalah . . . *
+1 poin
+Menetapkan besarnya pajak
+Meramalkan peruntutan
+Memantau permintaan
+Membuat sistem pengendalian
+Melakukan perencanaan
+Berikut yang tidak termasuk faktor yang menentukan indikator keberhasilan suatu usaha adalah . . . *
+1 poin
+Kepuasan konsumen
+Kepuasan penjual
+Volume penjualan meningkat
+Tingkat produksi meningkat
+Penambahan tenaga kerja
+Perhatikan biaya-biaya produksi berikut ini. (1) Biaya pembelian bahan baku (2) Biaya sewa tempat usaha (3) Biaya gaji tenaga kerja borongan (4) Biaya gaji untuk tenaga kerja tetap. Biaya produksi diatas termasuk dalam biaya produksi tetap ditunjukkan oleh nomor. . . *
+1 poin
+1 dan 2
+1 dan 4
+2 dan 3
+2 dan 4
+3 dan 4
+Kegiatan yang menimbulkan atau meningkatkan kegunaan (utility) disebut . . . *
+1 poin
+Produksi
+Proses produksi
+Produk
+Produsen
+Produk jadi
+Toko yang khusus menjual atau menyewakan pakaian pengantin, merupakan pemanfaatan peluang dengan cara . . . *
+1 poin
+Make modification
+Make it better
+Make it the first
+Make it special products
+Clonning</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menyampaikan informasi </p><p>gambar teknik tang terukur Dan teratur </p><p>costomerzer transparan </p><p>melakukan perencanaan</p><p>kepuasan konsumen</p><p>2 Dan 4</p><p>produksi</p><br />
+                                            <h2 class="ez-toc-section" id="1-berikut-ini-yang-tidak-termasuk-kegunaan-dari-adanya-penghitungan-bep-break-even-point-yaitu-a-target-penjualan-yang-harus-dicapaib-persediaan-barang-hasil-produksi-yang-harus-dimilikic">
+                            15. 1. Berikut ini yang tidak termasuk kegunaan dari adanya penghitungan BEP (break even point), yaitu....
+A. Target penjualan yang harus dicapai
+B. Persediaan barang hasil produksi yang harus dimiliki
+C. Besaran penjualan hasil produksi
+D. Dampak kegiatan produksi beserta biaya yang dikeluarkan, harga jual produk, dan hasil penjualan
+E. Kesempatan untuk mengulang kembali strategi dan promosi yang sudah dilakukan
+2. Didistribusikan di berbagai tempat sebagai media untuk mengenalkan produk ramah lingkungan dikenal dengan....
+A. Poster
+B. Stiker
+C. Kalender
+D. Iklan
+E. Ambient
+3. Pada tahap analisis kelayakan usaha produk kerajinan, beberapa langkah yang harus dilakukan kecuali....
+A. Analisis kelayakan teknis
+B. Analisis peluang pasar
+C. Menentukan sasaran konsumen
+D. Menentukan segmen pasar
+E. Uji coba menjual
+4. Perencanaan administrasi usaha kerajinan diperlukan wirausahawan bagi kelancaran dan pengelolaan yang bertujuan di bawah ini kecuali....
+A. Memonitor kegiatan administrasi
+B. Mengevaluasi kegiatan-kegiatan pengorganisasian
+C. Menyusun program pengembangan usaha
+D. Mengamankan kegiatan-kegiatan usaha dan organisasi perusahaannya
+E. Melaksanakan pembayaran upah bagi karyawannya
+5. Surat-surat yang harus disiapkan ketika akan membuka usaha sebagai berikut, kecuali....
+A. Surat izin gangguan (HO)
+B. Surat izin tempat usaha (situ)
+C. Surat izin usaha perdagangan (SIUP)
+D. Surat izin tempat usaha (situ)
+E. Surat izin MUI
+6. Berikut merupakan biaya overhead kecuali....
+A. Biaya administrasi
+B. Biaya tenaga kerja
+C. Biaya pengiriman
+D. Biaya alat tulis kantor
+E. Biaya listrik
+7. Penentuan harga jual produk dapat ditentukan dengan tiga cara berikut....
+A. Harga berdasarkan harga pasar, biaya dan titik impas
+B. Harga berdasarkan biaya variabel, modal dan bahan baku
+C. Harga berdasarkan harga bahan baku, titik impas dan tenaga kerja
+D. Harga berdasarkan harga biaya tetap, biaya sewa dan modal
+E. Harga berdasarkan harga pasar, tenaga kerja dan titik impas
+8. Manfaat break even point (bep) adalah, kecuali....
+A. Alat perencanaan menghasilkan laba
+B. Bahan informasi tentang volume penjualan
+C. Untuk mengevaluasi laba
+D. Mengganti bahan baku berikutnya
+E. Mengganti sistem laporan yang mudah dimengerti lewat grafis
+9. Yang tidak merupakan faktor yang menjadi dasar pertimbangan mendirikan sebuah usaha adalah....
+A. Keuntungan
+B. Penguasaan teknik
+C. Modal
+D. Manejemen
+E. Keberuntungan usaha
+10. Sumber daya utama yang sangat penting untuk dikelola adalah....
+A. Manusia
+B. Mesin
+C. Material
+D. Market
+E. Peralatan</h2><br />
+                        <p>Berikut <strong>jawaban </strong>yang tepat:</p><strong>E</strong>. Kesempatan untuk mengulang kembali strategi dan promosi yang sudah dilakukan<strong>A</strong>. Poster<strong>C</strong>. Menentukan sasaran konsumen<strong>E</strong>. Melaksanakan pembayaran upah bagi karyawannya<strong>E</strong>. Surat izin MUI<strong>B</strong>. Biaya tenaga kerja<strong>A</strong>. Harga berdasarkan harga pasar, biaya dan titik impas<strong>E</strong>. Mengganti sistem laporan yang mudah dimengerti lewat grafis<strong>E</strong>. Keberuntungan usaha<strong>A</strong>. Manusia<p></p><strong>Pembahasan</strong><p><strong>BEP </strong>atau <strong>Break Even Point</strong> ialah titik pendapatan yang didapatkan oleh perusahaan sama dengan modal yang dikeluarkan. Itu artinya, perusahaan tidak mengalami keuntungan dan juga kerugian karena total keuntungan dan kerugian berada pada titik nol.</p><p>Berikut beberapa fungsi <strong>BEP</strong>, yaitu:</p>Memberikan informasi tentang jumlah investasi yang dibutuhkan untuk bisa mengimbangi pengeluaran awal.Untuk membatasi agar tidak mengalami kerugian dengan melakukan langkah awal yaitu memberi margin. Mengetahui perubahan harga, seperti biaya, harga jual serta volume penjualan.Memperoleh informasi dan petunjuk untuk menyelesaikan masalah yang dihadapi perusahaan.<strong></strong><strong>Pelajari lebih lanjut</strong>Materi tentang pengertian BEP https://brainly.co.id/tugas/14727279Materi tentang cara menghitung BEP https://brainly.co.id/tugas/15864253Materi tentang manfaat BEP https://brainly.co.id/tugas/6095629<p></p><strong>Detail jawaban</strong><p>Kelas: 11</p><p>Mapel: Ekonomi</p><p>BAB: 4</p><p>Kode: 11.12.4</p><p></p><p><strong>#AyoBelajar</strong></p><p><strong>#SPJ2</strong></p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/zYagYyvEEXM?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ekonomi</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-wawancara-dengan-siswa-tentang-pembelajaran/">Contoh Wawancara Dengan Siswa Tentang Pembelajaran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-ukom-d3-keperawatan-dan-kunci-jawaban-pdf/">Soal Ukom D3 Keperawatan Dan Kunci Jawaban Pdf</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/format-analisis-butir-soal-uraian/">Format Analisis Butir Soal Uraian</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-usbn-ips-smp/">Soal Usbn Ips Smp</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-median-dan-pembahasannya/">Contoh Soal Median Dan Pembahasannya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/pkn-kelas-11-semester-2/">Pkn Kelas 11 Semester 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/arctan-adalah/">Arctan Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-un-sd-matematika-2023/">Soal Un Sd Matematika 2023</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-menggabungkan-subtitle-dengan-film-secara-permanen-online/">Cara Menggabungkan Subtitle Dengan Film Secara Permanen Online</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/buku-habis-gelap-terbitlah-terang-pdf/">Buku Habis Gelap Terbitlah Terang Pdf</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/rppsilabusprotapromes-k13/">Rpp,silabus,prota,promes K13</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-surat-lamaran-pdam/">Contoh Surat Lamaran Pdam</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/materi-penjas/">Materi Penjas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-teks-pembawa-berita-singkat/">Contoh Teks Pembawa Berita Singkat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-komplemen-suatu-kejadian/">Contoh Soal Komplemen Suatu Kejadian</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-uts-ips-kelas-9-semester-1-dan-kunci-jawaban/">Soal Uts Ips Kelas 9 Semester 1 Dan Kunci Jawaban</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/brain-out-level-75/">Brain Out Level 75</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/wika-gedung-kaskus/">Wika Gedung Kaskus</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/ramalan-jodoh-berdasarkan-nama-dan-tanggal-lahir-pasangan/">Ramalan Jodoh Berdasarkan Nama Dan Tanggal Lahir Pasangan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/rpp-k13-ips-smp-kelas-8/">Rpp K13 Ips Smp Kelas 8</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

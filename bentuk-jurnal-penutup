@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bentuk Jurnal Penutup - BELAJAR</title>
+    <meta name="description" content="Bentuk Jurnal Penutup, , , , , , , 0, , , , , , 0, bentuk-jurnal-penutup, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Bentuk Jurnal Penutup - BELAJAR" />
+    <meta property="og:description" content="Bentuk Jurnal Penutup, , , , , , , 0, , , , , , 0, bentuk-jurnal-penutup, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Bentuk Jurnal Penutup - BELAJAR" />
+    <meta name="twitter:description" content="Bentuk Jurnal Penutup, , , , , , , 0, , , , , , 0, bentuk-jurnal-penutup, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Bentuk Jurnal Penutup</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">iqbalini7</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Bentuk+Jurnal+Penutup" alt="Bentuk Jurnal Penutup">
+                    </div>
+                    <p></p>
+                    <p>bentuk bentuk jurnal penutup​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bentuk-bentuk-jurnal-penutup%e2%80%8b">1.
+                                            bentuk bentuk jurnal penutup​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-ketentuan-membuat-ayat-jurnal-penutup-untuk-perusahaan-berbentuk-pt">2.
+                                            tuliskan ketentuan membuat ayat jurnal penutup untuk perusahaan berbentuk PT</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaan-dalam-membuat-jurnal-penutup-di-perusahaan-berbentukterbatas-dengan-perusahaan-bukan-perseroan-terbatasapa-yang-dimaksud-dengan-neraca-saldo-penutup-dan-mengapa-harus-dibuat">3.
+                                            Jelaskan perbedaan dalam membuat jurnal penutup di perusahaan berbentukterbatas dengan perusahaan bukan perseroan terbatas?Apa yang dimaksud dengan neraca saldo penutup dan mengapa harus dibuat?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-berikut-ini-adalah-satu-manfaat-atau-kegunaan-kertas-kerja-kecuali-a-sebagai-bukti-bahwa-pemeriksaan-telah-dilakukanb-sebagai-dasar-penentuan-besarnya-honorarium-dari-masing-masing-staf-yang-me">4.
+                                            1.berikut ini adalah satu manfaat atau kegunaan kertas kerja, kecuali...a. sebagai bukti bahwa pemeriksaan telah dilakukanb. sebagai dasar penentuan besarnya honorarium dari masing masing staf yang melakukan pemeriksaanc. sebagai dasar untuk menilai kecakapan dan kemampuan dari tiap tiap staf yang melakukan pemeriksaand. untuk mendukung pernyataan pendapat auditor atas laporan perusahaan klien2. kertas kerja pada dasarnya merupakan..a. kesimpulan atas catatan catatan klien yang dibuat oleh auditor sebagai hasil dari pemeriksaan b. bukti pendukung laporan keuanganc. bukti bahwa pemeriksaan auditor telah dilakukan sesuai dengan norma norma pemeriksaan auditd. catatan yang akan digunakan sebagai dasar untuk pemeriksaan tahun berikutnya3. pencatatan pemindahan saldo akun nominal (pendapatan dab beban) ke akun modal melalui akun ikhtisar laba/rugi disebut..a. jurnal umumb. jurnal penyesuaianc. jurnal penutupd. buku besar4. menakah pernyataan berikut ini yang merupakan fungsi jurnal penutup?a. menguji kebenaran pencatatan dalam kertas kerjab. menyesuaikan saldo akun yang sesungguhnyac. memudahkan penyusnan laporan keuangand. mencatat perubahan harta, utang dan modal secara lebih rinci5. penyetoran modal oleh pemilik dalam bentuk uang tunai rp 100.000.00 didokunentasikan dengan...a. memob. bonc. fakturd. kuitansi6. menurut konversi pencatatan rekening, debet dan kredit berarti...a. aktiva dan pasivab. bertambah dan berkurangc. kekayaan dan hutangd. sisi sebelah kiri dan sisi sebelah kanan7. yang harus dilakukan sebelum membuat neraca saldo setelah adalah...a. membuat jurnal penyesuaianb. membuat jurnal pembalikc. membuat jurnal penutupd. menyusun laporan rugi/laba8. daftar yang berisi saldo sementara setiap akun buku besar pada waktu tertentu disebut..a. buku besarb. neraca saldoc. jurnal umumd. jurnal penutup9. menutup akun buku besar dalam siklus akuntansi termasuk tahap..a. analisisb. pelaporan c. pencatatand. pengikhtisaran10. kertas kerja perlu disusun sebelum menyusun laporan keuangan karena...a. berfungsi sebagai alat bantu untuk mempermudah penyusunan laporan keuanganb. tidak diperlukan untuk membantu proses penutupan akun buku besarc. untuk mengetahui jumlah saldo dan kreditd. agar mudah dalam menyusun debit dan kredit</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pt-morfeo-membentuk-dana-kas-kecil-pada-tanggal-10-desember-2020-sebesarrp-250-00000-pengisian-kembali-dilakukan-sebulan-sekali-pada-tiap-%e2%80%93-tiap-tanggal-10dengan-menggunakan-cek-berikut-in">5.
+                                            Pt. morfeo membentuk dana kas kecil pada tanggal 10 desember 2020 sebesarrp.250.000,00. pengisian kembali dilakukan sebulan sekali pada tiap – tiap tanggal 10dengan menggunakan cek. berikut ini transaksi – transaksi sehubungan dengan penggunaankas kecil tersebut sejak tanggal pembentukan sampai tanggal pengisian kembali2020 desember :12 pembayaran abonemen internet rp. 57.500,0021 pembelian supplies kantor rp. 37.500,0030 pembayaran rekening listrik rp. 65.000,0031 tutup buku tanpa pengisian kembali dana kas kecil2021 januari :2 dibeli spare part kendaraan kantor rp. 15.000,005 pembayaran sewa alat – alat meeting rp. 70.500,0020 dikeluarkan cek untuk mengisi kembali dana kas kecildiminta :a. buatlah semua jurnal yang diperlukan dalam penyelenggaraan kaskecil dengan sistemdana tetap ( imprest fund method ).b. tentukan jumlah dana kas kecil yang di sajikan di neraca per 3</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-setelah-penyusunan-dan-pengelompokan-dalam-kertas-kerja-dilakukan-penyusunana-buku-besarb-jurnal-penutupc-neraca-lajurd-laporan-keuangane-jurnal-pembalik2-berikut-adalah-hal-hal-yang-berhubun">6.
+                                            1. Setelah penyusunan dan pengelompokan dalam kertas kerja, dilakukan penyusunanA. Buku BesarB. Jurnal PenutupC. Neraca LajurD. Laporan keuanganE. Jurnal Pembalik2.Berikut adalah hal-hal yang berhubungan dengan penyusunan kertas kerja, kecuali A. Dilakukan Sebelum menyusun laporan keuanganB. Memiliki beberapa Bentuk penyajianC. Melakukan penggolangan dari neraca saldoD. Di lakukan Berdasarkan Informasi dari Jurnal PenyesuaianE. Bersifat wajib dalam sebuah siklus akutansi3.Kertas kerja memiliki beberapa kolom dalam susunannya. Penyajian terbanyak adalah..A. 15 kolomB. 9 kolom C. 3 kolomD. 12 kolomE. 6 Kolom4.Nama akun pada kolom kertas kerja didasarkan pada nama akun di ….A. Buku BesarB. Jurnal UmumC. Jurnal pembalikD. Laporan KeuanganE. Neraca Saldo5.Kolom perubahan modal pada kertas kerja diisi berdasarkan nominal perubahan antara saldo laba/rugi dan ….A. BebanB. PajakC. PiuatangD. HutangE. Prive6.Penyusunan kertas kerja harus memperhatikan tata penulisan, pada bagian teratas kertas kerja dituliskan ….A. Halaman Kertas KerjaB. PeriodeC. Jenis laporanD. Nama perusahaanE. Saldo awal tahun lalu7. Pada akhir periode CV. Andalas terdapat beberapa catatan sebagai berikut.1) Persediaan awal Rp 7.000.0002) Persediaan perlengkapan Rp 5.500.0003) Sewa dibayar di muka (Oktober 2014) Rp 1.200.0004) Penyusutan peralatan untuk periode berjalan sebesar Rp 1.300.0005) Hutang gaji yang belum dibayarkan berjumlah Rp 170.000Besar biaya sewa yang telah menjadi beban adalah ….A. RP 20.000B. RP 900.000C. RP 1.200.000D. RP 300.000E. RP 600.0008. Kolom penyesuaian pada kertas kerja diisi dengan ….A. ayat jurnal pembalikB. ayat jurnal UmumC. ayat buku besarD. ayat penutup E.  ayat jurnal penyesuaian9. Dari format  Di bawah kertas kerja berikut, kolom yang tidak ditemui untuk format kertas kerja lima lajur adalah ….A. LABA/ RUGIB. JurnalC. Neraca UmumD. Buku besarE. Buku Besar Pembantu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-buatlah-ayat-jurnal-penyesuaianb-neraca-lajurc-laporan-laba-rugi-bentuk-single-stepd-laporan-perubahan-modale-susunlah-neraca-bentuk-skontrof-buatlah-jurnal-penutupg-buatlah-jurnal-pembalik-dari-us">7.
+                                            A.Buatlah ayat jurnal penyesuaianb.Neraca lajurc.Laporan laba rugi bentuk single stepd.Laporan perubahan modale.Susunlah neraca bentuk skontroF.Buatlah jurnal penutupg.Buatlah jurnal pembalik .dari usaha jasa konsultasi akuntansi Agus &amp; co pada akhir Desember 2010.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#21-jurnal-pembelian-bentuk-sederhana-yang-berjumlah-rp15-600-00000-terjurnarp-16-500-00000-buku-buku-belum-ditutup-jurnal-perbaikannya-adalah-a-utang-dagangrp-900-00000pembelianrp-900-00000">8.
+                                            21. Jurnal pembelian bentuk sederhana yang berjumlah Rp15.600.000,00 terjurnaRp 16.500.000,00. Buku-buku belum ditutup. Jurnal perbaikannya adalah ...A. Utang dagangRp 900.000,00PembelianRp 900.000,00B. PembelianRp 900.000,00Utang dagangRp 900.000,00C. Utang dagangRp 900.000,00Ikhtisar laba-rugiRp 900.000,00D. Utang dagangRp 16.500.000,00PembelianRp16.500.000,00E. Utang dagangRp15.600.000,00PembelianRp15 600.000,00​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#latihan-soal%c2%a0soal-1-%c2%a0pada-awal-tahun-2006%c2%a0pt-nadia%c2%a0memutuskan-membentuk-kas-kecil-dengan-jumlah-sebesar-rp-2-400-000-untuk-keperluan-pembayaran%c2%a0-dan-pengeluaran-harian-yan">9.
+                                            Latihan Soal Soal 1. Pada awal tahun 2006, PT Nadia memutuskan membentuk kas kecil dengan jumlah sebesar Rp 2.400.000,-, untuk keperluan pembayaran  dan pengeluaran harian yang jumlahnya relatif kecil. Pengisian  kembali dilakukan satu bulan sekali yaitu setiap tanggal 25 dengan menggunakan sistem impres.uPada tanggal 25 Desember 2006 (pada waktu pengisian kembali) perusahaan memutuskan untuk menaikkan saldo kas kecil menjadi Rp 3.000.000,-. Kondisi kas kecil tanggal tersebut menunjukkan :Uang Tunai Rp   190.000-Bukti bukti Pengeluaran : Beban Perjalanan Dinas Rp  700.000,- Beban telepon dan telex  Rp  610.000,-Beban Rapat                  Rp  500.000,-Macam-macam beban     Rp  400.000,-Perusahaan melakukan tutup buku pada tanggal 31 Desember. Bukti- bukti pengeluaran kas kecil selama 5 hari terakhir menunjukan informasi sebagai berikut : Beban perjalanan dinas    Rp  400.000,- Beban rapat dan pertemuan  Rp  250.000,- Macam-macam beban      Rp  280.000,- Diminta : Buatlah jurnal untuk mencatat pembentukan kas kecil, pengisian kembali dan penyesuaian per 31 Desember 2006 serta bukukanlah dalam rekening kas kecil. ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#c-d-no-1-1110-kas-1-1210-piutang-usaha-1-3210-perlengkapan-bengkel-1-1410-sewa-dibayar-di-muka-1-2100-peralatan-2-1210-utang-usaha-3-3110-modal-prive-124-e-f-9-3-3120-4-1100-6-1000-6-2000-6-3000">10.
+                                            C. d. No. 1-1110 Kas 1-1210 Piutang Usaha 1-3210 Perlengkapan Bengkel 1-1410 Sewa Dibayar di Muka 1-2100 Peralatan 2-1210 Utang Usaha 3-3110 Modal Prive 124 e. f. 9 3-3120 4-1100 6-1000 6-2000 6-3000 6-9000 Pendapatan Beban Gaji Beban iklan Beban Asuransi Beban Lain-lain Total Akun Neraca Saldo Per 31 Desember 2017 Debit 360.000.000,00 300.000.000,00 Berdasarkan data tersebut, Anda diminta: Membuat Jurnal Penyesuaian. Rp Rp Rp 222 Rp Rp Rp Rp 280.000.000,00 480.000.000,00 2.400.000.000,00 200.000.000,00 252.000.000,00 180.000.000,00 144.000.000,00 218.000.000,00 Data penyesuaian 31 Desember 2018 adalah sebagai berikut. 1) Sewa dibayar di muka untuk satu tahun dibayar 1 Juni 2018. 2) Perlengkapan yang masih ada di gudang Rp96.000.000,00. 3) Peralatan disusutkan 10% dari harga perolehan. Rp Rp Rp 4.814.000.000,00 Praktikum Akuntansi Perusahaan Jasa dan Dagan a. b. Menyelesaikan Neraca Lajur. Menyusun Laporan Laba/Rugi bentuk Single Step. Menyusun Laporan Perubahan Ekuitas. Rp Rp Menyusun Neraca Bentuk Skontro Terklasifikasi. Membuat Jurnal Penutup. Membuat Jurnal Pembalik. Rp Beban iklan yang sudah diterbitkan Rp250.000.000,00. 4) 5) Beban Gaji yang masih harus dibayar, yaitu gaji bulan Desember Rp7.000.000,00 dan Listrik, air, dan telepon Rp17.000.000,00. Kredit 494.000.000,00 2.000.000.000,00 2.320.000.000.00 Rp 4.814.000.000,00 (Akun yang harus dibuka: Iklan Dibayar di Muka (1-1510); Utang Beban (2-1310); Beban Perlengkapan (6-4000); Beban Penyusutan Peralatan (6-5000); Akum. Peny. Peralatan (1-2110).​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-proses-akuntansi-meliputi-3-tahap-yaitu-tahap-pencatatan-tahap-pengikhtisaran-dan-tahap-pelaporan-salah-satu-bagian-yang-termasuk-tahap-pencatatan-adalah-%e2%80%a6-a-penyusunan-neraca-saldob">11.
+                                            1.Proses akuntansi meliputi 3 tahap, yaitu tahap pencatatan, tahap pengikhtisaran, dan tahap pelaporan. Salah satu bagian yang termasuk tahap pencatatan adalah ….
+a. penyusunan neraca saldo
+b. penyusunan jurnal penyesuaian
+c. menutup buku besar
+d. pencatatn bukti transaksi dalam jurnal
+e. penyusunan neraca saldo penutupan
+2.Berikut adalah  karakteristik perusahaan jasa :
+A. Laba kotor dihitung dengan cara membandingkan antara harga jual dengan harga pokok produksi
+B. Laporan laba-rugi disusun dengan membandingkan pendapatan dengan harga pokok penjualan
+C. Penghitungan laba dilakukan dengan cara menghitung selisih antara pendapatan dan beban usaha
+D. Penghitungan laba bersih dilakukan dengan mengurangkan laba kotor dengan beban penjualan serta beban administrasi dan umum
+E. Laba bersih diperoleh dari laba kotor dikurangkan dengan beban operasional
+3.Jika ditinjau dari urutan logisnya, manakah urutan yang benar ?
+a.	Jurnal, neraca, jurnal penutup, laporan keuangan
+b.	Neraca saldo, jurnal penyesuaian, neraca saldo setelah penutupan
+c.	Neraca saldo, jurnal penutup, neraca saldo setelah penutupan, laporan keuangan
+d.	Jurnal penyesuaian, neraca saldo, jurnal penutup, neraca setelah penutupan, laporan keuangan
+e.	Jurnal, laporan keuangan, jurnal penyesaian, posting
+4.	CV  Jahit Rapi telah menyelesaikan pekerjaan menjahit seragam satpam PT Jaga Maling. PT Jaga Maling berjanji akan membayar biaya jahit sebesar Rp 10.000.000,00 pada akhir bulan depan. Transaksi tersebut akan mempengaruhi akun-akun CV Jahit Rapi, yaitu .....
+a.	Kas bertambah, pendapatan jasa bertambah sebesar Rp 10 juta
+b.	Belum ada jurnal yang dicatat, karena uang belum diterima
+c.	Modal bertambah, pendapatan bertambah
+d.	Pendapatan bertambah, piutang bertambah sebesar Rp 10 juta
+5.	Perhatikan daftar berikut ini :
+	1) Piutang
+	2) Beban sewa
+	3) Sewa dibayar di muka
+	4) Beban gaji
+	5) Utang gaji
+	6) Modal
+	7) Peralatan
+	8) Pendapatan jasa
+Akun yang dicatat pada sisi debet jika bertambah adalah...
+a.	1, 2, 3, dan 4
+b.	1, 3, 6, dan 7
+c.	2, 3, 4, dan 6
+d.	3, 6, 7, dan 8
+e.	5, 6, 7, dan 8
+6.	Pembayaran  kepada  kreditur  dicatat dengan cara mendebit rekening ….
+a.   utang  usaha  dan  mengkredit  piutang usaha
+b .   piutang usaha dan mengkredit kas 
+c.   kas dan mengkredit utang usaha
+d.   utang usaha dan mengkredit kas
+e.   utang usaha dan mengkredit modal
+7.	Rekening modal dan pendapatan bertambah dicatat pada buku besar sebelah ….
+	a. debit dan debit
+	b. debit dan kredit
+	c. kredit dan kredit
+	d. kredit dan debit
+	e. debit semua dan kredit semua
+8.	Berikut ini adalah bentuk rekening buku besar, kecuali  ….
+a.   bentuk  huruf  T
+b .   bentuk  perkiraan/skontro
+c.   bentuk saldo tunggal 
+d.   bentuk  saldo  rangkap 
+e.   bentuk  stafel
+9.	Akun-akun yang dicatat dalam neraca sisa adalah ….
+a.	akun yang memiliki sisa saja 
+b.	akun riil 
+c.	akun yang tercatat dalam buku pembantu 
+d.	akun nominal 
+e.	akun yang dipakai oleh perusahaan 
+10.	Akun berikut yang dicatat ke dalam neraca saldo sebelah debit adalah ….
+a.	kas, piutang dagang, utang dagang, perlengkapan 
+b.	kas, piutang dagang, perlengkapan, prive 
+c.	piutang dagang, perlengkapan, akumulasi penyusutan, beban gaji
+d.	utang dagang, modal pemilik, akumulasi penyusutan, pendapatan
+e.	piutang dagang, utang dagang, beban gaji, beban listrik
+11.	Pada dasarnya fungsi ayat jurnal penyesuaian adalah untuk …
+a.	memenuhi selera pemilik agar akun sesuai dengan keinginannya
+b. 	memonitor penggunaan Beban agar terdapat efisiensi
+c.	mengoreksi akun harta, utang, dan modal agar mencerminkan keadaan yang sebenarnya pada akhir periode
+d.	mengoreksi akun pendapatan dan Beban agar mencerminkan keadaan yang sebenarnya pada akhir periode
+e. 	mengoreksi akun riil dan nominal agar mencerminkan keadaan yang sebenarnya pada akhir periode
+12.	Perhatikan akun-akun berikut ini : (1) piutang usaha, (2) perlengkapan, (3) gedung, (4) mobil, dan (5) wesel tagih. Klasifikasikan akun-akun tersebut berdasarkan tingkat likuiditasnya :
+a.	(1), (2), (5), (4) dan (3)
+b.	(2), (5), (3), (1) dan (4)
+c.	(2), (1), (5), (4) dan (3)
+d.	(5), (1), (2), (4) dan (3)
+e.	(5), (2), (1), (4) dan (3)
+13.	Pemberian  nomor  kode  rekening  atau akun dengan cara mnemonic yang benar adalah ….
+a.	115  Perlengkapan 
+b.	11e  Perlengkapan 
+c.	511  Beban  gaji
+d.	Ae Perlengkapan 
+e.	B5 Beban gaji
+14.	Hal berikut yang merupakan persamaan dasar akuntansi adalah ….
+a. Modal = Harta - Kewaiban
+b. Kewajiban = Modal + Harta
+c. Harta = Modal – Kewajiban
+d. Modal = Harta + Kewajiban
+e. Kewajiban = Modal – Harta 
+15.	Berikut ini adalah rumusan matematis keseimbangan akuntansi dimana pada tahap awal pendirian suatu perusahaan baru tersedia informasi mengenai sejumlah uang atau barang yang disetorkan oleh pemilik dan belum melibatkan modal dari luar :
+a.	Neraca = Rugi/Laba
+b.	Aktiva = Pasiva
+c.	Pasiva = Aktiva – Modal Pemilik
+d.	Aktiva = Modal Pemilik – Utang
+e.	Aktiva = Utang + Modal Pemilik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-penyesuaian-per-31-maret-20181bank-membebani-biaya-administrasi-rp150-000-dan-memberikan-bunga-rp750-0002-berdasarkan-perhitungan-secara-fisik-persediaan-barang-dagang-per-31-maret-2018-sebes">12.
+                                            Data penyesuaian per 31 Maret 2018:1)Bank membebani biaya administrasi Rp150.000 dan memberikan bunga Rp750.0002) Berdasarkan perhitungan secara fisik, persediaan barang dagang per 31 Maret 2018 sebesar Rp477.500.0003) Perlengkapan yang terpakai: bagian toko Rp25.000.000 dan bagian kantor Rp23.500.0004) lklan dibayar di muka untuk 10 kali penerbitan sampai dengan 31 Maret 2018 baru diterbitkan 3 kali.5) Peralatan disusutkan masing-masing 10% per tahun.6) Penyusutan gedung 6% per tahun, sebesar 60% dibebankan ke toko dan 40% dibebankan ke kantor.7)Beban asuransi untuk satu tahun dibayar 1 Februari 2018.8) Beban sewa untuk satu tahun dibayar 1 Maret 2018.9) Masih harus dibayar gaji bagian kantor Rp2.200.000 dan gaji bagian penjualan Rp2.250.000.10) Taksiran pemakaian listrik, air, dan telepon Rp3.250.000.Berdasarkan data tersebut, Anda diminta:a. Membuat Ayat Jurnal Penyesuaian.b.  Menyelesaikan Neraca Lajur.c. Membuat Laporan Laba/Rugi bentuk Multiple Step.d. Membuat Laporan Perubahan Ekuitas.e. Membuat Laporan Posisi Keuangan.f. Membuat Jurnal Penutup.g. Membuat Jurnal Pembalik.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kelas-xi-mia-dan-iis-mapelakuntansi1-jelaskan-bahwa-salah-satu-manfaat-bukti-transaksi-yaitu-dapat-mengurangi-kesalahan2-tuliskan-akun-yang-berkurang-bila-di-sisi-kredit3-terangkan-informasi-y">13.
+                                            KELAS : XI MIA DAN IIS MAPEL:AKUNTANSI1. Jelaskan bahwa salah satu manfaat bukti transaksi yaitu dapat mengurangi kesalahan!2. Tuliskan akun yang berkurang bila di sisi kredit!3. Terangkan informasi yang dapat kita peroleh dari laporan laba rugi?4. Apakah kegunaan dibuatnya taksiran piutang tak tertagih?5. Jelaskan fungsi histories dari jurnal!6. Mengapa bentuk buku besar perusahaan yang satu dengan yang lainnya berbeda?7. Apakah yang dimaksud kertas kerja?8. Mengapa laporan keuangan sering tidak dapat disusun langsung dari neraca saldo?9. Terangkan tujuan penyusunan neraca saldo!10.Tuliskan prosedur penyususnan neraca saldo!11.Mengapa walaupun telah disusun neraca saldo, namun masih belum dapat dibuat laporan keuangan?12.Tuliskan tahap-tahap pengikhtisaran siklus akuntansi!13.Tuliskan pengertian laporan keuangan menurut standar akuntansi keuangan!14.Tuliskan karakteristik kualitatif laporan keuangan!15.Apakah yang dimaksud laporan posisi keuangan?16.Tuliskan tujuan pembuatan jurnal penutup!17.Bagaimana cara membuat jurnal penutup?18.Jelaskan yang dimaksud dengan cash basis !19.Jelaskan yang dimaksud dengan accrual basis !20.Jelaskan yang dimaksud dengan jurnal umum atau jurnal transaksi !21.Jelaskan apa yang dimaksud dengan buku jurnal !22.Jelaskan apa yang dimaksud dengan buku besar ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#3-konsep-diri-peminat-fashion-vintage-konsep-diri-peminat-fashion-vintage-memiliki-percaya-diri-dengan-pakaian-yang-di-kenakan-setiap-pakaian-yang-kita-kenakan-dilihat-dari-motif-dan-warna-yang-se">14.
+                                            3. Konsep Diri Peminat Fashion Vintage 
+Konsep diri peminat fashion vintage memiliki percaya diri dengan pakaian yang di kenakan. 
+Setiap pakaian yang kita kenakan dilihat dari motif dan warna yang senada, karena pakaian yang 
+kita kenakan tidak menjadi masalah untuk mereka. Penilaian orang tehadap pakaian berbedabeda. Maka dari itu percaya diri paling utama. 
+Selama pakaian yang kita kenakan sopan dan senada. Lingkungan sangat berpengaruh 
+dalam cara kita berpakaian, karena akan menjadi identitas diri dalam lingkungan. Pakaian tidak 
+hanya sebagi untuk penutup tubuh atau sebagai fashion tetapi pakaian adalah bentuk komunikasi 
+non-verbal. Komunikasi yang hanya bisa kita lihat dan memberi makna tertentu. (Sumber: 
+Oktaviani, dkk., 2015, Konsep Diri Peminat Fashion Vintage (Studi Interaksi Simbolik Pada Peminat 
+Fashion Vintage Di Bandung), Jurnal Ilmu Komunikasi dan Studi Media, Vol. 1, No. 2. 
+Berdasarkan contoh kasus tersebut, silahkan Anda jelaskan: 
+a. Bagaimana konsep diri individu yang menjadi peminat fashion vintage terbentuk, membuatnya 
+memiliki rasa percaya diri? 
+b. Bagaimana peminat fashion vintage memilih acuan perilaku dan tindakannya dalam memilih 
+pakaian yang digunakannya sehari-hari? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaan-membuat-jurnal-penutup-di-perusahaan-berbentuk-perseroan-terbatas-degan-perusahaan-bukan-perseroan-terbatas%e2%80%8b">15.
+                                            jelaskan Perbedaan membuat jurnal penutup di Perusahaan berbentuk perseroan terbatas degan perusahaan bukan perseroan terbatas?​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="bentuk-bentuk-jurnal-penutup%e2%80%8b">
+                            1. bentuk bentuk jurnal penutup​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>itu jawabannya barang kali benar terima kasih </p><p></p><p><strong>Penjelasan:</strong></p><p>semoga membantu.....</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-ketentuan-membuat-ayat-jurnal-penutup-untuk-perusahaan-berbentuk-pt">
+                            2. tuliskan ketentuan membuat ayat jurnal penutup untuk perusahaan berbentuk PT</h2><br />
+                        <p> </p><p></p><p> </p><p>1. Penutup</p><p>Menutup saldo yang terdapat pada semua perkiraan sementara, sehingga perkiraan tersebut menjadi 0 (nol).</p><p></p><p>2.Agar saldo akun modal menunjukkan jumlah yang sesuai dengan keadaan pada akhir periode, sehingga saldo akun modal akan sama dengan jumlah modal akhir yang dilaporkan di neraca.</p><p></p><p>3.Memisahkan transaksi akun pendapatan dan beban agar tidak bercampur dengan jumlah nominal dari pendapatan dan beban pada tahun selanjutnya.</p><p></p><p>4.Menyajikan neraca awal periode berikutnya setelah dilakukan penutupan buku.</p><p></p><p>5.Mempermudah ketika dilaksanakan pemeriksaan, karena telah dilakukan pemisahan transaksi yang terjadi antara periode sekarang dengan transaksi pada periode akuntansi selanjutnya.</p><p></p><p>6.Menyajikan informasi keuangan yang sebenarnya (riil) dari suatu perusahaan setelah dilakukan penutupan buku (jurnal penutup). Akun yang sesungguhnya terdiri atas harta, kewajiban, dan ekuitas.</p><p></p>Jurnal penutup adalah jurnal yang dibuat pada akhir periode akuntansi untuk menutup akun-akun nominal sementara. Akibat penutupan ini, saldo akun-akun tersebut akan menjadi 0 (nol) pada awal periode akuntansi. Akun yang ditutup adalah akun nominal dan akun pembantu modal. Yang termasuk akun nominal adalah pendapatan dan beban, sedangkan akun pembantu modal adalah prive dan ikhtisar laba/rugi. Setelah jurnal penutup diposting ke setiap akun, maka yang tersisa adalah perkiraan riil (assets, liabilities, capital/equity).<br />Tujuan &amp; Fungsi Pembuatan Jurnal Penutup<br />Menutup saldo yang terdapat pada semua perkiraan sementara, sehingga perkiraan tersebut menjadi 0 (nol).<br />Agar saldo akun modal menunjukkan jumlah yang sesuai dengan keadaan pada akhir periode, sehingga saldo akun modal akan sama dengan jumlah modal akhir yang dilaporkan di neraca.<br />Memisahkan transaksi akun pendapatan dan beban agar tidak bercampur dengan jumlah nominal dari pendapatan dan beban pada tahun selanjutnya.<br />Menyajikan neraca awal periode berikutnya setelah dilakukan penutupan buku.<br />Mempermudah ketika dilaksanakan pemeriksaan, karena telah dilakukan pemisahan transaksi yang terjadi antara periode sekarang dengan transaksi pada periode akuntansi selanjutnya.<br />Menyajikan informasi keuangan yang sebenarnya (riil) dari suatu perusahaan setelah dilakukan penutupan buku (jurnal penutup). Akun yang sesungguhnya terdiri atas harta, kewajiban, dan ekuitas.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaan-dalam-membuat-jurnal-penutup-di-perusahaan-berbentukterbatas-dengan-perusahaan-bukan-perseroan-terbatasapa-yang-dimaksud-dengan-neraca-saldo-penutup-dan-mengapa-harus-dibuat">
+                            3. Jelaskan perbedaan dalam membuat jurnal penutup di perusahaan berbentukterbatas dengan perusahaan bukan perseroan terbatas?Apa yang dimaksud dengan neraca saldo penutup dan mengapa harus dibuat?​</h2><br />
+                        <p><strong>Jawaban:</strong></p>Cara Membuat Jurnal Penutup<p>Jurnal penutup digunakan untuk menutup beberapa akun yaitu pendapatan, beban, ikhtisar laba/rugi, dan prive. Jurnal penutup juga dapat didefinisikan sebagai entri jurnal yang dibuat pada akhir periode akuntansi untuk mentransfer saldo berbagai akun sementara atau akun nominal ke akun permanen dalam buku besar.</p><p></p><p>Jurnal penutup dibuat ketika laporan keuangan tahunan selesai disusun. Hal ini untuk memastikan bahwa setiap akun pendapatan dan pengeluaran memiliki saldo 0 (nol) untuk memulai siklus akuntansi berikutnya yaitu periode baru dalam sebuah perusahaan.</p><p></p><p>Berikut adalah masing-masing cara membuatnya.</p><p></p><p>1. Akun Pendapatan</p><p>Yang dimaksud pendapatan adalah hasil atau penghasilan yang diperoleh perusahaan. Terdapat 2 jenis pendapatan yaitu pendapatan usaha yang merupakan pendapatan yang berhubungan langsung dengan kegiatan usaha perusahaan dan pendapatan di luar usaha yang merupakan pendapatan yang tidak berhubungan langsung dengan kegiatan usaha.</p><p></p><p>Menutup seluruh akun pendapatan dengan cara memindahkan rekening akun pendapatan ke rekening ikhtisar laba/rugi. Berikut adalah contohnya.</p><p></p><p>Akun	Debit	Kredit</p><p>Pendapatan	Rp10.000.000	</p><p>Ikhtisar Laba/Rugi		Rp.10.000.000</p><p>2. Akun Beban</p><p>Pengertian beban sendiri adalah pengorbanan yang terjadi selama melakukan kegiatan usaha untuk memperoleh pendapatan. Ada dua jenis akun beban yaitu beban usaha yang merupakan pengorbanan langsung untuk kegiatan usaha dan beban lain-lain yang merupakan beban yang tidak ada hubungannya dengan kegiatan usaha.</p><p></p><p>Menutup seluruh akun beban dengan cara memindahkan rekening akun beban ke ikhtisar laba/rugi. Berikut adalah contohnya.</p><p></p><p>Rekening	Debit	Kredit</p><p>Ikhtisar Laba/Rugi	Rp5.000.000	</p><p>Beban		Rp5.000.000</p><p>3. Ikhtisar Laba/Rugi</p><p>Menutup seluruh akun ikhtisar laba/rugi dengan cara memindahkan saldo ikhtisar laba/rugi ke akun modal. Di sini ada dua kondisi yang bisa terjadi, laba (pendapatan lebih besar dari beban) atau rugi (pendapatan lebih kecil dari beban).  Berikut adalah contohnya.</p><p></p><p>Apabila memperoleh laba, maka akun ikhtisar laba/rugi didebitkan dan akun modal dikreditkan</p><p></p><p>Rekening	Debit	Kredit</p><p>Ikhtisar Laba/Rugi	Rp.5.000.000	</p><p>Modal		Rp.5.000.000</p><p>Dan, apabila rugi, maka akun modal didebitkan dan ikhtisar laba/rugi dikreditkan</p><p></p><p>Rekening	Debit	Kredit</p><p>Modal	Rp.5.000.000	</p><p>Ikhtisar Laba/Rugi		Rp.5.000.000</p><p>4. Akun Prive</p><p>Menutup akun prive (penarikan modal oleh pemilik, biasanya hanya terjadi pada perusahaan berskala kecil). Caranya dengan memindahkan akun prive ke akun modal. Berikut adalah contohnya.</p><p></p><p>Rekening	Debit	Kredit</p><p>Modal	Rp13.000.000	</p><p>Prive		Rp13.000.000</p><p>Jurnal Penutup yang disusun tergantung dari bentuk perusahaan, baik itu berupa PT, CV, firma, ataupun perusahaan perseorangan, karena struktur modal dari jenis perusahaan di atas tentu saja berbeda. Itu adalah pengertian dan cara membuat jurnal penutup dalam akuntansi yang harus Anda ketahui. Mengelola jurnal dalam sebuah bisnis bukanlah hal mudah. Untuk itu, Anda dapat menggunakan software akuntansi online Jurnal by Mekari untuk membantu Anda membuat sebuah jurnal penutup dan laporan keuangan.</p><p></p><p>Jurnal adalah software akuntansi online yang memberikan kemudahan untuk menerapkan pengelolaan jurnal dalam perusahaan. Dengan menggunakan Jurnal, Anda dapat mencatat dan menyimpan jurnal penutup dan mengelolanya dengan baik sehingga menjadi laporan keuangan perusahaan yang tepat. Temukan info lebih lanjut mengenai Jurnal dan berbagai fiturnya di sini.</p><p></p><p>Sementara itu, untuk meningkatkan kemampuan Anda dalam mengelola keuangan, Anda dapat memanfaatkan platform kursus online GRATIS di Mekari University.</p><p></p><p>Melalui Mekari University, Anda akan memperoleh wawasan lebih luas terkait topik pengelolaan keuangan, manajemen inventory, administrasi HR, dan strategi pengelolaan pajak korporasi.</p><p></p><p>Caranya, cukup mendaftar melalui website Mekari University, kemudian pilih kelas online sesuai dengan topik yang Anda inginkan. Untuk info selengkapnya, tekan banner di bawah ini.</p>Pengertian neraca saldo penutup adalah daftar saldo yang digunakan untuk memastikan bahwa buku besar telah memiliki saldo untuk awal periode berikutnya. Prosedur ini merupakan langkah akhir dalam satu periode akuntansi setelah ayat jurnal penutup dimasukkan.<p></p><p></p><p></p><p></p><p>semoga membantu :))</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-berikut-ini-adalah-satu-manfaat-atau-kegunaan-kertas-kerja-kecuali-a-sebagai-bukti-bahwa-pemeriksaan-telah-dilakukanb-sebagai-dasar-penentuan-besarnya-honorarium-dari-masing-masing-staf-yang-me">
+                            4. 1.berikut ini adalah satu manfaat atau kegunaan kertas kerja, kecuali...a. sebagai bukti bahwa pemeriksaan telah dilakukanb. sebagai dasar penentuan besarnya honorarium dari masing masing staf yang melakukan pemeriksaanc. sebagai dasar untuk menilai kecakapan dan kemampuan dari tiap tiap staf yang melakukan pemeriksaand. untuk mendukung pernyataan pendapat auditor atas laporan perusahaan klien2. kertas kerja pada dasarnya merupakan..a. kesimpulan atas catatan catatan klien yang dibuat oleh auditor sebagai hasil dari pemeriksaan b. bukti pendukung laporan keuanganc. bukti bahwa pemeriksaan auditor telah dilakukan sesuai dengan norma norma pemeriksaan auditd. catatan yang akan digunakan sebagai dasar untuk pemeriksaan tahun berikutnya3. pencatatan pemindahan saldo akun nominal (pendapatan dab beban) ke akun modal melalui akun ikhtisar laba/rugi disebut..a. jurnal umumb. jurnal penyesuaianc. jurnal penutupd. buku besar4. menakah pernyataan berikut ini yang merupakan fungsi jurnal penutup?a. menguji kebenaran pencatatan dalam kertas kerjab. menyesuaikan saldo akun yang sesungguhnyac. memudahkan penyusnan laporan keuangand. mencatat perubahan harta, utang dan modal secara lebih rinci5. penyetoran modal oleh pemilik dalam bentuk uang tunai rp 100.000.00 didokunentasikan dengan...a. memob. bonc. fakturd. kuitansi6. menurut konversi pencatatan rekening, debet dan kredit berarti...a. aktiva dan pasivab. bertambah dan berkurangc. kekayaan dan hutangd. sisi sebelah kiri dan sisi sebelah kanan7. yang harus dilakukan sebelum membuat neraca saldo setelah adalah...a. membuat jurnal penyesuaianb. membuat jurnal pembalikc. membuat jurnal penutupd. menyusun laporan rugi/laba8. daftar yang berisi saldo sementara setiap akun buku besar pada waktu tertentu disebut..a. buku besarb. neraca saldoc. jurnal umumd. jurnal penutup9. menutup akun buku besar dalam siklus akuntansi termasuk tahap..a. analisisb. pelaporan c. pencatatand. pengikhtisaran10. kertas kerja perlu disusun sebelum menyusun laporan keuangan karena...a. berfungsi sebagai alat bantu untuk mempermudah penyusunan laporan keuanganb. tidak diperlukan untuk membantu proses penutupan akun buku besarc. untuk mengetahui jumlah saldo dan kreditd. agar mudah dalam menyusun debit dan kredit</h2><br />
+                        <p>1. A</p><p>2. A</p><p>3. C</p><p>4. B</p><p>5. D</p><p>6. B</p><p>7. C</p><p>8. D</p><p>9. D</p><p>10. D</p><br />
+                                            <h2 class="ez-toc-section" id="pt-morfeo-membentuk-dana-kas-kecil-pada-tanggal-10-desember-2020-sebesarrp-250-00000-pengisian-kembali-dilakukan-sebulan-sekali-pada-tiap-%e2%80%93-tiap-tanggal-10dengan-menggunakan-cek-berikut-in">
+                            5. Pt. morfeo membentuk dana kas kecil pada tanggal 10 desember 2020 sebesarrp.250.000,00. pengisian kembali dilakukan sebulan sekali pada tiap – tiap tanggal 10dengan menggunakan cek. berikut ini transaksi – transaksi sehubungan dengan penggunaankas kecil tersebut sejak tanggal pembentukan sampai tanggal pengisian kembali2020 desember :12 pembayaran abonemen internet rp. 57.500,0021 pembelian supplies kantor rp. 37.500,0030 pembayaran rekening listrik rp. 65.000,0031 tutup buku tanpa pengisian kembali dana kas kecil2021 januari :2 dibeli spare part kendaraan kantor rp. 15.000,005 pembayaran sewa alat – alat meeting rp. 70.500,0020 dikeluarkan cek untuk mengisi kembali dana kas kecildiminta :a. buatlah semua jurnal yang diperlukan dalam penyelenggaraan kaskecil dengan sistemdana tetap ( imprest fund method ).b. tentukan jumlah dana kas kecil yang di sajikan di neraca per 3</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>PT. MORFEO membentuk dana kas kecil pada tanggal 10 Desember 2020 sebesar Rp.250.000,00. Pengisian kembali dilakukan sebulan sekali pada tiap – tiap ...</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-setelah-penyusunan-dan-pengelompokan-dalam-kertas-kerja-dilakukan-penyusunana-buku-besarb-jurnal-penutupc-neraca-lajurd-laporan-keuangane-jurnal-pembalik2-berikut-adalah-hal-hal-yang-berhubun">
+                            6. 1. Setelah penyusunan dan pengelompokan dalam kertas kerja, dilakukan penyusunanA. Buku BesarB. Jurnal PenutupC. Neraca LajurD. Laporan keuanganE. Jurnal Pembalik2.Berikut adalah hal-hal yang berhubungan dengan penyusunan kertas kerja, kecuali A. Dilakukan Sebelum menyusun laporan keuanganB. Memiliki beberapa Bentuk penyajianC. Melakukan penggolangan dari neraca saldoD. Di lakukan Berdasarkan Informasi dari Jurnal PenyesuaianE. Bersifat wajib dalam sebuah siklus akutansi3.Kertas kerja memiliki beberapa kolom dalam susunannya. Penyajian terbanyak adalah..A. 15 kolomB. 9 kolom C. 3 kolomD. 12 kolomE. 6 Kolom4.Nama akun pada kolom kertas kerja didasarkan pada nama akun di ….A. Buku BesarB. Jurnal UmumC. Jurnal pembalikD. Laporan KeuanganE. Neraca Saldo5.Kolom perubahan modal pada kertas kerja diisi berdasarkan nominal perubahan antara saldo laba/rugi dan ….A. BebanB. PajakC. PiuatangD. HutangE. Prive6.Penyusunan kertas kerja harus memperhatikan tata penulisan, pada bagian teratas kertas kerja dituliskan ….A. Halaman Kertas KerjaB. PeriodeC. Jenis laporanD. Nama perusahaanE. Saldo awal tahun lalu7. Pada akhir periode CV. Andalas terdapat beberapa catatan sebagai berikut.1) Persediaan awal Rp 7.000.0002) Persediaan perlengkapan Rp 5.500.0003) Sewa dibayar di muka (Oktober 2014) Rp 1.200.0004) Penyusutan peralatan untuk periode berjalan sebesar Rp 1.300.0005) Hutang gaji yang belum dibayarkan berjumlah Rp 170.000Besar biaya sewa yang telah menjadi beban adalah ….A. RP 20.000B. RP 900.000C. RP 1.200.000D. RP 300.000E. RP 600.0008. Kolom penyesuaian pada kertas kerja diisi dengan ….A. ayat jurnal pembalikB. ayat jurnal UmumC. ayat buku besarD. ayat penutup E.  ayat jurnal penyesuaian9. Dari format  Di bawah kertas kerja berikut, kolom yang tidak ditemui untuk format kertas kerja lima lajur adalah ….A. LABA/ RUGIB. JurnalC. Neraca UmumD. Buku besarE. Buku Besar Pembantu</h2><br />
+                        1. D.laporan keuangan<br />2.E. bersifat wajib dalam siklus akuntansi<br />3. D. 12 kolom<br />4.C. jurnal pembalik<br />5.E. prive<br />
+                                            <h2 class="ez-toc-section" id="a-buatlah-ayat-jurnal-penyesuaianb-neraca-lajurc-laporan-laba-rugi-bentuk-single-stepd-laporan-perubahan-modale-susunlah-neraca-bentuk-skontrof-buatlah-jurnal-penutupg-buatlah-jurnal-pembalik-dari-us">
+                            7. A.Buatlah ayat jurnal penyesuaianb.Neraca lajurc.Laporan laba rugi bentuk single stepd.Laporan perubahan modale.Susunlah neraca bentuk skontroF.Buatlah jurnal penutupg.Buatlah jurnal pembalik .dari usaha jasa konsultasi akuntansi Agus &amp; co pada akhir Desember 2010.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a1</p><p>b3</p><p></p><p><strong>Penjelasan:</strong></p><p>s283j3m3mejekee</p><br />
+                                            <h2 class="ez-toc-section" id="21-jurnal-pembelian-bentuk-sederhana-yang-berjumlah-rp15-600-00000-terjurnarp-16-500-00000-buku-buku-belum-ditutup-jurnal-perbaikannya-adalah-a-utang-dagangrp-900-00000pembelianrp-900-00000">
+                            8. 21. Jurnal pembelian bentuk sederhana yang berjumlah Rp15.600.000,00 terjurnaRp 16.500.000,00. Buku-buku belum ditutup. Jurnal perbaikannya adalah ...A. Utang dagangRp 900.000,00PembelianRp 900.000,00B. PembelianRp 900.000,00Utang dagangRp 900.000,00C. Utang dagangRp 900.000,00Ikhtisar laba-rugiRp 900.000,00D. Utang dagangRp 16.500.000,00PembelianRp16.500.000,00E. Utang dagangRp15.600.000,00PembelianRp15 600.000,00​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. Utang Dagang (D) 900.000</p><p>Pembelian (K) 900.000</p><br />
+                                            <h2 class="ez-toc-section" id="latihan-soal%c2%a0soal-1-%c2%a0pada-awal-tahun-2006%c2%a0pt-nadia%c2%a0memutuskan-membentuk-kas-kecil-dengan-jumlah-sebesar-rp-2-400-000-untuk-keperluan-pembayaran%c2%a0-dan-pengeluaran-harian-yan">
+                            9. Latihan Soal Soal 1. Pada awal tahun 2006, PT Nadia memutuskan membentuk kas kecil dengan jumlah sebesar Rp 2.400.000,-, untuk keperluan pembayaran  dan pengeluaran harian yang jumlahnya relatif kecil. Pengisian  kembali dilakukan satu bulan sekali yaitu setiap tanggal 25 dengan menggunakan sistem impres.uPada tanggal 25 Desember 2006 (pada waktu pengisian kembali) perusahaan memutuskan untuk menaikkan saldo kas kecil menjadi Rp 3.000.000,-. Kondisi kas kecil tanggal tersebut menunjukkan :Uang Tunai Rp   190.000-Bukti bukti Pengeluaran : Beban Perjalanan Dinas Rp  700.000,- Beban telepon dan telex  Rp  610.000,-Beban Rapat                  Rp  500.000,-Macam-macam beban     Rp  400.000,-Perusahaan melakukan tutup buku pada tanggal 31 Desember. Bukti- bukti pengeluaran kas kecil selama 5 hari terakhir menunjukan informasi sebagai berikut : Beban perjalanan dinas    Rp  400.000,- Beban rapat dan pertemuan  Rp  250.000,- Macam-macam beban      Rp  280.000,- Diminta : Buatlah jurnal untuk mencatat pembentukan kas kecil, pengisian kembali dan penyesuaian per 31 Desember 2006 serta bukukanlah dalam rekening kas kecil. ​</h2><br />
+                        <p>25/01/2006 - 25/11/2016</p><p>Kas kecil     Rp 2.400.000 (D)</p><p>Kas                     Rp. 2.400.000 (K)</p><p></p><p>Beban Perjalanan Dinas Rp  700.000,-  (D)</p><p>Beban telepon dan telex  Rp  610.000,-  (D)</p><p>Beban Rapat                  Rp  500.000,-  (D)</p><p>Macam-macam beban     Rp  400.000,- (D)</p><p>Uang Tunai                       Rp   190.000,- (D)</p><p>                               Kas       Rp 2.400.000,- (K)</p><p>25/12/2006</p><p>Kas kecil     Rp 3.000.000 (D)</p><p>Kas                     Rp.  3.000.000 (K)</p><p>31/12/2006</p><p>Beban perjalanan dinas    Rp  400.000,-  (D)</p><p>Beban rapat dan pertemuan  Rp  250.000,-  (D)</p><p>Macam-macam beban      Rp  280.000,- (D)</p><p>                               Kas             Rp 930.000,- (K)</p><p></p><p>*imprest=tetap</p><p>dijurnal setiap pengisian kas kecil</p><p>semua pengeluaran dikreditkan oleh kas</p><br />
+                                            <h2 class="ez-toc-section" id="c-d-no-1-1110-kas-1-1210-piutang-usaha-1-3210-perlengkapan-bengkel-1-1410-sewa-dibayar-di-muka-1-2100-peralatan-2-1210-utang-usaha-3-3110-modal-prive-124-e-f-9-3-3120-4-1100-6-1000-6-2000-6-3000">
+                            10. C. d. No. 1-1110 Kas 1-1210 Piutang Usaha 1-3210 Perlengkapan Bengkel 1-1410 Sewa Dibayar di Muka 1-2100 Peralatan 2-1210 Utang Usaha 3-3110 Modal Prive 124 e. f. 9 3-3120 4-1100 6-1000 6-2000 6-3000 6-9000 Pendapatan Beban Gaji Beban iklan Beban Asuransi Beban Lain-lain Total Akun Neraca Saldo Per 31 Desember 2017 Debit 360.000.000,00 300.000.000,00 Berdasarkan data tersebut, Anda diminta: Membuat Jurnal Penyesuaian. Rp Rp Rp 222 Rp Rp Rp Rp 280.000.000,00 480.000.000,00 2.400.000.000,00 200.000.000,00 252.000.000,00 180.000.000,00 144.000.000,00 218.000.000,00 Data penyesuaian 31 Desember 2018 adalah sebagai berikut. 1) Sewa dibayar di muka untuk satu tahun dibayar 1 Juni 2018. 2) Perlengkapan yang masih ada di gudang Rp96.000.000,00. 3) Peralatan disusutkan 10% dari harga perolehan. Rp Rp Rp 4.814.000.000,00 Praktikum Akuntansi Perusahaan Jasa dan Dagan a. b. Menyelesaikan Neraca Lajur. Menyusun Laporan Laba/Rugi bentuk Single Step. Menyusun Laporan Perubahan Ekuitas. Rp Rp Menyusun Neraca Bentuk Skontro Terklasifikasi. Membuat Jurnal Penutup. Membuat Jurnal Pembalik. Rp Beban iklan yang sudah diterbitkan Rp250.000.000,00. 4) 5) Beban Gaji yang masih harus dibayar, yaitu gaji bulan Desember Rp7.000.000,00 dan Listrik, air, dan telepon Rp17.000.000,00. Kredit 494.000.000,00 2.000.000.000,00 2.320.000.000.00 Rp 4.814.000.000,00 (Akun yang harus dibuka: Iklan Dibayar di Muka (1-1510); Utang Beban (2-1310); Beban Perlengkapan (6-4000); Beban Penyusutan Peralatan (6-5000); Akum. Peny. Peralatan (1-2110).​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>5.000000000</p><p><strong>Penjelasan:</strong></p><p>karena itu banyak banget</p><br />
+                                            <h2 class="ez-toc-section" id="1-proses-akuntansi-meliputi-3-tahap-yaitu-tahap-pencatatan-tahap-pengikhtisaran-dan-tahap-pelaporan-salah-satu-bagian-yang-termasuk-tahap-pencatatan-adalah-%e2%80%a6-a-penyusunan-neraca-saldob">
+                            11. 1.Proses akuntansi meliputi 3 tahap, yaitu tahap pencatatan, tahap pengikhtisaran, dan tahap pelaporan. Salah satu bagian yang termasuk tahap pencatatan adalah ….
+a. penyusunan neraca saldo
+b. penyusunan jurnal penyesuaian
+c. menutup buku besar
+d. pencatatn bukti transaksi dalam jurnal
+e. penyusunan neraca saldo penutupan
+2.Berikut adalah  karakteristik perusahaan jasa :
+A. Laba kotor dihitung dengan cara membandingkan antara harga jual dengan harga pokok produksi
+B. Laporan laba-rugi disusun dengan membandingkan pendapatan dengan harga pokok penjualan
+C. Penghitungan laba dilakukan dengan cara menghitung selisih antara pendapatan dan beban usaha
+D. Penghitungan laba bersih dilakukan dengan mengurangkan laba kotor dengan beban penjualan serta beban administrasi dan umum
+E. Laba bersih diperoleh dari laba kotor dikurangkan dengan beban operasional
+3.Jika ditinjau dari urutan logisnya, manakah urutan yang benar ?
+a.	Jurnal, neraca, jurnal penutup, laporan keuangan
+b.	Neraca saldo, jurnal penyesuaian, neraca saldo setelah penutupan
+c.	Neraca saldo, jurnal penutup, neraca saldo setelah penutupan, laporan keuangan
+d.	Jurnal penyesuaian, neraca saldo, jurnal penutup, neraca setelah penutupan, laporan keuangan
+e.	Jurnal, laporan keuangan, jurnal penyesaian, posting
+4.	CV  Jahit Rapi telah menyelesaikan pekerjaan menjahit seragam satpam PT Jaga Maling. PT Jaga Maling berjanji akan membayar biaya jahit sebesar Rp 10.000.000,00 pada akhir bulan depan. Transaksi tersebut akan mempengaruhi akun-akun CV Jahit Rapi, yaitu .....
+a.	Kas bertambah, pendapatan jasa bertambah sebesar Rp 10 juta
+b.	Belum ada jurnal yang dicatat, karena uang belum diterima
+c.	Modal bertambah, pendapatan bertambah
+d.	Pendapatan bertambah, piutang bertambah sebesar Rp 10 juta
+5.	Perhatikan daftar berikut ini :
+	1) Piutang
+	2) Beban sewa
+	3) Sewa dibayar di muka
+	4) Beban gaji
+	5) Utang gaji
+	6) Modal
+	7) Peralatan
+	8) Pendapatan jasa
+Akun yang dicatat pada sisi debet jika bertambah adalah...
+a.	1, 2, 3, dan 4
+b.	1, 3, 6, dan 7
+c.	2, 3, 4, dan 6
+d.	3, 6, 7, dan 8
+e.	5, 6, 7, dan 8
+6.	Pembayaran  kepada  kreditur  dicatat dengan cara mendebit rekening ….
+a.   utang  usaha  dan  mengkredit  piutang usaha
+b .   piutang usaha dan mengkredit kas 
+c.   kas dan mengkredit utang usaha
+d.   utang usaha dan mengkredit kas
+e.   utang usaha dan mengkredit modal
+7.	Rekening modal dan pendapatan bertambah dicatat pada buku besar sebelah ….
+	a. debit dan debit
+	b. debit dan kredit
+	c. kredit dan kredit
+	d. kredit dan debit
+	e. debit semua dan kredit semua
+8.	Berikut ini adalah bentuk rekening buku besar, kecuali  ….
+a.   bentuk  huruf  T
+b .   bentuk  perkiraan/skontro
+c.   bentuk saldo tunggal 
+d.   bentuk  saldo  rangkap 
+e.   bentuk  stafel
+9.	Akun-akun yang dicatat dalam neraca sisa adalah ….
+a.	akun yang memiliki sisa saja 
+b.	akun riil 
+c.	akun yang tercatat dalam buku pembantu 
+d.	akun nominal 
+e.	akun yang dipakai oleh perusahaan 
+10.	Akun berikut yang dicatat ke dalam neraca saldo sebelah debit adalah ….
+a.	kas, piutang dagang, utang dagang, perlengkapan 
+b.	kas, piutang dagang, perlengkapan, prive 
+c.	piutang dagang, perlengkapan, akumulasi penyusutan, beban gaji
+d.	utang dagang, modal pemilik, akumulasi penyusutan, pendapatan
+e.	piutang dagang, utang dagang, beban gaji, beban listrik
+11.	Pada dasarnya fungsi ayat jurnal penyesuaian adalah untuk …
+a.	memenuhi selera pemilik agar akun sesuai dengan keinginannya
+b. 	memonitor penggunaan Beban agar terdapat efisiensi
+c.	mengoreksi akun harta, utang, dan modal agar mencerminkan keadaan yang sebenarnya pada akhir periode
+d.	mengoreksi akun pendapatan dan Beban agar mencerminkan keadaan yang sebenarnya pada akhir periode
+e. 	mengoreksi akun riil dan nominal agar mencerminkan keadaan yang sebenarnya pada akhir periode
+12.	Perhatikan akun-akun berikut ini : (1) piutang usaha, (2) perlengkapan, (3) gedung, (4) mobil, dan (5) wesel tagih. Klasifikasikan akun-akun tersebut berdasarkan tingkat likuiditasnya :
+a.	(1), (2), (5), (4) dan (3)
+b.	(2), (5), (3), (1) dan (4)
+c.	(2), (1), (5), (4) dan (3)
+d.	(5), (1), (2), (4) dan (3)
+e.	(5), (2), (1), (4) dan (3)
+13.	Pemberian  nomor  kode  rekening  atau akun dengan cara mnemonic yang benar adalah ….
+a.	115  Perlengkapan 
+b.	11e  Perlengkapan 
+c.	511  Beban  gaji
+d.	Ae Perlengkapan 
+e.	B5 Beban gaji
+14.	Hal berikut yang merupakan persamaan dasar akuntansi adalah ….
+a. Modal = Harta - Kewaiban
+b. Kewajiban = Modal + Harta
+c. Harta = Modal – Kewajiban
+d. Modal = Harta + Kewajiban
+e. Kewajiban = Modal – Harta 
+15.	Berikut ini adalah rumusan matematis keseimbangan akuntansi dimana pada tahap awal pendirian suatu perusahaan baru tersedia informasi mengenai sejumlah uang atau barang yang disetorkan oleh pemilik dan belum melibatkan modal dari luar :
+a.	Neraca = Rugi/Laba
+b.	Aktiva = Pasiva
+c.	Pasiva = Aktiva – Modal Pemilik
+d.	Aktiva = Modal Pemilik – Utang
+e.	Aktiva = Utang + Modal Pemilik</h2><br />
+                        1. D<br />2. C<br />3. C<br />4. D<br />5. B<br />6. D<br />
+                                            <h2 class="ez-toc-section" id="data-penyesuaian-per-31-maret-20181bank-membebani-biaya-administrasi-rp150-000-dan-memberikan-bunga-rp750-0002-berdasarkan-perhitungan-secara-fisik-persediaan-barang-dagang-per-31-maret-2018-sebes">
+                            12. Data penyesuaian per 31 Maret 2018:1)Bank membebani biaya administrasi Rp150.000 dan memberikan bunga Rp750.0002) Berdasarkan perhitungan secara fisik, persediaan barang dagang per 31 Maret 2018 sebesar Rp477.500.0003) Perlengkapan yang terpakai: bagian toko Rp25.000.000 dan bagian kantor Rp23.500.0004) lklan dibayar di muka untuk 10 kali penerbitan sampai dengan 31 Maret 2018 baru diterbitkan 3 kali.5) Peralatan disusutkan masing-masing 10% per tahun.6) Penyusutan gedung 6% per tahun, sebesar 60% dibebankan ke toko dan 40% dibebankan ke kantor.7)Beban asuransi untuk satu tahun dibayar 1 Februari 2018.8) Beban sewa untuk satu tahun dibayar 1 Maret 2018.9) Masih harus dibayar gaji bagian kantor Rp2.200.000 dan gaji bagian penjualan Rp2.250.000.10) Taksiran pemakaian listrik, air, dan telepon Rp3.250.000.Berdasarkan data tersebut, Anda diminta:a. Membuat Ayat Jurnal Penyesuaian.b.  Menyelesaikan Neraca Lajur.c. Membuat Laporan Laba/Rugi bentuk Multiple Step.d. Membuat Laporan Perubahan Ekuitas.e. Membuat Laporan Posisi Keuangan.f. Membuat Jurnal Penutup.g. Membuat Jurnal Pembalik.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b. beban iklan (yang telah diterbitkan)</p><p>iklan dibayar dimuka(jumlah yg belum diterbitkan)</p><p>c. beban asuransi</p><p>asuransi dibayar dimuka</p><p>d. beban sewa</p><p>sewa dibayar dimuka</p><p>maaf yang a sya tidak tau</p><p></p>maaf banget kalau salah<p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kelas-xi-mia-dan-iis-mapelakuntansi1-jelaskan-bahwa-salah-satu-manfaat-bukti-transaksi-yaitu-dapat-mengurangi-kesalahan2-tuliskan-akun-yang-berkurang-bila-di-sisi-kredit3-terangkan-informasi-y">
+                            13. KELAS : XI MIA DAN IIS MAPEL:AKUNTANSI1. Jelaskan bahwa salah satu manfaat bukti transaksi yaitu dapat mengurangi kesalahan!2. Tuliskan akun yang berkurang bila di sisi kredit!3. Terangkan informasi yang dapat kita peroleh dari laporan laba rugi?4. Apakah kegunaan dibuatnya taksiran piutang tak tertagih?5. Jelaskan fungsi histories dari jurnal!6. Mengapa bentuk buku besar perusahaan yang satu dengan yang lainnya berbeda?7. Apakah yang dimaksud kertas kerja?8. Mengapa laporan keuangan sering tidak dapat disusun langsung dari neraca saldo?9. Terangkan tujuan penyusunan neraca saldo!10.Tuliskan prosedur penyususnan neraca saldo!11.Mengapa walaupun telah disusun neraca saldo, namun masih belum dapat dibuat laporan keuangan?12.Tuliskan tahap-tahap pengikhtisaran siklus akuntansi!13.Tuliskan pengertian laporan keuangan menurut standar akuntansi keuangan!14.Tuliskan karakteristik kualitatif laporan keuangan!15.Apakah yang dimaksud laporan posisi keuangan?16.Tuliskan tujuan pembuatan jurnal penutup!17.Bagaimana cara membuat jurnal penutup?18.Jelaskan yang dimaksud dengan cash basis !19.Jelaskan yang dimaksud dengan accrual basis !20.Jelaskan yang dimaksud dengan jurnal umum atau jurnal transaksi !21.Jelaskan apa yang dimaksud dengan buku jurnal !22.Jelaskan apa yang dimaksud dengan buku besar ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.dengan adanya bukti transaksi jika ada keraguan dalam transaksi bisa di minimalisir dengan adanya bukti transaksi</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="3-konsep-diri-peminat-fashion-vintage-konsep-diri-peminat-fashion-vintage-memiliki-percaya-diri-dengan-pakaian-yang-di-kenakan-setiap-pakaian-yang-kita-kenakan-dilihat-dari-motif-dan-warna-yang-se">
+                            14. 3. Konsep Diri Peminat Fashion Vintage 
+Konsep diri peminat fashion vintage memiliki percaya diri dengan pakaian yang di kenakan. 
+Setiap pakaian yang kita kenakan dilihat dari motif dan warna yang senada, karena pakaian yang 
+kita kenakan tidak menjadi masalah untuk mereka. Penilaian orang tehadap pakaian berbedabeda. Maka dari itu percaya diri paling utama. 
+Selama pakaian yang kita kenakan sopan dan senada. Lingkungan sangat berpengaruh 
+dalam cara kita berpakaian, karena akan menjadi identitas diri dalam lingkungan. Pakaian tidak 
+hanya sebagi untuk penutup tubuh atau sebagai fashion tetapi pakaian adalah bentuk komunikasi 
+non-verbal. Komunikasi yang hanya bisa kita lihat dan memberi makna tertentu. (Sumber: 
+Oktaviani, dkk., 2015, Konsep Diri Peminat Fashion Vintage (Studi Interaksi Simbolik Pada Peminat 
+Fashion Vintage Di Bandung), Jurnal Ilmu Komunikasi dan Studi Media, Vol. 1, No. 2. 
+Berdasarkan contoh kasus tersebut, silahkan Anda jelaskan: 
+a. Bagaimana konsep diri individu yang menjadi peminat fashion vintage terbentuk, membuatnya 
+memiliki rasa percaya diri? 
+b. Bagaimana peminat fashion vintage memilih acuan perilaku dan tindakannya dalam memilih 
+pakaian yang digunakannya sehari-hari? </h2><br />
+                        <p><strong>Jawaban:</strong></p>ANDA HARUS PD DULU BARU PERCYA DIRI<p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaan-membuat-jurnal-penutup-di-perusahaan-berbentuk-perseroan-terbatas-degan-perusahaan-bukan-perseroan-terbatas%e2%80%8b">
+                            15. jelaskan Perbedaan membuat jurnal penutup di Perusahaan berbentuk perseroan terbatas degan perusahaan bukan perseroan terbatas?​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Jurnal penutup adalah jurnal yang dibuat pada akhir periode akuntansi untuk menutup akun-akun nominal sementara. Akibat penutupan ini, saldo akun-akun tersebut akan menjadi 0 (nol) pada awal periode akuntansi. Akun yang ditutup adalah akun nominal dan akun pembantu modal.</p><p>Komponen yang termasuk akun nominal adalah pendapatan dan beban, sedangkan akun pembantu modal adalah prive dan ikhtisar laba/rugi. Setelah jurnal penutup diposting ke setiap akun, maka yang tersisa adalah perkiraan riil (assets, liabilities, capital/equity).</p><p>Untuk memahami pembuatan dan fungsi jurnal penutup secara lebih dalam, Anda dapat mengikuti pelatihan dan kelas online Gratis yang tersedia pada platform Mekari University.</p><p></p><p>Mekari University merupakan platform penyedia layanan edukasi berbasis teknologi untuk membantu para pemilik bisnis dan profesional meningkatkan kemampuannya.</p><p></p><p>Melalui Mekari University, Anda akan memperoleh wawasan lebih luas terkait topik pengelolaan keuangan, manajemen inventory, administrasi HR, dan strategi pengelolaan pajak korporasi.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/pj8KpNL0U6g?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ekonomi</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-mendapatkan-khodam-al-fatihah/">Cara Mendapatkan Khodam Al Fatihah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/format-factory-crack/">Format Factory Crack</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-hack-ujian-online/">Cara Hack Ujian Online</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-roi/">Contoh Soal Roi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-usbn-matematika-sd/">Soal Usbn Matematika Sd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/surat-permohonan-retur-barang/">Surat Permohonan Retur Barang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-pilihan-ganda-badan-usaha/">Soal Pilihan Ganda Badan Usaha</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/exambro-android/">Exambro Android</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/materi-leadership-ppt/">Materi Leadership Ppt</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/pertanyaan-interview-bagian-accounting/">Pertanyaan Interview Bagian Accounting</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-bikin-lemari-dinding/">Cara Bikin Lemari Dinding</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-mengqadha-shalat-yang-tertinggal/">Cara Mengqadha Shalat Yang Tertinggal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-promes-pai-sma-kurikulum-2013/">Download Promes Pai Sma Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-mtk-kelas-12/">Soal Mtk Kelas 12</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/makalah-limas/">Makalah Limas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-dan-pembahasan-tentang-integral/">Contoh Soal Dan Pembahasan Tentang Integral</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/matriks-metode-cramer/">Matriks Metode Cramer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-membuat-andromax-c-dual-gsm/">Cara Membuat Andromax C Dual Gsm</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-membuka-hp-oppo-a37/">Cara Membuka Hp Oppo A37</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/ternak-mozambik/">Ternak Mozambik</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

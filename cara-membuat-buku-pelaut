@@ -1,0 +1,1513 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cara Membuat Buku Pelaut - BELAJAR</title>
+    <meta name="description" content="Cara Membuat Buku Pelaut, , , , , , , 0, , , , , , 0, cara-membuat-buku-pelaut, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Cara Membuat Buku Pelaut - BELAJAR" />
+    <meta property="og:description" content="Cara Membuat Buku Pelaut, , , , , , , 0, , , , , , 0, cara-membuat-buku-pelaut, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Cara Membuat Buku Pelaut - BELAJAR" />
+    <meta name="twitter:description" content="Cara Membuat Buku Pelaut, , , , , , , 0, , , , , , 0, cara-membuat-buku-pelaut, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Cara Membuat Buku Pelaut</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">marshandakartika</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Cara+Membuat+Buku+Pelaut" alt="Cara Membuat Buku Pelaut">
+                    </div>
+                    <p></p>
+                    <p>1. Sebutkan tahapan-tahapan dalam meringkas buku!2. Apa yang dimaksud dengan penokohan?3. Sebut dan jelaskan cara untuk mengetahui karakter            dalam cerpen!4. Apa komentar kalian tentang kerusakan ekosistem laut sekarang ini?5. Menurut kalian apa penyebab rusaknya ekosistem laut di pesisir Jakarta?6. Sebut dan jelaskan salah satu teknik membaca!7. Apa saja yang harus diperhatikan dalam membuat sebuah puisi?8. Mengapa sebuah pendapat harus disampaikan dengan bahasa yang santun?9. Apa manfaat membuat ringkasan?10. Sebutkan syarat-syarat ringkasan yang baik!</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-sebutkan-tahapan-tahapan-dalam-meringkas-buku2-apa-yang-dimaksud-dengan-penokohan3-sebut-dan-jelaskan-cara-untuk-mengetahui-karakter-dalam-cerpen4-apa-komentar-kalian-tentang-kerus">1.
+                                            1. Sebutkan tahapan-tahapan dalam meringkas buku!2. Apa yang dimaksud dengan penokohan?3. Sebut dan jelaskan cara untuk mengetahui karakter            dalam cerpen!4. Apa komentar kalian tentang kerusakan ekosistem laut sekarang ini?5. Menurut kalian apa penyebab rusaknya ekosistem laut di pesisir Jakarta?6. Sebut dan jelaskan salah satu teknik membaca!7. Apa saja yang harus diperhatikan dalam membuat sebuah puisi?8. Mengapa sebuah pendapat harus disampaikan dengan bahasa yang santun?9. Apa manfaat membuat ringkasan?10. Sebutkan syarat-syarat ringkasan yang baik!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bacalah-bacaan-berikut-ini-dengan-saksamaperpindahan-panas-atau-kalorsecara-konveksiperpindahan-kalor-secara-konveksi-ialah-perpindahan-kalor-yang-disertai-denganperpindahan-zat-perantaranya-umumnya">2.
+                                            Bacalah bacaan berikut ini dengan saksama!Perpindahan Panas atau Kalorsecara KonveksiPerpindahan kalor secara konveksi ialah perpindahan kalor yang disertai denganperpindahan zat perantaranya. Umumnya peristiwa perpindahan kalor secara konveksi terjadipada zat cair dan gas. Zat yang menerima kalor akan memuai dan menjadi lebih ringansehingga akan bergerak ke atas. Saat zat yang lebih ringan terschut pindah ke atas, molekulzat yang ada di atasnya akan menggantikannya.Perpindahan secara konveksi dapat diumpamakan dengan kegiatan memindahkansetumpuk buku dari satu tempat ke tempat lain. Ketika kamu memindahkan buku tersebut ketempat lain, tentu kamu akan ikut bersama dengan buku-buku tersebut. Jika buku-buku itudiumpamakan sebagai energi panas dan kamu adalah medianya, maka perpindahan kalordengan cara konveksi akan menyertakan perantaranya.Peristiwa konveksi terjadi pada saat merebus air. Air yang letaknya dekat dengan apiakan mendapat panas schingga air menjadi lebih ringan. Air akan bergerak ke atas dandigantikan oleh air yang ada di atasnya. Demikian seterusnya.Perpindahan kalor secara konveksi juga mengakibatkan terjadinya angin darat danangin laut. Angin darat terjadi karena udara di darat pada malam hari lebih cepat dingindaripada udara di laut, sehingga udara yang berada di atas laut akan naik dan udara dari daratakan menggantikan posisi udara yang naik tadi. Angin laut terjadi karena pada siang haridaratan lebih cepat panas dibandingkan di laut, schingga udara di darat akan naik dan udaradari laut akan mengalir ke darat menggantikan tempat udara yang naik tadi. Keadaan inidigunakan para nelayan untuk pergi melaut pada malam hari dan kembali ke darat pada pagiatau siang hari. Sedangkan contoh peristiwa konveksi yang lain adalah penggunaan cerobongasap pada pabrik. Apakah di rumahmu dipasang jendela ventilasi? Pemanfaatan ventilasisebagai sirkulasi udara di dalam rumah juga memanfaatkan perpindahan panas secarakonveksi.1. Buatlah ringkasan dari teks tersebut 2.Buatlah kesimpulan dari teks tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jawab-dengan-caranya-unu10-sebuah-pesawat-terbang-berada-pada-ketinggian-3-000-meter-diatas-permukaan-laut-pada-saat-bersamaan-seekor-ikan-paus-berenang-pada-kedalaman-200-meter-di-bawah-permuka">3.
+                                            JAWAB DENGAN CARANYA!! UnU10.) Sebuah pesawat terbang berada pada ketinggian 3.000 meter diatas permukaan laut. Pada saat bersamaan, seekor ikan paus berenang pada kedalaman 200 meter di bawah permukaan laut. Jika pesawat tersebut turun sejauh 100 meter ke arah permukaan laut, berapa jarak pesawat dan ikan paus?11.) Paman mempunyai kardus berisi buku. Didalam kardus tersebut berisi 48 pak buku . Setiap pak berisi 20 buku. Dari buku tersebut, paman mengambil 60 buku. Sisanya, paman bagikan kepada 25 anak sama banyak. Berapa banyak buku yqng diterima tiap anak?12.)Enam sekawan juga menjual dodol buatan ibu Udin. Mereka memiliki 5 5/6 dodol. Seluruh dodol dipotong menjadi 6 potong yang sama. Berapa pembeli yang akan mendapat 5 potong dodol yang sama?13.) Sebuah taman berbentuk lingkaran. Taman tersebutmemiliki keliling 88m. Tamantersebut akan ditanamirumput. Harga rumput Rp.30.000,00/m². Hitunglahbiaya yang dibutuhkan untukmenanam rumput!14.) Mikha membuat satu martabak dengan 3 rasa, yaitu coklat, keju, dan susu.Mikha membagi martabaknya menjadi tiga sama besar dan memberikan setiap rasa di atasnya. Diameter martabak adalah 20cm. Berapa cm² luas martabak rasa keju?Itu nomer nya dijadikan no 1 sampai 5 ya , bukan 10 sampai 14 U_U​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-dong6-perhatikan-paragraph-berikut-krisptantus-adalah-tanaman-tak-terbatang-daun-daunnya-saling-bertumpuk-mirip-bintang-laut-dengan-warna-yang-sangat-beragam-mulai-dari-hijau-ungu-hingga">4.
+                                            Tolong dong
+6.	Perhatikan paragraph berikut.
+Krisptantus adalah tanaman tak terbatang. Daun-daunnya saling bertumpuk mirip bintang laut dengan warna yang sangat beragam mulai dari hijau, ungu, hingga merah. Beberapa jenis memiliki garis putih melintang yang sangat nyaman dipandang.
+	      Hal yang ulas dalam paragraph tersebut adalah….
+a.	Tanaman kriptantus tidak berbatang
+b.	Tanaman kriptantus indah dipandang
+c.	Ciri-ciri tanaman kriptantus
+d.	Habitat tanaman kriptantus
+7.	Bacalah kutipan tanggapan isi buku fiksi berikut.
+Betapa apiknya Mangunwijaya menelusuri latar keturunan tokoh atik. Ayahnya, pak Ansana, adalah pecinta alam. Maka dari itu, tidak mengeherankan apabila anaknya., Atik, kemudian menjadi ahli biologi. Atik senang buku, ia satu dengan buku. Ia membuat kariernya dengan buku. Keistimewaan lainnya  dari Mangunwijaya adalah ia mampu menampilkan penutur-penutur sesuai dengan tingkat social dan lingkungannya.
+Masalah yang soroti dalam tanggapan isi novel di atas adalah….
+a.	Latar belakang kehidupan tokoh atik
+b.	Cara Mangunwijaya bercerita dalam novel
+c.	Kelebihan pengarang (Mangunwijaya) dalam menggambarkan latar
+d.	Pemaparan keturunan tokoh Atik
+8.	Perhatikan kutipan cerpen berikut!
+Sehabis menggendong Tamara punggungku rasanya ingin copot. Bener juga kata Tamara badannya berat. Tapi, tidak apalah daripada sahabat aku Tamara gak pulang ke rumah. Nilai yang terkandung Dari kutipan cerpen tersebut adalah....
+a. nilai pendidikan
+b. nilai buadaya
+c. nilai sosial
+d. nilai agama</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagi%c2%b2-poin-siapa-cepat-dia-dapatpraturan%e2%88%9a%e2%80%a2-g-blh-pke-kalkulator-%e2%88%9a%e2%80%a2-g-blh-copas-%e2%88%9aquizz1-5-matematikapake-cara-yaa-1-75-6-3-x-0-2-50-2-5">5.
+                                            Bagi² Poin siapa cepat dia dapat{Praturan}√• G blh pke kalkulator √• G blh Copas √~{Quizz}~1-5 MatematikaPake Cara yaa-!!1.) 75 : 6 + 3 x 0 =2.) 50 : 2 + 5 x 2 + 5/6=3.) 80 : 4 x 9 +4 - 9 =4.) 90 &gt; 7 + 5 x 6/7 =5.) 9/7 + 8/5 x 1, 5/6 =6-10 Ilmu Pengetahuan Sosial6.) Kepulauan Indonesia tersebar dari..... Sampai.....7.) Laut Wakatobi terletak di Provinsi? 8.) Pulau yang berpenduduk paling padat di Indonesia adalah? 9.) Sebutkan ciri ciri iklim tropis! 10.) Sebutkan Taman Nasional yg ada di Pulau Sumatra! 11 - 15 Ilmu Pengetahuan Alam11.) Tulang disebut alat gerak? 12.) Otot jantung terletak di? 13.) Tibia termasuk tulang penyusun anggota gerak bagian? 14.) Sebutkan Fungsi otot pada manusia! 15.) Tulang dalam tubuh manusia dibagi menjadi 2 yaitu? 16 - 20  Seni Budaya16.) Cover harus dibuat secara... a. Acakb. Menarikc. Sembarangand. Monoton17.) Sampul depan pada buku atau majalah berupa gambar ilustrasi yang bisa mewakili isi buku disebut... a. Coverb. Daftar Isic. Halamand. Profil Penulis18.) Pada sisi belakang Cover terdapat...a. Judul Bukub. Sinopsisc. Isi Bacaand. Identitas Buku19.) Membuat gambar Cover harus sesuai dengan... a. Halaman Bukub. Isi Bukuc. Ukuran Bukud. Penulis Buku 20.) Judul buku biasanya diletakkan di... a. Coverb. Halaman Tengahc. Ukuran Bukud. Penulis BukuNGASAL?  REPPORT ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-ya1-suku-bangsa-indonesia-yg-terkenal-sebagai-pelaut-pemberani-adalah-2-tokoh-yg-berhasil-menghapuskan-sistem-tanam-paksa-dgn-karang-bukunya-max-havelaar-adalah-3-gubernur-jenderal">6.
+                                            Tolong ya
+1.Suku bangsa indonesia yg terkenal sebagai pelaut pemberani adalah ...
+2.Tokoh yg berhasil menghapuskan Sistem tanam paksa dgn karang bukunya "Max Havelaar" adalah ...
+3. Gubernur jenderal Belanda yang kejam yg menggerakan pembuatan jalan anyer - Panarukan adalah ...
+4. Setelah Perjanjian Renville Belanda melakukan tindakan untuk memecah belah indonesia dgn cara ...
+Tolong ya....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#5-pd-laut-mas-menunjukan-saldo-rekening-kas-bank-menurut-catatan-perusahaan-pada-tanggal-31-desember-2020-adalah-rp-4-125-500-d-berdasarkan-laporan-rekening-koran-bank-bca-saldo-kas-kita-berjumla">7.
+                                            5. PD. Laut Mas menunjukan saldo rekening kas bank menurut catatan perusahaan pada tanggal 31 Desember 2020 adalah Rp 4.125.500 (D). Berdasarkan laporan rekening koran bank BCA saldo kas kita berjumlah Rp 4.118.000 (K). Perbedaan ini disebabkan karena :
+1) Bank telah menerima piutang wesel dari debitur perusahaan sebesar Rp 420.000, sedangkan perusahaan kita belum mencatatnya.
+2) Bank membebani biaya administrasi sebesar Rp 12.500 dan memberikan perusahaan pendapatan jasa giro/bunga Rp 25.000
+3) Perusahaan telah melakukan kesalahan pencatatan pembayaran utang kepada PT. Mahkota Rp 220.000 tercatat menjadi Rp 200.000
+4) Cek yang masih dalam beredar (Out standing Check) nomor 23357 untuk PT. Andalan dan 23355 untuk PT. Berkah masing-masing bernilai Rp 150.000 dan Rp 230.000
+5) Bank telah menolak bilyet giro dari debitur perusahaan sebesar Rp 350.000 karena tidak mempunyai saldo
+6) Perusahaan telah mengirimkan uang kepada bank pada tanggal 31 Desember 2021 Rp 350.000, belum tampak dalam laporan bank.
+7) Bank membukukan pembayaran utang PD. Laut Perak Rp 100.000 kepada rekening PD. Laut Mas
+Diminta :
+a. Buatlah laporan rekonsiliasi bank pada tanggal 31 Desember 2021 dengan cara mengkoreksi jumlah bank dan jumlah perusahaan.
+b. Buatlah jurnal penyesuaian yang diperlukan 
+Yanh jawab semoga kita dapat pahala dan dan kita semoga bisa masuk ke surga. Amin </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bacalah-teks-langkah-%e2%80%93-langkah-membaca-dengan-teknik-sq3r-berikut1-membuat-pertanyaan2-menceritakan-isi-buku3-membaca-isi-buku4-mensurvei-isi5-meninjau-kembaliurutan-langkah-langkah-m">8.
+                                            Bacalah  teks  langkah – langkah membaca dengan teknik SQ3R berikut!1. Membuat pertanyaan2. Menceritakan isi buku3. Membaca isi buku4. Mensurvei  isi5. Meninjau kembaliUrutan langkah-langkah membaca dengan menggunakan SQ3R yang tepat adalah…A. 4-2-1-3-5			C. 5-2-1-4-3B. 4-1-3-2-5			D. 5-4-3-2-133. Bacalah kalimat acak berikut!1. Kelelawar tidur dengan cara bergantung terbalik di dahan pohon.2. Pohon yang dipilih untuk bergelantungan adalah pohon besar dan rindang.3. Kelelawar mencari makan dimalam hari.4. Oleh karena itu, pada siang hari mereka akan tidur.Urutan kalimat-kalimat tersebut agar menjadi paragraf padu adalah…A. 3-4-2-1			C. 4-3-2-1B. 1-2-3-4			D. 3-4-1-234. Bacalah paragraf berikut!(1) Masjid istiqlal berada di taman wijaya kusuma, Jakarta. (2) Masjid ini bisa menampung lebih dari 200 ribu umat (3) Kubah Masjid ini terlihat unik. (4) Bentuknya telur bulat, seperti kubah Masjid Raya Selangor di Malaysia.Penggunaan ejaan yang salah pada paragraf tersebut ditunjukan oleh kalimat…..A. 1				C. 3B. 2				D. 435. Bacalah teks di bawah ini!Novel yang berjudul Sang Pemimpin karya Andrea Hirata di sajikan dengan bahasa yang cantik, mampu  menyihir pembaca sehingga pembaca ikut merasakan kebahagian, semangat, keputusasaan, dan kesedihan.Persamaan kata yang bercetak tebal dan digarisbawahi adalahA. Jelek			C. TakjubB. Indah			D. Rupawan36. Bacalah teks berikut!Buku ini menceritakan berbagai macam hewan dan tumbuhan yang hidup di pantai. (....) pembaca tidak merasa kesulitan memahami isi buku. Selain itu, buku ini juga dilengkapi dengan gambar-gambar sehingga pembaca tertarik untuk membaca buku karya Tantowi ini.Kalimat berisi keunggulan yang paling tepat untuk melengkapi bagian rumpang tersebut adalah…A. Buku ini ditulis oleh penulis terkenalB. Buku ini sangat diperlukan oleh masyarakatC. Buku ini ditulis dengan bahasa yang lugasD. Buku ini sangat tepat dipelajari oleh pelajar37. Bacalah kutipan buku nonfiksi berikut!.Kriptantus adalah tanaman tak berbatang. Daun-daunnya saling bertumpuk mirip bintang laut dengan warna yang beragam. mulai dari hijau, ungu, hingga merah. Beberapa jenis memiliki garis putih melintang yang sangat nyaman dipandang.Hal yang diulas pada teks di atas adalah…A. Habitat tanaman KriptantusB. Ciri-ciri tanaman KriptantusC. Tanaman kriptantus indah dipandang D. Tanaman kriptantus tidak memiliki batang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jangan-menangkap-ikan-dengan-harimau-a-jaring-b-pukat-c-perangkap-d-jala-hasil-pertanggung-jawaban-setelah-pengamatan-adala">9.
+                                            --------------------------------
+Jangan menangkap ikan dengan...harimau.
+a. jaring.
+b. pukat.
+c. perangkap.
+d. jala.
+--------------------------------
+Hasil pertanggung jawaban setelah pengamatan adalah...
+a. surat.
+b. naskah.
+c. laporan.
+d. memo.
+--------------------------------
+Bahasa yang digunakan untuk membuat laporan adalah...
+a. panjang dan jelas.
+b. singkat saja.
+c. singkat dan jelas.
+d. luas dan jelas.
+--------------------------------
+Menara ditepi pantai yang berfungsi untuk membantu dan memandu kapal berlabuh disebut...
+a. pelabuhan.
+b. puri.
+c. mercusuar.
+d. bukit.
+--------------------------------
+Masalah yang berdasarkan kenyataan atau mengandung sebuah kebenaran disebut...
+a. sulit.
+b. aktual.
+c. aneh.
+d. faktual.
+--------------------------------
+Hasil laut merupakan sumber...bagi negara.
+a. devisa.
+b. devisiasi.
+c. defisa
+d. depisa
+--------------------------------
+Wisata laut disebut juga dengan wisata...
+a. agraris.
+b. lautan.
+c. air.
+d. bahari.
+--------------------------------
+KESENIAAN DAERAH SANGAT BERMANFAAT DALAM MENUNJUKKAN KEPRIBADIAN DAERAH MASING-MASING. AKAN TETAPI, DENGAN ADANYA ERA GLOBALISASI, KESENIAN DAERAH SEAKAN SEMAKIN DITINGGALKAN. Tuliskan saranmu berdasarkan isi paragraf tersebut!
+--------------------------------
+Tokoh yang kehadirannya mendampingi tokoh utama disebut...
+--------------------------------
+Cara pengarang menggambarkan karakter tokoh dalam cerita disebut...
+--------------------------------
+Tokoh yang memerankan karakter jahat disebut...
+--------------------------------
+Ekspresi, lakuan, dan dialog pada drama ditulis pada...
+--------------------------------
+Tokoh yang kehadirannya mendampingi tokoh utama disebut...
+--------------------------------
+Naskah drama dapat disebut apabila sudah ...
+--------------------------------
+Urutan cerita dalam drama disebut...
+--------------------------------
+posisi pengarang dalam membawakan cerita disebut...
+--------------------------------
+Apa yang dimaksud dengan cerpen ?
+--------------------------------
+Sebutkan langkah-langkah dalam mementaskan drama !
+--------------------------------
+Sebutkan ciri-ciri ringkasan yang baik !
+--------------------------------
+Apa tujuan membaca sekilas ?
+--------------------------------
+Sebutkan hal-hal yang dapat memengaruhi kegiatan membaca sekilas seseorang !
+--------------------------------
+Ulasan atau tanggapan terhadap suatu persoalan disebut...
+--------------------------------
+Alat yang digunakan para nelayan untuk menangkap ikan disebut...
+--------------------------------
+Wilayah (air) indonesia lebih luas dari wilayah daratan.
+Kata dalam kurung seharusnya ditulis...
+--------------------------------
+Daratan dipinggir laut disebut...
+--------------------------------
+Marcel menggunakan tabung O² pada waktu (selam)
+Kata dalam kurung seharusnya...
+--------------------------------
+Hewan laut yang bisa digunakan untuk pertunjukkan sirkus adalah...
+--------------------------------
+Para nelayan mencari ikan pada...hari
+--------------------------------
+Depaetemen yang mengurusi masalah kelautan kita adalah...
+--------------------------------
+Ombak berdebur ditepi...
+--------------------------------
+Bagaimana cara mengungkapkan komentar dari suatu peristiwa ?
+--------------------------------
+Bacaan atau buku apasaja yang dibaca memakai teknik membaca memindai ?
+--------------------------------
+Sebutkan tahapan-tahapan yang harus diperhatikan dalam membuat laporan pengamatan !
+--------------------------------
+Jelaskan syarat-syarat laporan hasil pwngamatan !
+--------------------------------
+Apa yang dimaksud dengan negara maritim ?
+--------------------------------</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-saya-sungguh-gembira-hari-ini-karena-dapat-merayakan-tahun-baru-bersama-keluarga-dan-teman-teman-kata-paman-biasanya-pada-tahun-tahun-yang-lalu-saya-merayakan-tahun-baru-di-atas-kapal-semua-pen">10.
+                                            1.	Saya sungguh gembira hari ini, karena dapat merayakan tahun baru bersama keluarga dan teman-teman, kata paman. Biasanya pada tahun-tahun yang lalu saya merayakan tahun baru di atas kapal. Semua penumpang berkumpul di ruang besar, mereka saling bercanda ria.    Ide pokok paragraf di atas adalah ...a.	Paman gembira merayakan tahun baru bersama.b.	Paman menyesal tidak merayakan tahun baru di rumah.c.	Merayakan tahun baru di atas kapal.d.	Semua penumpang bercanda ria.2.	Suatu ketika, Afdhal bersama adiknya ke perpustakaan. Ia menemukan buku pengetahuan tentang cara membuat alat perajang singkong. Ia pun membaca buku itu dengan teliti. Kemudian ia mencatat tentang inti cara membuat alat perajang. Sejak itulah, Afdhal dan adiknya berniat membuat alat perajang singkong.Ide pokok paragraf di atas  adalah ...a.	Menemukan buku pengetahuan tentang membuat alat perajang singkong.b.	Afdhal anak yang rajin membaca buku.c.	Membuat alat perajang singkong dengan cara sederhana.d.	Afdhal menceritakan hasil penemuan kepada Ayahnya.3.	Salah satu energi alternatif yang dikembangkan adalah energi biogas dari kotoran ternak sapi atau kerbau. Keuntungannya bahkan mudah didapat, ramah lingkungan, aman, ekonomis, dan dapat mengurangi ketergantungan terhadap bahan bakar minyak.Ide pokok paragraf di atas adalah ...a.	Ketergantungan terhadap BBM banyak mendatangkan masalah.b.	Keuntungan energi alternatif dapat mengurangi ketergantungan BBM.c.	Salah satu energi alternatif yang dikembangkan adalah energi biogas.d.	Bahan baku energi biogas berupa kotoran ternak sapi dan kerbau.4.	Air laut pasang terjadi di beberapa wilayah di Indonesia, salah satunya kawasan Jakarta Utara. Naiknya air laut di kawasan tersebut sudah berlangsung selama sepekan. Tingginya kenaikan permukaan air dikhawatirkan akan membuat kawasan tersebut tergenang.Ide pokok paragraf tersebut adalah.. a.	Air laut pasang terjadi di kawasan Jakarta Utara.b.	Naiknya air laut sudah berlangsung selama sepekan.c.	Pasangnya air laut dikhawatirkan membuat Jakarta Utara tergenang.d.	Pasangnya air laut di beberapa wilayah di Indonesia sangat mengkhawatirkan.5.	Tak hanya habitatnya yang dirusak, elang jawa juga kerap ditangkap dan diperjual belikan sebagai satwa peliharaan. Padahal, elang jawa merupakan burung yang dilindungi Undang-Undang Republik Indonesia Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya, serta diperkuat lewat Kepres No. 4/1993 tentang Satwa dan Bunga Nasional. Elang jawa juga termasuk salah satu dari 14 satwa prioritas untuk diselamatkan berdasarkan SK Dirjen PHKA No. 132/2011. Jika perdagangan dan alih fungsi hutan tidak dihentikan, bukan tidak mungkin suatu saat nanti elang jawa hanya dapat dilihat dalam bentuk foto atau hanya dikenang sebagai burung yang identik dengan simbol negara, yaitu garuda.Ide pokok paragraf kedua pada teks tersebut adalah . . .a.	Perlindungan elang jawa diatur dalam Undang-Undang tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.b.	Penyebab kepunahan elang jawa adalah alih fungsi hutan menjadi permukiman dan lahan pertanian.c.	Keberadaan elang jawa dapat dilestarikan dengan menghentikan perdagangan dan alih fungsi hutan.d.	Elang jawa identik dengan simbol negara, yaitu garuda.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ulan11-cermati-ilustrasi-berikutjudul-novellelaki-tua-dan-laut-the-old-man-and-the-seapengarang-penerjemah-emest-hemingway-sapardi-djoko-damonopenerbit-pt-dunia-pustakadi-sisi-lain-untaian-kata">11.
+                                            ULAN11. Cermati ilustrasi berikut!Judul novelLelaki Tua dan Laut The Old Man and The SeaPengarang Penerjemah : Emest Hemingway Sapardi Djoko DamonoPenerbit: PT Dunia PustakaDi sisi lain, untaian kata-kata Hemingway mengalir, mengayun membuai, menghempas membuatpengalaman tersendiri pada pembaca persis seperti gerakan ombak laut. Dengan kemampuannya,pembaca tanpa dipaksa seolah-olah sedang berhadapan dengan teror hiu yang ingin menguasaitangkapan ikanKalimat resensi yang tepat untuk menyatakan keunggulan novel tersebuat adalah....A Sedikit sekali penulis yang berani mengangkat ide cerita dari kaum pinggiran seperti nelayanNamun Hemingway berani mengangkatnya menjadi sebuah cerita yang penuh keteganganditinjau dari kekuatan bahasanya.B. Penulis agak lambat menciptakan ketegangan-ketegangan dalam cerita. Pembaca mungkinkurang bergairah karena setting yang disuguhkan terlalu monoton, yaitu laut dan laut.C. Hemingway dan ketangkasannya berbahasa tak perlu diragukan lagi. Hanya saja, khususpada novel ini tema yang diambil kurang menarik.D. Bahasa dan cara penuturan Hemingway pada novel ini sangat melompat-lompat persis alunanombak laut yang mengguncang-guncang perahu.E. Meskipun buku ini banyak dibaca orang, terlihat banyak kekurangan tentang kebiasaan dilaut yang mungkin Hemingway sendiri dapat merasakannya.12. Cermatilah paragraf berikut!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-heogb-caping-ngancakd-payung34-di-bawah-ini-yang-termasuk-unsur-dari-lagu-adalaha-llusonerb-penyairc-melodi35-tujuan-penggunaan-properti-dalam-tari-adalah-a-membuat-tarian-menjadi-kakuc">12.
+                                            a. Heogb. Caping ngancakd. Payung34. Di bawah ini yang termasuk unsur dari lagu adalaha. llusonerb. Penyairc. Melodi35. Tujuan penggunaan properti dalam tari adalah....a. Membuat tarian menjadi kakuc. Memudahkan dalam menghafal gerakanb. Menambah nilai estet ka tarian yang ditampilkan d. Mempermudah gerakan tarianIlisilah titik-titik dibawah ini I1. Yokoh yang mengetik teks proklamasi adalah ...2. Cara pandang bangsa Indonesia, mengenai diri dan lingkungannya dengan mengutamakanpersatuan dan kesatuan bangsa serta wilayah dalam menyelenggarakan kehidupan berbangsadan bernegara disebutIKI3. Berdasarkan proses terjadinya ekoskstem dibedakan menjadi dua vastu ekosistem alami danbuatan. Ekosistem alami merupakan suatu ekosishem yang terbentuk dengan sendirinya | alami)Ekoustem buatan merupakan suatu ekosistem yang diciptakan manusia untuk memenuhikebutuhan manusia Informasi penting yang terdapat pada teks diatas adalahBuku kecil yang berfungsi sebagal selebaran disebut...5. Makhluk hidup yang berperan sebagai produsen dalam rantai makanan adalah6. Contoh hewan yang mengalami metamorfosis dalam daur hidupnya adalah7. Mengolah Ikan dari laut untuk diolah lagi, membuat kerajinan dari berang dan membuat garammerupakan contoh aktivitas masvärakat yang tinggal di daerah.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pesona-pantai-senggigi-pantai-senggigi-merupakan-salah-satu-wisata-andalan-di-nusa-tenggara-barat-pantai-senggigi-sangat-indah-pantai-senggigi-terletak-di-kecamatan-batu-layar-kabupaten-lombok-bara">13.
+                                            Pesona Pantai Senggigi Pantai Senggigi merupakan salah satu wisata andalan di Nusa Tenggara Barat. Pantai Senggigi sangat indah. Pantai Senggigi terletak di Kecamatan Batu Layar, Kabupaten Lombok Barat, Provinsi Nusa Tenggara Barat. Pantai Senggigi merupakan pantai dengan garis pantai terpanjang. Pemandangan bawah laut Senggigi juga menakjubkan. Pura Bolong menjadi pelengkap wisata di Pantai Senggigi. Memasuki bibir Pantai Senggigi kita akan disambut angin pantai yang lembut dan udara yang segar. Angin lembut terasa mengelus kulit. Garis pantai Senggigi yang panjang dengan gradasi warna pasir putih dan hitam membuat keindahan pantai ini semakin menarik. Ombak yang tenang di pantai ini membuat rasa tenteram semakin lengkap. Dari kejauhan tampak hamparan permadani biru toska berpadu dengan hiasan buih-buih putih bersih. Sungguh elok pemandangan pantai ini. Bukit-bukit tangguh nampak menjadi latar bagian pantai. Pantai Senggigi dengan pesonanya benar-benar seperti lukisan di kanvas alam yang luas terbentang Pemandangan bawah laut Senggigi juga tidak kalah memesona. Terumbu karang yang masih terawat menyuguhkan pemandangan alam bawah laut yang memukau. Terumbu karang nampak berwarna-warni sangat indah. Ikan beraneka warna menambah keindahan bawah laut Senggigi. Dengan snorkeling maupun menyelam anda dapat menyaksikan pemandangan bawah laut yang mengagumkan. Anda akan menyaksikan betapa mempesonanya taman bawah lautnya. Air laut yang jernih serta banyak terumbu karang terawat dengan ikan-ikan beraneka ragam menambah keindahan taman laut di Senggigi. Selain pemandangan bawah laut, terdapat juga pemandangan indah di Pura Batu Bolong. Pada arah selatan bibir pantai Senggigi, terdapat pura kecil yang bernama Batu Bolong.Sesuai dengan namanya, pura ini berdiri kokoh di atas batu karang yang memiliki lubang di tengahnya. Sungguh sebuah keagungan pura di tengah keindahan Senggigi. Berkunjung ke pura ini, Anda langsung disambut buih-buih ombak yang tenang dan bersahabat. Seketika kedamaian dan kenyamanan seperti merangkul saat berada di area sekitar Pura Batu Bolong. Memasuki pura yang berhadapan langsung dengan Selat Lombok dan Gunung Agung Bali ini, Anda harus berjalan menuruni anak tangga. Pura pertama yang dijumpai berdiri di bawah pohon rindang. Sementara, pura kedua berdiri kokoh di atas karang yang menjulang setinggi sekitar 4 meter dan memiliki lubang di bawahnya. Jika berkunjung saat cuaca sedang cerah, Anda dapat melihat pemandangan Gunung Agung Bali yang menjulang tinggi. Pada waktu-waktu tertentu, Anda juga bisa melihat para pemancing tradisional sedang mencari ikan dengan cara menceburkan diri ke dalam laut. Selain itu, melewati senja sambil memandang matahari terbenam di pura ini juga menjadi saat-saat paling menyenangkan. Keindahan semburat merah sang mentari menjadi pemandangan yang sangat menakjubkan. Wisata pantai Senggigi menawarkan sejuta keindahan dan kenyamanan. Sungguh pemandangan yang menakjubkan. (Dapat dibuka dan dibaca di buku Bahasa Indonesia pada halaman 12 – 14) latihan1. Apa yang dibicarakan penulis pada teks 1?2. Keindahan bagian mana saja	dari pantai Senggigi yang dipaparkan penulis?3. Apa tujuan penulis menampilkan teks di atas?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dengan-cara-perkembangbiakannya-pada-tabelarawrane1ovipar3-perkembangbiakan-hewan-dengan-carabertelur-dan-melahirkan-ovovivipardan-melahirkan-disebut-juga-dengan-ovorperkembangbiakan-hewan">14.
+                                            dengan cara perkembangbiakannya pada tabe
+Lara
+w
+RA
+Ne
+1
+Ovipar
+3 Perkembangbiakan hewan dengan cara
+bertelur dan melahirkan (ovovivipar
+dan melahirkan disebut juga dengan ovor
+Perkembangbiakan hewan dengan cara bertelor
+Hewan hewan yang bertelur dan melahirkan
+memiliki cin-ci husus. Contoh hewan-hewa
+yang berkembang biak dengan cara bertelur dan
+melahirkan antara lainkan hukud laut dan
+platipus
+Parpus berkembang biak dengan
+cara bertelor kemudian melahirkan
+2
+Vivipar
+Ayo Berlatih
+Les des
+LAR
+Perhatikan nama-nama hewan berikut! Kelompokkan hewan-hewan tersebut sesuai
+Udang
+3
+Ovovivipar
+Belut
+Cumi-cumi
+Kura-kura
+Tokek
+13
+Bekantan
+2
+Ayam
+| 0 04
+Kuterampilan Kinerja Praktik
+Bunglon
+18
+Kelinci
+Iguana
+Kuda
+36
+4
+Kodok
+Paus
+25
+15
+Burung beo
+Ikan patin
+Ikan hiu
+Mengamati Cara Perkembangbiakan Hewan
+Siapkan Buku catatan dan alat tulis
+Langkah kegiatan:
+1. Buatlah kelompok bersama lima temanmu
+2. Pergilah keluar kelas untuk melakukan pengamatanlangan upa
+membawa buku catatan dan alat tulis
+3. Gurumu akan membagi daerah pengamatan untuk setiap kelompok. Masaya kelompok
+kolam sekolah, kelompok 2 di taman sekolah, dan kelompok 3 di lapangan sekolah
+4. Setiap kelompok mencatat hewan yang ditemui di sekitar daerah penamatan Setelah di
+cara hewan tersebut berkembang biak kamu kesulitan kamu dapat menica
+informasi tambahan di buku referensi di perpustakaan. Okkusikan bersama kelompok
+S Ceritakan hasil diskusi di depan kelompok lain
+Trenggiling
+Panda
+10
+Kanguru
+Anoa
+32
+Belalang
+Kadal
+18
+Ular boa
+Kuda laut
+Salamander
+Tapir
+19
+Singa laut
+Penilaian Kinerja Praktik Mengamati Cara Perkembangbiakan Hewan
+NA
+Dugong
+Buaya
+20
+10
+Gajah
+28</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kutipan-buku-berikut-untuk-soal-nomor-3-5aceh-memiliki-keindahan-alam-yang-memukauseperti-pulau-weh-pulau-simeulue-danau-lauttawar-takengon-dan-gunung-leuser-keindahanalam-tersebut-menjadi-objek-w">15.
+                                            Kutipan buku berikut untuk soal nomor 3-5Aceh memiliki keindahan alam yang memukauseperti Pulau Weh, Pulau Simeulue, Danau LautTawar Takengon, dan Gunung Leuser. Keindahanalam tersebut menjadi objek wisata alam di AcehPulau Weh memiliki tujuan wisata pantai yangdapat dinikmati untuk berenang, menyelamataupun snorkeling. Keunikan Pulau Simeulueterdapat pada tradisinya tentang peringatantsunami. Penduduk akan berteriak 'semongdan lari ke bukit ketika air laut menyurut secaradrastis. Untuk wisata air juga dapat dinikmatidi Danau Laut Tawar di Takengon. Tidak kalahindah, Gunung Leuser merupakan TamanNasional dapat menjadi alternatif bagi pecintawisata alam gunung.Dikutip dari: Navita Kristi, dkk., Fakta Menakjubkan TentangIndonesia: Wisata Sejarah, Budaya, dan Alam di33 Provinsi, Jakarta, Cikal Aksara, 20123. Bagaimana cara menikmati wisata pantai diPulau Weh?4. Buatlah dua pertanyaan berdasarkan paragraftersebut!5. Tuliskan jawaban atas pertanyaanmu!​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="1-sebutkan-tahapan-tahapan-dalam-meringkas-buku2-apa-yang-dimaksud-dengan-penokohan3-sebut-dan-jelaskan-cara-untuk-mengetahui-karakter-dalam-cerpen4-apa-komentar-kalian-tentang-kerus">
+                            1. 1. Sebutkan tahapan-tahapan dalam meringkas buku!2. Apa yang dimaksud dengan penokohan?3. Sebut dan jelaskan cara untuk mengetahui karakter            dalam cerpen!4. Apa komentar kalian tentang kerusakan ekosistem laut sekarang ini?5. Menurut kalian apa penyebab rusaknya ekosistem laut di pesisir Jakarta?6. Sebut dan jelaskan salah satu teknik membaca!7. Apa saja yang harus diperhatikan dalam membuat sebuah puisi?8. Mengapa sebuah pendapat harus disampaikan dengan bahasa yang santun?9. Apa manfaat membuat ringkasan?10. Sebutkan syarat-syarat ringkasan yang baik!</h2><br />
+                        2. penokohan adalah watak tokoh yg bersifat protagonis yg disukai atau tokoh antagonis yg tdk disukai<br />10. a). Membaca informasi umum buku<br />     b). Mengetahui isi buku melalui daftar isi<br />     c). Setiap subbab dijabarkan kedlm paragraf<br />      d). Menyusun pokok pikiran <br />      e). Merangkum dgn teknik gagasan utama<br />Maaf y bisa nya cman 2 nomor <br />
+                                            <h2 class="ez-toc-section" id="bacalah-bacaan-berikut-ini-dengan-saksamaperpindahan-panas-atau-kalorsecara-konveksiperpindahan-kalor-secara-konveksi-ialah-perpindahan-kalor-yang-disertai-denganperpindahan-zat-perantaranya-umumnya">
+                            2. Bacalah bacaan berikut ini dengan saksama!Perpindahan Panas atau Kalorsecara KonveksiPerpindahan kalor secara konveksi ialah perpindahan kalor yang disertai denganperpindahan zat perantaranya. Umumnya peristiwa perpindahan kalor secara konveksi terjadipada zat cair dan gas. Zat yang menerima kalor akan memuai dan menjadi lebih ringansehingga akan bergerak ke atas. Saat zat yang lebih ringan terschut pindah ke atas, molekulzat yang ada di atasnya akan menggantikannya.Perpindahan secara konveksi dapat diumpamakan dengan kegiatan memindahkansetumpuk buku dari satu tempat ke tempat lain. Ketika kamu memindahkan buku tersebut ketempat lain, tentu kamu akan ikut bersama dengan buku-buku tersebut. Jika buku-buku itudiumpamakan sebagai energi panas dan kamu adalah medianya, maka perpindahan kalordengan cara konveksi akan menyertakan perantaranya.Peristiwa konveksi terjadi pada saat merebus air. Air yang letaknya dekat dengan apiakan mendapat panas schingga air menjadi lebih ringan. Air akan bergerak ke atas dandigantikan oleh air yang ada di atasnya. Demikian seterusnya.Perpindahan kalor secara konveksi juga mengakibatkan terjadinya angin darat danangin laut. Angin darat terjadi karena udara di darat pada malam hari lebih cepat dingindaripada udara di laut, sehingga udara yang berada di atas laut akan naik dan udara dari daratakan menggantikan posisi udara yang naik tadi. Angin laut terjadi karena pada siang haridaratan lebih cepat panas dibandingkan di laut, schingga udara di darat akan naik dan udaradari laut akan mengalir ke darat menggantikan tempat udara yang naik tadi. Keadaan inidigunakan para nelayan untuk pergi melaut pada malam hari dan kembali ke darat pada pagiatau siang hari. Sedangkan contoh peristiwa konveksi yang lain adalah penggunaan cerobongasap pada pabrik. Apakah di rumahmu dipasang jendela ventilasi? Pemanfaatan ventilasisebagai sirkulasi udara di dalam rumah juga memanfaatkan perpindahan panas secarakonveksi.1. Buatlah ringkasan dari teks tersebut 2.Buatlah kesimpulan dari teks tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ringkasan bacaan:perpindahan panas secara konveksi ialah perpindahan kalor yang disertai perantaranya</p><br />
+                                            <h2 class="ez-toc-section" id="jawab-dengan-caranya-unu10-sebuah-pesawat-terbang-berada-pada-ketinggian-3-000-meter-diatas-permukaan-laut-pada-saat-bersamaan-seekor-ikan-paus-berenang-pada-kedalaman-200-meter-di-bawah-permuka">
+                            3. JAWAB DENGAN CARANYA!! UnU10.) Sebuah pesawat terbang berada pada ketinggian 3.000 meter diatas permukaan laut. Pada saat bersamaan, seekor ikan paus berenang pada kedalaman 200 meter di bawah permukaan laut. Jika pesawat tersebut turun sejauh 100 meter ke arah permukaan laut, berapa jarak pesawat dan ikan paus?11.) Paman mempunyai kardus berisi buku. Didalam kardus tersebut berisi 48 pak buku . Setiap pak berisi 20 buku. Dari buku tersebut, paman mengambil 60 buku. Sisanya, paman bagikan kepada 25 anak sama banyak. Berapa banyak buku yqng diterima tiap anak?12.)Enam sekawan juga menjual dodol buatan ibu Udin. Mereka memiliki 5 5/6 dodol. Seluruh dodol dipotong menjadi 6 potong yang sama. Berapa pembeli yang akan mendapat 5 potong dodol yang sama?13.) Sebuah taman berbentuk lingkaran. Taman tersebutmemiliki keliling 88m. Tamantersebut akan ditanamirumput. Harga rumput Rp.30.000,00/m². Hitunglahbiaya yang dibutuhkan untukmenanam rumput!14.) Mikha membuat satu martabak dengan 3 rasa, yaitu coklat, keju, dan susu.Mikha membagi martabaknya menjadi tiga sama besar dan memberikan setiap rasa di atasnya. Diameter martabak adalah 20cm. Berapa cm² luas martabak rasa keju?Itu nomer nya dijadikan no 1 sampai 5 ya , bukan 10 sampai 14 U_U​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ni dpi gw 1 minggu mg per hari raya idul Fitri dan idul Fitri dan idul Fitri dan idul Fitri dan idul Fitri di sini sampai ke tempat kau berada di</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-dong6-perhatikan-paragraph-berikut-krisptantus-adalah-tanaman-tak-terbatang-daun-daunnya-saling-bertumpuk-mirip-bintang-laut-dengan-warna-yang-sangat-beragam-mulai-dari-hijau-ungu-hingga">
+                            4. Tolong dong
+6.	Perhatikan paragraph berikut.
+Krisptantus adalah tanaman tak terbatang. Daun-daunnya saling bertumpuk mirip bintang laut dengan warna yang sangat beragam mulai dari hijau, ungu, hingga merah. Beberapa jenis memiliki garis putih melintang yang sangat nyaman dipandang.
+	      Hal yang ulas dalam paragraph tersebut adalah….
+a.	Tanaman kriptantus tidak berbatang
+b.	Tanaman kriptantus indah dipandang
+c.	Ciri-ciri tanaman kriptantus
+d.	Habitat tanaman kriptantus
+7.	Bacalah kutipan tanggapan isi buku fiksi berikut.
+Betapa apiknya Mangunwijaya menelusuri latar keturunan tokoh atik. Ayahnya, pak Ansana, adalah pecinta alam. Maka dari itu, tidak mengeherankan apabila anaknya., Atik, kemudian menjadi ahli biologi. Atik senang buku, ia satu dengan buku. Ia membuat kariernya dengan buku. Keistimewaan lainnya  dari Mangunwijaya adalah ia mampu menampilkan penutur-penutur sesuai dengan tingkat social dan lingkungannya.
+Masalah yang soroti dalam tanggapan isi novel di atas adalah….
+a.	Latar belakang kehidupan tokoh atik
+b.	Cara Mangunwijaya bercerita dalam novel
+c.	Kelebihan pengarang (Mangunwijaya) dalam menggambarkan latar
+d.	Pemaparan keturunan tokoh Atik
+8.	Perhatikan kutipan cerpen berikut!
+Sehabis menggendong Tamara punggungku rasanya ingin copot. Bener juga kata Tamara badannya berat. Tapi, tidak apalah daripada sahabat aku Tamara gak pulang ke rumah. Nilai yang terkandung Dari kutipan cerpen tersebut adalah....
+a. nilai pendidikan
+b. nilai buadaya
+c. nilai sosial
+d. nilai agama</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>6) C. ciri-ciri tanaman kriptantus</p><p>7) C. kelebihan pengarang (Mangunwijaya) dalam   menggambarkan latar</p><p>8) C. nilai sosial</p><p><strong>Penjelasan:</strong></p><p>semoga membantu :)</p><p>maaf kalau ada yang salah</p><br />
+                                            <h2 class="ez-toc-section" id="bagi%c2%b2-poin-siapa-cepat-dia-dapatpraturan%e2%88%9a%e2%80%a2-g-blh-pke-kalkulator-%e2%88%9a%e2%80%a2-g-blh-copas-%e2%88%9aquizz1-5-matematikapake-cara-yaa-1-75-6-3-x-0-2-50-2-5">
+                            5. Bagi² Poin siapa cepat dia dapat{Praturan}√• G blh pke kalkulator √• G blh Copas √~{Quizz}~1-5 MatematikaPake Cara yaa-!!1.) 75 : 6 + 3 x 0 =2.) 50 : 2 + 5 x 2 + 5/6=3.) 80 : 4 x 9 +4 - 9 =4.) 90 &gt; 7 + 5 x 6/7 =5.) 9/7 + 8/5 x 1, 5/6 =6-10 Ilmu Pengetahuan Sosial6.) Kepulauan Indonesia tersebar dari..... Sampai.....7.) Laut Wakatobi terletak di Provinsi? 8.) Pulau yang berpenduduk paling padat di Indonesia adalah? 9.) Sebutkan ciri ciri iklim tropis! 10.) Sebutkan Taman Nasional yg ada di Pulau Sumatra! 11 - 15 Ilmu Pengetahuan Alam11.) Tulang disebut alat gerak? 12.) Otot jantung terletak di? 13.) Tibia termasuk tulang penyusun anggota gerak bagian? 14.) Sebutkan Fungsi otot pada manusia! 15.) Tulang dalam tubuh manusia dibagi menjadi 2 yaitu? 16 - 20  Seni Budaya16.) Cover harus dibuat secara... a. Acakb. Menarikc. Sembarangand. Monoton17.) Sampul depan pada buku atau majalah berupa gambar ilustrasi yang bisa mewakili isi buku disebut... a. Coverb. Daftar Isic. Halamand. Profil Penulis18.) Pada sisi belakang Cover terdapat...a. Judul Bukub. Sinopsisc. Isi Bacaand. Identitas Buku19.) Membuat gambar Cover harus sesuai dengan... a. Halaman Bukub. Isi Bukuc. Ukuran Bukud. Penulis Buku 20.) Judul buku biasanya diletakkan di... a. Coverb. Halaman Tengahc. Ukuran Bukud. Penulis BukuNGASAL?  REPPORT ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>6.INDONESIA merupakan negara kepulauan terbesar di dunia. Menurut UU No. 6/1990 tentang Perairan Indonesia, ada sekitar 17.504 pulau yang tersebar, membentang dari Sabang hingga ke ujung Merauke. Dari jumlah pulau yang ada tersebut jika semua ditotal, maka luas daratan INDONESIA adalah 1,95 juta km2.</p><p></p><p>7.Taman Nasional Laut Wakatobi di Sulawesi Tenggara yang luas areanya mencapai 1.390.000 ha (ditetapkan berdasarkan SK Menteri Kehutanan Nomor 393/Kpts-V/1996) terkenal di dunia karena kekayaan jenis terumbu karangnya.</p><p></p><p>8.Sementara jumlah penduduk Indonesia 2019 sekitar 267 juta jiwa, banyak juga ya pertambahan jumlah penduduk. Nah, sebanyak 3.400-an orang di antaranya tinggal di Pulau Bungin, pulau terpadat di dunia, luasnya hanya 8,5 hektare.</p><p></p><p>9.Letaknya dibagian bumi antara 231/2 o LU - 231/2 o LS.</p><p>Suhu udara rata-rata tinggi, karena matahari selalu vertical, karena matahari selalu vertical.</p><p>Amplitude suhu rata-rata tahunan kecil.</p><p>Tekanan udara rendah dan perubahannya secara perlahan dan beraturan.</p><p></p><p>10.Taman Nasional Gunung Leuser (TNGL)</p><p>Taman Nasional Kerinci Seblat (TNKS)</p><p>Tropical Rainforest Heritage of Sumatra (TRHS)</p><p></p><p>11.Rangka merupakan alat gerak pasif karena tulang tidak dapat bergerak sendiri. Tulang dapat bergerak karena digerakkan oleh otot</p><p></p><p>12.Otot jantung adalah satu-satunya otot yang unik karena hanya terdapat di jantung, tepatnya di miokardium atau lapisan tengah jantung.</p><p></p><p>13.Anggota gerak bawah terdiri atas femur (tulang paha), tibia (tulang kering), fibula (tulang betis), patela (tulang tempurung lutut), tarsal (tulang pergelangan kaki), metatarsal (tulang telapak kaki), dan falangus (tulang jari kaki).</p><p></p><p>14.Membantu sistem peredaran darah manusia.</p><p>Membantu pernapasan.</p><p>Membantu dalam proses pencernaan manusia.</p><p>Membantu dalam proses reproduksi manusia.</p><p>Menjaga keseimbangan.</p><p>Mengatur postur tubuh.</p><p></p><p>15.Tulang manusia dan fungsinya</p><p></p><p>16.B</p><p>17.A</p><p>18.B</p><p>19.B</p><p>20.A</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-ya1-suku-bangsa-indonesia-yg-terkenal-sebagai-pelaut-pemberani-adalah-2-tokoh-yg-berhasil-menghapuskan-sistem-tanam-paksa-dgn-karang-bukunya-max-havelaar-adalah-3-gubernur-jenderal">
+                            6. Tolong ya
+1.Suku bangsa indonesia yg terkenal sebagai pelaut pemberani adalah ...
+2.Tokoh yg berhasil menghapuskan Sistem tanam paksa dgn karang bukunya "Max Havelaar" adalah ...
+3. Gubernur jenderal Belanda yang kejam yg menggerakan pembuatan jalan anyer - Panarukan adalah ...
+4. Setelah Perjanjian Renville Belanda melakukan tindakan untuk memecah belah indonesia dgn cara ...
+Tolong ya....</h2><br />
+                        3. Kalo ga salah Deandels deh :)1. suku bugis?<br />2. Multatuli<br />3. willem deandels<br />4. adu domba atau devide et empera<br />maaf kalao salah:)<br /><br />
+                                            <h2 class="ez-toc-section" id="5-pd-laut-mas-menunjukan-saldo-rekening-kas-bank-menurut-catatan-perusahaan-pada-tanggal-31-desember-2020-adalah-rp-4-125-500-d-berdasarkan-laporan-rekening-koran-bank-bca-saldo-kas-kita-berjumla">
+                            7. 5. PD. Laut Mas menunjukan saldo rekening kas bank menurut catatan perusahaan pada tanggal 31 Desember 2020 adalah Rp 4.125.500 (D). Berdasarkan laporan rekening koran bank BCA saldo kas kita berjumlah Rp 4.118.000 (K). Perbedaan ini disebabkan karena :
+1) Bank telah menerima piutang wesel dari debitur perusahaan sebesar Rp 420.000, sedangkan perusahaan kita belum mencatatnya.
+2) Bank membebani biaya administrasi sebesar Rp 12.500 dan memberikan perusahaan pendapatan jasa giro/bunga Rp 25.000
+3) Perusahaan telah melakukan kesalahan pencatatan pembayaran utang kepada PT. Mahkota Rp 220.000 tercatat menjadi Rp 200.000
+4) Cek yang masih dalam beredar (Out standing Check) nomor 23357 untuk PT. Andalan dan 23355 untuk PT. Berkah masing-masing bernilai Rp 150.000 dan Rp 230.000
+5) Bank telah menolak bilyet giro dari debitur perusahaan sebesar Rp 350.000 karena tidak mempunyai saldo
+6) Perusahaan telah mengirimkan uang kepada bank pada tanggal 31 Desember 2021 Rp 350.000, belum tampak dalam laporan bank.
+7) Bank membukukan pembayaran utang PD. Laut Perak Rp 100.000 kepada rekening PD. Laut Mas
+Diminta :
+a. Buatlah laporan rekonsiliasi bank pada tanggal 31 Desember 2021 dengan cara mengkoreksi jumlah bank dan jumlah perusahaan.
+b. Buatlah jurnal penyesuaian yang diperlukan 
+Yanh jawab semoga kita dapat pahala dan dan kita semoga bisa masuk ke surga. Amin </h2><br />
+                        <p><strong>Jawaban</strong>:</p><p>a. Laporan rekonsiliasi bank pada tanggal 31 Desember 2020 untuk PD. Laut Mas bisa dilihat dalam lampiran.</p><p>b. Jurnal penyesuaian yang diperlukan bisa disimak dalam penjelasan.</p><p></p><p><strong>Penjelasan</strong>:</p><p>Berdasarkan data dalam soal, jurnal penyesuaian yang diperlukan setelah rekonsiliasi adalah (dalam rupiah) :</p><p>1. Kas (D) 420.000</p><p>          Piutang wesel (K) 420.000</p><p>2. Biaya bank (D) 12.500</p><p>          Kas (K) 12.500</p><p>    Kas (D) 25.000</p><p>          Pendapatan giro (K) 25.000</p><p>3. Koreksi catat (D) 20.000</p><p>          Kas (K) 20.000</p><p>4. Tidak perlu disesuaikan.</p><p>5. Piutang (D) 350.000</p><p>          Kas (K) 350.000</p><p>6. Tidak perlu disesuaikan.</p><p>7. Tidak perlu disesuaikan.</p><p></p><p>Pelajari lebih lanjut materi rekonsiliasi laporan https://brainly.co.id/tugas/6167475</p><p></p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="bacalah-teks-langkah-%e2%80%93-langkah-membaca-dengan-teknik-sq3r-berikut1-membuat-pertanyaan2-menceritakan-isi-buku3-membaca-isi-buku4-mensurvei-isi5-meninjau-kembaliurutan-langkah-langkah-m">
+                            8. Bacalah  teks  langkah – langkah membaca dengan teknik SQ3R berikut!1. Membuat pertanyaan2. Menceritakan isi buku3. Membaca isi buku4. Mensurvei  isi5. Meninjau kembaliUrutan langkah-langkah membaca dengan menggunakan SQ3R yang tepat adalah…A. 4-2-1-3-5			C. 5-2-1-4-3B. 4-1-3-2-5			D. 5-4-3-2-133. Bacalah kalimat acak berikut!1. Kelelawar tidur dengan cara bergantung terbalik di dahan pohon.2. Pohon yang dipilih untuk bergelantungan adalah pohon besar dan rindang.3. Kelelawar mencari makan dimalam hari.4. Oleh karena itu, pada siang hari mereka akan tidur.Urutan kalimat-kalimat tersebut agar menjadi paragraf padu adalah…A. 3-4-2-1			C. 4-3-2-1B. 1-2-3-4			D. 3-4-1-234. Bacalah paragraf berikut!(1) Masjid istiqlal berada di taman wijaya kusuma, Jakarta. (2) Masjid ini bisa menampung lebih dari 200 ribu umat (3) Kubah Masjid ini terlihat unik. (4) Bentuknya telur bulat, seperti kubah Masjid Raya Selangor di Malaysia.Penggunaan ejaan yang salah pada paragraf tersebut ditunjukan oleh kalimat…..A. 1				C. 3B. 2				D. 435. Bacalah teks di bawah ini!Novel yang berjudul Sang Pemimpin karya Andrea Hirata di sajikan dengan bahasa yang cantik, mampu  menyihir pembaca sehingga pembaca ikut merasakan kebahagian, semangat, keputusasaan, dan kesedihan.Persamaan kata yang bercetak tebal dan digarisbawahi adalahA. Jelek			C. TakjubB. Indah			D. Rupawan36. Bacalah teks berikut!Buku ini menceritakan berbagai macam hewan dan tumbuhan yang hidup di pantai. (....) pembaca tidak merasa kesulitan memahami isi buku. Selain itu, buku ini juga dilengkapi dengan gambar-gambar sehingga pembaca tertarik untuk membaca buku karya Tantowi ini.Kalimat berisi keunggulan yang paling tepat untuk melengkapi bagian rumpang tersebut adalah…A. Buku ini ditulis oleh penulis terkenalB. Buku ini sangat diperlukan oleh masyarakatC. Buku ini ditulis dengan bahasa yang lugasD. Buku ini sangat tepat dipelajari oleh pelajar37. Bacalah kutipan buku nonfiksi berikut!.Kriptantus adalah tanaman tak berbatang. Daun-daunnya saling bertumpuk mirip bintang laut dengan warna yang beragam. mulai dari hijau, ungu, hingga merah. Beberapa jenis memiliki garis putih melintang yang sangat nyaman dipandang.Hal yang diulas pada teks di atas adalah…A. Habitat tanaman KriptantusB. Ciri-ciri tanaman KriptantusC. Tanaman kriptantus indah dipandang D. Tanaman kriptantus tidak memiliki batang​</h2><br />
+                        <p>Jawaban: </p><p></p><p></p><p></p><p>33. D. 3-4-1-2</p><p></p><p>34. A. 1</p><p></p><p>35. Kata yang bercetak tebal dan digarisbawahi yang mana kak? </p><p></p><p>36. C. Buku ini ditulis dengan bahasa </p><p>            yang lugas</p><p></p><p>37. B. Ciri-ciri tanaman Kriptantus</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jangan-menangkap-ikan-dengan-harimau-a-jaring-b-pukat-c-perangkap-d-jala-hasil-pertanggung-jawaban-setelah-pengamatan-adala">
+                            9. --------------------------------
+Jangan menangkap ikan dengan...harimau.
+a. jaring.
+b. pukat.
+c. perangkap.
+d. jala.
+--------------------------------
+Hasil pertanggung jawaban setelah pengamatan adalah...
+a. surat.
+b. naskah.
+c. laporan.
+d. memo.
+--------------------------------
+Bahasa yang digunakan untuk membuat laporan adalah...
+a. panjang dan jelas.
+b. singkat saja.
+c. singkat dan jelas.
+d. luas dan jelas.
+--------------------------------
+Menara ditepi pantai yang berfungsi untuk membantu dan memandu kapal berlabuh disebut...
+a. pelabuhan.
+b. puri.
+c. mercusuar.
+d. bukit.
+--------------------------------
+Masalah yang berdasarkan kenyataan atau mengandung sebuah kebenaran disebut...
+a. sulit.
+b. aktual.
+c. aneh.
+d. faktual.
+--------------------------------
+Hasil laut merupakan sumber...bagi negara.
+a. devisa.
+b. devisiasi.
+c. defisa
+d. depisa
+--------------------------------
+Wisata laut disebut juga dengan wisata...
+a. agraris.
+b. lautan.
+c. air.
+d. bahari.
+--------------------------------
+KESENIAAN DAERAH SANGAT BERMANFAAT DALAM MENUNJUKKAN KEPRIBADIAN DAERAH MASING-MASING. AKAN TETAPI, DENGAN ADANYA ERA GLOBALISASI, KESENIAN DAERAH SEAKAN SEMAKIN DITINGGALKAN. Tuliskan saranmu berdasarkan isi paragraf tersebut!
+--------------------------------
+Tokoh yang kehadirannya mendampingi tokoh utama disebut...
+--------------------------------
+Cara pengarang menggambarkan karakter tokoh dalam cerita disebut...
+--------------------------------
+Tokoh yang memerankan karakter jahat disebut...
+--------------------------------
+Ekspresi, lakuan, dan dialog pada drama ditulis pada...
+--------------------------------
+Tokoh yang kehadirannya mendampingi tokoh utama disebut...
+--------------------------------
+Naskah drama dapat disebut apabila sudah ...
+--------------------------------
+Urutan cerita dalam drama disebut...
+--------------------------------
+posisi pengarang dalam membawakan cerita disebut...
+--------------------------------
+Apa yang dimaksud dengan cerpen ?
+--------------------------------
+Sebutkan langkah-langkah dalam mementaskan drama !
+--------------------------------
+Sebutkan ciri-ciri ringkasan yang baik !
+--------------------------------
+Apa tujuan membaca sekilas ?
+--------------------------------
+Sebutkan hal-hal yang dapat memengaruhi kegiatan membaca sekilas seseorang !
+--------------------------------
+Ulasan atau tanggapan terhadap suatu persoalan disebut...
+--------------------------------
+Alat yang digunakan para nelayan untuk menangkap ikan disebut...
+--------------------------------
+Wilayah (air) indonesia lebih luas dari wilayah daratan.
+Kata dalam kurung seharusnya ditulis...
+--------------------------------
+Daratan dipinggir laut disebut...
+--------------------------------
+Marcel menggunakan tabung O² pada waktu (selam)
+Kata dalam kurung seharusnya...
+--------------------------------
+Hewan laut yang bisa digunakan untuk pertunjukkan sirkus adalah...
+--------------------------------
+Para nelayan mencari ikan pada...hari
+--------------------------------
+Depaetemen yang mengurusi masalah kelautan kita adalah...
+--------------------------------
+Ombak berdebur ditepi...
+--------------------------------
+Bagaimana cara mengungkapkan komentar dari suatu peristiwa ?
+--------------------------------
+Bacaan atau buku apasaja yang dibaca memakai teknik membaca memindai ?
+--------------------------------
+Sebutkan tahapan-tahapan yang harus diperhatikan dalam membuat laporan pengamatan !
+--------------------------------
+Jelaskan syarat-syarat laporan hasil pwngamatan !
+--------------------------------
+Apa yang dimaksud dengan negara maritim ?
+--------------------------------</h2><br />
+                        1.b<br />2.c<br />3.c<br />4.c<br />5.d<br />6.a<br />7.d<br />8.<br />9.<br />10.melihat ciri-ciri,sifat dari tokoh dalam cerita tersebut<br />11.antagonis<br />12.naskah drama<br />13.<br />14.<br />15.<br />16.cerita pendek<br />17.<br />18.memakai bahasa yang jelas dan singkat.<br />19.menemukan ide pokok<br />20.kecepatan membaca,arah mata<br />21.<br />22.jaring<br />23.laut<br />24.pantai<br />25.menyelam<br />26.lumba-lumba<br />27.pagi<br />28.<br />29.pantai/laut<br />30.<br />31.<br />32.<br />33.<br />34.negara yang wilayah lautnya lebih luas daripada daratannya<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="1-saya-sungguh-gembira-hari-ini-karena-dapat-merayakan-tahun-baru-bersama-keluarga-dan-teman-teman-kata-paman-biasanya-pada-tahun-tahun-yang-lalu-saya-merayakan-tahun-baru-di-atas-kapal-semua-pen">
+                            10. 1.	Saya sungguh gembira hari ini, karena dapat merayakan tahun baru bersama keluarga dan teman-teman, kata paman. Biasanya pada tahun-tahun yang lalu saya merayakan tahun baru di atas kapal. Semua penumpang berkumpul di ruang besar, mereka saling bercanda ria.    Ide pokok paragraf di atas adalah ...a.	Paman gembira merayakan tahun baru bersama.b.	Paman menyesal tidak merayakan tahun baru di rumah.c.	Merayakan tahun baru di atas kapal.d.	Semua penumpang bercanda ria.2.	Suatu ketika, Afdhal bersama adiknya ke perpustakaan. Ia menemukan buku pengetahuan tentang cara membuat alat perajang singkong. Ia pun membaca buku itu dengan teliti. Kemudian ia mencatat tentang inti cara membuat alat perajang. Sejak itulah, Afdhal dan adiknya berniat membuat alat perajang singkong.Ide pokok paragraf di atas  adalah ...a.	Menemukan buku pengetahuan tentang membuat alat perajang singkong.b.	Afdhal anak yang rajin membaca buku.c.	Membuat alat perajang singkong dengan cara sederhana.d.	Afdhal menceritakan hasil penemuan kepada Ayahnya.3.	Salah satu energi alternatif yang dikembangkan adalah energi biogas dari kotoran ternak sapi atau kerbau. Keuntungannya bahkan mudah didapat, ramah lingkungan, aman, ekonomis, dan dapat mengurangi ketergantungan terhadap bahan bakar minyak.Ide pokok paragraf di atas adalah ...a.	Ketergantungan terhadap BBM banyak mendatangkan masalah.b.	Keuntungan energi alternatif dapat mengurangi ketergantungan BBM.c.	Salah satu energi alternatif yang dikembangkan adalah energi biogas.d.	Bahan baku energi biogas berupa kotoran ternak sapi dan kerbau.4.	Air laut pasang terjadi di beberapa wilayah di Indonesia, salah satunya kawasan Jakarta Utara. Naiknya air laut di kawasan tersebut sudah berlangsung selama sepekan. Tingginya kenaikan permukaan air dikhawatirkan akan membuat kawasan tersebut tergenang.Ide pokok paragraf tersebut adalah.. a.	Air laut pasang terjadi di kawasan Jakarta Utara.b.	Naiknya air laut sudah berlangsung selama sepekan.c.	Pasangnya air laut dikhawatirkan membuat Jakarta Utara tergenang.d.	Pasangnya air laut di beberapa wilayah di Indonesia sangat mengkhawatirkan.5.	Tak hanya habitatnya yang dirusak, elang jawa juga kerap ditangkap dan diperjual belikan sebagai satwa peliharaan. Padahal, elang jawa merupakan burung yang dilindungi Undang-Undang Republik Indonesia Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya, serta diperkuat lewat Kepres No. 4/1993 tentang Satwa dan Bunga Nasional. Elang jawa juga termasuk salah satu dari 14 satwa prioritas untuk diselamatkan berdasarkan SK Dirjen PHKA No. 132/2011. Jika perdagangan dan alih fungsi hutan tidak dihentikan, bukan tidak mungkin suatu saat nanti elang jawa hanya dapat dilihat dalam bentuk foto atau hanya dikenang sebagai burung yang identik dengan simbol negara, yaitu garuda.Ide pokok paragraf kedua pada teks tersebut adalah . . .a.	Perlindungan elang jawa diatur dalam Undang-Undang tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.b.	Penyebab kepunahan elang jawa adalah alih fungsi hutan menjadi permukiman dan lahan pertanian.c.	Keberadaan elang jawa dapat dilestarikan dengan menghentikan perdagangan dan alih fungsi hutan.d.	Elang jawa identik dengan simbol negara, yaitu garuda.​</h2><br />
+                        <p><strong>Jawaban:</strong></p>A.Paman gembira merayakan Tahun Baru Bersama.A.	Menemukan buku pengetahuan tentang membuat alat perajang singkong.C.salah satu energi alternatif yang dikembangkan adalah energi biogas.C.pasangnya air laut dikhawatirkan membuat jakarta utara Tergenang.<p></p><p>5. a.	Perlindungan elang jawa diatur dalam Undang-Undang tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya.</p><p></p><p>maaf jangan langsung menggambil jawabanya ya mungkin ada yang salah.</p><p>Mohon jangan langsung menggambil keputusan.</p><br />
+                                            <h2 class="ez-toc-section" id="ulan11-cermati-ilustrasi-berikutjudul-novellelaki-tua-dan-laut-the-old-man-and-the-seapengarang-penerjemah-emest-hemingway-sapardi-djoko-damonopenerbit-pt-dunia-pustakadi-sisi-lain-untaian-kata">
+                            11. ULAN11. Cermati ilustrasi berikut!Judul novelLelaki Tua dan Laut The Old Man and The SeaPengarang Penerjemah : Emest Hemingway Sapardi Djoko DamonoPenerbit: PT Dunia PustakaDi sisi lain, untaian kata-kata Hemingway mengalir, mengayun membuai, menghempas membuatpengalaman tersendiri pada pembaca persis seperti gerakan ombak laut. Dengan kemampuannya,pembaca tanpa dipaksa seolah-olah sedang berhadapan dengan teror hiu yang ingin menguasaitangkapan ikanKalimat resensi yang tepat untuk menyatakan keunggulan novel tersebuat adalah....A Sedikit sekali penulis yang berani mengangkat ide cerita dari kaum pinggiran seperti nelayanNamun Hemingway berani mengangkatnya menjadi sebuah cerita yang penuh keteganganditinjau dari kekuatan bahasanya.B. Penulis agak lambat menciptakan ketegangan-ketegangan dalam cerita. Pembaca mungkinkurang bergairah karena setting yang disuguhkan terlalu monoton, yaitu laut dan laut.C. Hemingway dan ketangkasannya berbahasa tak perlu diragukan lagi. Hanya saja, khususpada novel ini tema yang diambil kurang menarik.D. Bahasa dan cara penuturan Hemingway pada novel ini sangat melompat-lompat persis alunanombak laut yang mengguncang-guncang perahu.E. Meskipun buku ini banyak dibaca orang, terlihat banyak kekurangan tentang kebiasaan dilaut yang mungkin Hemingway sendiri dapat merasakannya.12. Cermatilah paragraf berikut!​</h2><br />
+                        <p>D. Bahasa dan cara penuturan Hemingway pada novel ini sangat melompat-lompat persis alunan</p><p>ombak laut yang mengguncang-guncang perahu.</p><p></p><p><strong>Penjelasan:</strong></p><p>Keunggulan adalah keadaan (lebih) unggul; keutamaan; kepandaian (kecakapan, kebaikan, kekuatan, dan sebagainya) yang lebih daripada yang lain. Pernyataan tentang keunggulan buku adalah pernyataan tentang keutamaan, kebaikan, dan kekuatan buku yang lebih daripada yang lain. </p><p></p><p>Pernyataan yang menyatakan keunggulan pada buku teks tersebut terdapat pada Bahasa dan penuturan Hemingway pada novel ini melompat-lompat seperti alunan ombak laut yang mengguncang-guncang.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="a-heogb-caping-ngancakd-payung34-di-bawah-ini-yang-termasuk-unsur-dari-lagu-adalaha-llusonerb-penyairc-melodi35-tujuan-penggunaan-properti-dalam-tari-adalah-a-membuat-tarian-menjadi-kakuc">
+                            12. a. Heogb. Caping ngancakd. Payung34. Di bawah ini yang termasuk unsur dari lagu adalaha. llusonerb. Penyairc. Melodi35. Tujuan penggunaan properti dalam tari adalah....a. Membuat tarian menjadi kakuc. Memudahkan dalam menghafal gerakanb. Menambah nilai estet ka tarian yang ditampilkan d. Mempermudah gerakan tarianIlisilah titik-titik dibawah ini I1. Yokoh yang mengetik teks proklamasi adalah ...2. Cara pandang bangsa Indonesia, mengenai diri dan lingkungannya dengan mengutamakanpersatuan dan kesatuan bangsa serta wilayah dalam menyelenggarakan kehidupan berbangsadan bernegara disebutIKI3. Berdasarkan proses terjadinya ekoskstem dibedakan menjadi dua vastu ekosistem alami danbuatan. Ekosistem alami merupakan suatu ekosishem yang terbentuk dengan sendirinya | alami)Ekoustem buatan merupakan suatu ekosistem yang diciptakan manusia untuk memenuhikebutuhan manusia Informasi penting yang terdapat pada teks diatas adalahBuku kecil yang berfungsi sebagal selebaran disebut...5. Makhluk hidup yang berperan sebagai produsen dalam rantai makanan adalah6. Contoh hewan yang mengalami metamorfosis dalam daur hidupnya adalah7. Mengolah Ikan dari laut untuk diolah lagi, membuat kerajinan dari berang dan membuat garammerupakan contoh aktivitas masvärakat yang tinggal di daerah.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>34) C.melodi</p><p>35) B. menambah nilai estetika ke tarian yg ditampilkan</p><p>1) Mohammad Ibnu Sayuti</p><p>2. bhineka tunggal Ika</p><p>3) ekosistem alam</p><p>5) elang</p><p>6) ulat</p><p>7) pesisir pantai</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><p>semoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="pesona-pantai-senggigi-pantai-senggigi-merupakan-salah-satu-wisata-andalan-di-nusa-tenggara-barat-pantai-senggigi-sangat-indah-pantai-senggigi-terletak-di-kecamatan-batu-layar-kabupaten-lombok-bara">
+                            13. Pesona Pantai Senggigi Pantai Senggigi merupakan salah satu wisata andalan di Nusa Tenggara Barat. Pantai Senggigi sangat indah. Pantai Senggigi terletak di Kecamatan Batu Layar, Kabupaten Lombok Barat, Provinsi Nusa Tenggara Barat. Pantai Senggigi merupakan pantai dengan garis pantai terpanjang. Pemandangan bawah laut Senggigi juga menakjubkan. Pura Bolong menjadi pelengkap wisata di Pantai Senggigi. Memasuki bibir Pantai Senggigi kita akan disambut angin pantai yang lembut dan udara yang segar. Angin lembut terasa mengelus kulit. Garis pantai Senggigi yang panjang dengan gradasi warna pasir putih dan hitam membuat keindahan pantai ini semakin menarik. Ombak yang tenang di pantai ini membuat rasa tenteram semakin lengkap. Dari kejauhan tampak hamparan permadani biru toska berpadu dengan hiasan buih-buih putih bersih. Sungguh elok pemandangan pantai ini. Bukit-bukit tangguh nampak menjadi latar bagian pantai. Pantai Senggigi dengan pesonanya benar-benar seperti lukisan di kanvas alam yang luas terbentang Pemandangan bawah laut Senggigi juga tidak kalah memesona. Terumbu karang yang masih terawat menyuguhkan pemandangan alam bawah laut yang memukau. Terumbu karang nampak berwarna-warni sangat indah. Ikan beraneka warna menambah keindahan bawah laut Senggigi. Dengan snorkeling maupun menyelam anda dapat menyaksikan pemandangan bawah laut yang mengagumkan. Anda akan menyaksikan betapa mempesonanya taman bawah lautnya. Air laut yang jernih serta banyak terumbu karang terawat dengan ikan-ikan beraneka ragam menambah keindahan taman laut di Senggigi. Selain pemandangan bawah laut, terdapat juga pemandangan indah di Pura Batu Bolong. Pada arah selatan bibir pantai Senggigi, terdapat pura kecil yang bernama Batu Bolong.Sesuai dengan namanya, pura ini berdiri kokoh di atas batu karang yang memiliki lubang di tengahnya. Sungguh sebuah keagungan pura di tengah keindahan Senggigi. Berkunjung ke pura ini, Anda langsung disambut buih-buih ombak yang tenang dan bersahabat. Seketika kedamaian dan kenyamanan seperti merangkul saat berada di area sekitar Pura Batu Bolong. Memasuki pura yang berhadapan langsung dengan Selat Lombok dan Gunung Agung Bali ini, Anda harus berjalan menuruni anak tangga. Pura pertama yang dijumpai berdiri di bawah pohon rindang. Sementara, pura kedua berdiri kokoh di atas karang yang menjulang setinggi sekitar 4 meter dan memiliki lubang di bawahnya. Jika berkunjung saat cuaca sedang cerah, Anda dapat melihat pemandangan Gunung Agung Bali yang menjulang tinggi. Pada waktu-waktu tertentu, Anda juga bisa melihat para pemancing tradisional sedang mencari ikan dengan cara menceburkan diri ke dalam laut. Selain itu, melewati senja sambil memandang matahari terbenam di pura ini juga menjadi saat-saat paling menyenangkan. Keindahan semburat merah sang mentari menjadi pemandangan yang sangat menakjubkan. Wisata pantai Senggigi menawarkan sejuta keindahan dan kenyamanan. Sungguh pemandangan yang menakjubkan. (Dapat dibuka dan dibaca di buku Bahasa Indonesia pada halaman 12 – 14) latihan1. Apa yang dibicarakan penulis pada teks 1?2. Keindahan bagian mana saja	dari pantai Senggigi yang dipaparkan penulis?3. Apa tujuan penulis menampilkan teks di atas?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Pesona pantai Senggigi</p><p>2. Garis pantai Senggigi yang panjang dengan gradasi warna pasir putih dan hitam,Ombak yang tenang di pantai ini membuat rasa tenteram semakin lengkap, dan Dari kejauhan tampak hamparan permadani biru toska berpadu dengan hiasan buih-buih putih bersih</p><p>3. Mendeskripsikan Pesona Indah pantai Senggigi</p><p>Semoga membantu mohon maaf jika salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dengan-cara-perkembangbiakannya-pada-tabelarawrane1ovipar3-perkembangbiakan-hewan-dengan-carabertelur-dan-melahirkan-ovovivipardan-melahirkan-disebut-juga-dengan-ovorperkembangbiakan-hewan">
+                            14. dengan cara perkembangbiakannya pada tabe
+Lara
+w
+RA
+Ne
+1
+Ovipar
+3 Perkembangbiakan hewan dengan cara
+bertelur dan melahirkan (ovovivipar
+dan melahirkan disebut juga dengan ovor
+Perkembangbiakan hewan dengan cara bertelor
+Hewan hewan yang bertelur dan melahirkan
+memiliki cin-ci husus. Contoh hewan-hewa
+yang berkembang biak dengan cara bertelur dan
+melahirkan antara lainkan hukud laut dan
+platipus
+Parpus berkembang biak dengan
+cara bertelor kemudian melahirkan
+2
+Vivipar
+Ayo Berlatih
+Les des
+LAR
+Perhatikan nama-nama hewan berikut! Kelompokkan hewan-hewan tersebut sesuai
+Udang
+3
+Ovovivipar
+Belut
+Cumi-cumi
+Kura-kura
+Tokek
+13
+Bekantan
+2
+Ayam
+| 0 04
+Kuterampilan Kinerja Praktik
+Bunglon
+18
+Kelinci
+Iguana
+Kuda
+36
+4
+Kodok
+Paus
+25
+15
+Burung beo
+Ikan patin
+Ikan hiu
+Mengamati Cara Perkembangbiakan Hewan
+Siapkan Buku catatan dan alat tulis
+Langkah kegiatan:
+1. Buatlah kelompok bersama lima temanmu
+2. Pergilah keluar kelas untuk melakukan pengamatanlangan upa
+membawa buku catatan dan alat tulis
+3. Gurumu akan membagi daerah pengamatan untuk setiap kelompok. Masaya kelompok
+kolam sekolah, kelompok 2 di taman sekolah, dan kelompok 3 di lapangan sekolah
+4. Setiap kelompok mencatat hewan yang ditemui di sekitar daerah penamatan Setelah di
+cara hewan tersebut berkembang biak kamu kesulitan kamu dapat menica
+informasi tambahan di buku referensi di perpustakaan. Okkusikan bersama kelompok
+S Ceritakan hasil diskusi di depan kelompok lain
+Trenggiling
+Panda
+10
+Kanguru
+Anoa
+32
+Belalang
+Kadal
+18
+Ular boa
+Kuda laut
+Salamander
+Tapir
+19
+Singa laut
+Penilaian Kinerja Praktik Mengamati Cara Perkembangbiakan Hewan
+NA
+Dugong
+Buaya
+20
+10
+Gajah
+28</h2><br />
+                        <p>Jawaban:</p><p></p><p>Penjelasan:</p><p>Ini maksudnya gimana ngabbbb??</p><br />
+                                            <h2 class="ez-toc-section" id="kutipan-buku-berikut-untuk-soal-nomor-3-5aceh-memiliki-keindahan-alam-yang-memukauseperti-pulau-weh-pulau-simeulue-danau-lauttawar-takengon-dan-gunung-leuser-keindahanalam-tersebut-menjadi-objek-w">
+                            15. Kutipan buku berikut untuk soal nomor 3-5Aceh memiliki keindahan alam yang memukauseperti Pulau Weh, Pulau Simeulue, Danau LautTawar Takengon, dan Gunung Leuser. Keindahanalam tersebut menjadi objek wisata alam di AcehPulau Weh memiliki tujuan wisata pantai yangdapat dinikmati untuk berenang, menyelamataupun snorkeling. Keunikan Pulau Simeulueterdapat pada tradisinya tentang peringatantsunami. Penduduk akan berteriak 'semongdan lari ke bukit ketika air laut menyurut secaradrastis. Untuk wisata air juga dapat dinikmatidi Danau Laut Tawar di Takengon. Tidak kalahindah, Gunung Leuser merupakan TamanNasional dapat menjadi alternatif bagi pecintawisata alam gunung.Dikutip dari: Navita Kristi, dkk., Fakta Menakjubkan TentangIndonesia: Wisata Sejarah, Budaya, dan Alam di33 Provinsi, Jakarta, Cikal Aksara, 20123. Bagaimana cara menikmati wisata pantai diPulau Weh?4. Buatlah dua pertanyaan berdasarkan paragraftersebut!5. Tuliskan jawaban atas pertanyaanmu!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Jawaban No 3. dapat dinikmati untuk berenang, menyelam ataupun snorkeling</p><p><strong>Penjelasan:</strong></p><p>Maaf kalau salah</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/RrjO7ocZ53k?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-wawancara-dengan-siswa-tentang-pembelajaran/">Contoh Wawancara Dengan Siswa Tentang Pembelajaran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-ukom-d3-keperawatan-dan-kunci-jawaban-pdf/">Soal Ukom D3 Keperawatan Dan Kunci Jawaban Pdf</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-stan-2023/">Soal Stan 2023</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/review-text-novel/">Review Text Novel</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-aplikasi-gudang/">Download Aplikasi Gudang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-uas-tema-5-kelas-6/">Soal Uas Tema 5 Kelas 6</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-bahasa-inggris-kelas-8-semester-1-dan-kunci-jawaban/">Soal Bahasa Inggris Kelas 8 Semester 1 Dan Kunci Jawaban</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-try-out-kelas-6-bahasa-indonesia-2023/">Soal Try Out Kelas 6 Bahasa Indonesia 2023</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/rpp-bahasa-inggris-smp-kurikulum-2013-kelas-9/">Rpp Bahasa Inggris Smp Kurikulum 2013 Kelas 9</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/turunan-1x/">Turunan 1/x</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-unbk-ipa-smp-2023-dan-pembahasannya/">Soal Unbk Ipa Smp 2023 Dan Pembahasannya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-simulasi-unbk-sma/">Download Simulasi Unbk Sma</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-soal-unbk-smk/">Download Soal Unbk Smk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/unallocated-space-tidak-bisa-dipartisi/">Unallocated Space Tidak Bisa Dipartisi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-uas-ips-kelas-8-semester-2/">Soal Uas Ips Kelas 8 Semester 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-limit-fungsi-beserta-jawabannya/">Contoh Soal Limit Fungsi Beserta Jawabannya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/dilatasi-matriks/">Dilatasi Matriks</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cat-bkn-go-igsimulasiindex-php/">Cat.bkn.go.ig/simulasi/index.php</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-ubah-web-file-ke-jpg/">Cara Ubah Web File Ke Jpg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/fix-imei-andromax-c2-new-tanpa-pc/">Fix Imei Andromax C2 New Tanpa Pc</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

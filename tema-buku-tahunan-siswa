@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tema Buku Tahunan Siswa - BELAJAR</title>
+    <meta name="description" content="Tema Buku Tahunan Siswa, , , , , , , 0, , , , , , 0, tema-buku-tahunan-siswa, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Tema Buku Tahunan Siswa - BELAJAR" />
+    <meta property="og:description" content="Tema Buku Tahunan Siswa, , , , , , , 0, , , , , , 0, tema-buku-tahunan-siswa, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Tema Buku Tahunan Siswa - BELAJAR" />
+    <meta name="twitter:description" content="Tema Buku Tahunan Siswa, , , , , , , 0, , , , , , 0, tema-buku-tahunan-siswa, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Tema Buku Tahunan Siswa</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">juliasusanti46</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Tema+Buku+Tahunan+Siswa" alt="Tema Buku Tahunan Siswa">
+                    </div>
+                    <p></p>
+                    <p>Bendera pusaka dibuat oleh Ibu Fatmawati , isteri Presiden Soekarno, pada tahun 1944.2) Sejak tahun 1946 sampai dengan 1968, bendera tersebut hanya dikibarkan pada setiap hari ulang tahun kemerdekaan RI. 3) Bendera disimpan di Musium Nasional Sumber : Buku Siswa Kelas 6 Tema 2   10. Kata yang tidak baku dalam bacaan tersebut adalah</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bendera-pusaka-dibuat-oleh-ibu-fatmawati-isteri-presiden-soekarno-pada-tahun-1944-2-sejak-tahun-1946-sampai-dengan-1968-bendera-tersebut-hanya-dikibarkan-pada-setiap-hari-ulang-tahun-kemerdekaan">1.
+                                            Bendera pusaka dibuat oleh Ibu Fatmawati , isteri Presiden Soekarno, pada tahun 1944.2) Sejak tahun 1946 sampai dengan 1968, bendera tersebut hanya dikibarkan pada setiap hari ulang tahun kemerdekaan RI. 3) Bendera disimpan di Musium Nasional Sumber : Buku Siswa Kelas 6 Tema 2   10. Kata yang tidak baku dalam bacaan tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perhatikan-paragrar-ber1-bendera-pusaka-dibuat-oleh-ibu-fatmawati-isteri-presiden-soekarno-pada-tahun1944-2-sejak-tahun-1946-sampai-dengan-1968-bendera-tersebut-hanya-dikibarkan-padasetiap-hari-u">2.
+                                            Perhatikan paragrar ber1) Bendera pusaka dibuat oleh Ibu Fatmawati, isteri Presiden Soekarno, pada tahun1944.2) Sejak tahun 1946 sampai dengan 1968, bendera tersebut hanya dikibarkan padasetiap hari ulang tahun kemerdekaan RI. 3) Bendera disimpan di Musium NasionalSumber : Buku Siswa Kelas 6 Tema 2 Hal. 11910. Kata yang tidak baku dalam bacaan tersebut adalah11. Kata tanya siapa digunakan untuk menjawab kalimat nomor ... pada paragraf tersebut.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-salah-satu-warisan-karya-budaya-yang-sangat-tua-luas-persebarannya-danmampu-bertahan-hingga-sekarang-adalah-gerabah-yakni-barang-pecah-belah-dari-tanahbakar-yang-dibuat-secara-tradisional-2-ge">3.
+                                            1) Salah satu warisan karya budaya yang sangat tua, luas persebarannya, danmampu bertahan hingga sekarang adalah gerabah, yakni barang pecah belah dari tanahbakar yang dibuat secara tradisional. 2) Gerabah juga dikenal dengan sebutan tembikar,3) Gerabah konon sudah dibuat manusia sejak mereka hidup menetap dan mula bercocoktanam beberapa ribu tahun sebelum tahun masehi, dan kini masih kita dapatkan di seluruhpelosok Nusantara, tidak terkecuali di pulau Madura.Sumber: Buku Siswa Kelas V Tema 1 Hel. 138.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#awalnya-roda-dibuat-oleh-ahli-menggunakan-mesin-pemintal-peninggalan-roda-palingtua-berasal-dari-mesopotamia-yang-digunakan-untuk-kendaraan-di-sekitar-tahun-3000-sm-kemudian-muncul-juga-di-tiongkok">4.
+                                            Awalnya roda dibuat oleh ahli menggunakan mesin pemintal. Peninggalan roda palingtua berasal dari Mesopotamia yang digunakan untuk kendaraan di sekitar tahun 3000 SM.kemudian muncul juga di Tiongkok, Arab, Eropa dan belahan dunia lainnya. Perkembanganroda dimulai dari bentuk sederhana berupa balok kayu yang digulingkan, kemudian diubahmenjadi potongan melintang balok kayu, roda bundar utuh dengan pasak di tengahnyahingga roda berjari-jari. Bagian tengah roda kemudian juga diganti besi sehingga rodmenjadi semakin kuat.Sumber: Buku Siswa Kelas 6 Tema 3 Hal.Tuliskan topik dan kesimpulan dari paragraf tersebut!Jawab: ...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terik-matahari-seakan-membakar-siang-sekelompok-siswa-sd-berhamburan-keluardi-depan-sekolah-berbagai-jenis-jajanan-sudah-berjajar-menanti-pelangganciliknya-panasnya-siang-membuat-para-siswa-tak-seg">5.
+                                            terik matahari seakan membakar siang. Sekelompok siswa SD berhamburan keluarDi depan sekolah, berbagai jenis jajanan sudah berjajar menanti pelangganciliknya. Panasnya siang membuat para siswa tak segan merogon ngmembeli minuman dingin berwarna merah menyala. Sebagian lagi membersyang dicelup ke dalam saus yang tak kalah merah warnanya. Anak-anak tersebut tidaksadar betapa bahaya menanti mereka. Mereka tidak paham bahwa beberapa tahun ke depanmerahnya sirup dan saus tersebut akan menggerogoti organ tubuh merekaSumber: buku siswa tema 638. Tuliskan 3 informasi yang terdapat dalam penggalan paragraf tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tema-3-ipas-v2020-2021as-vijawablah-soal-di-bawah-ini-dengan-jawaban-yang-tepat12-perhatikan-paragraf-berikutawalnya-roda-dibuat-oleh-ahli-menggunakan-mesin-pemintal-peninggalan-roda-palingtua-ber">6.
+                                            Tema 3 IPAS V2020-2021as VIJawablah soal di bawah ini dengan jawaban yang tepat!12. Perhatikan paragraf berikut!Awalnya roda dibuat oleh ahli menggunakan mesin pemintal. Peninggalan roda palingtua berasal dari Mesopotamia yang digunakan untuk kendaraan di sekitar tahun 3000 SM.kemudian muncul juga di Tiongkok, Arab, Eropa dan belahan dunia lainnya. Perkembanganroda dimulai dari bentuk sederhana berupa balok kayu yang digulingkan, kemudian diubahmenjadi potongan melintang balok kayu, roda bundar utuh dengan pasak di tengahnya,hingga roda berjari-jari. Bagian tengah roda kemudian juga diganti besi sehingga rodamenjadi semakin kuat.Sumber: Buku Siswa Kelas 6 Tema 3 Hal. 53Tuliskan topik dan kesimpulan dari paragraf tersebut!Jawab:Pelajaran IPAKD 3.4Kak tolong bantuanya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#saya-mengucapkan-selamat-dan-terima-kasih-atas-kehadiran-teman-teman-dalam-kegiatan-pameran-seni-dan-kreativitas-dalam-rangka-puncak-tema-di-semester-2-tahun-ini-%e2%80%a6%e2%80%a6-apabila-dalam-peny">7.
+                                            Saya mengucapkan selamat dan terima kasih atas kehadiran teman-teman dalam kegiatan pameran seni dan kreativitas dalam rangka puncak tema di Semester 2 tahun ini. …… Apabila dalam penyelenggaraan ini banyak kekurangan, panitia mohon maafKalimat yang tepat untuk melengkapi teks pidato yang rumpang tersebut adalah ….A. Akhirnya kami atas nama panitia mengucapkan selamat mengunjungi pameran seni dan kreativitas ini.B. Puji syukur senantiasa kita panjatkan kehadirat Tuhan yang telah memberikan kesehatan sehingga bisa menyelenggarakan kegiatan ini.C. Demikian sambutan dari saya selaku ketua panita, semoga pameran seni dan kreativitas siswa ini bermanfaat bagi semua.D. Pameran buku ini merupakan agenda tahunan osis dalam rangka memotivasi para siswa agar gemar membaca.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bacaan-berikutperistiwa-kedatangan-bangsa-baratmulai-akhir-abad-xv-bangsa-eropa-berusaha-melakukan-penjelajahan-samudera-bangsa-eropa-yang-pernah-melakukan-penjelajahan-dan-penjajahan-di-nusantaradi">8.
+                                            bacaan berikut!Peristiwa kedatangan Bangsa BaratMulai akhir abad XV, bangsa Eropa berusaha melakukan penjelajahan samudera.Bangsa Eropa yang pernah melakukan penjelajahan dan penjajahan di Nusantaradimulai oleh bangsa Portugis. Kapal mereka pertama kali mendarat di malaka padatahun 1511Berikutnya ialah bangsa Spanyol yang mendarat di Tidore, Maluku pada tahun1521. Kemudian, disusul oleh bangsa Inggris dan Belanda. Kapal-kapal Belandapertama kali mendarat di Pelabuhan Banten pada tahun 1596. Faktor-faktor pendorongpenjelajahan samudera, antara lain adanya keinginan mencari kekayaan (gold), adanyakeinginan menyebarkan agama (gospel), adanya keinginan mencari kejayaan (glory).serta perkembangan ilmu pengetahuan dan teknologi.Sumber: Buku Siswa Kelas V Tema 7Buatlah 4 kalimat tanya yang menggunakan kata tanya apa, di mana, kapan, dan siapa!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berilah-tanda-silang-x-pada-huruf-a-b-c-atau-d-pada-jawaban-yang-benarperhatikan-paragraf-berikut-ini-untuk-nomor-18-19selama-penjajahan-belanda-kongres-pemuda-indonesia-diselenggarakan-tiga">9.
+                                            Berilah tanda silang (x) pada huruf a, b, c, atau d pada jawaban yang benar!Perhatikan paragraf berikut ini! Untuk nomor 18 - 19Selama penjajahan Belanda, Kongres Pemuda Indonesia diselenggarakan tigakali. Kongres Pemuda Indonesia I berlangsung di Jakarta pada tanggal 30 April - 2 Meitahun 1926 diikuti oleh semua organisasi pemuda. Namun Kongres Pemuda I belumdapat menghasilkan keotusan yang mewujudkan persatuan seluruh pemuda. KongresPemuda Indonesia I merupakan persiapan Kongres Pemuda Indonesia II.(Dikutip dari Buku Siswa Tema 7 hal. 51)18. Kalimat utama paragraf di atas terletak pada kalimat kea.satutigab. duad. empatC.3BANJARS55 TEMA 7 /N1/PTS 2/2020-2021​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tuliskan-pengertian-dari-teks-ulasan-2-sebutkan-3-karya-sastra-yang-dapat-diulas-dalam-teks-ulasan-3-sebutkan-1-karya-sastra-yang-tidak-dapat-diulas-dalam-teks-ulasan-4-tujuan-komunikatif-tek">10.
+                                            1. Tuliskan pengertian dari teks ulasan! 2. Sebutkan 3 karya sastra yang dapat diulas dalam teks ulasan! 3. Sebutkan 1 karya sastra yang tidak dapat diulas dalam teks ulasan! 4. Tujuan komunikatif teks ulasan adalah? 5. Sebutkan ciri kebahasaan / kaidah kebahasaan teks ulasan! 6. Di antara 4 konjungsi ini, yang tidak termasuk ke dalam. jenis konjungsi adalah.... Konjungsi koordinatif konjungsi subordinatif konjungsi korelatif konjungsi imperatif 7. Sebutkan struktur teks ulasan yang tepat dan berurutan! 8. Perhatikan data buku berikut ini! Judul Buku : Ku Gapai Asa Penulis Nuraya Ningsih Penerbit : Impress Book Tahun : 2017 Keunggulan: 1. Isi buku sangat menarik 2. Bahasa komunikatif kelemahan: ilustrasi gambar kurang Teks ulasan yang tepat berdasarkan ilustrasi data buku tersebut adalah... a. Buku ini isinya sangat baik. Selain itu, bahasanya komunikatif. Hanya sayang, kertas yang digunakan terlalu tipis. sangat menarik dan bahasanya komunikatif. Selain itu, dilengkapi dengan b. Buku ini isinya ilustrasi gambar yang dapat menunjang isi buku. c. Cover buku sangat menarik. Selain itu bahasanya komunikatif. Hanya sayang, kurang dilengkapi dengan ilustrasi gambar yang d. Buku ini isinya dapat menunjang isi buku. sangat menarik. Selain itu, bahasanya komunikatif. Hanya sayang, kurang dilengkapi dengan ilustrasi gambar yang dapat menunjang isi buku. 9. (1) Buku berjudul Runtuhnya Puncak Peradaban merupakan autobiografi pengarangnya, yaitu A.Mutaqin. Semua pengalaman A. Mutaqin mulai menjadi penjaja koran hingga menjadi penulis dan wartawan ibu kota disajikan dengan jelas dalam autobiografi ini. (2) Sampul buku ini cukup menarik. Tulisan disajikan secara mengalir dan diselingi cerita-cerita pengalaman menarik dan lucu. Bahasa yang digunakan pun mudah dicerna. (3) Satu-satunya kritik terhadap buku ini tertuju pada label yang diberikan penerbit. Pada sampul buku ini tertulis "Sebuah Novel", padahal pada bagian pendahuluan disebutkan autobiografi. (4) Singkatnya, buku ini akan mendorong pembaca untuk tidak menyerah dalam menggapai mimpi walau seribu kesulitan dan tantangan menghadang. Yang merupakan keunggulan buku ditunjukkan oleh nomor? Yang merupakan kekurangan buku ditunjukkan oleh nomor? 10. Buku kumpulan puisi berjudul Istana di Atas Perahu: Kumpulan Puisi untuk Siswa SMP/MTS merupakan jawaban atas kelangkaan antologi puisi untuk anak SMP. [...] Buku kumpulan puisi ini akan membuat pembaca akrab dengan puisi. Sayang kualitas cetakan kurang bagus karena hanya memakai kertas buram. Kalimat berisi keunggulan buku untuk melengkapi teks tersebut adalah... a. Bahasanya mudah dipahami. b. Cerita menggunakan alur maju. c. Banyak kata serapan dari bahasa asing. d. Tema yang diangkat seputar kehidupan pesantren.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-masyarakat-nelayan-di-desa-lamalera-memiliki-tradisi-berburu-paus-yang-telahditurunkan-bertahun-tahun-oleh-nenek-moyang-mereka-2-tidak-sembarang-paus-yangmereka-buru-hanya-paus-yang-sudah-tua-s">11.
+                                            1) Masyarakat nelayan di desa Lamalera, memiliki tradisi berburu paus yang telahditurunkan bertahun-tahun oleh nenek moyang mereka. 2) Tidak sembarang paus yangmereka buru, hanya paus yang sudah tua saja yang mereka buru. 3) Jika mereka menemukanpaus muda, masyarakat nelayan di desa ini akan mengembalikannya ke laut lepas. 4)Mereka pun bersepakat secara adat bahwa dalam setahun, tidak boleh lebih dari 15 pausyang mereka buru. 5) Dengan demikian, mereka tetap menjaga agar paus tidak punah.Sumber: Buku Siswa Kelas V Tema 6 Hal. 9310. Kalimat utama paragraf di atas terdapat pada kalimat nomor ....11. Kata kunci pada paragraf di atas adalah....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengumumandalam-rangka-menyongsong-tahun-ajaran-baru-koperasi-sekolah-menyediakan-kebutuan-buku-tulis-dan-buku-pelajaran-untuk-semua-kelas-dengan-harga-sama-dengan-harga-toko-di-luar-sekolah-untuk">12.
+                                            Pengumuman
+Dalam rangka menyongsong tahun ajaran baru, koperasi sekolah menyediakan kebutuan buku tulis dan buku pelajaran untuk semua kelas dengan harga sama dengan harga toko di luar sekolah. Untuk itu, semua siswa diimbau untuk membeli buku pelajaran di koperasi sekolah. Pembelian buku diatur sebagai berikut.
+a. Kelas I, II Dan III dikoordinasi oleh wali kelas dan dilayani pada hari senin, selasa, dan rabu. Pembelian dilakukan secara kolektif.
+b. Kelas IV, V dan VI dikoordinasi oleh ketua kelas dan dilayani pada hari kamis, jumat, dan sabtu. Pembelian dilakukan secara kolektif.
+c. Penukaran buku karena rusak, cacat atau tidak lengkap dilayani pada hari rabu dan sabtu.
+Atas perhatian dan kerjasama di berikan, kami mengucapkan terima kasih.
+Ketua Koperasi SD Maju Pintar
+Ttd
+Dra. Fatmawati
+Jawablah pertanyaan-pertanyaan berikut ini secara lisan!
+a. apa tema pengumuman yang dibacakan gurumu itu?
+b. kapan pengumuman itu disampingkan?
+c. siapa yang membuat pengumuman itu? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#20-bacalah-bacaan-berikutperistiwa-kedatangan-bangsa-baratmulai-akhir-abad-xv-bangsa-eropa-berusaha-melakukan-penjelajahan-samudera-bangsa-eropa-yang-pernah-melakukan-penjelajahan-dan-penjajahan-di">13.
+                                            20. Bacalah bacaan berikut!Peristiwa Kedatangan Bangsa BaratMulai akhir abad XV, bangsa Eropa berusaha melakukan penjelajahan samudera.Bangsa Eropa yang pernah melakukan penjelajahan dan penjajahan di Nusantaradimulai oleh bangsa Portugis. Kapal mereka pertama kali mendarat di malaka padatahun 1511.Berikutnya ialah bangsa Spanyol yang mendarat di Tidore, Maluku pada tahun1521. Kemudian, disusul oleh bangsa Inggris dan Belanda. Kapal-kapal Belandapertama kali mendarat di Pelabuhan Banten pada tahun 1596. Faktor-faktor pendorongpenjelajahan samudera, antara lain adanya keinginan mencari kekayaan (gold), adanyakeinginan menyebarkan agama (gospel), adanya keinginan mencari kejayaan (glory),serta perkembangan ilmu pengetahuan dan teknologi.Sumber: Buku Siswa Kelas V Tema 7Buatlah 4 kalimat tanya yang menggunakan kata tanya apa, di mana, kapan, dan siapa!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#9-saya-mengucapkan-selamat-dan-terima-kasih-atas-kehadiran-teman-teman-menghadiri-kegiatanpameran-buku-apabila-dalam-penyelenggaraan-kegiatan-ini-banyak-kekurangan-panitia-memohon-maaf-kalimat-ya">14.
+                                            9.Saya mengucapkan selamat dan terima kasih atas kehadiran teman-teman menghadiri kegiatanpameran buku[...]Apabila dalam penyelenggaraan kegiatan ini banyak kekurangan, panitia memohon maaf.Kalimat yang tepat untuk melengkapi isi teks pidato tersebut adalah ....a. Akhirnya kami atas nama panitia mengucapkan selamat mengunjungi pameran buku ini.b. Puji syukur senantiasa kita panjatkan ke hadirat Tuhan yang telah memberikan kesehatan,sehingga bisa menyelenggarakan kegiatan ini.C. Demikian sambutan dari saya selaku ketua panitia semoga pameran buku ini bermanfaatd. Pameran buku ini merupakan agenda tahunan dalam rangka memotivasi para siswa agargemar membaca.10. Berikut yang bukan merupakan langkah-langkah persiapan pidato adalah ....a. mencari tahu wawasan pendengar pidato secara umumb. mencari tahu biaya yang akan disediakanc. mengetahui jenis pidato dan temanyad. menyiapkan bahan-bahan dan perlengkapan pidatobantu jawab soalnya dikumpulkan ntar malem ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#6-saya-mengucapkan-selamat-dan-terimakasih-atas-kehadiran-teman-teman-dalam-kegiatan-pameran-seni-dan-kreativitas-dalam-rangka-puncak-tema-di-semester-2-tahun-ini-apabila-dalam-penyelenggaraa">15.
+                                            6. Saya mengucapkan selamat dan terimakasih atas kehadiran teman-teman dalam kegiatan pameran seni dan kreativitas dalam rangka puncak tema di Semester 2 tahun ini.
+......
+Apabila dalam penyelenggaraan ini banyak kekurangan, panitia mohon maaf
+Kalimat yang tepat untuk melengkapi teks pidato yang rumpang tersebut adalah
+A. Akirnya kami atas nama panitia mengucapkan selamat mengunjungi pameran seni dan kreativitas ini.
+B. Puji syukur senantiasa kita panjatkan kehadirat Tuhan yang telah memberikan kesehatan sehingga bisa menyelenggarakan kegiatan ini.
+C. Demikian sambutan dari saya selaku ketua panita, semoga pameran seni dan kreativitas siswa ini bermanfaat bagi semua.
+D. Pameran buku ini merupakan agenda tahunan osis dalam rangka memotivasi para siswa agar gemar membaca.</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="bendera-pusaka-dibuat-oleh-ibu-fatmawati-isteri-presiden-soekarno-pada-tahun-1944-2-sejak-tahun-1946-sampai-dengan-1968-bendera-tersebut-hanya-dikibarkan-pada-setiap-hari-ulang-tahun-kemerdekaan">
+                            1. Bendera pusaka dibuat oleh Ibu Fatmawati , isteri Presiden Soekarno, pada tahun 1944.2) Sejak tahun 1946 sampai dengan 1968, bendera tersebut hanya dikibarkan pada setiap hari ulang tahun kemerdekaan RI. 3) Bendera disimpan di Musium Nasional Sumber : Buku Siswa Kelas 6 Tema 2   10. Kata yang tidak baku dalam bacaan tersebut adalah</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>1. Isteri</p><p>2. sampai dengan</p><p>3. musium</p><p><strong>Jawaban:</strong></p><p>Musium:Museum,museum ini penulisan yang benar</p><br />
+                                            <h2 class="ez-toc-section" id="perhatikan-paragrar-ber1-bendera-pusaka-dibuat-oleh-ibu-fatmawati-isteri-presiden-soekarno-pada-tahun1944-2-sejak-tahun-1946-sampai-dengan-1968-bendera-tersebut-hanya-dikibarkan-padasetiap-hari-u">
+                            2. Perhatikan paragrar ber1) Bendera pusaka dibuat oleh Ibu Fatmawati, isteri Presiden Soekarno, pada tahun1944.2) Sejak tahun 1946 sampai dengan 1968, bendera tersebut hanya dikibarkan padasetiap hari ulang tahun kemerdekaan RI. 3) Bendera disimpan di Musium NasionalSumber : Buku Siswa Kelas 6 Tema 2 Hal. 11910. Kata yang tidak baku dalam bacaan tersebut adalah11. Kata tanya siapa digunakan untuk menjawab kalimat nomor ... pada paragraf tersebut.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p><strong>PenjelasMungkin maksud Anda adalah: Perhatikan paragraf ber 1) Bendera pusaka dibuat oleh Ibu Fatmawati , isteri Presiden Soekarno, pada tahun 1944.2) Sejak tahun 1946 sampai dengan 1968, bendera tersebut hanya dikibarkan pada setiap hari ulang tahun kemerdekaan RI. 3) Bendera disimpan di Musium Nasional Sumber : Buku Siswa Kelas 6 Tema 2 Hal. 119 10. Kata yang tidak baku dalam bacaan tersebut adalah 11. Kata tanya siapa digunakan untuk menjawab kalimat nomor ... pada paragraf tersebut.​an:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-salah-satu-warisan-karya-budaya-yang-sangat-tua-luas-persebarannya-danmampu-bertahan-hingga-sekarang-adalah-gerabah-yakni-barang-pecah-belah-dari-tanahbakar-yang-dibuat-secara-tradisional-2-ge">
+                            3. 1) Salah satu warisan karya budaya yang sangat tua, luas persebarannya, danmampu bertahan hingga sekarang adalah gerabah, yakni barang pecah belah dari tanahbakar yang dibuat secara tradisional. 2) Gerabah juga dikenal dengan sebutan tembikar,3) Gerabah konon sudah dibuat manusia sejak mereka hidup menetap dan mula bercocoktanam beberapa ribu tahun sebelum tahun masehi, dan kini masih kita dapatkan di seluruhpelosok Nusantara, tidak terkecuali di pulau Madura.Sumber: Buku Siswa Kelas V Tema 1 Hel. 138.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maaf ini pertanyaan apa penjelasan?</p><p><strong>Jawaban:</strong></p><p>sepertinya itu informasi</p><br />
+                                            <h2 class="ez-toc-section" id="awalnya-roda-dibuat-oleh-ahli-menggunakan-mesin-pemintal-peninggalan-roda-palingtua-berasal-dari-mesopotamia-yang-digunakan-untuk-kendaraan-di-sekitar-tahun-3000-sm-kemudian-muncul-juga-di-tiongkok">
+                            4. Awalnya roda dibuat oleh ahli menggunakan mesin pemintal. Peninggalan roda palingtua berasal dari Mesopotamia yang digunakan untuk kendaraan di sekitar tahun 3000 SM.kemudian muncul juga di Tiongkok, Arab, Eropa dan belahan dunia lainnya. Perkembanganroda dimulai dari bentuk sederhana berupa balok kayu yang digulingkan, kemudian diubahmenjadi potongan melintang balok kayu, roda bundar utuh dengan pasak di tengahnyahingga roda berjari-jari. Bagian tengah roda kemudian juga diganti besi sehingga rodmenjadi semakin kuat.Sumber: Buku Siswa Kelas 6 Tema 3 Hal.Tuliskan topik dan kesimpulan dari paragraf tersebut!Jawab: ...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>roda paling tua berasal dari Mesopotamia karena digunakan kendaraan di sekitar tahun 3000 SM</p><br />
+                                            <h2 class="ez-toc-section" id="terik-matahari-seakan-membakar-siang-sekelompok-siswa-sd-berhamburan-keluardi-depan-sekolah-berbagai-jenis-jajanan-sudah-berjajar-menanti-pelangganciliknya-panasnya-siang-membuat-para-siswa-tak-seg">
+                            5. terik matahari seakan membakar siang. Sekelompok siswa SD berhamburan keluarDi depan sekolah, berbagai jenis jajanan sudah berjajar menanti pelangganciliknya. Panasnya siang membuat para siswa tak segan merogon ngmembeli minuman dingin berwarna merah menyala. Sebagian lagi membersyang dicelup ke dalam saus yang tak kalah merah warnanya. Anak-anak tersebut tidaksadar betapa bahaya menanti mereka. Mereka tidak paham bahwa beberapa tahun ke depanmerahnya sirup dan saus tersebut akan menggerogoti organ tubuh merekaSumber: buku siswa tema 638. Tuliskan 3 informasi yang terdapat dalam penggalan paragraf tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>informasi yg didapat:</p><p></p>Sekelompok siswa SD keluar kedepan sekolah saat tengah hariMereka menghabiskan uang mereka untuk membeli minuman dan jajananMereka tdk sadar bahwa makanan tersebut dapat merusak organ tubuh mereka<p><strong>Jawaban:</strong></p><p>minuman merah,saus merah dan bahaya yang ditimbulkan</p><p><strong>Penjelasan:</strong></p><p>karena banyaknya bahan pewarna yg ada pada minuman dan jajanan tersebut bisa menimbulkan penyakit kanker di kemudian hari.</p><br />
+                                            <h2 class="ez-toc-section" id="tema-3-ipas-v2020-2021as-vijawablah-soal-di-bawah-ini-dengan-jawaban-yang-tepat12-perhatikan-paragraf-berikutawalnya-roda-dibuat-oleh-ahli-menggunakan-mesin-pemintal-peninggalan-roda-palingtua-ber">
+                            6. Tema 3 IPAS V2020-2021as VIJawablah soal di bawah ini dengan jawaban yang tepat!12. Perhatikan paragraf berikut!Awalnya roda dibuat oleh ahli menggunakan mesin pemintal. Peninggalan roda palingtua berasal dari Mesopotamia yang digunakan untuk kendaraan di sekitar tahun 3000 SM.kemudian muncul juga di Tiongkok, Arab, Eropa dan belahan dunia lainnya. Perkembanganroda dimulai dari bentuk sederhana berupa balok kayu yang digulingkan, kemudian diubahmenjadi potongan melintang balok kayu, roda bundar utuh dengan pasak di tengahnya,hingga roda berjari-jari. Bagian tengah roda kemudian juga diganti besi sehingga rodamenjadi semakin kuat.Sumber: Buku Siswa Kelas 6 Tema 3 Hal. 53Tuliskan topik dan kesimpulan dari paragraf tersebut!Jawab:Pelajaran IPAKD 3.4Kak tolong bantuanya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>roda dibuat oleh ahli ngunakan mesin pemintal.yg berasal dari Mesopotamia yg digunakan selama 3000sm.</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat</p><p></p><strong>maaf</strong><strong> kalau</strong><strong> salah</strong><br />
+                                            <h2 class="ez-toc-section" id="saya-mengucapkan-selamat-dan-terima-kasih-atas-kehadiran-teman-teman-dalam-kegiatan-pameran-seni-dan-kreativitas-dalam-rangka-puncak-tema-di-semester-2-tahun-ini-%e2%80%a6%e2%80%a6-apabila-dalam-peny">
+                            7. Saya mengucapkan selamat dan terima kasih atas kehadiran teman-teman dalam kegiatan pameran seni dan kreativitas dalam rangka puncak tema di Semester 2 tahun ini. …… Apabila dalam penyelenggaraan ini banyak kekurangan, panitia mohon maafKalimat yang tepat untuk melengkapi teks pidato yang rumpang tersebut adalah ….A. Akhirnya kami atas nama panitia mengucapkan selamat mengunjungi pameran seni dan kreativitas ini.B. Puji syukur senantiasa kita panjatkan kehadirat Tuhan yang telah memberikan kesehatan sehingga bisa menyelenggarakan kegiatan ini.C. Demikian sambutan dari saya selaku ketua panita, semoga pameran seni dan kreativitas siswa ini bermanfaat bagi semua.D. Pameran buku ini merupakan agenda tahunan osis dalam rangka memotivasi para siswa agar gemar membaca.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. demikian sambutan dari saya selaku ketua panitia, semoga pameran seni dan kreativitas siswa ini bermanfaat bagi semua.</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat trims</p><br />
+                                            <h2 class="ez-toc-section" id="bacaan-berikutperistiwa-kedatangan-bangsa-baratmulai-akhir-abad-xv-bangsa-eropa-berusaha-melakukan-penjelajahan-samudera-bangsa-eropa-yang-pernah-melakukan-penjelajahan-dan-penjajahan-di-nusantaradi">
+                            8. bacaan berikut!Peristiwa kedatangan Bangsa BaratMulai akhir abad XV, bangsa Eropa berusaha melakukan penjelajahan samudera.Bangsa Eropa yang pernah melakukan penjelajahan dan penjajahan di Nusantaradimulai oleh bangsa Portugis. Kapal mereka pertama kali mendarat di malaka padatahun 1511Berikutnya ialah bangsa Spanyol yang mendarat di Tidore, Maluku pada tahun1521. Kemudian, disusul oleh bangsa Inggris dan Belanda. Kapal-kapal Belandapertama kali mendarat di Pelabuhan Banten pada tahun 1596. Faktor-faktor pendorongpenjelajahan samudera, antara lain adanya keinginan mencari kekayaan (gold), adanyakeinginan menyebarkan agama (gospel), adanya keinginan mencari kejayaan (glory).serta perkembangan ilmu pengetahuan dan teknologi.Sumber: Buku Siswa Kelas V Tema 7Buatlah 4 kalimat tanya yang menggunakan kata tanya apa, di mana, kapan, dan siapa!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Apa faktor pendorong penjelajahan samudra yang dilakukan banhsa barat?</p><p></p><p>dimana kapal portugis mendarat pertama kalinya?</p><p></p><p>kapan kapal belanda mendarat di pelabuhan Banten?</p><p></p><p>Siapa yang melakukan penjelajahan samudra?</p><br />
+                                            <h2 class="ez-toc-section" id="berilah-tanda-silang-x-pada-huruf-a-b-c-atau-d-pada-jawaban-yang-benarperhatikan-paragraf-berikut-ini-untuk-nomor-18-19selama-penjajahan-belanda-kongres-pemuda-indonesia-diselenggarakan-tiga">
+                            9. Berilah tanda silang (x) pada huruf a, b, c, atau d pada jawaban yang benar!Perhatikan paragraf berikut ini! Untuk nomor 18 - 19Selama penjajahan Belanda, Kongres Pemuda Indonesia diselenggarakan tigakali. Kongres Pemuda Indonesia I berlangsung di Jakarta pada tanggal 30 April - 2 Meitahun 1926 diikuti oleh semua organisasi pemuda. Namun Kongres Pemuda I belumdapat menghasilkan keotusan yang mewujudkan persatuan seluruh pemuda. KongresPemuda Indonesia I merupakan persiapan Kongres Pemuda Indonesia II.(Dikutip dari Buku Siswa Tema 7 hal. 51)18. Kalimat utama paragraf di atas terletak pada kalimat kea.satutigab. duad. empatC.3BANJARS55 TEMA 7 /N1/PTS 2/2020-2021​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C yaitu kalimat ke 3 </p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-tuliskan-pengertian-dari-teks-ulasan-2-sebutkan-3-karya-sastra-yang-dapat-diulas-dalam-teks-ulasan-3-sebutkan-1-karya-sastra-yang-tidak-dapat-diulas-dalam-teks-ulasan-4-tujuan-komunikatif-tek">
+                            10. 1. Tuliskan pengertian dari teks ulasan! 2. Sebutkan 3 karya sastra yang dapat diulas dalam teks ulasan! 3. Sebutkan 1 karya sastra yang tidak dapat diulas dalam teks ulasan! 4. Tujuan komunikatif teks ulasan adalah? 5. Sebutkan ciri kebahasaan / kaidah kebahasaan teks ulasan! 6. Di antara 4 konjungsi ini, yang tidak termasuk ke dalam. jenis konjungsi adalah.... Konjungsi koordinatif konjungsi subordinatif konjungsi korelatif konjungsi imperatif 7. Sebutkan struktur teks ulasan yang tepat dan berurutan! 8. Perhatikan data buku berikut ini! Judul Buku : Ku Gapai Asa Penulis Nuraya Ningsih Penerbit : Impress Book Tahun : 2017 Keunggulan: 1. Isi buku sangat menarik 2. Bahasa komunikatif kelemahan: ilustrasi gambar kurang Teks ulasan yang tepat berdasarkan ilustrasi data buku tersebut adalah... a. Buku ini isinya sangat baik. Selain itu, bahasanya komunikatif. Hanya sayang, kertas yang digunakan terlalu tipis. sangat menarik dan bahasanya komunikatif. Selain itu, dilengkapi dengan b. Buku ini isinya ilustrasi gambar yang dapat menunjang isi buku. c. Cover buku sangat menarik. Selain itu bahasanya komunikatif. Hanya sayang, kurang dilengkapi dengan ilustrasi gambar yang d. Buku ini isinya dapat menunjang isi buku. sangat menarik. Selain itu, bahasanya komunikatif. Hanya sayang, kurang dilengkapi dengan ilustrasi gambar yang dapat menunjang isi buku. 9. (1) Buku berjudul Runtuhnya Puncak Peradaban merupakan autobiografi pengarangnya, yaitu A.Mutaqin. Semua pengalaman A. Mutaqin mulai menjadi penjaja koran hingga menjadi penulis dan wartawan ibu kota disajikan dengan jelas dalam autobiografi ini. (2) Sampul buku ini cukup menarik. Tulisan disajikan secara mengalir dan diselingi cerita-cerita pengalaman menarik dan lucu. Bahasa yang digunakan pun mudah dicerna. (3) Satu-satunya kritik terhadap buku ini tertuju pada label yang diberikan penerbit. Pada sampul buku ini tertulis "Sebuah Novel", padahal pada bagian pendahuluan disebutkan autobiografi. (4) Singkatnya, buku ini akan mendorong pembaca untuk tidak menyerah dalam menggapai mimpi walau seribu kesulitan dan tantangan menghadang. Yang merupakan keunggulan buku ditunjukkan oleh nomor? Yang merupakan kekurangan buku ditunjukkan oleh nomor? 10. Buku kumpulan puisi berjudul Istana di Atas Perahu: Kumpulan Puisi untuk Siswa SMP/MTS merupakan jawaban atas kelangkaan antologi puisi untuk anak SMP. [...] Buku kumpulan puisi ini akan membuat pembaca akrab dengan puisi. Sayang kualitas cetakan kurang bagus karena hanya memakai kertas buram. Kalimat berisi keunggulan buku untuk melengkapi teks tersebut adalah... a. Bahasanya mudah dipahami. b. Cerita menggunakan alur maju. c. Banyak kata serapan dari bahasa asing. d. Tema yang diangkat seputar kehidupan pesantren.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.) teks ulasan adalah teks yang mengulas suatu hal</p><p>    atau karya dengan memberi tanggapan, komentar, atau</p><p>    pendapat mengenai karya tersebut.</p><p>2.) a) buku fiksi ( cerita anak, cerpen, dongeng, fabel,</p><p>         komik, novel) dan buku non fiksi ( jurnal, buku</p><p>         pelajaran, ensiklopedia, esai, dokumenter,</p><p>         biografi, dan laporan ilmiah) . </p><p>     b) pementasan seni (film, sinetron, tari, drama,</p><p>         musik, maupun kaset atau CD) </p><p>     c) pameran seni (seni lukis dan seni patung)</p><p>3.) syair, gurindam, puisi</p><p>4.) tujuan komunikatif dari teks ulasan adalah mengupas</p><p>     dan memberi komentar terhadap peristiwa atau karya</p><p>     seni untuk pembaca halayak ramai. </p><p>5.) konjungsi penerang, konjungsi penyebab, konjungsi</p><p>     temporal, pernyataan saran. </p><p>6.) konjungsi imperatif</p><p>7.) identitas karya,</p><p>    orientasi (pengenalan),</p><p>    sinopsis (rangkuman), </p><p>    analisis (penilaian), </p><p>    evaluasi (kelebihan &amp; kekurangan) </p><p>8.) <strong>d</strong>. buku ini isinya dapat menunjang isi buku sangat menarik Selain itu Bahasanya komunikatif hanya sayang kurang dilengkapi dengan ilustrasi gambar yang dapat menunjang isi buku. </p><p>9.) kelebihan buku ; 2</p><p>     kekurangan buku ; 3</p><p>10.) <strong>a</strong></p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p><p>Maaf kalau salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-masyarakat-nelayan-di-desa-lamalera-memiliki-tradisi-berburu-paus-yang-telahditurunkan-bertahun-tahun-oleh-nenek-moyang-mereka-2-tidak-sembarang-paus-yangmereka-buru-hanya-paus-yang-sudah-tua-s">
+                            11. 1) Masyarakat nelayan di desa Lamalera, memiliki tradisi berburu paus yang telahditurunkan bertahun-tahun oleh nenek moyang mereka. 2) Tidak sembarang paus yangmereka buru, hanya paus yang sudah tua saja yang mereka buru. 3) Jika mereka menemukanpaus muda, masyarakat nelayan di desa ini akan mengembalikannya ke laut lepas. 4)Mereka pun bersepakat secara adat bahwa dalam setahun, tidak boleh lebih dari 15 pausyang mereka buru. 5) Dengan demikian, mereka tetap menjaga agar paus tidak punah.Sumber: Buku Siswa Kelas V Tema 6 Hal. 9310. Kalimat utama paragraf di atas terdapat pada kalimat nomor ....11. Kata kunci pada paragraf di atas adalah....​</h2><br />
+                        <p><strong>Jawaban :</strong></p><p>1). Masyarakat nelayan di desa Lamalera, memiliki tradisi berburu paus yang telah  diturunkan bertahun-tahun oleh nenek moyang mereka. </p><p>2). Tidak sembarang paus yang
+mereka buru, hanya paus yang sudah tua saja yang mereka buru.</p><p>3). Jika mereka menemukan  paus muda, masyarakat nelayan di desa ini akan mengembalikannya ke laut lepas. </p><p>4)
+. Mereka pun bersepakat secara adat bahwa dalam setahun, tidak boleh lebih dari 15 paus  yang mereka buru.</p><p>5). Dengan demikian, mereka tetap menjaga agar paus tidak punah.  </p><p>10. Kalimat utama paragraf di atas terdapat pada kalimat nomor ....</p>1
+<p>11. Kata kunci pada paragraf di atas adalah....​</p>Tradisi berburu paus<p><strong>Penjelasan :</strong></p><p>Kalimat Utama </p>kalimat utama adalah sebuah kalimat yang menjadi ide dasar atau ide pokok pada suatu tulisan. Tulisan yang baik, akan menampilkan satu kalimat utama dalam satu paragraf.<p>Kita mampu untuk mengetahui sebuah kalimat utama yang berdasarkan letaknya. </p><p><strong>Terdapat 3 letak kalimat utama :</strong>  </p>Kalimat Utama Deduktif
+<p>Kalimat utama yang merupakan berada di awal sebuah paragraf. Menjadi kalimat utama yang disusul oleh satu ataupun lebih kalimat penjelas.
+</p>Kalimat Utama Induktif
+<p>Kalimat utama yang merupakan berada pada akhir paragraf. Sebelumnya telah didahului oleh satu atau lebih kalimat penjelas.
+</p>Kalimat Utama Campuran
+<p>Di dalam sebuah paragraf terdapat lebih dari 1 kalimat utama. Urutannya bisa deduktif maupun induktif.</p><p><strong>Pelajari lebih lanjut :</strong></p><p>Materi kalimat utama pada link</p><p>https://brainly.co.id/tugas/2978762</p><p><strong>#BelajarBersamaBrainly</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="pengumumandalam-rangka-menyongsong-tahun-ajaran-baru-koperasi-sekolah-menyediakan-kebutuan-buku-tulis-dan-buku-pelajaran-untuk-semua-kelas-dengan-harga-sama-dengan-harga-toko-di-luar-sekolah-untuk">
+                            12. Pengumuman
+Dalam rangka menyongsong tahun ajaran baru, koperasi sekolah menyediakan kebutuan buku tulis dan buku pelajaran untuk semua kelas dengan harga sama dengan harga toko di luar sekolah. Untuk itu, semua siswa diimbau untuk membeli buku pelajaran di koperasi sekolah. Pembelian buku diatur sebagai berikut.
+a. Kelas I, II Dan III dikoordinasi oleh wali kelas dan dilayani pada hari senin, selasa, dan rabu. Pembelian dilakukan secara kolektif.
+b. Kelas IV, V dan VI dikoordinasi oleh ketua kelas dan dilayani pada hari kamis, jumat, dan sabtu. Pembelian dilakukan secara kolektif.
+c. Penukaran buku karena rusak, cacat atau tidak lengkap dilayani pada hari rabu dan sabtu.
+Atas perhatian dan kerjasama di berikan, kami mengucapkan terima kasih.
+Ketua Koperasi SD Maju Pintar
+Ttd
+Dra. Fatmawati
+Jawablah pertanyaan-pertanyaan berikut ini secara lisan!
+a. apa tema pengumuman yang dibacakan gurumu itu?
+b. kapan pengumuman itu disampingkan?
+c. siapa yang membuat pengumuman itu? </h2><br />
+                        1. tema dari pengunguman itu adalah pemberian alat tulis dan buku kepada siswa siswi  di sekolah tersebut oleh koperasi sekolah<br />2.pada hari dimana dimulainya tahun ajaran baru<br />3.Dra.Fatmawati<br />semoga membantu maaf kalo ada kesalahan<br />Terima kasih<br />
+                                            <h2 class="ez-toc-section" id="20-bacalah-bacaan-berikutperistiwa-kedatangan-bangsa-baratmulai-akhir-abad-xv-bangsa-eropa-berusaha-melakukan-penjelajahan-samudera-bangsa-eropa-yang-pernah-melakukan-penjelajahan-dan-penjajahan-di">
+                            13. 20. Bacalah bacaan berikut!Peristiwa Kedatangan Bangsa BaratMulai akhir abad XV, bangsa Eropa berusaha melakukan penjelajahan samudera.Bangsa Eropa yang pernah melakukan penjelajahan dan penjajahan di Nusantaradimulai oleh bangsa Portugis. Kapal mereka pertama kali mendarat di malaka padatahun 1511.Berikutnya ialah bangsa Spanyol yang mendarat di Tidore, Maluku pada tahun1521. Kemudian, disusul oleh bangsa Inggris dan Belanda. Kapal-kapal Belandapertama kali mendarat di Pelabuhan Banten pada tahun 1596. Faktor-faktor pendorongpenjelajahan samudera, antara lain adanya keinginan mencari kekayaan (gold), adanyakeinginan menyebarkan agama (gospel), adanya keinginan mencari kejayaan (glory),serta perkembangan ilmu pengetahuan dan teknologi.Sumber: Buku Siswa Kelas V Tema 7Buatlah 4 kalimat tanya yang menggunakan kata tanya apa, di mana, kapan, dan siapa!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>gatau </p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="9-saya-mengucapkan-selamat-dan-terima-kasih-atas-kehadiran-teman-teman-menghadiri-kegiatanpameran-buku-apabila-dalam-penyelenggaraan-kegiatan-ini-banyak-kekurangan-panitia-memohon-maaf-kalimat-ya">
+                            14. 9.Saya mengucapkan selamat dan terima kasih atas kehadiran teman-teman menghadiri kegiatanpameran buku[...]Apabila dalam penyelenggaraan kegiatan ini banyak kekurangan, panitia memohon maaf.Kalimat yang tepat untuk melengkapi isi teks pidato tersebut adalah ....a. Akhirnya kami atas nama panitia mengucapkan selamat mengunjungi pameran buku ini.b. Puji syukur senantiasa kita panjatkan ke hadirat Tuhan yang telah memberikan kesehatan,sehingga bisa menyelenggarakan kegiatan ini.C. Demikian sambutan dari saya selaku ketua panitia semoga pameran buku ini bermanfaatd. Pameran buku ini merupakan agenda tahunan dalam rangka memotivasi para siswa agargemar membaca.10. Berikut yang bukan merupakan langkah-langkah persiapan pidato adalah ....a. mencari tahu wawasan pendengar pidato secara umumb. mencari tahu biaya yang akan disediakanc. mengetahui jenis pidato dan temanyad. menyiapkan bahan-bahan dan perlengkapan pidatobantu jawab soalnya dikumpulkan ntar malem ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>9</strong><strong>.</strong><strong> </strong><strong>saya mengucapkan selamat dan terima kasih atas kehadiran teman-teman menghadiri kegiatan pameran buku</strong><strong> </strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong> </strong><strong>apabila dalam penyelenggaraan kegiatan ini</strong><strong> banyak kekurangan, panitia memohon maaf.</strong></p><p></p><p><strong>1</strong><strong>0</strong><strong>.</strong><strong> </strong><strong>berikut yang bukan merupakan langkah-langkah persiapan</strong><strong> pidato adalah </strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong></p><p></p><p><strong>Penjelasan:</strong></p><p></p><p><strong>9</strong><strong>.</strong><strong> </strong><strong>a.</strong><strong> akhirnya kami atas nama panitia mengucapkan</strong><strong> selamat mengunjungi</strong><strong> </strong><strong>pameran buku ini.</strong></p><p></p><p><strong>1</strong><strong>0</strong><strong>.</strong><strong> </strong><strong>b.</strong><strong>mencari tahu biaya yang akan disediakan</strong></p><p></p><p></p><p></p><p><strong>terima</strong><strong> kasih</strong><strong> </strong><strong>semoga</strong><strong> bermanfaat</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>Aamiin</strong></p><br />
+                                            <h2 class="ez-toc-section" id="6-saya-mengucapkan-selamat-dan-terimakasih-atas-kehadiran-teman-teman-dalam-kegiatan-pameran-seni-dan-kreativitas-dalam-rangka-puncak-tema-di-semester-2-tahun-ini-apabila-dalam-penyelenggaraa">
+                            15. 6. Saya mengucapkan selamat dan terimakasih atas kehadiran teman-teman dalam kegiatan pameran seni dan kreativitas dalam rangka puncak tema di Semester 2 tahun ini.
+......
+Apabila dalam penyelenggaraan ini banyak kekurangan, panitia mohon maaf
+Kalimat yang tepat untuk melengkapi teks pidato yang rumpang tersebut adalah
+A. Akirnya kami atas nama panitia mengucapkan selamat mengunjungi pameran seni dan kreativitas ini.
+B. Puji syukur senantiasa kita panjatkan kehadirat Tuhan yang telah memberikan kesehatan sehingga bisa menyelenggarakan kegiatan ini.
+C. Demikian sambutan dari saya selaku ketua panita, semoga pameran seni dan kreativitas siswa ini bermanfaat bagi semua.
+D. Pameran buku ini merupakan agenda tahunan osis dalam rangka memotivasi para siswa agar gemar membaca.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c maaf kalo salah</p><p><strong>Penjelasan:</strong></p><p></p><p><strong>C.</strong> Demikian sambutan dari saya selaku ketua panita, semoga pameran seni dan kreativitas siswa ini bermanfaat bagi semua.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/hnKhYngX9iY?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-fungsi-terbilang-excel-2007/">Download Fungsi Terbilang Excel 2007</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/surat-permohonan-menempati-rumah-dinas/">Surat Permohonan Menempati Rumah Dinas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/psikotes-kepemimpinan/">Psikotes Kepemimpinan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/math-riddles-level-61/">Math Riddles Level 61</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/buku-siswa-kelas-4-kurikulum-2013-revisi-2017/">Buku Siswa Kelas 4 Kurikulum 2013 Revisi 2017</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-kmnr-kelas-3-sd/">Soal Kmnr Kelas 3 Sd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-battle-of-surabaya-bahasa-indonesia/">Download Battle Of Surabaya Bahasa Indonesia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/penjaskes-kelas-7-kurikulum-2013/">Penjaskes Kelas 7 Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-tiu-cpns/">Soal Tiu Cpns</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/surat-permohonan-pemateri-doc/">Surat Permohonan Pemateri Doc</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/magister-kenotariatan-undip/">Magister Kenotariatan Undip</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/surat-pengantar-perusahaan-ke-bpjs/">Surat Pengantar Perusahaan Ke Bpjs</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-ulangan-harian-kelas-6-tema-5-subtema-1/">Soal Ulangan Harian Kelas 6 Tema 5 Subtema 1</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-uts-ipa-kelas-7-semester-2-dan-kunci-jawaban/">Soal Uts Ipa Kelas 7 Semester 2 Dan Kunci Jawaban</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-biologi-jaringan-tumbuhan/">Soal Biologi Jaringan Tumbuhan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-cerita-penjumlahan-kelas-1-sd/">Soal Cerita Penjumlahan Kelas 1 Sd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-kelas-5-semester-2-matematika/">Soal Kelas 5 Semester 2 Matematika</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-laporan-keuangan-perusahaan-jasa-kontraktor/">Contoh Laporan Keuangan Perusahaan Jasa Kontraktor</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/kumpulan-lagu-anak-anak-full-album-mp3-rar/">Kumpulan Lagu Anak Anak Full Album Mp3 Rar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-membuat-andromax-c-dual-gsm/">Cara Membuat Andromax C Dual Gsm</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

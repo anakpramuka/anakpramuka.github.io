@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Firstasia Consultants - BELAJAR</title>
+    <meta name="description" content="Firstasia Consultants, , , , , , , 0, , , , , , 0, firstasia-consultants, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Firstasia Consultants - BELAJAR" />
+    <meta property="og:description" content="Firstasia Consultants, , , , , , , 0, , , , , , 0, firstasia-consultants, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Firstasia Consultants - BELAJAR" />
+    <meta name="twitter:description" content="Firstasia Consultants, , , , , , , 0, , , , , , 0, firstasia-consultants, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://anakpramuka.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://anakpramuka.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://anakpramuka.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://anakpramuka.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://anakpramuka.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://anakpramuka.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Firstasia Consultants</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">shofiyatuzzahra14</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Firstasia+Consultants" alt="Firstasia Consultants">
+                    </div>
+                    <p></p>
+                    <p>introgative tense2. you / see / the new consultants / last week (?)​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#introgative-tense2-you-see-the-new-consultants-last-week-%e2%80%8b">1.
+                                            introgative tense2. you / see / the new consultants / last week (?)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#the-government-to-send-a-team-of-consultants-to-work-with-the-farmers-a-want-8-wants-c-wanting-d-to-want%e2%80%8b">2.
+                                            The government.....to send a team of consultants to work with the farmers. (A) want (8) wants (C) wanting (D) to want​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#the-consultants-claim-that-they-have-a-detailed-method-of-utting-labor-costs-and-other-operating-expenses-while-optimizing-productivitya-excessivelyb-distinctlyc-emphaticallyd-drastically">3.
+                                            the consultants claim that they have a detailed method of .... utting labor costs and other operating expenses while optimizing productivity
+A. excessively
+B. distinctly
+C. emphatically
+D. drastically</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#anna-kasninovaceo-of-amoeba-corp980-crossroad-street-moscowrusia30-november-2019mr-vladimir-rajeeshmarketing-manager-of-amoeba-corp980-crossroad-street-moscowrusiadear-sirit-is-indeed-a-great-ple">4.
+                                            Anna KasninovaCEO of Amoeba Corp980 Crossroad Street, MoscowRusia30 November, 2019Mr. Vladimir RajeeshMarketing Manager of Amoeba Corp980 Crossroad Street, MoscowRusiaDear Sir,It is indeed a great pleasure to inviteyou for launch of our new magazinecalled "Veggies Daily". It will be held atSwiss-Bell Inn Ballroom Hotel on theseventh of December, 2019 at 7.30 p.m.The event will also introduce the editorand the team that has worked for thismagazineThe event is for our businesspartners and high profile clients. Theevent will start with the formal launch ofthe magazine. Covering all the issuesof health and has contributions fromleading doctors and consultants. We feltthat the society needs a magazine thatwill focus on issues related to health andhence we decided to go for this type ofpublication.       This event will give you an opportunity to interact with various clients and colleagues in media industry Please confirm your presence latest by December 5th,2019 We look forward to see you at the event.Sincerely,Betrand Sanders( Assistant to Mrs. Anna Karsinova)6. Who writes the invitation letter ?a. Vladimir Rajeesh does.b. Anna Kasninova does. c. Veggies Daily does. d. Amoeba Corp does.e. Betrand Sanders does.  please bantu jawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#6-what-is-the-letter-about-a-the-announcement-of-launching-new-magazines-b-the-invitation-to-launch-new-health-magazines-c-the-launching-of-health-and-your-magazines-d-opening-of-new-style-o">5.
+                                            6.) What is the letter about? A. The announcement of launching new magazines. B. The invitation to launch new health magazines. C. The launching of Health and your magazines. D. Opening of new style of magazine. E. The events for business partners. 7.) Whom is the letter for? A. His colleagues and clients.B. Editors and magazines' team.C. Leading doctors and consultants. D. His business partners and Clients.E. His colleagues and business partners.8.) .........[tex]hence[/tex]our decision to go for this type of publication.The underlined word has the similar meaning with? A. Because B. AlthoughC. ThereforeD. OtherwiseE. Furthermore.9.) Why will Larry House hold this event? A. To keep a good relationship with his business partner.B. To announce the launching of his new magazines.C. To inform about launching a new magazine. D. To share the experience in media industry.E. To keep in touch with his business partner.10.) In what way does this event benefit the addressee? A. Knowing editor and the team of health magazines. B. The chance to know doctors and health consultants.C. The chance to meet various doctors and consultants.D. Having valuable time with various doctors and consultants.E. The chance to meet various clients and colleagues in the media industry.Tolong bantu dijawab yang benar ya ^_^JANGAN ASAL-ASALAN!!!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#read-the-following-text-carefully-and-answer-the-questions-to-practice-architectural-engineers-apply-practical-and-theoretical-knowledge-to-the-engineering-design-of-buildings-and-building-systems-t">6.
+                                            Read the following text carefully and answer the questions to practice.
+Architectural engineers apply practical and theoretical knowledge to the engineering design of buildings and building systems. The goal is to engineer high-performance buildings that are sustainable, resilient, economically viable, that ensure the safety, health, comfort, and productivity of occupants. 
+Uniting scientific principles from structural, mechanical, electrical, lighting, acoustical, and construction engineering, architectural engineers apply their discipline-specific expertise to conceptualize, design, construct, operate and maintain built environments in interdisciplinary team environments. 
+Graduates of architectural engineering are widely considered to be creative systems engineers, with formal training in creativity and design through architectural design studios married with a solid engineering education.
+Architectural engineers have a lasting impact on society. Because people spend 86% of their time in indoors, architectural engineers concentrate on indoor building environments that prioritize the human condition and well-being of society. They also promote sustainable practices by lowering energy consumption and occupants’ carbon footprint, so much so that architectural engineering has been identified as the discipline with the highest potential to combat climate change.
+The employment opportunities for architectural engineers are endless and wide-ranging! Graduates regularly accept job offers from architectural engineering firms, consulting engineering firms, real estate developers, building equipment designers, manufacturers, designers and producers of building materials and products, facilities engineering and management groups, building owners, specialty contractors, forensic engineering consultants, building technology consultants, software developers, contractors, and construction managers. Other non-traditional employment fields for architectural engineers are in finance, outer space construction, government and policy making, code developing, and much more. Many Penn State AE alums are in key positions in their firms or even own their own businesses.
+1. Highlight 10 simple present tenses sentences (subject and verb)
+2. Write 20 nouns and 5 adjectives with their suffixes if you could find
+3. Make 10 questions (5 WH questions and 5 yes/no questions)
+4. Can you find any sentence with modals? Write them
+5. How do you notice verbal and non verbal sentences?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#in-the-following-exercise-write-out-the-sentences-using-correct-form-of-the-verbs-in-brackets-and-using-the-simple-present-and-past-tenses-where-possible-1-the-consultants-advise-the-company-a">7.
+                                            In the following exercise, write out the sentences, using correct form of the verbs in brackets and using the simple present and past tenses where possible
+. 1. The consultants (advise) the company (advertise) the new products on television. 
+2. The staff (arrange) (arrive) for the meeting. 
+3. The production of manager (agree) (improve) the quality of production. 
+4. We are still (struggle) (restore) sales to high level. 
+5. Because of Asia's crisis, the government of Indonesia (attempt) (increase) the investment. 
+6. The manager is asked to (avoid) (speak) about company's profits to their staff. 
+7. The company (delay) (introduce) the traditional product until the New Year. 8. The Company (fail) (increase) profits last year. 
+9. The advertising department (deny) (mislead) the public about the product. 10. Your job is to (persuade) politicans (accept) our industry's proposal.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#21-the-project-will-be-finished-from-under-inside-two-weeks-22-we-live-within-a-mile-to-by-of-the-school-23-he-recovered-from-withover-his-illness-quickly-24-she-was-very-upset-s">8.
+                                            21. The project will be finished (from / under / inside) two weeks.22. We live within a mile (to / by / of) the school.23. He recovered (from /with/over) his illness quickly.24. She was very upset - she looked (near / about / around) to tears.25. I want to improve (by / with / on) my last exam results.26. The break (around / without / between) lectures lasts 15 minutes.27. He was proud (in/of/ for) his achievements.28. The company used consultants from (around / without / outside).29. We swam deep (below / under / beneath) the sea to the coral beds.30. They put the chairs (along / up / about) the back wall of the hall.1. It is one (in/of/ from) my favorite songs.2. Do not wait - go ahead (before / without / beside) me.. It is easy to get a job (through/in/for) searching the internet.. The umbrella can be used (in/by/ as) a sunshade.Talk about it (from among / around) yourselves.We shared the cake (between / around / among) all of us.The shares have fallen (under/down/below) 150 pence.with /at/upon) your arrival, you will be taken directly to you​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#write-a-positive-sentence-a-negative-sentence-or-a-question-from-theprompts-use-the-past-simple-1-felipe-go-to-paris-yesterday-2you-see-the-new-consultants-last-week-2317-r">9.
+                                            Write a positive sentence (*), a negative sentence (-), or a question (?) from theprompts. Use the past simple.1 Felipe /go/ to Paris yesterday ( )2you / see / the new consultants / last week (2)317 receive / your letterThe sales team / meet / the new director this moming (1)5the produd / have / any success at the conference (?)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#anna-kasninovaceo-of-amoeba-corp980-crossroad-street-moscowrusia30-november-2019mr-vladimir-rajeeshmarketing-manager-of-amoeba-corp980-crossroad-street-moscowrusiadear-sirit-is-indeed-a-great-ple">10.
+                                            Anna KasninovaCEO of Amoeba Corp980 Crossroad Street, MoscowRusia30 November, 2019Mr. Vladimir RajeeshMarketing Manager of Amoeba Corp980 Crossroad Street, MoscowRusiaDear Sir,It is indeed a great pleasure to inviteyou for launch of our new magazinecalled "Veggies Daily". It will be held atSwiss-Bell Inn Ballroom Hotel on theseventh of December, 2019 at 7.30 p.m.The event will also introduce the editorand the team that has worked for thismagazineThe event is for our businesspartners and high profile clients. Theevent will start with the formal launch ofthe magazine. Covering all the issuesof health and has contributions fromleading doctors and consultants. We feltthat the society needs a magazine thatwill focus on issues related to health andhence we decided to go for this type ofpublication. This event will give you an opportunity to interact with various clients and colleagues in media industry Please confirm your presence latest by December 5th,2019 We look forward to see you at the event.Sincerely,Betrand Sanders( Assistant to Mrs. Anna Karsinova)7. What is the purpose of the letter?a. To invite Mr.Vladimir Rajeesh to the launching of new magazineb. To introduce Amoeba Corp's new magazine to the regent of Moscow cityc. To retell Mr. Vladimir Rajeesh that the launching event was held at Swiss-Bell Innd. To invite Mrs. Anna Karsinova as the CEO of Amoeba Corp to the launchinge. To ask Mr. Vladimir Rajeesh to reply the invitation as soon possible   Please bantu jawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#21-introduction-as-a-professional-personhello-name-is-matt-lemanski-am-the-creator-of-speaking-of-english-a-blog-forintermediate-english-learners-who-want-to-become-more-fluent-in-the-lang">11.
+                                            21. Introduction as a professional personHello, ....... name is Matt Lemanski. am the creator of Speaking of English, a blog forintermediate English learners who want to become more fluent in the language.....amoriginally from the United States and currently live in Germany. .... have been ateacher since 2008, and specialize in business writing and IELTS preparation. Beforebecoming a teacher, worked as a copyeditor for government agencies inWashington DC and as a ghostwriter for startup founders and independent consultantsaround the world. In ..... free time,, enjoy hiking, practicing photography, andexploring the city by bike.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#write-a-positive-sentence-a-negative-sentence-or-a-question-7-from-theprompts-use-the-past-simple-1-felipego-to-paris-yesterday-2you-see-the-new-consultants-last-week-3trecei">12.
+                                            Write a positive sentence (), a negative sentence (-), or a question (7) from theprompts. Use the past simple.1 Felipe/go/ to Paris yesterday (-)2you / see/ the new consultants / last week (?)3t/receive / your letter (-)4The sales team/meet / the new director this moming (*)5the product/have/ any success at the conference (?)Correct the mistakes in the sentences.6 We didn't found the presentation very interesting.7The company buyed a lot of new furniture.8Francesca not enjoyed the meal with the sales manager.9They arrive at the airport at 6 p.m. yesterday.10 The report didn't be very informative.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-the-computers-that-were-ordered-last-week-on-solar-power-a-run-b-runs-c-running-d-to-run-2-the-trade-newsletter-where-we-advertise-widely-distributed-a-has-b-have-c-is-d">13.
+                                            1. The computers that were ordered last week.....on solar power. (A) run (B) runs (C) running (D) to run 2. The trade newsletter where we advertise.....widely distributed. (A) has (B) have (C) is (D) are3. My family.....to open a restaurant soon. (A) plans(B) plan(C) planning(D) planner4. The United States.....taxes to develop the infrastructure for commerce.(A) raise(8) raises(C) rise(D) risen5. The accountant determined how much money.....spent on this project.(A) was(8) were(C) is(D) be6.The government.....to send a team of consultants to work with the farmers.(A) want(8) wants(C) wanting(D) to want7. This group of doctors.....in important research. (A) is involved(B) are involved(C) be involving(D) been involving8.Mathematics.....not easy for my brother. (A) was(B) were(C) are(D) be​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lengkapi-menggunakan-kata-di-bawah-iniapportunity%c2%a0-%c2%a0-%c2%a0-focus%c2%a0-%c2%a0-%c2%a0-%c2%a0-%c2%a0-august%c2%a0-%c2%a0-%c2%a0-%c2%a0decided%c2%a0-%c2%a0-%c2%a0-dearpresence%c2%a0-%c2%a0">14.
+                                            Lengkapi Menggunakan Kata Di Bawah Ini
+Apportunity      Focus          August       		Decided      Dear
+Presence         Start               Pleasure       Event            Contributions
+Bryan Match
+Brand Manager of Star Corp.
+980 Crossroad Street, Milan
+Italy
+30th (1) ... 2018
+Mr. Andrea Pirlo
+General Manager of Star Corp.
+980 Crossroad Street, Milan
+Italy
+(2) ... Sir,
+Bryan Match
+Brand Manager of Star Corp.
+980 Crossroad Street, Milan
+Italy
+It is indeed a great (3) ... to invite you for launch of our new magazine "Health and you".
+It will be on the seventeenth of September, 2018 at 7.30 p.m. The (4) ... will also introduce
+the editor and the team that has worked for this magazine.
+The event is for our business partners and high profile clients. The event will (5) ... with the
+formal launch of the magazine. Covering all the issues of health and has (6) ... from leading
+doctors and consultants. We felt that the society needs a magazine that will (7) ... on issues
+related to health and hence we (8) ... to go for this type of publication.
+This event will give you an (9) ... to interact with various clients and colleagues in media
+industry. Please confirm your (10) ... latest by December 10, 2018.
+We look forward to see you at the event.
+Sincerely,
+Bryan Match
+Terima Kasih</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#continue-the-following-dialog-based-on-the-e-mail-in-activity-18-mrs-andini-good-morning-sir-i-am-andini-puspitasari-general-manager-of-ct-wen-consultants-mr-danang-yes-maam-wha">15.
+                                            Continue the following dialog based on the e - mail in Activity 18 . Mrs. Andini : Good morning , Sir . I am Andini Puspitasari , General Manager of CT Wen Consultants . Mr. Danang : Yes , Ma'am . What can I do for you ? Mrs. Andini : I'd like to offer a mutual partnership with your school , Sir . Anyway , have you cooperated with any education consultant ? Mr. Danang : We haven't Mrs. Andini : Let me tell you about our education consultant , Sir . Mr. Danang : Sure . Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang :​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="introgative-tense2-you-see-the-new-consultants-last-week-%e2%80%8b">
+                            1. introgative tense2. you / see / the new consultants / last week (?)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Did you see the new consultants last week?</p><p><strong>Penjelasan:</strong></p><p>For interrogative, we can use Do, Does, Is, Did, Was, Were, Have, Had, Has, Will, Would.</p><p></p><p>Does is for the subject : He, She, It</p><p>Do is for the subject : You, They, We</p><p>Did is for the subject : You, They, We</p><p>Is is for the subject : He, She, It</p><p>Was is for the subject : He, She, It</p><p>Were is for the subject : You, They, We</p><p>Has is for the subject :He, She, It</p><p>Have is for the subject : You, They, We</p><p>Had is for the subject : He, She, They, It</p><br />
+                                            <h2 class="ez-toc-section" id="the-government-to-send-a-team-of-consultants-to-work-with-the-farmers-a-want-8-wants-c-wanting-d-to-want%e2%80%8b">
+                            2. The government.....to send a team of consultants to work with the farmers. (A) want (8) wants (C) wanting (D) to want​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. Want</p><p><strong>Penjelasan:</strong></p><p>Semoga membantuu</p><p><strong>Jawaban:</strong></p><p>b) wants</p><p></p><p>alasan: karena government itu 'it' jadi verb agreementnya pakek s</p><p></p><p>semoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="the-consultants-claim-that-they-have-a-detailed-method-of-utting-labor-costs-and-other-operating-expenses-while-optimizing-productivitya-excessivelyb-distinctlyc-emphaticallyd-drastically">
+                            3. the consultants claim that they have a detailed method of .... utting labor costs and other operating expenses while optimizing productivity
+A. excessively
+B. distinctly
+C. emphatically
+D. drastically</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. drastically, secara drastis</p><p><strong>Penjelasan:</strong></p><p>A salah karena excessive merupakan berlebihan, tidak mungkin sebuah perusahaan secara berlebihan mengurangi biaya produksinya</p><p>B distinct = jelas, sangat tidak mungkin</p><p>C empatik sangat tidak mungkin</p><br />
+                                            <h2 class="ez-toc-section" id="anna-kasninovaceo-of-amoeba-corp980-crossroad-street-moscowrusia30-november-2019mr-vladimir-rajeeshmarketing-manager-of-amoeba-corp980-crossroad-street-moscowrusiadear-sirit-is-indeed-a-great-ple">
+                            4. Anna KasninovaCEO of Amoeba Corp980 Crossroad Street, MoscowRusia30 November, 2019Mr. Vladimir RajeeshMarketing Manager of Amoeba Corp980 Crossroad Street, MoscowRusiaDear Sir,It is indeed a great pleasure to inviteyou for launch of our new magazinecalled "Veggies Daily". It will be held atSwiss-Bell Inn Ballroom Hotel on theseventh of December, 2019 at 7.30 p.m.The event will also introduce the editorand the team that has worked for thismagazineThe event is for our businesspartners and high profile clients. Theevent will start with the formal launch ofthe magazine. Covering all the issuesof health and has contributions fromleading doctors and consultants. We feltthat the society needs a magazine thatwill focus on issues related to health andhence we decided to go for this type ofpublication.       This event will give you an opportunity to interact with various clients and colleagues in media industry Please confirm your presence latest by December 5th,2019 We look forward to see you at the event.Sincerely,Betrand Sanders( Assistant to Mrs. Anna Karsinova)6. Who writes the invitation letter ?a. Vladimir Rajeesh does.b. Anna Kasninova does. c. Veggies Daily does. d. Amoeba Corp does.e. Betrand Sanders does.  please bantu jawab​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>e. Betrand Sanders does.</strong></p><br />
+                                            <h2 class="ez-toc-section" id="6-what-is-the-letter-about-a-the-announcement-of-launching-new-magazines-b-the-invitation-to-launch-new-health-magazines-c-the-launching-of-health-and-your-magazines-d-opening-of-new-style-o">
+                            5. 6.) What is the letter about? A. The announcement of launching new magazines. B. The invitation to launch new health magazines. C. The launching of Health and your magazines. D. Opening of new style of magazine. E. The events for business partners. 7.) Whom is the letter for? A. His colleagues and clients.B. Editors and magazines' team.C. Leading doctors and consultants. D. His business partners and Clients.E. His colleagues and business partners.8.) .........[tex]hence[/tex]our decision to go for this type of publication.The underlined word has the similar meaning with? A. Because B. AlthoughC. ThereforeD. OtherwiseE. Furthermore.9.) Why will Larry House hold this event? A. To keep a good relationship with his business partner.B. To announce the launching of his new magazines.C. To inform about launching a new magazine. D. To share the experience in media industry.E. To keep in touch with his business partner.10.) In what way does this event benefit the addressee? A. Knowing editor and the team of health magazines. B. The chance to know doctors and health consultants.C. The chance to meet various doctors and consultants.D. Having valuable time with various doctors and consultants.E. The chance to meet various clients and colleagues in the media industry.Tolong bantu dijawab yang benar ya ^_^JANGAN ASAL-ASALAN!!!​</h2><br />
+                        <p><strong>Bahasa Inggris </strong>adalah salah satu bahasa yang berlaku universal yang digunakan di seluruh negara yang ada di dunia ini dan bersifat internasional. <strong>Based on the letter,</strong> it can be concluded that:</p><p>6. The letter about the invitation to launch new health magazines (B).</p><p>7. The letter for his colleagues and business partners (E).</p><p>8. The underlined word has the similar meaning with because (A).</p><p>9. Larry House hold this event because to announce the launching of his new magazines (B).</p><p>10. This event benefit the addressee to the chance to meet various clients and colleagues in the media industry (E).</p><p></p><p><strong>Pembahasan:</strong></p><p>Belajar mata pelajaran Bahasa Inggris sangat menarik dan menyenangkan. Kita akan belajar tentang tenses, grammar, letter, dan lain sebagainya. <strong>Bahasa Inggris </strong>adalah salah satu bahasa yang berlaku universal yang digunakan di seluruh negara yang ada di dunia ini dan bersifat internasional. <strong>Based on the letter,</strong> it can be concluded that:</p><p>6. The letter about the invitation to launch new health magazines (B).</p><p>7. The letter for his colleagues and business partners (E).</p><p>8. The underlined word has the similar meaning with because (A).</p><p>9. Larry House hold this event because to announce the launching of his new magazines (B).</p><p>10. This event benefit the addressee to the chance to meet various clients and colleagues in the media industry (E).</p><p><strong>Pelajari lebih lanjut</strong></p>Materi tentang pengertian identification dalam description text brainly.co.id/tugas/5035658Materi tentang contoh surat dalam Bahasa Inggris brainly.co.id/tugas/804229Materi tentang contoh pidato dalam Bahasa Inggris brainly.co.id/tugas/5265987<p><strong>Detail jawaban</strong></p><p><strong>Kelas : 7</strong></p><p><strong>Mapel : Bahasa Inggris</strong></p><p><strong>Bab : Describing Object</strong></p><p><strong>Kode : 7.5.7</strong></p><p></p><p><strong>#TingkatkanPrestasimu</strong></p><p><strong>#SPJ3</strong></p><br />
+                                            <h2 class="ez-toc-section" id="read-the-following-text-carefully-and-answer-the-questions-to-practice-architectural-engineers-apply-practical-and-theoretical-knowledge-to-the-engineering-design-of-buildings-and-building-systems-t">
+                            6. Read the following text carefully and answer the questions to practice.
+Architectural engineers apply practical and theoretical knowledge to the engineering design of buildings and building systems. The goal is to engineer high-performance buildings that are sustainable, resilient, economically viable, that ensure the safety, health, comfort, and productivity of occupants. 
+Uniting scientific principles from structural, mechanical, electrical, lighting, acoustical, and construction engineering, architectural engineers apply their discipline-specific expertise to conceptualize, design, construct, operate and maintain built environments in interdisciplinary team environments. 
+Graduates of architectural engineering are widely considered to be creative systems engineers, with formal training in creativity and design through architectural design studios married with a solid engineering education.
+Architectural engineers have a lasting impact on society. Because people spend 86% of their time in indoors, architectural engineers concentrate on indoor building environments that prioritize the human condition and well-being of society. They also promote sustainable practices by lowering energy consumption and occupants’ carbon footprint, so much so that architectural engineering has been identified as the discipline with the highest potential to combat climate change.
+The employment opportunities for architectural engineers are endless and wide-ranging! Graduates regularly accept job offers from architectural engineering firms, consulting engineering firms, real estate developers, building equipment designers, manufacturers, designers and producers of building materials and products, facilities engineering and management groups, building owners, specialty contractors, forensic engineering consultants, building technology consultants, software developers, contractors, and construction managers. Other non-traditional employment fields for architectural engineers are in finance, outer space construction, government and policy making, code developing, and much more. Many Penn State AE alums are in key positions in their firms or even own their own businesses.
+1. Highlight 10 simple present tenses sentences (subject and verb)
+2. Write 20 nouns and 5 adjectives with their suffixes if you could find
+3. Make 10 questions (5 WH questions and 5 yes/no questions)
+4. Can you find any sentence with modals? Write them
+5. How do you notice verbal and non verbal sentences?</h2><br />
+                        Read the following text carefully and answer the questions to practice.<p>Architectural engineers apply practical and theoretical knowledge to the engineering <strong>design of buildings</strong> and <strong>building systems</strong>. The goal is to engineer high-performance buildings that are sustainable, resilient, economically viable, that ensure the <strong>safety, health, comfort</strong>, and productivity of occupants. </p><p>Uniting <strong>scientific principles</strong> from structural, mechanical, electrical, lighting, acoustical, and construction engineering, architectural engineers apply their discipline-specific expertise to conceptualize, design, construct, operate and maintain built <strong>environments</strong> in interdisciplinary team environments. </p><p>Graduates of architectural engineering are widely considered to be creative system engineers, with formal training in creativity and design through <strong>architectural design studios</strong> married with a solid engineering education.</p><p><strong>Architectural engineers</strong> have a lasting impact on society. Because people spend 86% of their time in indoors, architectural engineers concentrate  on indoor building environments that prioritize the human condition and well-being of society. They also promote sustainable practices by lowering energy consumption and <strong>occupants’</strong> carbon footprint, so much so that architectural engineering has been identified as the <strong>discipline</strong> with the highest potential to combat climate change.</p><p><strong>The employment opportunities</strong> for architectural engineers are <strong>endless</strong> and wide-ranging! Graduates regularly accept job offers from architectural engineering firms, consulting engineering firms, <strong>real estate developers, building equipment designers, manufacturers, designers and producers</strong> of building materials and products,<strong>facilities engineering and management groups, building owners, specialty contractors, forensic engineering consultants, building technology consultants, software developers, contractors, and construction managers</strong> . Other non-traditional employment fields for architectural engineers are in finance, outer space construction, government and policy making, code developing, and much more. Many Penn State AE alums are in key positions in their firms or even own their own <strong>businesses.</strong></p><p><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong><strong>-</strong></p><p><strong>QUESTION</strong></p><p>1. Highlight 10 simple present tenses sentences (subject and verb)</p><p><strong>Answers : di teks saya garis bawahi.</strong></p><p>2. Write 20 nouns and 5 adjectives with their suffixes if you could find</p><p><strong>Answers : Nouns ( tulisan tebal ), Adjectives ( tulisan tebal miring )</strong></p><p>3. Make 10 questions (5 WH questions and 5 yes/no questions)</p><p><strong>Answers : </strong><strong>1</strong><strong>0</strong><strong> </strong><strong>5W1H</strong></p><strong>What is the text About</strong><strong>?</strong><strong>What</strong><strong> </strong><strong>is</strong><strong> </strong><strong>the</strong><strong> </strong><strong>Architectural engineers</strong><strong> </strong><strong>?</strong><strong>What is the difference between architectural engineering and architecture?</strong><strong>What is the goal from the Architectural engineers?</strong><strong>"</strong><strong>that</strong><strong>"</strong><strong> </strong><strong>ensure</strong><strong>,</strong><strong> </strong><strong>What</strong><strong> </strong><strong>is</strong><strong> </strong><strong>the</strong><strong> </strong><strong>underlined</strong><strong> </strong><strong>word</strong><strong> </strong><strong>refers</strong><strong> </strong><strong>to</strong><strong>?</strong><strong>Are </strong><strong> non-traditional employment fields for architectural engineers </strong><strong>aren't</strong><strong> in finance</strong><strong>?</strong><strong>how </strong><strong>many</strong><strong> </strong><strong>Penn State AE alums </strong><strong>are</strong><strong> i</strong><strong>n</strong><strong> </strong><strong>Othern</strong><strong> key </strong><strong>positions</strong><strong>?</strong><strong>how</strong><strong> </strong><strong>much</strong><strong> </strong><strong>peopl</strong><strong>e</strong><strong> </strong><strong>spend </strong><strong>of</strong><strong> </strong><strong>their </strong><strong>time</strong><strong> </strong><strong>in</strong><strong> </strong><strong>indoors</strong><strong>?</strong><strong>What</strong><strong> </strong><strong>are</strong><strong> </strong><strong>the</strong><strong> </strong><strong>Graduates regularly accept job offers from</strong><strong>?</strong><strong>What </strong><strong>is </strong><strong>the </strong><strong>Architectural</strong><strong> engineers </strong><strong>have</strong><strong>?</strong><p><strong>5</strong><strong> </strong><strong>yes</strong><strong>/</strong><strong>no</strong><strong> </strong><strong>Quest</strong><strong>ion</strong></p><strong>ls </strong><strong>The</strong><strong> goal is to engineer high-performance </strong><strong>buildings</strong><strong>?</strong><strong>ls </strong><strong>the </strong><strong>people</strong><strong> spend </strong><strong>9</strong><strong>0</strong><strong>% of their time in </strong><strong>indoors</strong><strong>?</strong><strong>Are </strong><strong>m</strong><strong>any</strong><strong> Penn State AE alums are in key positions in their firms or even own their own businesses.</strong><strong>?</strong><strong>Can </strong><strong>the </strong><strong>Graduates</strong><strong> of </strong><strong>architectural</strong><strong> </strong><strong>to be creative system engineers</strong><strong>?</strong><strong>ls</strong><strong> </strong><strong>Architectural engineers have a lasting impact on society</strong><strong>?</strong><strong> </strong><strong>Explain </strong><strong>it</strong><strong>!</strong><p>4. Can you find any sentence with modals? Write them!</p><p><strong>Answers</strong><strong> </strong><strong>:</strong><strong> </strong><strong>No</strong><strong> </strong><strong>,</strong><strong> </strong><strong>l</strong><strong> </strong><strong>can't</strong><strong>.</strong><strong> </strong><strong>because</strong><strong> there</strong><strong> are</strong><strong> </strong><strong>not</strong><strong> </strong><strong>modals</strong><strong> </strong><strong>in</strong><strong> </strong><strong>the</strong><strong> </strong><strong>text</strong><strong>.</strong></p><p>5. How do you notice verbal and non verbal sentences?</p><p><strong>Answers</strong><strong> </strong><strong>:</strong><strong> </strong><strong>Verbal</strong><strong> </strong><strong>sente</strong><strong>nces</strong><strong> </strong><strong>(</strong><strong> </strong><strong>simpl</strong><strong>e</strong><strong> present</strong><strong> tense</strong><strong> </strong><strong>)</strong><strong>,</strong><strong> </strong><strong>Subject</strong><strong> </strong><strong>+</strong><strong> </strong><strong>Verb</strong><strong> </strong><strong>(</strong><strong> </strong><strong>isn't</strong><strong> </strong><strong>using</strong><strong> </strong><strong>to</strong><strong> </strong><strong>be</strong><strong> </strong><strong>)</strong><strong>,</strong><strong> </strong><strong>Non</strong><strong> </strong><strong>verbal</strong><strong> </strong><strong>sente</strong><strong>nces</strong><strong> </strong><strong>(</strong><strong> </strong><strong>nominal</strong><strong> </strong><strong>simple</strong><strong> present</strong><strong> tense</strong><strong> </strong><strong>)</strong><strong> </strong><strong>,</strong><strong> </strong><strong>Subject</strong><strong> </strong><strong>+</strong><strong> </strong><strong>ToBe</strong><strong> </strong><strong>(</strong><strong> </strong><strong>ls</strong><strong>/</strong><strong>Am</strong><strong>/</strong><strong>Are</strong><strong> </strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>noun</strong><strong> </strong><strong>(</strong><strong> </strong><strong>ls</strong><strong> </strong><strong>using </strong><strong>ToBe</strong><strong>,</strong><strong> </strong><strong>non</strong><strong> </strong><strong>verb</strong><strong> </strong><strong>)</strong></p><p><strong>Penjel</strong><strong>asan</strong><strong>:</strong></p><p><strong>Simple</strong><strong> </strong><strong>present</strong><strong> tense</strong><strong> adalah</strong><strong> </strong>kalimat yang menjelaskan kegiatan yang berulang dan merupakan fakta.</p><p><strong>Pola</strong><strong> </strong><strong>kalimat</strong><strong> </strong><strong>verbal</strong></p><p>(+) Subjek + Verb es / s | Verb infinite + Objek</p><p>(-) Subjek + Don't/doesn't + Verb infinite + Objek</p><p>(?) Do/Does + Subjek + Verb infinite + Objek?</p><p><strong>Pola</strong><strong> </strong><strong>kalimat</strong><strong> </strong><strong>nominal</strong></p><p>(+) Subjek + ToBe (ls/Am/Are) + Noun</p><p>(-) Subjek + ToBe (ls/Am/Are) not + Noun</p><p>(?) ls/am/Are + Subjek + noun?</p><p><strong>Noun</strong><strong> </strong><strong>berarti</strong><strong> </strong><strong>kata</strong><strong> </strong><strong>bend</strong><strong>a</strong><strong>,</strong><strong> </strong><strong>dan </strong><strong>adject</strong><strong>ive</strong><strong> </strong><strong>bera</strong><strong>rti</strong><strong> </strong><strong>kata</strong><strong> </strong><strong>sifat</strong><strong> </strong><strong>yg</strong><strong> </strong><strong>dimil</strong><strong>iki</strong><strong> </strong><strong>ol</strong><strong>eh</strong><strong> </strong><strong>objek</strong><strong> </strong><strong>benda</strong><strong> </strong><strong>maupun</strong><strong> </strong><strong>subjek</strong><strong>.</strong></p><p><strong>5</strong><strong>W</strong><strong>1</strong><strong>H</strong><strong> </strong><strong>terd</strong><strong>iri</strong><strong> dari</strong><strong>:</strong></p>What ( apa )Who ( Siapa )Where ( Dimana )When ( Kapan )Why ( Mengapa )How ( Bagaimana )<p><strong>Semua</strong><strong> </strong><strong>perta</strong><strong>nyaan</strong><strong> </strong><strong>5</strong><strong>W</strong><strong>1</strong><strong>H</strong><strong> </strong><strong>diamb</strong><strong>il</strong><strong> </strong><strong>berdasarkan</strong><strong> </strong><strong>teks</strong><strong> </strong><strong>bac</strong><strong>aan</strong><strong> </strong><strong>ters</strong><strong>ebut</strong><strong>,</strong><strong> </strong><strong>jadi</strong><strong>,</strong><strong> </strong><strong>jawaba</strong><strong>nnya</strong><strong> </strong><strong>ada</strong><strong> </strong><strong>di</strong><strong> </strong><strong>teks</strong><strong> </strong><strong>sem</strong><strong>ua</strong><strong>.</strong></p><p><strong>Yes</strong><strong>/</strong><strong>No</strong><strong> </strong><strong>quest</strong><strong>ion</strong><strong>.</strong></p><p>Pertanyaan pada bagian ini , biasanya diawali dengan salah satu ToBe yg terdiri dari:</p>Am --&gt; Subjek lls ----&gt; Subjek He/She/ltAre ---&gt; Subjek They/We/You<p>atau bisa juga diawali dengan modals verb seperti:</p><p><strong>Present</strong></p>Will (akan) Shall (akan) Must (harus)May (mungkin)Should/ought to (seharusnya) Can (dapat)<p><strong>P</strong><strong>a</strong><strong>s</strong><strong>t</strong></p>WouldMightCould<p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong> </strong><strong>_</strong><strong>_</strong><strong>_</strong><strong> </strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong> </strong><strong>_</strong><strong> </strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p><strong>#</strong><strong>T</strong><strong>e</strong><strong>r</strong><strong>b</strong><strong>a</strong><strong>i</strong><strong>k</strong></p><br />
+                                            <h2 class="ez-toc-section" id="in-the-following-exercise-write-out-the-sentences-using-correct-form-of-the-verbs-in-brackets-and-using-the-simple-present-and-past-tenses-where-possible-1-the-consultants-advise-the-company-a">
+                            7. In the following exercise, write out the sentences, using correct form of the verbs in brackets and using the simple present and past tenses where possible
+. 1. The consultants (advise) the company (advertise) the new products on television. 
+2. The staff (arrange) (arrive) for the meeting. 
+3. The production of manager (agree) (improve) the quality of production. 
+4. We are still (struggle) (restore) sales to high level. 
+5. Because of Asia's crisis, the government of Indonesia (attempt) (increase) the investment. 
+6. The manager is asked to (avoid) (speak) about company's profits to their staff. 
+7. The company (delay) (introduce) the traditional product until the New Year. 8. The Company (fail) (increase) profits last year. 
+9. The advertising department (deny) (mislead) the public about the product. 10. Your job is to (persuade) politicans (accept) our industry's proposal.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Did you just come out of the oven? Because you're hot</p><p></p><p>I know someone that would be a better fit for you. I’ll email you her information. </p><p></p><p>I have my own difficult times to deal with right now, and I feel like I am not in a position to put that burden on someone else. </p><br />
+                                            <h2 class="ez-toc-section" id="21-the-project-will-be-finished-from-under-inside-two-weeks-22-we-live-within-a-mile-to-by-of-the-school-23-he-recovered-from-withover-his-illness-quickly-24-she-was-very-upset-s">
+                            8. 21. The project will be finished (from / under / inside) two weeks.22. We live within a mile (to / by / of) the school.23. He recovered (from /with/over) his illness quickly.24. She was very upset - she looked (near / about / around) to tears.25. I want to improve (by / with / on) my last exam results.26. The break (around / without / between) lectures lasts 15 minutes.27. He was proud (in/of/ for) his achievements.28. The company used consultants from (around / without / outside).29. We swam deep (below / under / beneath) the sea to the coral beds.30. They put the chairs (along / up / about) the back wall of the hall.1. It is one (in/of/ from) my favorite songs.2. Do not wait - go ahead (before / without / beside) me.. It is easy to get a job (through/in/for) searching the internet.. The umbrella can be used (in/by/ as) a sunshade.Talk about it (from among / around) yourselves.We shared the cake (between / around / among) all of us.The shares have fallen (under/down/below) 150 pence.with /at/upon) your arrival, you will be taken directly to you​</h2><br />
+                        <p>21. Proyek akan selesai (dari / bawah / dalam) dua minggu.</p><p>22. Kami tinggal dalam jarak satu mil (ke / oleh / dari) sekolah.</p><p>23. Ia sembuh (dari / dengan / lebih) penyakitnya dengan cepat.</p><p>24. Dia sangat kesal - dia melihat (dekat / sekitar) hingga menangis.</p><p>25. Saya ingin meningkatkan (dengan / dengan / pada) hasil ujian terakhir saya.</p><p>26. Istirahat (sekitar / tanpa / antara) perkuliahan berlangsung selama 15 menit.</p><p>27. Dia bangga (atas) prestasinya.</p><p>28. Perusahaan menggunakan konsultan dari (sekitar / tanpa / luar).</p><p>29. Kami berenang di dalam (di bawah / di bawah / di bawah) laut menuju dasar karang.</p><p>30. Mereka meletakkan kursi (di sepanjang / di sekitar) dinding belakang aula.</p><p>1. Ini adalah salah satu (dalam / dari / dari) lagu favorit saya.</p><p>2. Jangan menunggu - lanjutkan (sebelum / tanpa / di samping) saya.</p><p>. Sangat mudah untuk mendapatkan pekerjaan (melalui / di / untuk) mencari di internet.</p><p>. Payung bisa digunakan (di / oleh / sebagai) kerai.</p><p>Bicarakan tentang itu (dari antara / sekitar) dirimu sendiri.</p><p>Kami berbagi kue (di antara / di sekitar / di antara) kami semua.</p><p>Saham telah jatuh (di bawah / di bawah / di bawah) 150 pence.</p><p>dengan / pada / setelah) kedatangan Anda, Anda akan dibawa langsung ke tempat Anda</p><p></p>mungkin maksud nya diartikan kedalam bahasa indonesia<p></p><br />
+                                            <h2 class="ez-toc-section" id="write-a-positive-sentence-a-negative-sentence-or-a-question-from-theprompts-use-the-past-simple-1-felipe-go-to-paris-yesterday-2you-see-the-new-consultants-last-week-2317-r">
+                            9. Write a positive sentence (*), a negative sentence (-), or a question (?) from theprompts. Use the past simple.1 Felipe /go/ to Paris yesterday ( )2you / see / the new consultants / last week (2)317 receive / your letterThe sales team / meet / the new director this moming (1)5the produd / have / any success at the conference (?)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>......................….........</p><br />
+                                            <h2 class="ez-toc-section" id="anna-kasninovaceo-of-amoeba-corp980-crossroad-street-moscowrusia30-november-2019mr-vladimir-rajeeshmarketing-manager-of-amoeba-corp980-crossroad-street-moscowrusiadear-sirit-is-indeed-a-great-ple">
+                            10. Anna KasninovaCEO of Amoeba Corp980 Crossroad Street, MoscowRusia30 November, 2019Mr. Vladimir RajeeshMarketing Manager of Amoeba Corp980 Crossroad Street, MoscowRusiaDear Sir,It is indeed a great pleasure to inviteyou for launch of our new magazinecalled "Veggies Daily". It will be held atSwiss-Bell Inn Ballroom Hotel on theseventh of December, 2019 at 7.30 p.m.The event will also introduce the editorand the team that has worked for thismagazineThe event is for our businesspartners and high profile clients. Theevent will start with the formal launch ofthe magazine. Covering all the issuesof health and has contributions fromleading doctors and consultants. We feltthat the society needs a magazine thatwill focus on issues related to health andhence we decided to go for this type ofpublication. This event will give you an opportunity to interact with various clients and colleagues in media industry Please confirm your presence latest by December 5th,2019 We look forward to see you at the event.Sincerely,Betrand Sanders( Assistant to Mrs. Anna Karsinova)7. What is the purpose of the letter?a. To invite Mr.Vladimir Rajeesh to the launching of new magazineb. To introduce Amoeba Corp's new magazine to the regent of Moscow cityc. To retell Mr. Vladimir Rajeesh that the launching event was held at Swiss-Bell Innd. To invite Mrs. Anna Karsinova as the CEO of Amoeba Corp to the launchinge. To ask Mr. Vladimir Rajeesh to reply the invitation as soon possible   Please bantu jawab​</h2><br />
+                        <strong>A.</strong><strong> </strong><strong>to </strong><strong>invite</strong><strong> </strong><strong>Mr.vladmir </strong><strong>Rajeesh </strong><strong>to </strong><strong>the </strong><strong>launching</strong><strong> </strong><strong>of </strong><strong>new </strong><strong>magazine</strong><p></p><p>hope this helps</p><br />
+                                            <h2 class="ez-toc-section" id="21-introduction-as-a-professional-personhello-name-is-matt-lemanski-am-the-creator-of-speaking-of-english-a-blog-forintermediate-english-learners-who-want-to-become-more-fluent-in-the-lang">
+                            11. 21. Introduction as a professional personHello, ....... name is Matt Lemanski. am the creator of Speaking of English, a blog forintermediate English learners who want to become more fluent in the language.....amoriginally from the United States and currently live in Germany. .... have been ateacher since 2008, and specialize in business writing and IELTS preparation. Beforebecoming a teacher, worked as a copyeditor for government agencies inWashington DC and as a ghostwriter for startup founders and independent consultantsaround the world. In ..... free time,, enjoy hiking, practicing photography, andexploring the city by bike.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>my</p><p>i</p><p>i've</p><p>my</p><p></p><p>semoga bermanfaat</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="write-a-positive-sentence-a-negative-sentence-or-a-question-7-from-theprompts-use-the-past-simple-1-felipego-to-paris-yesterday-2you-see-the-new-consultants-last-week-3trecei">
+                            12. Write a positive sentence (), a negative sentence (-), or a question (7) from theprompts. Use the past simple.1 Felipe/go/ to Paris yesterday (-)2you / see/ the new consultants / last week (?)3t/receive / your letter (-)4The sales team/meet / the new director this moming (*)5the product/have/ any success at the conference (?)Correct the mistakes in the sentences.6 We didn't found the presentation very interesting.7The company buyed a lot of new furniture.8Francesca not enjoyed the meal with the sales manager.9They arrive at the airport at 6 p.m. yesterday.10 The report didn't be very informative.​</h2><br />
+                        <p><strong>Jawaban:</strong></p>Felipe didn't go to Paris yesterday.Did you see the new consultants last week?I didn't recieve your letter.The sales team met the new director this morning.Did the product have any success at the conference?We didn't find the presentation very interesting.The company bought a lot of new furniture.Francesca didn't enjoy the meal with the sales manager.They arrived at 6 p.m. yesterday.The report isn't very informative.<p><strong>Penjelasan:</strong></p><p>sorry if I'm wrong</p><p><strong>Jawaban:</strong></p><p>1. Felipe <strong>did not</strong> go<strong> </strong>to paris yesterday </p><p>2. did you see the new consultants last week<strong>?</strong><strong> </strong></p><p>3. <strong>i</strong><strong> </strong><strong>did</strong><strong> </strong><strong>not</strong><strong> </strong>receive your letter</p><p>4. the sales team <strong>met</strong><strong> </strong>the new director this morning</p><p>5. did the product have any succsess at the conference? </p><p>6. we didn't <strong>find</strong> the presentation very interisting</p><p>7. The company <strong>bought</strong><strong> </strong>a lot of new furniture</p><p>8. francesca <strong>didn't</strong><strong> </strong>enjoy the meal with the sales manager. </p><p>9. they <strong>arrived</strong><strong> </strong>at the airport at 6 p. m yesterday</p><p>10. The report <strong>was</strong><strong> </strong><strong>not</strong><strong> </strong>very informative</p><br />
+                                            <h2 class="ez-toc-section" id="1-the-computers-that-were-ordered-last-week-on-solar-power-a-run-b-runs-c-running-d-to-run-2-the-trade-newsletter-where-we-advertise-widely-distributed-a-has-b-have-c-is-d">
+                            13. 1. The computers that were ordered last week.....on solar power. (A) run (B) runs (C) running (D) to run 2. The trade newsletter where we advertise.....widely distributed. (A) has (B) have (C) is (D) are3. My family.....to open a restaurant soon. (A) plans(B) plan(C) planning(D) planner4. The United States.....taxes to develop the infrastructure for commerce.(A) raise(8) raises(C) rise(D) risen5. The accountant determined how much money.....spent on this project.(A) was(8) were(C) is(D) be6.The government.....to send a team of consultants to work with the farmers.(A) want(8) wants(C) wanting(D) to want7. This group of doctors.....in important research. (A) is involved(B) are involved(C) be involving(D) been involving8.Mathematics.....not easy for my brother. (A) was(B) were(C) are(D) be​</h2><br />
+                        Subjek tunggal harus diikuti oleh kata kerja tunggal; subjek jamak harus diikuti oleh kata kerja jamak<br /><br />1. The computers that were ordered last week run on solar power. <br />The computers adalah subjek jamak<br /><br />2. The trade newsletter where we advertise is widely distributed. <br />The trade newsletter adalah subjek tunggal<br /><br />3. My family plans to open a restaurant soon. <br />My family termasuk kata benda kolektif yang di anggap subjek tunggal<br /><br />4. The United States raises taxes to develop the infrastructure for commerce.<br />Negara termasuk kata benda kolektif yang di anggap subjek tunggal<br /><br />5. The accountant determined how much money was spent on this project.<br />The accountant: subjek tunggal<br />Determined: indikator past tense<br /><br />6.The government wants to send a team of consultants to work with the farmers.<br />Government adalah kata benda kolektif yang di anggap subjek tunggal<br /><br />7. This group of doctors is involved in important research. <br />Group of doctors adalah kata benda kolektif yang di anggap subjek tunggal<br /><br />8.Mathematics was not easy for my brother. <br />Mathematics adalah sebuah bidang studi = subjek tunggal<br />
+                                            <h2 class="ez-toc-section" id="lengkapi-menggunakan-kata-di-bawah-iniapportunity%c2%a0-%c2%a0-%c2%a0-focus%c2%a0-%c2%a0-%c2%a0-%c2%a0-%c2%a0-august%c2%a0-%c2%a0-%c2%a0-%c2%a0decided%c2%a0-%c2%a0-%c2%a0-dearpresence%c2%a0-%c2%a0">
+                            14. Lengkapi Menggunakan Kata Di Bawah Ini
+Apportunity      Focus          August       		Decided      Dear
+Presence         Start               Pleasure       Event            Contributions
+Bryan Match
+Brand Manager of Star Corp.
+980 Crossroad Street, Milan
+Italy
+30th (1) ... 2018
+Mr. Andrea Pirlo
+General Manager of Star Corp.
+980 Crossroad Street, Milan
+Italy
+(2) ... Sir,
+Bryan Match
+Brand Manager of Star Corp.
+980 Crossroad Street, Milan
+Italy
+It is indeed a great (3) ... to invite you for launch of our new magazine "Health and you".
+It will be on the seventeenth of September, 2018 at 7.30 p.m. The (4) ... will also introduce
+the editor and the team that has worked for this magazine.
+The event is for our business partners and high profile clients. The event will (5) ... with the
+formal launch of the magazine. Covering all the issues of health and has (6) ... from leading
+doctors and consultants. We felt that the society needs a magazine that will (7) ... on issues
+related to health and hence we (8) ... to go for this type of publication.
+This event will give you an (9) ... to interact with various clients and colleagues in media
+industry. Please confirm your (10) ... latest by December 10, 2018.
+We look forward to see you at the event.
+Sincerely,
+Bryan Match
+Terima Kasih</h2><br />
+                        1. August<br />2. dear<br />3. pleasure<br />4. event<br />5. start<br />6. contributions<br />7.  focus<br />8. decided<br />9. apportunity<br />10. presence<br /><br />maaf kl ada yg salah<br />
+                                            <h2 class="ez-toc-section" id="continue-the-following-dialog-based-on-the-e-mail-in-activity-18-mrs-andini-good-morning-sir-i-am-andini-puspitasari-general-manager-of-ct-wen-consultants-mr-danang-yes-maam-wha">
+                            15. Continue the following dialog based on the e - mail in Activity 18 . Mrs. Andini : Good morning , Sir . I am Andini Puspitasari , General Manager of CT Wen Consultants . Mr. Danang : Yes , Ma'am . What can I do for you ? Mrs. Andini : I'd like to offer a mutual partnership with your school , Sir . Anyway , have you cooperated with any education consultant ? Mr. Danang : We haven't Mrs. Andini : Let me tell you about our education consultant , Sir . Mr. Danang : Sure . Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang : Mrs. Andini : Mr. Danang :​</h2><br />
+                        <p>Mrs. Andini : <strong>Our consultant is </strong>a prominent education consultant in Indonesia, Sir. </p><p>Mr. Danang : That's terrific. <strong>Tell me more</strong> about your organization. </p><p>Mrs. Andini : Certainly, Sir. <strong>We have more promotion</strong> for schools and offering you a partnership. </p><p>Mr. Danang : What kind of partnership?</p><p>Mrs. Andini : <strong>This partnership will take your school</strong> to the next level of promotions among student candidate. And we will help you in other field. </p><p>Mr. Danang : What's the other field?</p><p>Mrs. Andini : More profit. </p><p>Mr. Danang : More profit? How?</p><p>Mrs. Andini : We will help you to achieve a global promotions and getting recognized at international level. And we will help you with excellent advertisement and promotion programs. </p><p>Mr. Danang :​ That's really interesting. </p>Pembahasan<p>Soal di atas cukup mudah yaitu <strong>meneruskan dialog</strong> yang sudah dimulai di atas. <strong>Bahannya adalah teks email</strong> mengenai konsultan pendidikan. Jadi Mrs Andini menawarkan kerjasama dengan sekolah agar sekolah tersebut menjadi lebih dikenal oleh dunia pendidikan. </p>Pelajari lebih lanjutMateri tentang memahami suggestion and offer https://brainly.co.id/tugas/482497<p><strong>#BelajarBersamaBrainly #SPJ1</strong></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/frp-vivo-y71/">Frp Vivo Y71</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/download-poker-boya/">Download Poker Boya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-ulangan-harian-kelas-6-tema-5-subtema-1/">Soal Ulangan Harian Kelas 6 Tema 5 Subtema 1</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-cerita-bangun-ruang-sisi-datar/">Soal Cerita Bangun Ruang Sisi Datar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-un-smk-bahasa-inggris/">Soal Un Smk Bahasa Inggris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/latihan-soal-ipa-kelas-8-semester-1/">Latihan Soal Ipa Kelas 8 Semester 1</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/pendidikan-agama-islam-kelas-7-kurikulum-2013/">Pendidikan Agama Islam Kelas 7 Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/chord-for-revenge-sendiri/">Chord For Revenge Sendiri</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/materi-news-item-in-english/">Materi News Item In English</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/tabel-z-statistika/">Tabel Z Statistika</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-cerita-sistem-persamaan-linear-dua-variabel/">Contoh Soal Cerita Sistem Persamaan Linear Dua Variabel</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-pertanyaan-tentang-motivasi/">Contoh Pertanyaan Tentang Motivasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/membuat-garis-horizontal-di-html/">Membuat Garis Horizontal Di Html</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-matematika-program-linear/">Contoh Soal Matematika Program Linear</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/contoh-soal-dan-pembahasan-tentang-integral/">Contoh Soal Dan Pembahasan Tentang Integral</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-bahasa-inggris-sma-dan-pembahasannya/">Soal Bahasa Inggris Sma Dan Pembahasannya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-tes-tertulis/">Soal Tes Tertulis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-bangun-datar-kelas-5-semester-2/">Soal Bangun Datar Kelas 5 Semester 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/cara-flashing-advan-x7/">Cara Flashing Advan X7</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://anakpramuka.github.io/soal-rasio-keuangan/">Soal Rasio Keuangan</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://anakpramuka.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://anakpramuka.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://anakpramuka.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>
